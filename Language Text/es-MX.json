@@ -1,0 +1,132 @@
+{
+  "Metazooa": {
+    "Mystery kingdom": "Animal Misterioso",
+    "Sample answer": "humano",
+    "kingdom": "animales",
+    "game": "Metazooa"
+  },
+  "Metaflora": {
+    "Mystery kingdom": "Planta Misteriosa",
+    "Sample answer": "tomate",
+    "kingdom": "plantas",
+    "game": "Metaflora"
+  },
+  "keywords": {
+    "remaining": "restante",
+    "Click": "Haz click",
+    "Tap": "Haz tap"
+  },
+  "home": {
+    "0": {
+      "0": "El reino animal (<i>Metazoa</i>, en griego) está lleno de nuestros parientes lejanos… ¡algunos más lejanos que otros! Metazooa es un juego que pone a prueba qué tan bien conoces nuestro árbol genealógico extendido.",
+      "1": "El árbol genealógico del reino vegetal (que los científicos llaman <i>Viridiplantae</i>) es amplio y hermoso... ¡pero también complejo! Metaflora es un juego que pone a prueba tu habilidad para la jardinería al ver qué tan bien puedes navegar por sus frondosas ramas."
+    },
+    "1": "Tu objetivo es descubrir el <b>{{mystery}}</b> de hoy con la menor cantidad de conjeturas posible. Las conjeturas incorrectas limitarán la respuesta por rango taxonómico (reino, filo, clase, orden, etc.). Cuanto más tenga en común su conjetura con la respuesta, más aprenderá sobre el {{mystery}}.",
+    "2": "Por ejemplo, si la respuesta es “{{answer}}”, tus conjeturas podrían crear un árbol similar al siguiente:",
+    "3": "Solo hay un {{mystery}} por día, pero obtienes {{MAX_GUESSES}} adivina para resolverlo! Un nuevo juego comenzará en <b>{{nextGame}}</b>.",
+    "4": "¿Ya encontraste el {{mystery}} de hoy?",
+    "5": "¡Jugar"
+  },
+  "game": {
+    "0": "Mostrar la tabla",
+    "1": "La respuesta y {{node}} tienen esto en común.",
+    "2": "{{click}} para aprendar mas"
+  },
+  "table": {
+    "0": "Rango",
+    "1": "Nombre",
+    "2": "Adivinas",
+    "3": "Consejos",
+    "4": "Volver al arbol"
+  },
+  "errors": {
+    "0": "Sin errores",
+    "1": "'{{guess}}' no encontrado en la base de datos",
+    "2": "Ya adiviné '{{guess}}'",
+    "3": "La respuesta es '{{guess}}'",
+    "4": "¿Quiso decir '{{guess}}'?"
+  },
+  "button": {
+    "0": "¡Entra al zoológico!"
+  },
+  "footer": {
+    "0": "Creado por Trainwreck Labs",
+    "1": "¡Únete a nuestro servidor de Discord!",
+    "2": "¿Tengo una pregunta?",
+    "3": "Consulte las preguntas frecuentes"
+  },
+  "guesser": {
+    "0": "¡Adivina cualquier especie para comenzar!",
+    "1": "Ingrese su próxima suposición.",
+    "2": "¡Adivina!"
+  },
+  "hint": {
+    "0": "¿Necesito una pista? ¡Intercambia 3 conjeturas para revelar un rango!",
+    "1": "Pista"
+  },
+  "wikipedia": {
+    "0": "de Wikipedia",
+    "1": {
+      "Show": "Mostrar la imagen",
+      "Hide": "Ocultar la imagen"
+    }
+  },
+  "statistics": {
+    "0": "Estadísticas",
+    "1": "Juegos",
+    "2": "Racha",
+    "3": "Total",
+    "4": "Gana",
+    "5": "Actual",
+    "6": "Máximo",
+    "7": "Preguntas utilizadas para cada victoria. El color de la barra indica la proximidad de la suposición promedio a la respuesta."
+  },
+  "settings": {
+    "0": "Ajustes",
+    "1": "Adivina con nombres científicos"
+  },
+  "practice": {
+    "0": "Practicar",
+    "1": "¡Juega rondas ilimitadas de Metazooa!",
+    "2": "Nueva práctica",
+    "3": "Reanudar la práctica"
+  },
+  "links": {
+    "0": "Enlaces",
+    "1": "Preguntas frecuentes",
+    "2": "Política de privacidad"
+  },
+  "faq": {
+    "0": "Preguntas más frecuentes",
+    "1": {
+      "q": "¿Cómo se decide qué {{kingdom}} se utilizan en el juego?",
+      "a": "Los {{kingdom}} de {{game}} se seleccionaron en función de lo familiares que resultan para las personas, así como por la variedad de especies que harían el juego más interesante."
+    },
+    "2": {
+      "q": "¡El juego está mal! Wikipedia tiene diferentes clasificaciones para uno de los {{kingdom}}.",
+      "a": "Esto es posible. Las clasificaciones utilizadas en el juego se basan en la taxonomía NCBI, que es la taxonomía más utilizada para animales. Sin embargo, no es la única taxonomía. La taxonomía de Wikipedia también se utiliza ampliamente y es posible que las dos taxonomías no estén de acuerdo en la clasificación de una especie."
+    },
+    "3": {
+      "q": "¿Por qué no hay ninguna clase \"Reptile\" o \"Reptilia\" en el juego?",
+      "a": "Si bien algunos conjuntos de datos, como Wikipedia, utilizan la clase Reptilia, la taxonomía NCBI no. En cambio, la taxonomía del NCBI utiliza la clase Sauropsida, que incluye todos los reptiles y aves. Esto se debe a que algunos de los animales comúnmente identificados como reptiles tienen más en común con las aves que con otros reptiles. Por ejemplo, los cocodrilos están más estrechamente relacionados con las aves que con los lagartos."
+    },
+    "4": {
+      "q": "¿Por qué es posible adivinar “gato doméstico” pero no “perro doméstico”?",
+      "a": "Esto se debe a que los gatos domésticos tienen su propia especie (“Felis catus”), pero los perros domésticos suelen clasificarse como una subespecie del lobo (“Canis lupus familiaris”)."
+    },
+    "5": {
+      "q": "¿Tiene {{game}} una política de privacidad?",
+      "a": "Haga clic en este enlace para ver la <a href=\"/privacy-policy\" class=\"underline\">Política de privacidad</a> de {{game}}."
+    }
+  },
+  "twl": {
+    "0": "Cuenta",
+    "1": "Conecta <b>{{game}}</b> a tu cuenta de TWL",
+    "2": "Iniciar sesión con Google",
+    "3": "Iniciar sesión con Discord",
+    "4": "Suscríbete al boletín de Trainwreck Labs",
+    "5": "Eliminar anuncios",
+    "6": "Desconectar",
+    "7": "Miembro del club"
+  }
+}
