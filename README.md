@@ -18,6 +18,9 @@ If you would like to contribute a new translation, or correct an existing one, p
 1. For both of the Species Lists files, add a new key to each object for the name of the species in the new language (e.g. "name_fr" for French).
    1. If you only want to submit translations for Metazooa and not Metaflora, that's alright, just ignore plants.json.
 2. Add the translated species name into each key.
+3. If there is more than one common name for the same species, use the name that is the most common or "technically" appropriate in the main JSON file, and add alternatives to the file called alt_names.json. 
+   1. For example, only "cattle" exists in animals.jon, but alt_names contains `{ "language": "en", "name": "cattle", "alts": ["cow", "bull"] },` 
+   2. There is one alt_names file for both animals and plants, and all languages.
 
 
 ## Non-programmer instructions
