@@ -1,15 +1,29 @@
 {
   "Metazooa": {
-    "Mystery kingdom": "Animal Misterioso",
+    "mystery": {
+      "generic": "Animal misterioso",
+      "unique": "un animal misterioso",
+      "indefinite": "un animal misterioso",
+      "definite": "el animal misterioso"
+    },
     "Sample answer": "humano",
     "kingdom": "animales",
-    "game": "Metazooa"
+    "game": "Metazooa",
+    "species": "animal",
+    "menagerie": "zoológico"
   },
   "Metaflora": {
-    "Mystery kingdom": "Planta Misteriosa",
+    "mystery": {
+      "generic": "Planta misteriosa",
+      "unique": "una planta misteriosa",
+      "indefinite": "una planta misteriosa",
+      "definite": "la planta misteriosa"
+    },
     "Sample answer": "tomate",
     "kingdom": "plantas",
-    "game": "Metaflora"
+    "game": "Metaflora",
+    "species": "planta",
+    "menagerie": "jardín"
   },
   "keywords": {
     "remaining": "restante",
@@ -21,16 +35,32 @@
       "0": "El reino animal (<i>Metazoa</i>, en griego) está lleno de nuestros parientes lejanos… ¡algunos más lejanos que otros! Metazooa es un juego que pone a prueba qué tan bien conoces nuestro árbol genealógico extendido.",
       "1": "El árbol genealógico del reino vegetal (que los científicos llaman <i>Viridiplantae</i>) es amplio y hermoso... ¡pero también complejo! Metaflora es un juego que pone a prueba tu habilidad para la jardinería al ver qué tan bien puedes navegar por sus frondosas ramas."
     },
-    "1": "Tu objetivo es descubrir el <b>{{mystery}}</b> de hoy con la menor cantidad de conjeturas posible. Las conjeturas incorrectas limitarán la respuesta por rango taxonómico (reino, filo, clase, orden, etc.). Cuanto más tenga en común su conjetura con la respuesta, más aprenderá sobre el {{mystery}}.",
+    "1": "Tu objetivo es descubrir <b>{{definite mystery}}</b> de hoy con la menor cantidad de conjeturas posible. Las conjeturas incorrectas limitarán la respuesta por rango taxonómico (reino, filo, clase, orden, etc.). Cuanto más tenga en común su conjetura con la respuesta, más aprenderá sobre {{definite mystery}}.",
     "2": "Por ejemplo, si la respuesta es “{{answer}}”, tus conjeturas podrían crear un árbol similar al siguiente:",
-    "3": "Solo hay un {{mystery}} por día, pero obtienes {{MAX_GUESSES}} adivina para resolverlo! Un nuevo juego comenzará en <b>{{nextGame}}</b>.",
-    "4": "¿Ya encontraste el {{mystery}} de hoy?",
+    "3": "Solo hay {{unique mystery}} por día, pero obtienes {{MAX_GUESSES}} adivina para resolverlo! Un nuevo juego comenzará en <b>{{nextGame}}</b>.",
+    "4": "¿Ya encontraste {{definite mystery}} de hoy?",
     "5": "¡Jugar"
   },
   "game": {
     "0": "Mostrar la tabla",
     "1": "La respuesta y {{node}} tienen esto en común.",
-    "2": "{{click}} para aprendar mas"
+    "2": "{{click}} para aprendar mas",
+    "3": "¡Encuentra este {{species}}!",
+    "4": "¡Ganaste! La respuesta es <b>{{answer}}</b>."
+  },
+  "modal": {
+    "0": {
+      "0": "¡Ganaste!",
+      "1": "No más conjeturas."
+    },
+    "2": "¡Comparte tu puntaje o juega un juego de práctica!",
+    "3": "Juega otro juego de <a href='https://trainwrecklabs.com' class='underline'>Trainwreck Labs!</a>"
+  },
+  "share": {
+    "0": "Compartir",
+    "1": "Compartido!",
+    "2": "Copiado!",
+    "3": "No se pudo compartir tu puntaje."
   },
   "table": {
     "0": "Rango",
@@ -41,13 +71,13 @@
   },
   "errors": {
     "0": "Sin errores",
-    "1": "'{{guess}}' no encontrado en la base de datos",
-    "2": "Ya adiviné '{{guess}}'",
-    "3": "La respuesta es '{{guess}}'",
-    "4": "¿Quiso decir '{{guess}}'?"
+    "1": "\"{{guess}}\" no encontrado en la base de datos",
+    "2": "Ya adiviné \"{{guess}}\"",
+    "3": "La respuesta es \"{{guess}}\"",
+    "4": "¿Quiso decir \"{{guess}}\"?"
   },
   "button": {
-    "0": "¡Entra al zoológico!"
+    "0": "¡Entra al {{menagerie}}!"
   },
   "footer": {
     "0": "Creado por Trainwreck Labs",
@@ -87,7 +117,7 @@
   },
   "practice": {
     "0": "Practicar",
-    "1": "¡Juega rondas ilimitadas de Metazooa!",
+    "1": "¡Juega rondas ilimitadas de {{game}}!",
     "2": "Nueva práctica",
     "3": "Reanudar la práctica"
   },
@@ -116,7 +146,7 @@
     },
     "5": {
       "q": "¿Tiene {{game}} una política de privacidad?",
-      "a": "Haga clic en este enlace para ver la <a href=\"/privacy-policy\" class=\"underline\">Política de privacidad</a> de {{game}}."
+      "a": "Haga clic en este enlace para ver la <a href='/privacy-policy' class='underline'>Política de privacidad</a> de {{game}}."
     }
   },
   "twl": {

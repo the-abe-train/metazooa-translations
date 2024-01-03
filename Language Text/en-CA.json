@@ -1,15 +1,29 @@
 {
   "Metazooa": {
-    "Mystery kingdom": "Mystery Animal",
+    "mystery": {
+      "generic": "Mystery Animal",
+      "unique": "one Mystery Animal",
+      "indefinite": "a Mystery Animal",
+      "definite": "the Mystery Animal"
+    },
     "Sample answer": "human",
     "kingdom": "animals",
-    "game": "Metazooa"
+    "game": "Metazooa",
+    "species": "animal",
+    "menagerie": "zoo"
   },
   "Metaflora": {
-    "Mystery kingdom": "Mystery Plant",
+    "mystery": {
+      "generic": "Mystery Plant",
+      "unique": "one Mystery Plant",
+      "indefinite": "a Mystery Plant",
+      "definite": "the Mystery Plant"
+    },
     "Sample answer": "tomato",
     "kingdom": "plants",
-    "game": "Metaflora"
+    "game": "Metaflora",
+    "species": "plant",
+    "menagerie": "garden"
   },
   "keywords": {
     "remaining": "remaining",
@@ -21,16 +35,32 @@
       "0": "The animal kingdom (<i>Metazoa</i>, in Greek) is full of our distant relatives... some more distant than others! Metazooa is a game that tests how well you know our extended family tree.",
       "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
     },
-    "1": "Your goal is to figure out today's <b>{{mystery}}</b> in as few guesses as possible. Wrong guesses will narrow down the answer by taxonomic rank (kingdom, phylum, class, order, etc.) The more your guess has in common with the answer, the more you will learn about the Mystery {{mystery}}.",
+    "1": "Your goal is to figure out today's <b>{{generic mystery}}</b> in as few guesses as possible. Wrong guesses will narrow down the answer by taxonomic rank (kingdom, phylum, class, order, etc.) The more your guess has in common with the answer, the more you will learn about the Mystery {{mystery}}.",
     "2": "For example, if the answer is “{{answer}}”, your guesses might create a tree that looks like the following:",
-    "3": "There is only one {{mystery}} per day, but you get {{MAX_GUESSES}} guesses to figure it out! A new game will start in <b>{{nextGame}}</b>.",
-    "4": "Already found today's {{mystery}}?",
+    "3": "There is only {{unique mystery}} per day, but you get {{MAX_GUESSES}} guesses to figure it out! A new game will start in <b>{{nextGame}}</b>.",
+    "4": "Already found today's {{generic mystery}}?",
     "5": "Play"
   },
   "game": {
     "0": "Show table",
     "1": "The answer and {{node}} have this in common.",
-    "2": "{{click}} to learn more"
+    "2": "{{click}} to learn more",
+    "3": "Find this {{species}}!",
+    "4": "You win! The answer is <b>{{answer}}</b>."
+  },
+  "modal": {
+    "0": {
+      "0": "You win!",
+      "1": "No more guesses."
+    },
+    "2": "Share your score or play a practice game!",
+    "3": "Play another game from <a href='https://trainwrecklabs.com' class='underline'>Trainwreck Labs!</a>"
+  },
+  "share": {
+    "0": "Share",
+    "1": "Shared!",
+    "2": "Copied!",
+    "3": "Failed to share your score."
   },
   "table": {
     "0": "Rank",
@@ -41,13 +71,13 @@
   },
   "errors": {
     "0": "No error",
-    "1": "'{{guess}}' not found in database",
-    "2": "Already guessed '{{guess}}'",
-    "3": "The answer is '{{guess}}'",
-    "4": "Did you mean '{{guess}}'?"
+    "1": "\"{{guess}}\" not found in database",
+    "2": "Already guessed \"{{guess}}\"",
+    "3": "The answer is \"{{guess}}\"",
+    "4": "Did you mean \"{{guess}}\"?"
   },
   "button": {
-    "0": "Enter the zoo!"
+    "0": "Enter the {{menagerie}}!"
   },
   "footer": {
     "0": "by Trainwreck Labs",
@@ -87,7 +117,7 @@
   },
   "practice": {
     "0": "Practice",
-    "1": "Play unlimited rounds of Metazooa!",
+    "1": "Play unlimited rounds of {{game}}!",
     "2": "New Practice",
     "3": "Resume Practice"
   },
@@ -126,7 +156,7 @@
     },
     "5": {
       "q": "Does {{game}} have a privacy policy?",
-      "a": "Click this link to see {{game}}'s <a href=\"/privacy-policy\" class=\"underline\">privacy policy</a>."
+      "a": "Click this link to see {{game}}'s <a href='/privacy-policy' class='underline'>privacy policy</a>."
     }
   }
 }
