@@ -39,14 +39,14 @@
     "scientific name": "Drosophila melanogaster",
     "name": "fruit fly",
     "parent": 32351,
-    "name_es": "mosca de la fruta"
+    "name_es": "mosca de fruta"
   },
   {
     "node": 7370,
     "scientific name": "Musca domestica",
     "name": "house fly",
     "parent": 44052,
-    "name_es": "volar en casa"
+    "name_es": "mosca de casa"
   },
   {
     "node": 7445,
@@ -88,7 +88,7 @@
     "scientific name": "Ictalurus punctatus",
     "name": "catfish",
     "parent": 7997,
-    "name_es": "bagre"
+    "name_es": "pez gato"
   },
   {
     "node": 8022,
@@ -942,7 +942,7 @@
     "scientific name": "Leptotila verreauxi",
     "name": "dove",
     "parent": 115655,
-    "name_es": "paloma"
+    "name_es": "paloma blanca"
   },
   {
     "node": 158814,
@@ -1572,7 +1572,7 @@
     "scientific name": "Ophiophagus hannah",
     "name": "king cobra",
     "parent": 8664,
-    "name_es": "rey Cobra"
+    "name_es": "rey cobra"
   },
   {
     "node": 291247,
@@ -1719,7 +1719,7 @@
     "scientific name": "Betta tussyae",
     "name": "betta fish",
     "parent": 158455,
-    "name_es": "pez Betta"
+    "name_es": "pez betta"
   },
   {
     "node": 129333,

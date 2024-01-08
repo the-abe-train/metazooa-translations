@@ -113,7 +113,9 @@
   },
   "settings": {
     "0": "Settings",
-    "1": "Guess with scientific names"
+    "1": "Guess with scientific names",
+    "2": "Language",
+    "3": "English"
   },
   "practice": {
     "0": "Practice",
