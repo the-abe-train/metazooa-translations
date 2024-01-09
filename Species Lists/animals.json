@@ -4,1882 +4,2151 @@
     "scientific name": "Actinia tenebrosa",
     "name": "anemone",
     "parent": 6104,
-    "name_es": "an\u00e9mona"
+    "name_es": "anémona",
+    "name_fr": "anémone"
   },
   {
     "node": 7022,
     "scientific name": "Carausius morosus",
     "name": "stick bug",
     "parent": 7021,
-    "name_es": "insecto palo"
+    "name_es": "insecto palo",
+    "name_fr": "phasme"
   },
   {
     "node": 7051,
     "scientific name": "Nipponoluciola cruciata",
     "name": "firefly",
     "parent": 3019017,
-    "name_es": "luci\u00e9rnaga"
+    "name_es": "luciérnaga",
+    "name_fr": "luciole"
   },
   {
     "node": 7091,
     "scientific name": "Bombyx mori",
     "name": "silkworm",
     "parent": 7090,
-    "name_es": "gusano de seda"
+    "name_es": "gusano de seda",
+    "name_fr": "ver à soie"
   },
   {
     "node": 7159,
     "scientific name": "Aedes aegypti",
     "name": "mosquito",
     "parent": 53541,
-    "name_es": "mosquito"
+    "name_es": "mosquito",
+    "name_fr": "moustique"
   },
   {
     "node": 7227,
     "scientific name": "Drosophila melanogaster",
     "name": "fruit fly",
     "parent": 32351,
-    "name_es": "mosca de fruta"
+    "name_es": "mosca de fruta",
+    "name_fr": "drosophile"
   },
   {
     "node": 7370,
     "scientific name": "Musca domestica",
     "name": "house fly",
     "parent": 44052,
-    "name_es": "mosca de casa"
+    "name_es": "mosca de casa",
+    "name_fr": "mouche"
   },
   {
     "node": 7445,
     "scientific name": "Vespa crabro",
     "name": "hornet",
     "parent": 7443,
-    "name_es": "avisp\u00f3n"
+    "name_es": "avispón",
+    "name_fr": "frelon"
   },
   {
     "node": 7460,
     "scientific name": "Apis mellifera",
     "name": "honey bee",
     "parent": 7459,
-    "name_es": "abeja de miel"
+    "name_es": "abeja de miel",
+    "name_fr": "abeille"
   },
   {
     "node": 7604,
     "scientific name": "Asterias rubens",
     "name": "starfish",
     "parent": 7601,
-    "name_es": "estrella de mar"
+    "name_es": "estrella de mar",
+    "name_fr": "étoile de mer"
   },
   {
     "node": 7957,
     "scientific name": "Carassius auratus",
     "name": "goldfish",
     "parent": 7956,
-    "name_es": "pez dorado"
+    "name_es": "pez dorado",
+    "name_fr": "poisson rouge"
   },
   {
     "node": 7962,
     "scientific name": "Cyprinus carpio",
     "name": "carp",
     "parent": 7961,
-    "name_es": "carpa"
+    "name_es": "carpa",
+    "name_fr": "carpe"
   },
   {
     "node": 7998,
     "scientific name": "Ictalurus punctatus",
     "name": "catfish",
     "parent": 7997,
-    "name_es": "pez gato"
+    "name_es": "pez gato",
+    "name_fr": "poisson-chat"
   },
   {
     "node": 8022,
     "scientific name": "Oncorhynchus mykiss",
     "name": "trout",
     "parent": 8016,
-    "name_es": "trucha"
+    "name_es": "trucha",
+    "name_fr": "truite"
   },
   {
     "node": 8030,
     "scientific name": "Salmo salar",
     "name": "salmon",
     "parent": 8028,
-    "name_es": "salm\u00f3n"
+    "name_es": "salmón",
+    "name_fr": "saumon"
   },
   {
     "node": 8049,
     "scientific name": "Gadus morhua",
     "name": "cod",
     "parent": 8048,
-    "name_es": "bacalao"
+    "name_es": "bacalao",
+    "name_fr": "morue"
   },
   {
     "node": 8245,
     "scientific name": "Xiphias gladius",
     "name": "swordfish",
     "parent": 8244,
-    "name_es": "pez espada"
+    "name_es": "pez espada",
+    "name_fr": "espadon"
   },
   {
     "node": 8296,
     "scientific name": "Ambystoma mexicanum",
     "name": "axolotl",
     "parent": 8295,
-    "name_es": "ajolote"
+    "name_es": "ajolote",
+    "name_fr": "axolotl"
   },
   {
     "node": 8384,
     "scientific name": "Bufo bufo",
     "name": "toad",
     "parent": 8383,
-    "name_es": "sapo"
+    "name_es": "sapo",
+    "name_fr": "crapaud"
   },
   {
     "node": 8400,
     "scientific name": "Aquarana catesbeiana",
     "name": "bullfrog",
     "parent": 121236,
-    "name_es": "rana mugidora"
+    "name_es": "rana mugidora",
+    "name_fr": "grenouille-taureau"
   },
   {
     "node": 8496,
     "scientific name": "Alligator mississippiensis",
     "name": "alligator",
     "parent": 8495,
-    "name_es": "alligator"
+    "name_es": "alligator",
+    "name_fr": "alligator"
   },
   {
     "node": 8502,
     "scientific name": "Crocodylus porosus",
     "name": "crocodile",
     "parent": 8500,
-    "name_es": "cocodrilo"
+    "name_es": "cocodrilo",
+    "name_fr": "crocodile"
   },
   {
     "node": 8688,
     "scientific name": "Hydrophis platurus",
     "name": "sea snake",
     "parent": 8683,
-    "name_es": "serpiente de mar"
+    "name_es": "serpiente de mar",
+    "name_fr": "serpent marin"
   },
   {
     "node": 8790,
     "scientific name": "Dromaius novaehollandiae",
     "name": "emu",
     "parent": 8789,
-    "name_es": "em\u00fa"
+    "name_es": "emú",
+    "name_fr": "émeu"
   },
   {
     "node": 8801,
     "scientific name": "Struthio camelus",
     "name": "ostrich",
     "parent": 8800,
-    "name_es": "avestruz"
+    "name_es": "avestruz",
+    "name_fr": "autruche"
   },
   {
     "node": 8853,
     "scientific name": "Branta canadensis",
     "name": "goose",
     "parent": 8852,
-    "name_es": "ganso"
+    "name_es": "ganso",
+    "name_fr": "oie"
   },
   {
     "node": 8869,
     "scientific name": "Cygnus olor",
     "name": "swan",
     "parent": 8867,
-    "name_es": "cisne"
+    "name_es": "cisne",
+    "name_fr": "cygne"
   },
   {
     "node": 8954,
     "scientific name": "Falco peregrinus",
     "name": "falcon",
     "parent": 8952,
-    "name_es": "halcón"
+    "name_es": "halcón",
+    "name_fr": "faucon"
   },
   {
     "node": 8959,
     "scientific name": "Aegypius monachus",
     "name": "black vulture",
     "parent": 8958,
-    "name_es": "buitre negro"
+    "name_es": "buitre negro",
+    "name_fr": "vautour moine"
   },
   {
     "node": 9031,
     "scientific name": "Gallus gallus",
     "name": "chicken",
     "parent": 9030,
-    "name_es": "pollo"
+    "name_es": "pollo",
+    "name_fr": "coq doré"
   },
   {
     "node": 9042,
     "scientific name": "Lophura bulweri",
     "name": "pheasant",
     "parent": 9041,
-    "name_es": "fais\u00e1n"
+    "name_es": "faisán",
+    "name_fr": "faisan"
   },
   {
     "node": 34924,
     "scientific name": "Pica pica",
     "name": "magpie",
     "parent": 34923,
-    "name_es": "urraca"
+    "name_es": "urraca",
+    "name_fr": "pie"
   },
   {
     "node": 9187,
     "scientific name": "Turdus merula",
     "name": "blackbird",
     "parent": 9186,
-    "name_es": "mirlo"
+    "name_es": "mirlo",
+    "name_fr": "merle"
   },
   {
     "node": 9233,
     "scientific name": "Aptenodytes forsteri",
     "name": "emperor penguin",
     "parent": 9232,
-    "name_es": "ping\u00fcino emperador"
+    "name_es": "pingüino emperador",
+    "name_fr": "manchot empereur"
   },
   {
     "node": 9258,
     "scientific name": "Ornithorhynchus anatinus",
     "name": "platypus",
     "parent": 9257,
-    "name_es": "ornitorrinco"
+    "name_es": "ornitorrinco",
+    "name_fr": "ornithorynque"
   },
   {
     "node": 9261,
     "scientific name": "Tachyglossus aculeatus",
     "name": "echidna",
     "parent": 9260,
-    "name_es": "ecidna"
+    "name_es": "ecidna",
+    "name_fr": "échidné"
   },
   {
     "node": 9365,
     "scientific name": "Erinaceus europaeus",
     "name": "hedgehog",
     "parent": 9364,
-    "name_es": "erizo"
+    "name_es": "erizo",
+    "name_fr": "hérisson"
   },
   {
     "node": 9430,
     "scientific name": "Desmodus rotundus",
     "name": "vampire bat",
     "parent": 9429,
-    "name_es": "murci\u00e9lago vampiro"
+    "name_es": "murciélago vampiro",
+    "name_fr": "vampire"
   },
   {
     "node": 9542,
     "scientific name": "Macaca fuscata",
     "name": "macaque",
     "parent": 9539,
-    "name_es": "macaco"
+    "name_es": "macaco",
+    "name_fr": "macaque"
   },
   {
     "node": 9561,
     "scientific name": "Mandrillus sphinx",
     "name": "mandrill",
     "parent": 9567,
-    "name_es": "mandril"
+    "name_es": "mandril",
+    "name_fr": "mandrill"
   },
   {
     "node": 9593,
     "scientific name": "Gorilla gorilla",
     "name": "gorilla",
     "parent": 9592,
-    "name_es": "gorila"
+    "name_es": "gorila",
+    "name_fr": "gorille"
   },
   {
     "node": 9597,
     "scientific name": "Pan paniscus",
     "name": "bonobo",
     "parent": 9596,
-    "name_es": "bonobo"
+    "name_es": "bonobo",
+    "name_fr": "bonobo"
   },
   {
     "node": 9598,
     "scientific name": "Pan troglodytes",
     "name": "chimpanzee",
     "parent": 9596,
-    "name_es": "chimpanc\u00e9"
+    "name_es": "chimpancé",
+    "name_fr": "chimpanzé"
   },
   {
     "node": 9601,
     "scientific name": "Pongo abelii",
     "name": "orangutan",
     "parent": 9599,
-    "name_es": "orangut\u00e1n"
+    "name_es": "orangután",
+    "name_fr": "orang-outan"
   },
   {
     "node": 9614,
     "scientific name": "Canis latrans",
     "name": "coyote",
     "parent": 9611,
-    "name_es": "coyote"
+    "name_es": "coyote",
+    "name_fr": "coyote"
   },
   {
     "node": 9627,
     "scientific name": "Vulpes vulpes",
     "name": "red fox",
     "parent": 9625,
-    "name_es": "zorro rojo"
+    "name_es": "zorro rojo",
+    "name_fr": "renard roux"
   },
   {
     "node": 9643,
     "scientific name": "Ursus americanus",
     "name": "black bear",
     "parent": 9639,
-    "name_es": "oso negro"
+    "name_es": "oso negro",
+    "name_fr": "ours noir"
   },
   {
     "node": 9644,
     "scientific name": "Ursus arctos",
     "name": "brown bear",
     "parent": 9639,
-    "name_es": "oso caf\u00e9"
+    "name_es": "oso café",
+    "name_fr": "ours brun"
   },
   {
     "node": 9646,
     "scientific name": "Ailuropoda melanoleuca",
     "name": "giant panda",
     "parent": 9645,
-    "name_es": "panda gigante"
+    "name_es": "panda gigante",
+    "name_fr": "panda géant"
   },
   {
     "node": 9649,
     "scientific name": "Ailurus fulgens",
     "name": "red panda",
     "parent": 9648,
-    "name_es": "panda rojo"
+    "name_es": "panda rojo",
+    "name_fr": "panda roux"
   },
   {
     "node": 9654,
     "scientific name": "Procyon lotor",
     "name": "raccoon",
     "parent": 9653,
-    "name_es": "mapache"
+    "name_es": "mapache",
+    "name_fr": "raton-laveur"
   },
   {
     "node": 9666,
     "scientific name": "Mustela lutreola",
     "name": "mink",
     "parent": 9665,
-    "name_es": "vis\u00f3n"
+    "name_es": "visón",
+    "name_fr": "vison"
   },
   {
     "node": 9678,
     "scientific name": "Crocuta crocuta",
     "name": "hyena",
     "parent": 9677,
-    "name_es": "hiena"
+    "name_es": "hiena",
+    "name_fr": "hyène"
   },
   {
     "node": 9689,
     "scientific name": "Panthera leo",
     "name": "lion",
     "parent": 9688,
-    "name_es": "le\u00f3n"
+    "name_es": "león",
+    "name_fr": "lion"
   },
   {
     "node": 9690,
     "scientific name": "Panthera onca",
     "name": "jaguar",
     "parent": 9688,
-    "name_es": "jaguar"
+    "name_es": "jaguar",
+    "name_fr": "jaguar"
   },
   {
     "node": 9691,
     "scientific name": "Panthera pardus",
     "name": "leopard",
     "parent": 9688,
-    "name_es": "leopardo"
+    "name_es": "leopardo",
+    "name_fr": "léopard"
   },
   {
     "node": 9694,
     "scientific name": "Panthera tigris",
     "name": "tiger",
     "parent": 9688,
-    "name_es": "tigre"
+    "name_es": "tigre",
+    "name_fr": "tigre"
   },
   {
     "node": 9696,
     "scientific name": "Puma concolor",
     "name": "puma",
     "parent": 146712,
-    "name_es": "puma"
+    "name_es": "puma",
+    "name_fr": "puma"
   },
   {
     "node": 9704,
     "scientific name": "Zalophus californianus",
     "name": "sea lion",
     "parent": 9703,
-    "name_es": "le\u00f3n marino"
+    "name_es": "león marino",
+    "name_fr": "otarie"
   },
   {
     "node": 9707,
     "scientific name": "Odobenus rosmarus",
     "name": "walrus",
     "parent": 9706,
-    "name_es": "morsa"
+    "name_es": "morsa",
+    "name_fr": "morse"
   },
   {
     "node": 9711,
     "scientific name": "Halichoerus grypus",
     "name": "seal",
     "parent": 9710,
-    "name_es": "foca"
+    "name_es": "foca",
+    "name_fr": "phoque"
   },
   {
     "node": 9749,
     "scientific name": "Delphinapterus leucas",
     "name": "beluga whale",
     "parent": 9748,
-    "name_es": "ballena beluga"
+    "name_es": "ballena beluga",
+    "name_fr": "béluga"
   },
   {
     "node": 9755,
     "scientific name": "Physeter catodon",
     "name": "sperm whale",
     "parent": 9753,
-    "name_es": "esperma"
+    "name_es": "esperma",
+    "name_fr": "cachalot"
   },
   {
     "node": 9773,
     "scientific name": "Megaptera novaeangliae",
     "name": "humpback whale",
     "parent": 9772,
-    "name_es": "ballena jorobada"
+    "name_es": "ballena jorobada",
+    "name_fr": "baleine à bosse"
   },
   {
     "node": 9778,
     "scientific name": "Trichechus manatus",
     "name": "manatee",
     "parent": 9776,
-    "name_es": "manat\u00ed"
+    "name_es": "manatí",
+    "name_fr": "lamantin"
   },
   {
     "node": 9785,
     "scientific name": "Loxodonta africana",
     "name": "elephant",
     "parent": 9784,
-    "name_es": "elefante"
+    "name_es": "elefante",
+    "name_fr": "éléphant"
   },
   {
     "node": 9796,
     "scientific name": "Equus caballus",
     "name": "horse",
     "parent": 9789,
-    "name_es": "caballo"
+    "name_es": "caballo",
+    "name_fr": "cheval"
   },
   {
     "node": 9807,
     "scientific name": "Ceratotherium simum",
     "name": "rhinoceros",
     "parent": 9806,
-    "name_es": "rinoceronte"
+    "name_es": "rinoceronte",
+    "name_fr": "rhinocéros"
   },
   {
     "node": 9818,
     "scientific name": "Orycteropus afer",
     "name": "aardvark",
     "parent": 9817,
-    "name_es": "cerdo hormiguero"
+    "name_es": "cerdo hormiguero",
+    "name_fr": "oryctérope"
   },
   {
     "node": 9838,
     "scientific name": "Camelus dromedarius",
     "name": "camel",
     "parent": 9836,
-    "name_es": "camello"
+    "name_es": "camello",
+    "name_fr": "dromadaire"
   },
   {
     "node": 9894,
     "scientific name": "Giraffa camelopardalis",
     "name": "giraffe",
     "parent": 9893,
-    "name_es": "jirafa"
+    "name_es": "jirafa",
+    "name_fr": "girafe"
   },
   {
     "node": 9901,
     "scientific name": "Bison bison",
     "name": "bison",
     "parent": 9900,
-    "name_es": "bisonte"
+    "name_es": "bisonte",
+    "name_fr": "bison"
   },
   {
     "node": 9913,
     "scientific name": "Bos taurus",
     "name": "cattle",
     "parent": 9903,
-    "name_es": "ganado"
+    "name_es": "ganado",
+    "name_fr": "vache"
   },
   {
     "node": 9940,
     "scientific name": "Ovis aries",
     "name": "sheep",
     "parent": 9935,
-    "name_es": "oveja"
+    "name_es": "oveja",
+    "name_fr": "mouton"
   },
   {
     "node": 9974,
     "scientific name": "Manis javanica",
     "name": "pangolin",
     "parent": 9973,
-    "name_es": "pangol\u00edn"
+    "name_es": "pangolín",
+    "name_fr": "pangolin"
   },
   {
     "node": 10036,
     "scientific name": "Mesocricetus auratus",
     "name": "hamster",
     "parent": 10035,
-    "name_es": "h\u00e1mster"
+    "name_es": "hámster",
+    "name_fr": "hamster"
   },
   {
     "node": 10047,
     "scientific name": "Meriones unguiculatus",
     "name": "gerbil",
     "parent": 10046,
-    "name_es": "gerbil"
+    "name_es": "gerbil",
+    "name_fr": "gerbille"
   },
   {
     "node": 10090,
     "scientific name": "Mus musculus",
     "name": "mouse",
     "parent": 862507,
-    "name_es": "rat\u00f3n"
+    "name_es": "ratón",
+    "name_fr": "souris"
   },
   {
     "node": 10138,
     "scientific name": "Hystrix africaeaustralis",
     "name": "porcupine",
     "parent": 10136,
-    "name_es": "puerco esp\u00edn"
+    "name_es": "puerco espín",
+    "name_fr": "porc-épic"
   },
   {
     "node": 12983,
     "scientific name": "Cacatua goffiniana",
     "name": "cockatoo",
     "parent": 12981,
-    "name_es": "cocotilla"
+    "name_es": "cocotilla",
+    "name_fr": "cacatoès"
   },
   {
     "node": 13037,
     "scientific name": "Danaus plexippus",
     "name": "monarch butterfly",
     "parent": 151542,
-    "name_es": "mariposa monarca"
+    "name_es": "mariposa monarca",
+    "name_fr": "monarque"
   },
   {
     "node": 13125,
     "scientific name": "Lynx lynx",
     "name": "lynx",
     "parent": 13124,
-    "name_es": "lince"
+    "name_es": "lince",
+    "name_fr": "lynx commun"
   },
   {
     "node": 13180,
     "scientific name": "Nymphicus hollandicus",
     "name": "cockatiel",
     "parent": 13179,
-    "name_es": "cacat\u00faa"
+    "name_es": "cacatúa",
+    "name_fr": "calopsitte"
   },
   {
     "node": 13397,
     "scientific name": "Carcharodon carcharias",
     "name": "great white shark",
     "parent": 13396,
-    "name_es": "gran tibur\u00f3n blanco"
+    "name_es": "gran tiburón blanco",
+    "name_fr": "grand requin blanc"
   },
   {
     "node": 13686,
     "scientific name": "Solenopsis invicta",
     "name": "fire ant",
     "parent": 13685,
-    "name_es": "hormiga de fuego"
+    "name_es": "hormiga de fuego",
+    "name_fr": "fourmi de feu"
   },
   {
     "node": 27675,
     "scientific name": "Choloepus didactylus",
     "name": "two-toed sloth",
     "parent": 9357,
-    "name_es": "perezoso de dos dedos"
+    "name_es": "perezoso de dos dedos",
+    "name_fr": "paresseux à deux doigts"
   },
   {
     "node": 27794,
     "scientific name": "Dermochelys coriacea",
     "name": "sea turtle",
     "parent": 27793,
-    "name_es": "tortuga marina"
+    "name_es": "tortuga marina",
+    "name_fr": "tortue luth"
   },
   {
     "node": 28701,
     "scientific name": "Fratercula arctica",
     "name": "puffin",
     "parent": 28700,
-    "name_es": "frailecillo"
+    "name_es": "frailecillo",
+    "name_fr": "macareux"
   },
   {
     "node": 28727,
     "scientific name": "Cyanocitta cristata",
     "name": "blue jay",
     "parent": 28726,
-    "name_es": "arrendajo azul"
+    "name_es": "arrendajo azul",
+    "name_fr": "geai bleu"
   },
   {
     "node": 29073,
     "scientific name": "Ursus maritimus",
     "name": "polar bear",
     "parent": 9639,
-    "name_es": "oso polar"
+    "name_es": "oso polar",
+    "name_fr": "ours blanc"
   },
   {
     "node": 29139,
     "scientific name": "Vombatus ursinus",
     "name": "wombat",
     "parent": 29138,
-    "name_es": "wombat"
+    "name_es": "wombat",
+    "name_fr": "wombat"
   },
   {
     "node": 29159,
     "scientific name": "Crassostrea gigas",
     "name": "oyster",
     "parent": 6564,
-    "name_es": "ostra"
+    "name_es": "ostra",
+    "name_fr": "huître"
   },
   {
     "node": 30213,
     "scientific name": "Vespula pensylvanica",
     "name": "wasp",
     "parent": 7451,
-    "name_es": "avispa"
+    "name_es": "avispa",
+    "name_fr": "guêpe"
   },
   {
     "node": 30538,
     "scientific name": "Vicugna pacos",
     "name": "alpaca",
     "parent": 30539,
-    "name_es": "alpaca"
+    "name_es": "alpaca",
+    "name_fr": "alpaga"
   },
   {
     "node": 30548,
     "scientific name": "Mephitis mephitis",
     "name": "skunk",
     "parent": 30546,
-    "name_es": "zorrillo"
+    "name_es": "zorrillo",
+    "name_fr": "moufette"
   },
   {
     "node": 30554,
     "scientific name": "Taxidea taxus",
     "name": "badger",
     "parent": 30553,
-    "name_es": "tej\u00f3n"
+    "name_es": "tejón",
+    "name_fr": "blaireau"
   },
   {
     "node": 32536,
     "scientific name": "Acinonyx jubatus",
     "name": "cheetah",
     "parent": 32535,
-    "name_es": "guepardo"
+    "name_es": "guepardo",
+    "name_fr": "guépard"
   },
   {
     "node": 32538,
     "scientific name": "Leopardus pardalis",
     "name": "ocelot",
     "parent": 46841,
-    "name_es": "ocelote"
+    "name_es": "ocelote",
+    "name_fr": "ocelot"
   },
   {
     "node": 34882,
     "scientific name": "Enhydra lutris",
     "name": "sea otter",
     "parent": 34881,
-    "name_es": "nutria de mar"
+    "name_es": "nutria de mar",
+    "name_fr": "loutre de mer"
   },
   {
     "node": 36312,
     "scientific name": "Hynobius retardatus",
     "name": "salamander",
     "parent": 1527437,
-    "name_es": "salamandra"
+    "name_es": "salamandra",
+    "name_fr": "salamandre"
   },
   {
     "node": 37032,
     "scientific name": "Suricata suricatta",
     "name": "meerkat",
     "parent": 37031,
-    "name_es": "manchat"
+    "name_es": "manchat",
+    "name_fr": "suricate"
   },
   {
     "node": 37189,
     "scientific name": "Hippotragus niger",
     "name": "antelope",
     "parent": 37184,
-    "name_es": "ant\u00edlope"
+    "name_es": "antílope",
+    "name_fr": "hippotrague"
   },
   {
     "node": 37295,
     "scientific name": "Cebus olivaceus",
     "name": "capuchin",
     "parent": 9513,
-    "name_es": "capuchino"
+    "name_es": "capuchino",
+    "name_fr": "capucin"
   },
   {
     "node": 37610,
     "scientific name": "Erithacus rubecula",
     "name": "robin",
     "parent": 36283,
-    "name_es": "petirrojo"
+    "name_es": "petirrojo",
+    "name_fr": "rouge-gorge"
   },
   {
     "node": 37751,
     "scientific name": "Gazella dorcas",
     "name": "gazelle",
     "parent": 9933,
-    "name_es": "gacela"
+    "name_es": "gacela",
+    "name_fr": "gazelle"
   },
   {
     "node": 38626,
     "scientific name": "Phascolarctos cinereus",
     "name": "koala",
     "parent": 38625,
-    "name_es": "coala"
+    "name_es": "coala",
+    "name_fr": "koala"
   },
   {
     "node": 40151,
     "scientific name": "Monodon monoceros",
     "name": "narwhal",
     "parent": 40150,
-    "name_es": "narval"
+    "name_es": "narval",
+    "name_fr": "narval"
   },
   {
     "node": 42514,
     "scientific name": "Pygocentrus nattereri",
     "name": "piranha",
     "parent": 42513,
-    "name_es": "pira\u00f1a"
+    "name_es": "piraña",
+    "name_fr": "piranha"
   },
   {
     "node": 48849,
     "scientific name": "Passer domesticus",
     "name": "sparrow",
     "parent": 9159,
-    "name_es": "gorri\u00f3n"
+    "name_es": "gorrión",
+    "name_fr": "moineau"
   },
   {
     "node": 9375,
     "scientific name": "Talpa europaea",
     "name": "mole",
     "parent": 9374,
-    "name_es": "topo"
+    "name_es": "topo",
+    "name_fr": "taupe"
   },
   {
     "node": 51338,
     "scientific name": "Castor canadensis",
     "name": "beaver",
     "parent": 10184,
-    "name_es": "castor"
+    "name_es": "castor",
+    "name_fr": "castor"
   },
   {
     "node": 51908,
     "scientific name": "Aratinga nenday",
     "name": "parakeet",
     "parent": 12945,
-    "name_es": "periquito"
+    "name_es": "periquito",
+    "name_fr": "perruche"
   },
   {
     "node": 51949,
     "scientific name": "Oophaga histrionica",
     "name": "poison frog",
     "parent": 1004435,
-    "name_es": "rana venenosa"
+    "name_es": "rana venenosa",
+    "name_fr": "dendrobate"
   },
   {
     "node": 52644,
     "scientific name": "Haliaeetus leucocephalus",
     "name": "bald eagle",
     "parent": 8968,
-    "name_es": "\u00c1guila calva"
+    "name_es": "Águila calva",
+    "name_fr": "pygargue"
   },
   {
     "node": 55048,
     "scientific name": "Mustela frenata",
     "name": "weasel",
     "parent": 9665,
-    "name_es": "comadreja"
+    "name_es": "comadreja",
+    "name_fr": "belette"
   },
   {
     "node": 56313,
     "scientific name": "Tyto alba",
     "name": "barn owl",
     "parent": 56312,
-    "name_es": "lechuza"
+    "name_es": "lechuza",
+    "name_fr": "chouette effraie"
   },
   {
     "node": 56781,
     "scientific name": "Corvus corax",
     "name": "raven",
     "parent": 30420,
-    "name_es": "cuervo"
+    "name_es": "cuervo",
+    "name_fr": "grand corbeau"
   },
   {
     "node": 57247,
     "scientific name": "Psittacus erithacus",
     "name": "grey parrot",
     "parent": 13239,
-    "name_es": "loro gris"
+    "name_es": "loro gris",
+    "name_fr": "gris du gabon"
   },
   {
     "node": 60713,
     "scientific name": "Mimus polyglottos",
     "name": "mockingbird",
     "parent": 58200,
-    "name_es": "sinsonte"
+    "name_es": "sinsonte",
+    "name_fr": "moqueur"
   },
   {
     "node": 61384,
     "scientific name": "Lynx rufus",
     "name": "bobcat",
     "parent": 13124,
-    "name_es": "gato mont\u00e9s"
+    "name_es": "gato montés",
+    "name_fr": "lynx roux"
   },
   {
     "node": 9700,
     "scientific name": "Herpestes ichneumon",
     "name": "mongoose",
     "parent": 9699,
-    "name_es": "mangosta"
+    "name_es": "mangosta",
+    "name_fr": "mangouste"
   },
   {
     "node": 61853,
     "scientific name": "Nomascus leucogenys",
     "name": "gibbon",
     "parent": 325165,
-    "name_es": "gib\u00f3n"
+    "name_es": "gibón",
+    "name_fr": "gibbon"
   },
   {
     "node": 76717,
     "scientific name": "Lontra canadensis",
     "name": "river otter",
     "parent": 71112,
-    "name_es": "nutria de r\u00edo"
+    "name_es": "nutria de río",
+    "name_fr": "loutre de rivière"
   },
   {
     "node": 79627,
     "scientific name": "Eudyptes chrysolophus",
     "name": "macaroni penguin",
     "parent": 9235,
-    "name_es": "ping\u00fcino macarr\u00f3n"
+    "name_es": "pingüino macarrón",
+    "name_fr": "gorfou sauteur"
   },
   {
     "node": 84074,
     "scientific name": "Cyclopes didactylus",
     "name": "anteater",
     "parent": 84073,
-    "name_es": "oso hormiguero"
+    "name_es": "oso hormiguero",
+    "name_fr": "myrmidon"
   },
   {
     "node": 85066,
     "scientific name": "Corvus brachyrhynchos",
     "name": "crow",
     "parent": 30420,
-    "name_es": "corneja"
+    "name_es": "corneja",
+    "name_fr": "corneille"
   },
   {
     "node": 89248,
     "scientific name": "Equus quagga",
     "name": "zebra",
     "parent": 9789,
-    "name_es": "cebra"
+    "name_es": "cebra",
+    "name_fr": "zèbre"
   },
   {
     "node": 89462,
     "scientific name": "Bubalus bubalis",
     "name": "water buffalo",
     "parent": 9918,
-    "name_es": "b\u00fafalo de agua"
+    "name_es": "búfalo de agua",
+    "name_fr": "buffle"
   },
   {
     "node": 30640,
     "scientific name": "Sciurus carolinensis",
     "name": "squirrel",
     "parent": 10001,
-    "name_es": "ardilla"
+    "name_es": "ardilla",
+    "name_fr": "écureuil gris"
   },
   {
     "node": 254707,
     "scientific name": "Hylopetes nigripes",
     "name": "flying squirrel",
     "parent": 100944,
-    "name_es": "ardilla voladora"
+    "name_es": "ardilla voladora",
+    "name_fr": "écureuil volant"
   },
   {
     "node": 100937,
     "scientific name": "Papio papio",
     "name": "baboon",
     "parent": 9554,
-    "name_es": "babuino"
+    "name_es": "babuino",
+    "name_fr": "babouin"
   },
   {
     "node": 104421,
     "scientific name": "Camponotus floridanus",
     "name": "carpenter ant",
     "parent": 13390,
-    "name_es": "hormiga carpintera"
+    "name_es": "hormiga carpintera",
+    "name_fr": "fourmi charpentière"
   },
   {
     "node": 109280,
     "scientific name": "Hippocampus comes",
     "name": "seahorse",
     "parent": 72046,
-    "name_es": "caballo de mar"
+    "name_es": "caballo de mar",
+    "name_fr": "hippocampe"
   },
   {
     "node": 132113,
     "scientific name": "Bombus impatiens",
     "name": "bumble bee",
     "parent": 144703,
-    "name_es": "abeja de abejas"
+    "name_es": "abeja de abejas",
+    "name_fr": "bourdon"
   },
   {
     "node": 135631,
     "scientific name": "Leptotila verreauxi",
     "name": "dove",
     "parent": 115655,
-    "name_es": "paloma blanca"
+    "name_es": "paloma blanca",
+    "name_fr": "colombe"
   },
   {
     "node": 158814,
     "scientific name": "Terrapene carolina",
     "name": "box turtle",
     "parent": 85610,
-    "name_es": "tortuga de caja"
+    "name_es": "tortuga de caja",
+    "name_fr": "tortue boîte"
   },
   {
     "node": 161767,
     "scientific name": "Amphiprion percula",
     "name": "clownfish",
     "parent": 80969,
-    "name_es": "pez payaso"
+    "name_es": "pez payaso",
+    "name_fr": "poisson-clown"
   },
   {
     "node": 176946,
     "scientific name": "Python bivittatus",
     "name": "burmese python",
     "parent": 37579,
-    "name_es": "pit\u00f3n birmano"
+    "name_es": "pitón birmano",
+    "name_fr": "python birman"
   },
   {
     "node": 218467,
     "scientific name": "Centruroides sculpturatus",
     "name": "scorpion",
     "parent": 6875,
-    "name_es": "escorpi\u00f3n"
+    "name_es": "escorpión",
+    "name_fr": "scorpion"
   },
   {
     "node": 37607,
     "scientific name": "Pyrrhula pyrrhula",
     "name": "finch",
     "parent": 37606,
-    "name_es": "pinz\u00f3n"
+    "name_es": "pinzón",
+    "name_fr": "bouvreuil"
   },
   {
     "node": 262124,
     "scientific name": "Hemiphaga novaeseelandiae",
     "name": "pigeon",
     "parent": 262123,
-    "name_es": "paloma"
+    "name_es": "paloma",
+    "name_fr": "pigeon"
   },
   {
     "node": 301843,
     "scientific name": "Lygodactylus capensis",
     "name": "gecko",
     "parent": 57063,
-    "name_es": "geco"
+    "name_es": "geco",
+    "name_fr": "gecko"
   },
   {
     "node": 308060,
     "scientific name": "Apteryx rowi",
     "name": "kiwi",
     "parent": 8821,
-    "name_es": "kiwi"
+    "name_es": "kiwi",
+    "name_fr": "kiwi"
   },
   {
     "node": 340076,
     "scientific name": "Chaetophractus vellerosus",
     "name": "armadillo",
     "parent": 29079,
-    "name_es": "armadillo"
+    "name_es": "armadillo",
+    "name_fr": "tatou"
   },
   {
     "node": 371907,
     "scientific name": "Bubo scandiacus",
     "name": "snowy owl",
     "parent": 30460,
-    "name_es": "buho nevado"
+    "name_es": "buho nevado",
+    "name_fr": "harfang des neiges"
   },
   {
     "node": 383689,
     "scientific name": "Luscinia megarhynchos",
     "name": "nightingale",
     "parent": 52791,
-    "name_es": "ruise\u00f1or"
+    "name_es": "ruiseñor",
+    "name_fr": "rossignol"
   },
   {
     "node": 494514,
     "scientific name": "Vulpes lagopus",
     "name": "arctic fox",
     "parent": 9625,
-    "name_es": "zorro \u00e1rtico"
+    "name_es": "zorro ártico",
+    "name_fr": "renard polaire"
   },
   {
     "node": 505845,
     "scientific name": "Acerodon jubatus",
     "name": "fruit bat",
     "parent": 58056,
-    "name_es": "murci\u00e9lago de la fruta"
+    "name_es": "murciélago de la fruta",
+    "name_fr": "roussette"
   },
   {
     "node": 1037346,
     "scientific name": "Accipiter gundlachi",
     "name": "hawk",
     "parent": 8956,
-    "name_es": "gavilán"
+    "name_es": "gavilán",
+    "name_fr": "épervier"
   },
   {
     "node": 6610,
     "scientific name": "Sepia officinalis",
     "name": "cuttlefish",
     "parent": 6609,
-    "name_es": "sepia"
+    "name_es": "sepia",
+    "name_fr": "seiche"
   },
   {
     "node": 102866,
     "scientific name": "Hapalochlaena lunulata",
     "name": "blue-ringed octopus",
     "parent": 61715,
-    "name_es": "pulpo anillo de azul"
+    "name_es": "pulpo anillo de azul",
+    "name_fr": "poulpe à anneaux bleus"
   },
   {
     "node": 256136,
     "scientific name": "Architeuthis dux",
     "name": "giant squid",
     "parent": 34555,
-    "name_es": "calamar gigante"
+    "name_es": "calamar gigante",
+    "name_fr": "calmar géant"
   },
   {
     "node": 260533,
     "scientific name": "Theraphosa blondi",
     "name": "tarantula",
     "parent": 260532,
-    "name_es": "tar\u00e1ntula"
+    "name_es": "tarántula",
+    "name_fr": "mygale"
   },
   {
     "node": 679132,
     "scientific name": "Heteropoda maxima",
     "name": "huntsman spider",
     "parent": 152924,
-    "name_es": "ara\u00f1a cazadora"
+    "name_es": "araña cazadora",
+    "name_fr": "araignée-chasseuse des forêts"
   },
   {
     "node": 6925,
     "scientific name": "Latrodectus tredecimguttatus",
     "name": "black widow",
     "parent": 6923,
-    "name_es": "viuda negra"
+    "name_es": "viuda negra",
+    "name_fr": "veuve noire"
   },
   {
     "node": 8517,
     "scientific name": "Iguana iguana",
     "name": "iguana",
     "parent": 8516,
-    "name_es": "iguana"
+    "name_es": "iguana",
+    "name_fr": "iguane vert"
   },
   {
     "node": 91907,
     "scientific name": "Chamaeleo chamaeleon",
     "name": "chameleon",
     "parent": 51754,
-    "name_es": "camale\u00f3n"
+    "name_es": "camaleón",
+    "name_fr": "caméléon"
   },
   {
     "node": 6145,
     "scientific name": "Aurelia aurita",
     "name": "jellyfish",
     "parent": 6144,
-    "name_es": "medusa"
+    "name_es": "medusa",
+    "name_fr": "méduse"
   },
   {
     "node": 6584,
     "scientific name": "Spisula solidissima",
     "name": "sea clam",
     "parent": 6582,
-    "name_es": "almeja de mar"
+    "name_es": "almeja de mar",
+    "name_fr": "palourde"
   },
   {
     "node": 6707,
     "scientific name": "Homarus gammarus",
     "name": "lobster",
     "parent": 6705,
-    "name_es": "bogavante"
+    "name_es": "bogavante",
+    "name_fr": "homard"
   },
   {
     "node": 102976,
     "scientific name": "Euphausia pacifica",
     "name": "krill",
     "parent": 6818,
-    "name_es": "krill"
+    "name_es": "krill",
+    "name_fr": "krill"
   },
   {
     "node": 6536,
     "scientific name": "Helix pomatia",
     "name": "snail",
     "parent": 6534,
-    "name_es": "caracol"
+    "name_es": "caracol",
+    "name_fr": "escargot"
   },
   {
     "node": 2067768,
     "scientific name": "Ariolimax columbianus",
     "name": "banana slug",
     "parent": 2029300,
-    "name_es": "babosa de pl\u00e1tano"
+    "name_es": "babosa de plátano",
+    "name_fr": "limace-banane"
   },
   {
     "node": 7671,
     "scientific name": "Strongylocentrotus droebachiensis",
     "name": "sea urchin",
     "parent": 7664,
-    "name_es": "erizo de mar"
+    "name_es": "erizo de mar",
+    "name_fr": "oursin"
   },
   {
     "node": 242715,
     "scientific name": "Diploria labyrinthiformis",
     "name": "brain coral",
     "parent": 89253,
-    "name_es": "coral cerebral"
+    "name_es": "coral cerebral",
+    "name_fr": "corail-cerveau"
   },
   {
     "node": 168775,
     "scientific name": "Physalia physalis",
     "name": "man o war",
     "parent": 168774,
-    "name_es": "carabela portuguesa"
+    "name_es": "carabela portuguesa",
+    "name_fr": "physalie"
   },
   {
     "node": 195334,
     "scientific name": "Sphyrna mokarran",
     "name": "hammerhead shark",
     "parent": 7822,
-    "name_es": "tiburon martillo"
+    "name_es": "tiburon martillo",
+    "name_fr": "requin-marteau"
   },
   {
     "node": 9833,
     "scientific name": "Hippopotamus amphibius",
     "name": "hippopotamus",
     "parent": 9832,
-    "name_es": "hipop\u00f3tamo"
+    "name_es": "hipopótamo",
+    "name_fr": "hippopotame"
   },
   {
     "node": 7507,
     "scientific name": "Mantis religiosa",
     "name": "praying mantis",
     "parent": 7506,
-    "name_es": "mantis religiosa"
+    "name_es": "mantis religiosa",
+    "name_fr": "mante religieuse"
   },
   {
     "node": 35669,
     "scientific name": "Larus argentatus",
     "name": "seagull",
     "parent": 8911,
-    "name_es": "gaviota"
+    "name_es": "gaviota",
+    "name_fr": "goéland"
   },
   {
     "node": 6687,
     "scientific name": "Penaeus monodon",
     "name": "tiger prawn",
     "parent": 133894,
-    "name_es": "camarón tigre"
+    "name_es": "camarón tigre",
+    "name_fr": "crevette géante tigrée"
   },
   {
     "node": 51876,
     "scientific name": "Eunectes murinus",
     "name": "anaconda",
     "parent": 51875,
-    "name_es": "anaconda"
+    "name_es": "anaconda",
+    "name_fr": "anaconda"
   },
   {
     "node": 56350,
     "scientific name": "Falco sparverius",
     "name": "kestrel",
     "parent": 8952,
-    "name_es": "cern\u00edcalo"
+    "name_es": "cernícalo",
+    "name_fr": "crécerelle"
   },
   {
     "node": 9739,
     "scientific name": "Tursiops truncatus",
     "name": "dolphin",
     "parent": 9738,
-    "name_es": "delf\u00edn"
+    "name_es": "delfín",
+    "name_fr": "dauphin"
   },
   {
     "node": 166335,
     "scientific name": "Scarabaeus sacer",
     "name": "dung beetle",
     "parent": 1172026,
-    "name_es": "escarabajo"
+    "name_es": "escarabajo",
+    "name_fr": "bousier"
   },
   {
     "node": 9321,
     "scientific name": "Osphranter rufus",
     "name": "kangaroo",
     "parent": 2182372,
-    "name_es": "canguro"
+    "name_es": "canguro",
+    "name_fr": "kangarou"
   },
   {
     "node": 95723,
     "scientific name": "Ramphastos toco",
     "name": "toucan",
     "parent": 91780,
-    "name_es": "tuc\u00e1n"
+    "name_es": "tucán",
+    "name_fr": "toucan"
   },
   {
     "node": 9844,
     "scientific name": "Lama glama",
     "name": "llama",
     "parent": 9839,
-    "name_es": "llama"
+    "name_es": "llama",
+    "name_fr": "lama"
   },
   {
     "node": 8924,
     "scientific name": "Vultur gryphus",
     "name": "condor",
     "parent": 8923,
-    "name_es": "c\u00f3ndor"
+    "name_es": "cóndor",
+    "name_fr": "condor"
   },
   {
     "node": 435638,
     "scientific name": "Phoenicopterus roseus",
     "name": "flamingo",
     "parent": 9216,
-    "name_es": "flamenco"
+    "name_es": "flamenco",
+    "name_fr": "flamant"
   },
   {
     "node": 9995,
     "scientific name": "Marmota monax",
     "name": "groundhog",
     "parent": 9992,
-    "name_es": "marmota"
+    "name_es": "marmota",
+    "name_fr": "marmotte"
   },
   {
     "node": 8005,
     "scientific name": "Electrophorus electricus",
     "name": "electric eel",
     "parent": 8004,
-    "name_es": "anguila electrica"
+    "name_es": "anguila electrica",
+    "name_fr": "anguille électrique"
   },
   {
     "node": 8624,
     "scientific name": "Dendroaspis polylepis",
     "name": "black mamba",
     "parent": 8617,
-    "name_es": "mamba negro"
+    "name_es": "mamba negro",
+    "name_fr": "mamba noir"
   },
   {
     "node": 61221,
     "scientific name": "Varanus komodoensis",
     "name": "komodo dragon",
     "parent": 8556,
-    "name_es": "dragon de komodo"
+    "name_es": "dragon de komodo",
+    "name_fr": "dragon de komodo"
   },
   {
     "node": 9305,
     "scientific name": "Sarcophilus harrisii",
     "name": "tasmanian devil",
     "parent": 9304,
-    "name_es": "demonio de tasmania"
+    "name_es": "demonio de tasmania",
+    "name_fr": "diable de Tasmanie"
   },
   {
     "node": 9447,
     "scientific name": "Lemur catta",
     "name": "lemur",
     "parent": 9446,
-    "name_es": "l\u00e9mur"
+    "name_es": "lémur",
+    "name_fr": "lémur"
   },
   {
     "node": 7010,
     "scientific name": "Schistocerca gregaria",
     "name": "locust",
     "parent": 7008,
-    "name_es": "langosta del desierto"
+    "name_es": "langosta del desierto",
+    "name_fr": "criquet pèlerin"
   },
   {
     "node": 7009,
     "scientific name": "Schistocerca americana",
     "name": "grasshopper",
     "parent": 7008,
-    "name_es": "saltamontes"
+    "name_es": "saltamontes",
+    "name_fr": "criquet d'Amérique"
   },
   {
     "node": 58607,
     "scientific name": "Gryllus campestris",
     "name": "cricket",
     "parent": 6998,
-    "name_es": "grillo"
+    "name_es": "grillo",
+    "name_fr": "grillon"
   },
   {
     "node": 1574408,
     "scientific name": "Cervus canadensis",
     "name": "elk",
     "parent": 9859,
-    "name_es": "uapití"
+    "name_es": "uapití",
+    "name_fr": "wapiti"
   },
   {
     "node": 9870,
     "scientific name": "Rangifer tarandus",
     "name": "caribou",
     "parent": 9869,
-    "name_es": "carib\u00fa"
+    "name_es": "caribú",
+    "name_fr": "renne"
   },
   {
     "node": 70868,
     "scientific name": "Sphyraena barracuda",
     "name": "barracuda",
     "parent": 13691,
-    "name_es": "barracuda"
+    "name_es": "barracuda",
+    "name_fr": "barracuda"
   },
   {
     "node": 41139,
     "scientific name": "Coccinella septempunctata",
     "name": "ladybug",
     "parent": 41138,
-    "name_es": "mariquita"
+    "name_es": "mariquita",
+    "name_fr": "coccinelle"
   },
   {
     "node": 63978,
     "scientific name": "Attacus atlas",
     "name": "atlas moth",
     "parent": 63966,
-    "name_es": "polilla atlas"
+    "name_es": "polilla atlas",
+    "name_fr": "atlas"
   },
   {
     "node": 36987,
     "scientific name": "Coptotermes formosanus",
     "name": "termite",
     "parent": 36986,
-    "name_es": "termita"
+    "name_es": "termita",
+    "name_fr": "termite"
   },
   {
     "node": 6978,
     "scientific name": "Periplaneta americana",
     "name": "cockroach",
     "parent": 6977,
-    "name_es": "cucaracha"
+    "name_es": "cucaracha",
+    "name_fr": "blatte"
   },
   {
     "node": 13068,
     "scientific name": "Forficula auricularia",
     "name": "earwig",
     "parent": 98427,
-    "name_es": "tijereta"
+    "name_es": "tijereta",
+    "name_fr": "perce-oreille"
   },
   {
     "node": 1646243,
     "scientific name": "Aeshna canadensis",
     "name": "dragonfly",
     "parent": 12920,
-    "name_es": "libélula"
+    "name_es": "libélula",
+    "name_fr": "libellule"
   },
   {
     "node": 8554,
     "scientific name": "Heloderma suspectum",
     "name": "gila monster",
     "parent": 8550,
-    "name_es": "monstruo de gila"
+    "name_es": "monstruo de gila",
+    "name_fr": "monstre de Gila"
   },
   {
     "node": 10149,
     "scientific name": "Hydrochoerus hydrochaeris",
     "name": "capybara",
     "parent": 10148,
-    "name_es": "capibara"
+    "name_es": "capibara",
+    "name_fr": "capybara"
   },
   {
     "node": 1983395,
     "scientific name": "Mobula birostris",
     "name": "manta ray",
     "parent": 86365,
-    "name_es": "mantarraya"
+    "name_es": "mantarraya",
+    "name_fr": "raie manta"
   },
   {
     "node": 2484686,
     "scientific name": "Hypanus americanus",
     "name": "sting ray",
     "parent": 2055258,
-    "name_es": "raya de espina"
+    "name_es": "raya de espina",
+    "name_fr": "raie pastenague"
   },
   {
     "node": 1129476,
     "scientific name": "Dardanus calidus",
     "name": "hermit crab",
     "parent": 370547,
-    "name_es": "cangrejo ermita\u00f1o"
+    "name_es": "cangrejo ermitaño",
+    "name_fr": "bernard-l'hermite"
   },
   {
     "node": 342437,
     "scientific name": "Arothron meleagris",
     "name": "pufferfish",
     "parent": 50368,
-    "name_es": "pez globo"
+    "name_es": "pez globo",
+    "name_fr": "poisson-globe"
   },
   {
     "node": 9049,
     "scientific name": "Pavo cristatus",
     "name": "peacock",
     "parent": 9048,
-    "name_es": "pavo real"
+    "name_es": "pavo real",
+    "name_fr": "paon"
   },
   {
     "node": 571810,
     "scientific name": "Actinopyga echinites",
     "name": "sea cucumber",
     "parent": 206674,
-    "name_es": "pepino de mar"
+    "name_es": "pepino de mar",
+    "name_fr": "concombre de mer"
   },
   {
     "node": 9852,
     "scientific name": "Alces alces",
     "name": "moose",
     "parent": 9851,
-    "name_es": "alce"
+    "name_es": "alce",
+    "name_fr": "élan"
   },
   {
     "node": 13347,
     "scientific name": "Armadillidium vulgare",
     "name": "pillbug",
     "parent": 13346,
-    "name_es": "p\u00edldora"
+    "name_es": "píldora",
+    "name_fr": "cloporte"
   },
   {
     "node": 110520,
     "scientific name": "Balanus glandula",
     "name": "barnacle",
     "parent": 6677,
-    "name_es": "percebe"
+    "name_es": "percebe",
+    "name_fr": "balane"
   },
   {
     "node": 8574,
     "scientific name": "Boa constrictor",
     "name": "boa constrictor",
     "parent": 8573,
-    "name_es": "boa constrictor"
+    "name_es": "boa constrictor",
+    "name_fr": "boa constricteur"
   },
   {
     "node": 30521,
     "scientific name": "Bos grunniens",
     "name": "yak",
     "parent": 9903,
-    "name_es": "como"
+    "name_es": "como",
+    "name_fr": "yack"
   },
   {
     "node": 10141,
     "scientific name": "Cavia porcellus",
     "name": "guinea pig",
     "parent": 10140,
-    "name_es": "conejillo de indias"
+    "name_es": "conejillo de indias",
+    "name_fr": "cochon d'Inde"
   },
   {
     "node": 8697,
     "scientific name": "Cerastes cerastes",
     "name": "viper",
     "parent": 8696,
-    "name_es": "v\u00edbora"
+    "name_es": "víbora",
+    "name_fr": "vipère"
   },
   {
     "node": 66189,
     "scientific name": "Chelonoidis niger",
     "name": "tortoise",
     "parent": 1137846,
-    "name_es": "tortuga gigante"
+    "name_es": "tortuga gigante",
+    "name_fr": "tortue géante des Galápagos"
   },
   {
     "node": 8475,
     "scientific name": "Chelydra serpentina",
     "name": "snapping turtle",
     "parent": 8474,
-    "name_es": "tortuga mordedora"
+    "name_es": "tortuga mordedora",
+    "name_fr": "tortue serpentine"
   },
   {
     "node": 8730,
     "scientific name": "Crotalus atrox",
     "name": "rattlesnake",
     "parent": 8728,
-    "name_es": "serpiente de cascabel"
+    "name_es": "serpiente de cascabel",
+    "name_fr": "crotale"
   },
   {
     "node": 9268,
     "scientific name": "Didelphis marsupialis",
     "name": "opossum",
     "parent": 9266,
-    "name_es": "zarig\u00fceya"
+    "name_es": "zarigüeya",
+    "name_fr": "opossum"
   },
   {
     "node": 1247135,
     "scientific name": "Dynastes hercules",
     "name": "hercules beetle",
     "parent": 60842,
-    "name_es": "h\u00e9rcules escarabajo"
+    "name_es": "hércules escarabajo",
+    "name_fr": "scarabée rhinocéros"
   },
   {
     "node": 6421,
     "scientific name": "Hirudo medicinalis",
     "name": "leech",
     "parent": 6420,
-    "name_es": "sanguijuela"
+    "name_es": "sanguijuela",
+    "name_fr": "sangsue"
   },
   {
     "node": 8074,
     "scientific name": "Lophius piscatorius",
     "name": "anglerfish",
     "parent": 8072,
-    "name_es": "rape blanco"
+    "name_es": "rape blanco",
+    "name_fr": "baudroie"
   },
   {
     "node": 6398,
     "scientific name": "Lumbricus terrestris",
     "name": "earthworm",
     "parent": 1050931,
-    "name_es": "lombriz"
+    "name_es": "lombriz",
+    "name_fr": "ver de terre"
   },
   {
     "node": 1351942,
     "scientific name": "Mellita quinquiesperforata",
     "name": "sand dollar",
     "parent": 551536,
-    "name_es": "dolar de arena"
+    "name_es": "dolar de arena",
+    "name_fr": "dollar des sables"
   },
   {
     "node": 6550,
     "scientific name": "Mytilus edulis",
     "name": "mussel",
     "parent": 6548,
-    "name_es": "mejill\u00f3n"
+    "name_es": "mejillón",
+    "name_fr": "moule"
   },
   {
     "node": 120888,
     "scientific name": "Odontodactylus scyllarus",
     "name": "mantis shrimp",
     "parent": 120887,
-    "name_es": "camar\u00f3n mantis"
+    "name_es": "camarón mantis",
+    "name_fr": "crevette-mante"
   },
   {
     "node": 8665,
     "scientific name": "Ophiophagus hannah",
     "name": "king cobra",
     "parent": 8664,
-    "name_es": "rey cobra"
+    "name_es": "rey cobra",
+    "name_fr": "cobra royal"
   },
   {
     "node": 291247,
     "scientific name": "Oxidus gracilis",
     "name": "millipede",
     "parent": 118475,
-    "name_es": "millipde"
+    "name_es": "millipde",
+    "name_fr": "mille-pattes"
   },
   {
     "node": 8081,
     "scientific name": "Poecilia reticulata",
     "name": "guppy",
     "parent": 8080,
-    "name_es": "guppy"
+    "name_es": "guppy",
+    "name_fr": "guppy"
   },
   {
     "node": 9333,
     "scientific name": "Pseudocheirus peregrinus",
     "name": "possum",
     "parent": 9332,
-    "name_es": "falangero"
+    "name_es": "falangero",
+    "name_fr": "phalanger"
   },
   {
     "node": 1678817,
     "scientific name": "Rhithrogena germanica",
     "name": "mayfly",
     "parent": 307890,
-    "name_es": "ef\u00edmera"
+    "name_es": "efímera",
+    "name_fr": "éphémère"
   },
   {
     "node": 29022,
     "scientific name": "Scutigera coleoptrata",
     "name": "centipede",
     "parent": 29021,
-    "name_es": "ciempi\u00e9s"
+    "name_es": "ciempiés",
+    "name_fr": "scutigère"
   },
   {
     "node": 45474,
     "scientific name": "Tamias striatus",
     "name": "chipmunk",
     "parent": 13712,
-    "name_es": "ardilla"
+    "name_es": "ardilla",
+    "name_fr": "tamia"
   },
   {
     "node": 8236,
     "scientific name": "Thunnus albacares",
     "name": "tuna",
     "parent": 8234,
-    "name_es": "at\u00fan"
+    "name_es": "atún",
+    "name_fr": "thon"
   },
   {
     "node": 190476,
     "scientific name": "Caiman latirostris",
     "name": "caiman",
     "parent": 8497,
-    "name_es": "caiman"
+    "name_es": "caiman",
+    "name_fr": "caïman"
   },
   {
     "node": 68724,
     "scientific name": "Canis aureus",
     "name": "jackal",
     "parent": 9611,
-    "name_es": "chacal"
+    "name_es": "chacal",
+    "name_fr": "chacal"
   },
   {
     "node": 7819,
     "scientific name": "Galeocerdo cuvier",
     "name": "tiger shark",
     "parent": 7818,
-    "name_es": "tibur\u00f3n tigre"
+    "name_es": "tiburón tigre",
+    "name_fr": "requin-tigre"
   },
   {
     "node": 57987,
     "scientific name": "Mitsukurina owstoni",
     "name": "goblin shark",
     "parent": 57986,
-    "name_es": "tibur\u00f3n duende"
+    "name_es": "tiburón duende",
+    "name_fr": "requin-lutin"
   },
   {
     "node": 267067,
     "scientific name": "Enteroctopus dofleini",
     "name": "giant octopus",
     "parent": 267066,
-    "name_es": "pulpo gigante"
+    "name_es": "pulpo gigante",
+    "name_fr": "pieuvre géante"
   },
   {
     "node": 34570,
     "scientific name": "Sepioteuthis lessoniana",
     "name": "bigfin squid",
     "parent": 34569,
-    "name_es": "calamar bigfin"
+    "name_es": "calamar bigfin",
+    "name_fr": "calmar à grandes nageoires"
   },
   {
     "node": 34578,
     "scientific name": "Nautilus belauensis",
     "name": "nautilus",
     "parent": 34572,
-    "name_es": "nautilo"
+    "name_es": "nautilo",
+    "name_fr": "nautile"
   },
   {
     "node": 51359,
     "scientific name": "Dryocopus pileatus",
     "name": "woodpecker",
     "parent": 51358,
-    "name_es": "p\u00e1jaro carpintero"
+    "name_es": "pájaro carpintero",
+    "name_fr": "pic"
   },
   {
     "node": 2082998,
     "scientific name": "Mellisuga helenae",
     "name": "hummingbird",
     "parent": 1507478,
-    "name_es": "colibr\u00ed"
+    "name_es": "colibrí",
+    "name_fr": "colibri"
   },
   {
     "node": 52810,
     "scientific name": "Milvus migrans",
     "name": "kite",
     "parent": 43517,
-    "name_es": "milano negro"
+    "name_es": "milano negro",
+    "name_fr": "milan"
   },
   {
     "node": 43455,
     "scientific name": "Cathartes aura",
     "name": "turkey vulture",
     "parent": 33611,
-    "name_es": "buitre de pavo"
+    "name_es": "buitre pavo",
+    "name_fr": "urubu à tête rouge"
   },
   {
     "node": 96725,
     "scientific name": "Tiliqua gigas",
     "name": "skink",
     "parent": 8526,
-    "name_es": "escinco"
+    "name_es": "escinco",
+    "name_fr": "scinque"
   },
   {
     "node": 212017,
     "scientific name": "Lethocerus indicus",
     "name": "water bug",
     "parent": 43338,
-    "name_es": "bicho de agua"
+    "name_es": "bicho de agua",
+    "name_fr": "punaise d'eau"
   },
   {
     "node": 209230,
     "scientific name": "Betta tussyae",
     "name": "betta fish",
     "parent": 158455,
-    "name_es": "pez betta"
+    "name_es": "pez betta",
+    "name_fr": "poisson combattant"
   },
   {
     "node": 129333,
     "scientific name": "Morelia viridis",
     "name": "green tree python",
     "parent": 51894,
-    "name_es": "pit\u00f3n de \u00e1rbol verde"
+    "name_es": "pitón de árbol verde",
+    "name_fr": "python vert"
   },
   {
     "node": 1647984,
     "scientific name": "Tubuca urvillei",
     "name": "fiddler crab",
     "parent": 1239988,
-    "name_es": "cangrejo violinista"
+    "name_es": "cangrejo violinista",
+    "name_fr": "crabe violoniste"
   },
   {
     "node": 9927,
     "scientific name": "Connochaetes taurinus",
     "name": "wildebeest",
     "parent": 9926,
-    "name_es": "\u00f1u"
+    "name_es": "ñu",
+    "name_fr": "gnou"
   },
   {
     "node": 50434,
     "scientific name": "Ctenocephalides canis",
     "name": "flea",
     "parent": 7514,
-    "name_es": "pulga"
+    "name_es": "pulga",
+    "name_fr": "puce"
   },
   {
     "node": 7897,
     "scientific name": "Latimeria chalumnae",
     "name": "coelacanth",
     "parent": 7896,
-    "name_es": "celacantio"
+    "name_es": "celacantio",
+    "name_fr": "coelacanthe"
   },
   {
     "node": 202113,
     "scientific name": "Aplysina fistularis",
     "name": "sea sponge",
     "parent": 121476,
-    "name_es": "esponja de mar"
+    "name_es": "esponja de mar",
+    "name_fr": "éponge"
   },
   {
     "node": 8839,
     "scientific name": "Anas platyrhynchos",
     "name": "duck",
     "parent": 8835,
-    "name_es": "pato"
+    "name_es": "pato",
+    "name_fr": "canard"
   },
   {
     "node": 9103,
     "scientific name": "Meleagris gallopavo",
     "name": "turkey",
     "parent": 9102,
-    "name_es": "pavo"
+    "name_es": "pavo",
+    "name_fr": "dindon"
   },
   {
     "node": 9606,
     "scientific name": "Homo sapiens",
     "name": "human",
     "parent": 9605,
-    "name_es": "humano"
+    "name_es": "humano",
+    "name_fr": "humain"
   },
   {
     "node": 9612,
     "scientific name": "Canis lupus",
     "name": "wolf",
     "parent": 9611,
-    "name_es": "lobo"
+    "name_es": "lobo",
+    "name_fr": "loup"
   },
   {
     "node": 9685,
     "scientific name": "Felis catus",
     "name": "cat",
     "parent": 9682,
-    "name_es": "gato"
+    "name_es": "gato",
+    "name_fr": "chat"
   },
   {
     "node": 9733,
     "scientific name": "Orcinus orca",
     "name": "orca",
     "parent": 9732,
-    "name_es": "orco"
+    "name_es": "orco",
+    "name_fr": "orque"
   },
   {
     "node": 9793,
     "scientific name": "Equus asinus",
     "name": "donkey",
     "parent": 9789,
-    "name_es": "burro"
+    "name_es": "burro",
+    "name_fr": "âne"
   },
   {
     "node": 9823,
     "scientific name": "Sus scrofa",
     "name": "pig",
     "parent": 9822,
-    "name_es": "cerdo"
+    "name_es": "cerdo",
+    "name_fr": "cochon"
   },
   {
     "node": 9874,
     "scientific name": "Odocoileus virginianus",
     "name": "deer",
     "parent": 9871,
-    "name_es": "ciervo"
+    "name_es": "ciervo",
+    "name_fr": "cerf"
   },
   {
     "node": 9925,
     "scientific name": "Capra hircus",
     "name": "goat",
     "parent": 9922,
-    "name_es": "cabro"
+    "name_es": "cabro",
+    "name_fr": "chèvre"
   },
   {
     "node": 9986,
     "scientific name": "Oryctolagus cuniculus",
     "name": "rabbit",
     "parent": 9984,
-    "name_es": "conejo"
+    "name_es": "conejo",
+    "name_fr": "lapin"
   },
   {
     "node": 27706,
     "scientific name": "Micropterus salmoides",
     "name": "bass",
     "parent": 27705,
-    "name_es": "perca"
+    "name_es": "perca",
+    "name_fr": "perche noire"
   },
   {
     "node": 48420,
     "scientific name": "Gulo gulo",
     "name": "wolverine",
     "parent": 48419,
-    "name_es": "glotón"
+    "name_es": "glotón",
+    "name_fr": "glouton"
   },
   {
     "node": 51900,
     "scientific name": "Anodorhynchus hyacinthinus",
     "name": "macaw",
     "parent": 51899,
-    "name_es": "guacamayo"
+    "name_es": "guacamayo",
+    "name_fr": "ara"
   },
   {
     "node": 163847,
     "scientific name": "Crithagra flaviventris",
     "name": "canary",
     "parent": 1892169,
-    "name_es": "canario"
+    "name_es": "canario",
+    "name_fr": "serin"
   },
   {
     "node": 10116,
     "scientific name": "Rattus norvegicus",
     "name": "rat",
     "parent": 10114,
-    "name_es": "rato"
+    "name_es": "rato",
+    "name_fr": "rat"
   },
   {
     "node": 46460,
     "scientific name": "Milnesium tardigradum",
     "name": "tardigrade",
     "parent": 46459,
-    "name_es": "tardigrado"
+    "name_es": "tardigrado",
+    "name_fr": "tardigrade"
   }
 ]

@@ -38,5 +38,470 @@
   { "language": "en", "name": "wildebeest", "alts": ["gnu"] },
   { "language": "en", "name": "gum arabic tree", "alts": ["gum tree"] },
   { "language": "en", "name": "tiger prawn", "alts": ["prawn"] },
-  { "language": "es", "name": "bogavante", "alts": ["langosta"] }
+  { "language": "es", "name": "bogavante", "alts": ["langosta"] },
+  {
+    "language": "fr",
+    "name": "ver à soie",
+    "alts": ["bombyx du mûrier"]
+  },
+  {
+    "language": "fr",
+    "name": "drosophile",
+    "alts": ["mouche du vinaigre"]
+  },
+  {
+    "language": "fr",
+    "name": "abeille",
+    "alts": ["mouche à miel", "avette"]
+  },
+  {
+    "language": "fr",
+    "name": "poisson rouge",
+    "alts": ["carassin doré"]
+  },
+  {
+    "language": "fr",
+    "name": "carpe",
+    "alts": ["koï"]
+  },
+  {
+    "language": "fr",
+    "name": "poisson-chat",
+    "alts": ["barbue de rivière"]
+  },
+  {
+    "language": "fr",
+    "name": "morue",
+    "alts": ["cabillaud", "skrei"]
+  },
+  {
+    "language": "fr",
+    "name": "grenouille-taureau",
+    "alts": ["ouaouaron"]
+  },
+  {
+    "language": "fr",
+    "name": "serpent marin",
+    "alts": ["pélamide"]
+  },
+  {
+    "language": "fr",
+    "name": "oie",
+    "alts": ["bernache"]
+  },
+  {
+    "language": "fr",
+    "name": "coq doré",
+    "alts": ["coq sauvage", "poule", "poulet"]
+  },
+  {
+    "language": "fr",
+    "name": "vampire",
+    "alts": ["chauve-souris vampire"]
+  },
+  {
+    "language": "fr",
+    "name": "renard roux",
+    "alts": ["goupil", "renard commun"]
+  },
+  {
+    "language": "fr",
+    "name": "ours noir",
+    "alts": ["baribal"]
+  },
+  {
+    "language": "fr",
+    "name": "ours brun",
+    "alts": ["grizzli", "ours kodiak"]
+  },
+  {
+    "language": "fr",
+    "name": "panda roux",
+    "alts": ["petit panda"]
+  },
+  {
+    "language": "fr",
+    "name": "léopard",
+    "alts": ["panthère"]
+  },
+  {
+    "language": "fr",
+    "name": "otarie",
+    "alts": ["lion de mer"]
+  },
+  {
+    "language": "fr",
+    "name": "béluga",
+    "alts": ["baleine blanche", "canari des mers", "dauphin blanc"]
+  },
+  {
+    "language": "fr",
+    "name": "baleine à bosse",
+    "alts": ["rorqual à bosse", "mégaptère"]
+  },
+  {
+    "language": "fr",
+    "name": "cheval",
+    "alts": ["poney"]
+  },
+  {
+    "language": "fr",
+    "name": "oryctérope",
+    "alts": ["cochon de terre"]
+  },
+  {
+    "language": "fr",
+    "name": "vache",
+    "alts": ["taureau", "aurochs", "bœuf"]
+  },
+  {
+    "language": "fr",
+    "name": "mouton",
+    "alts": ["brebis", "bélier"]
+  },
+  {
+    "language": "fr",
+    "name": "monarque",
+    "alts": ["papillon monarque", "chenille"]
+  },
+  {
+    "language": "fr",
+    "name": "lynx commun",
+    "alts": ["lynx d'Eurasie", "lynx boréal", "loup-cervier"]
+  },
+  {
+    "language": "fr",
+    "name": "calopsitte",
+    "alts": ["cockatiel", "perruche nymphique"]
+  },
+  {
+    "language": "fr",
+    "name": "paresseux à deux doigts",
+    "alts": ["unau", "parsou mouton"]
+  },
+  {
+    "language": "fr",
+    "name": "tortue luth",
+    "alts": ["tortue marine"]
+  },
+  {
+    "language": "fr",
+    "name": "ours blanc",
+    "alts": ["ours polaire"]
+  },
+  {
+    "language": "fr",
+    "name": "alpaga",
+    "alts": ["alpaca"]
+  },
+  {
+    "language": "en",
+    "name": "meerkat",
+    "alts": ["suricate"]
+  },
+  {
+    "language": "fr",
+    "name": "hippotrague",
+    "alts": ["antilope noire"]
+  },
+  {
+    "language": "fr",
+    "name": "capucin",
+    "alts": ["sapajou", "sajou"]
+  },
+  {
+    "language": "fr",
+    "name": "rouge-gorge",
+    "alts": ["rougegorge"]
+  },
+  {
+    "language": "fr",
+    "name": "perruche",
+    "alts": ["conure"]
+  },
+  {
+    "language": "fr",
+    "name": "chouette effraie",
+    "alts": ["effraie des clochers"]
+  },
+  {
+    "language": "fr",
+    "name": "gris du gabon",
+    "alts": ["perroquet jaco"]
+  },
+  {
+    "language": "fr",
+    "name": "lynx roux",
+    "alts": ["bobcat"]
+  },
+  {
+    "language": "fr",
+    "name": "gorfou sauteur",
+    "alts": ["manchot à aigrettes"]
+  },
+  {
+    "language": "fr",
+    "name": "myrmidon",
+    "alts": ["fourmilier nain", "lèche-main"]
+  },
+  {
+    "language": "fr",
+    "name": "poisson-clown",
+    "alts": ["poisson clown"]
+  },
+  {
+    "language": "fr",
+    "name": "python birman",
+    "alts": ["python molure birman"]
+  },
+  {
+    "language": "fr",
+    "name": "pigeon",
+    "alts": ["carpophage", "kereru"]
+  },
+  {
+    "language": "fr",
+    "name": "harfang des neiges",
+    "alts": ["chouette harfang"]
+  },
+  {
+    "language": "fr",
+    "name": "renard polaire",
+    "alts": ["renard arctique", "renard isatis", "renard bleu"]
+  },
+  {
+    "language": "fr",
+    "name": "roussette",
+    "alts": ["renard volant"]
+  },
+  {
+    "language": "fr",
+    "name": "poulpe à anneaux bleus",
+    "alts": ["pieuvre à anneaux bleus"]
+  },
+  {
+    "language": "fr",
+    "name": "veuve noire",
+    "alts": ["malmignatte"]
+  },
+  {
+    "language": "fr",
+    "name": "palourde",
+    "alts": ["spisule", "coquillage", "mactre"]
+  },
+  {
+    "language": "fr",
+    "name": "escargot",
+    "alts": ["escargot de Bourgogne", "gros blanc"]
+  },
+  {
+    "language": "fr",
+    "name": "limace-banane",
+    "alts": ["limace banane"]
+  },
+  {
+    "language": "fr",
+    "name": "corail-cerveau",
+    "alts": ["cerveau de Neptune"]
+  },
+  {
+    "language": "fr",
+    "name": "physalie",
+    "alts": ["galère portugaise", "vessie de mer", "galiote portugaise"]
+  },
+  {
+    "language": "fr",
+    "name": "dragon de komodo",
+    "alts": ["varan de komodo"]
+  },
+  {
+    "language": "fr",
+    "name": "lémur",
+    "alts": ["maki"]
+  },
+  {
+    "language": "fr",
+    "name": "criquet pèlerin",
+    "alts": ["locuste"]
+  },
+  {
+    "language": "fr",
+    "name": "renne",
+    "alts": ["caribou"]
+  },
+  {
+    "language": "fr",
+    "name": "atlas",
+    "alts": ["papillon de nuit", "papillon cobra"]
+  },
+  {
+    "language": "fr",
+    "name": "blatte",
+    "alts": ["cafard", "cancrelat"]
+  },
+  {
+    "language": "fr",
+    "name": "perce-oreille",
+    "alts": ["forficule", "pince-oreille", "perce-oreilles"]
+  },
+  {
+    "language": "fr",
+    "name": "capybara",
+    "alts": ["cabiai", "capibara", "cabiaï"]
+  },
+  {
+    "language": "fr",
+    "name": "libellule",
+    "alts": ["aeschne"]
+  },
+  {
+    "language": "fr",
+    "name": "raie manta",
+    "alts": ["diable de mer"]
+  },
+  {
+    "language": "fr",
+    "name": "raie pastenague",
+    "alts": ["pastenague"]
+  },
+  {
+    "language": "fr",
+    "name": "bernard-l'hermite",
+    "alts": ["bernard-l'ermite", "pagure"]
+  },
+  {
+    "language": "fr",
+    "name": "poisson-globe",
+    "alts": ["poisson-ballon", "tétrodon"]
+  },
+  {
+    "language": "fr",
+    "name": "concombre de mer",
+    "alts": ["bêche de mer", "holothurie"]
+  },
+  {
+    "language": "fr",
+    "name": "élan",
+    "alts": ["orignal"]
+  },
+  {
+    "language": "fr",
+    "name": "balane",
+    "alts": ["bernache", "bernacle"]
+  },
+  {
+    "language": "fr",
+    "name": "yack",
+    "alts": ["yak"]
+  },
+  {
+    "language": "fr",
+    "name": "cochon d'Inde",
+    "alts": ["cobaye"]
+  },
+  {
+    "language": "fr",
+    "name": "tortue géante des Galápagos",
+    "alts": ["tortue terrestre"]
+  },
+  {
+    "language": "fr",
+    "name": "opossum",
+    "alts": ["pian", "manicou", "sarigue"]
+  },
+  {
+    "language": "fr",
+    "name": "scarabée rhinocéros",
+    "alts": ["dynaste"]
+  },
+  {
+    "language": "fr",
+    "name": "baudroie",
+    "alts": ["lotte"]
+  },
+  {
+    "language": "fr",
+    "name": "ver de terre",
+    "alts": ["lombric"]
+  },
+  {
+    "language": "fr",
+    "name": "crevette-mante",
+    "alts": ["squille"]
+  },
+  {
+    "language": "fr",
+    "name": "guppy",
+    "alts": ["guppie"]
+  },
+  {
+    "language": "fr",
+    "name": "phalanger",
+    "alts": ["possum"]
+  },
+  {
+    "language": "fr",
+    "name": "tamia",
+    "alts": ["écureuil de Corée", "suisse", "chipmunk"]
+  },
+  {
+    "language": "fr",
+    "name": "colibri",
+    "alts": ["oiseau-mouche"]
+  },
+  {
+    "language": "fr",
+    "name": "urubu à tête rouge",
+    "alts": ["vautour aura"]
+  },
+  {
+    "language": "fr",
+    "name": "poisson combattant",
+    "alts": ["betta"]
+  },
+  {
+    "language": "fr",
+    "name": "python vert",
+    "alts": ["python arboricole vert", "serpent émeraude"]
+  },
+  {
+    "language": "fr",
+    "name": "loup",
+    "alts": ["chien"]
+  },
+  {
+    "language": "fr",
+    "name": "orque",
+    "alts": ["épaulard"]
+  },
+  {
+    "language": "fr",
+    "name": "cochon",
+    "alts": ["porc", "sanglier"]
+  },
+  {
+    "language": "fr",
+    "name": "chèvre",
+    "alts": ["bouc"]
+  },
+  {
+    "language": "fr",
+    "name": "perche noire",
+    "alts": ["achigan"]
+  },
+  {
+    "language": "fr",
+    "name": "glouton",
+    "alts": ["carcajou"]
+  },
+  {
+    "language": "fr",
+    "name": "dindon",
+    "alts": ["dinde"]
+  },
+  {
+    "language": "fr",
+    "name": "puma",
+    "alts": ["couguar", "cougar", "lion de montagne"]
+  }
 ]
