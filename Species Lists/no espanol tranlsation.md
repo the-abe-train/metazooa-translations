@@ -1,0 +1,25 @@
+no espanol tranlsation
+- hornet vs wasp
+- goldfish
+- carp
+- catfish
+- seal
+- humpback whale
+- gerbil
+- cockatoo vs cockatiel
+- capuchin
+- mole
+- crow vs raven
+- too many tortugas
+- falcon vs hawk
+- squid vs cuttlefish
+- man o war
+- tiger prawn
+- locust vs lobster
+- manta ray and sting ray
+- moose vs elk
+- yak
+- anglerfish
+- possum vs opossum
+- caiman vs alligator
+- kite bird
