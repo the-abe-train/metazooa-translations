@@ -10,8 +10,10 @@ If you would like to contribute a new translation, or correct an existing one, p
    2. Currently, there is no need to create a new file for a second locale of an existing language (e.g. "fr-FR" and "fr-CA"). Please do not add redundant languages.
 2. Copy all the keys from "en-CA.json" into the new JSON file you created.
 3. Populate the values of the file with translations of the values in en-CA.
-   1. The words in {{curly brackets}} are key words and should not be translated. They may however need to be moved within a sentence according to the new language's syntax.
-   2. If you need more information about the context of a phrase, locate the English text in the game's website. The key's provide a hint to where the text is in the game.
+   1. The words in {{curly brackets}} are key words and should not be translated directly in the text, but rather in the Metazooa and Metaflora sections at the top of the translation file.
+   2. The curly brackets and their contents may need to be moved within a sentence according to the new language's syntax.
+   3. If there is a keyword (i.e. any word in the Metazooa or Metaflora sections at the top) that does not appear in curly brackets in the text, feel free to forgo translating it.
+   4. If you need more information about the context of a phrase, locate the English text in the game's website. The key's provide a hint to where the text is in the game.
    
 
 ### Species List
