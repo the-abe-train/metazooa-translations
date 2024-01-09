@@ -37,5 +37,6 @@
   { "language": "en", "name": "wolf", "alts": ["dog"] },
   { "language": "en", "name": "wildebeest", "alts": ["gnu"] },
   { "language": "en", "name": "gum arabic tree", "alts": ["gum tree"] },
-  { "language": "en", "name": "tiger prawn", "alts": ["prawn"] }
+  { "language": "en", "name": "tiger prawn", "alts": ["prawn"] },
+  { "language": "es", "name": "bogavante", "alts": ["langosta"] }
 ]

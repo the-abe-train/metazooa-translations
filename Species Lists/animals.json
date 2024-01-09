@@ -74,7 +74,7 @@
     "scientific name": "Carassius auratus",
     "name": "goldfish",
     "parent": 7956,
-    "name_es": "pez de colores"
+    "name_es": "pez dorado"
   },
   {
     "node": 7962,
@@ -144,7 +144,7 @@
     "scientific name": "Alligator mississippiensis",
     "name": "alligator",
     "parent": 8495,
-    "name_es": "caim\u00e1n"
+    "name_es": "alligator"
   },
   {
     "node": 8502,
@@ -182,10 +182,10 @@
     "name_es": "ganso"
   },
   {
-    "node": 8863,
-    "scientific name": "Coscoroba coscoroba",
+    "node": 8869,
+    "scientific name": "Cygnus olor",
     "name": "swan",
-    "parent": 8862,
+    "parent": 8867,
     "name_es": "cisne"
   },
   {
@@ -193,7 +193,7 @@
     "scientific name": "Falco peregrinus",
     "name": "falcon",
     "parent": 8952,
-    "name_es": "halc\u00f3n"
+    "name_es": "halcón"
   },
   {
     "node": 8959,
@@ -424,7 +424,7 @@
     "scientific name": "Halichoerus grypus",
     "name": "seal",
     "parent": 9710,
-    "name_es": "sello"
+    "name_es": "foca"
   },
   {
     "node": 9749,
@@ -557,7 +557,7 @@
     "scientific name": "Cacatua goffiniana",
     "name": "cockatoo",
     "parent": 12981,
-    "name_es": "cacat\u00faa"
+    "name_es": "cocotilla"
   },
   {
     "node": 13037,
@@ -718,7 +718,7 @@
     "scientific name": "Cebus olivaceus",
     "name": "capuchin",
     "parent": 9513,
-    "name_es": "capucho"
+    "name_es": "capuchino"
   },
   {
     "node": 37610,
@@ -767,7 +767,7 @@
     "scientific name": "Talpa europaea",
     "name": "mole",
     "parent": 9374,
-    "name_es": "lunar"
+    "name_es": "topo"
   },
   {
     "node": 51338,
@@ -781,7 +781,7 @@
     "scientific name": "Aratinga nenday",
     "name": "parakeet",
     "parent": 12945,
-    "name_es": "perico"
+    "name_es": "periquito"
   },
   {
     "node": 51949,
@@ -879,7 +879,7 @@
     "scientific name": "Corvus brachyrhynchos",
     "name": "crow",
     "parent": 30420,
-    "name_es": "cuervo"
+    "name_es": "corneja"
   },
   {
     "node": 89248,
@@ -949,7 +949,7 @@
     "scientific name": "Terrapene carolina",
     "name": "box turtle",
     "parent": 85610,
-    "name_es": "tortuga"
+    "name_es": "tortuga de caja"
   },
   {
     "node": 161767,
@@ -1040,14 +1040,14 @@
     "scientific name": "Accipiter gundlachi",
     "name": "hawk",
     "parent": 8956,
-    "name_es": "halc\u00f3n"
+    "name_es": "gavilán"
   },
   {
     "node": 6610,
     "scientific name": "Sepia officinalis",
     "name": "cuttlefish",
     "parent": 6609,
-    "name_es": "calamar"
+    "name_es": "sepia"
   },
   {
     "node": 102866,
@@ -1117,7 +1117,7 @@
     "scientific name": "Homarus gammarus",
     "name": "lobster",
     "parent": 6705,
-    "name_es": "langosta"
+    "name_es": "bogavante"
   },
   {
     "node": 102976,
@@ -1159,7 +1159,7 @@
     "scientific name": "Physalia physalis",
     "name": "man o war",
     "parent": 168774,
-    "name_es": "hombre o guerra"
+    "name_es": "carabela portuguesa"
   },
   {
     "node": 195334,
@@ -1194,7 +1194,7 @@
     "scientific name": "Penaeus monodon",
     "name": "tiger prawn",
     "parent": 133894,
-    "name_es": "gambas de tigre"
+    "name_es": "camarón tigre"
   },
   {
     "node": 51876,
@@ -1306,7 +1306,7 @@
     "scientific name": "Schistocerca gregaria",
     "name": "locust",
     "parent": 7008,
-    "name_es": "langosta"
+    "name_es": "langosta del desierto"
   },
   {
     "node": 7009,
@@ -1327,7 +1327,7 @@
     "scientific name": "Cervus canadensis",
     "name": "elk",
     "parent": 9859,
-    "name_es": "alce"
+    "name_es": "uapití"
   },
   {
     "node": 9870,
@@ -1404,14 +1404,14 @@
     "scientific name": "Mobula birostris",
     "name": "manta ray",
     "parent": 86365,
-    "name_es": "frazada"
+    "name_es": "mantarraya"
   },
   {
     "node": 2484686,
     "scientific name": "Hypanus americanus",
     "name": "sting ray",
     "parent": 2055258,
-    "name_es": "mantarraya"
+    "name_es": "raya de espina"
   },
   {
     "node": 1129476,
@@ -1495,7 +1495,7 @@
     "scientific name": "Chelonoidis niger",
     "name": "tortoise",
     "parent": 1137846,
-    "name_es": "tortuga"
+    "name_es": "tortuga gigante"
   },
   {
     "node": 8475,
@@ -1537,7 +1537,7 @@
     "scientific name": "Lophius piscatorius",
     "name": "anglerfish",
     "parent": 8072,
-    "name_es": "pescado"
+    "name_es": "rape blanco"
   },
   {
     "node": 6398,
@@ -1593,7 +1593,7 @@
     "scientific name": "Pseudocheirus peregrinus",
     "name": "possum",
     "parent": 9332,
-    "name_es": "zarig\u00fceya"
+    "name_es": "falangero"
   },
   {
     "node": 1678817,
@@ -1628,7 +1628,7 @@
     "scientific name": "Caiman latirostris",
     "name": "caiman",
     "parent": 8497,
-    "name_es": "caim\u00e1n"
+    "name_es": "caiman"
   },
   {
     "node": 68724,
@@ -1691,7 +1691,7 @@
     "scientific name": "Milvus migrans",
     "name": "kite",
     "parent": 43517,
-    "name_es": "cometa"
+    "name_es": "milano negro"
   },
   {
     "node": 43455,
@@ -1869,10 +1869,10 @@
     "name_es": "canario"
   },
   {
-    "node": 491754,
-    "scientific name": "Grammomys dolichurus",
+    "node": 10116,
+    "scientific name": "Rattus norvegicus",
     "name": "rat",
-    "parent": 121588,
+    "parent": 10114,
     "name_es": "rato"
   },
   {
