@@ -224,10 +224,10 @@
     "name_fr": "faucon"
   },
   {
-    "node": 8959,
-    "scientific name": "Aegypius monachus",
+    "node": 33614,
+    "scientific name": "Coragyps atratus",
     "name": "black vulture",
-    "parent": 8958,
+    "parent": 33613,
     "name_es": "buitre negro",
     "name_fr": "vautour moine"
   },
@@ -1405,7 +1405,7 @@
     "name": "kangaroo",
     "parent": 2182372,
     "name_es": "canguro",
-    "name_fr": "kangarou"
+    "name_fr": "kangourou"
   },
   {
     "node": 95723,
