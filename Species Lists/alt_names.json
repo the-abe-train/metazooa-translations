@@ -32,6 +32,8 @@
   { "language": "en", "name": "sheep", "alts": ["ram"] },
   { "language": "en", "name": "silkworm", "alts": ["silk moth"] },
   { "language": "en", "name": "sperm whale", "alts": ["cachalot"] },
+  { "language": "en", "name": "stick bug", "alts": ["stick insect"] },
+  { "language": "en", "name": "capuchin", "alts": ["capuchin monkey"] },
   { "language": "en", "name": "tardigrade", "alts": ["water bear"] },
   { "language": "en", "name": "wasp", "alts": ["yellowjacket"] },
   { "language": "en", "name": "wolf", "alts": ["dog"] },

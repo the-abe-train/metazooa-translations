@@ -1,164 +1,178 @@
 {
-  "Metazooa": {
-    "mystery": {
-      "generic": "Mystery Animal",
-      "unique": "one Mystery Animal",
-      "indefinite": "a Mystery Animal",
-      "definite": "the Mystery Animal"
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Mystery Animal",
+        "unique": "one Mystery Animal",
+        "indefinite": "a Mystery Animal",
+        "definite": "the Mystery Animal",
+        "demonstrative": "this"
+      },
+      "answer": "human",
+      "kingdom": {
+        "generic": "animals",
+        "concord": "s",
+        "unique": "an",
+        "definite": "the"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "mystery", "plural": "mystery" },
+      "menagerie": "zoo"
     },
-    "Sample answer": "human",
-    "kingdom": "animals",
-    "game": "Metazooa",
-    "species": "animal",
-    "menagerie": "zoo"
-  },
-  "Metaflora": {
-    "mystery": {
-      "generic": "Mystery Plant",
-      "unique": "one Mystery Plant",
-      "indefinite": "a Mystery Plant",
-      "definite": "the Mystery Plant"
+    "Metaflora": {
+      "species": {
+        "generic": "Mystery Plant",
+        "unique": "one Mystery Plant",
+        "indefinite": "a Mystery Plant",
+        "definite": "the Mystery Plant",
+        "demonstrative": "this"
+      },
+      "answer": "tomato",
+      "kingdom": {
+        "generic": "plants",
+        "concord": "s",
+        "unique": "a",
+        "definite": "the"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "mystery", "plural": "mystery" },
+      "menagerie": "garden"
     },
-    "Sample answer": "tomato",
-    "kingdom": "plants",
-    "game": "Metaflora",
-    "species": "plant",
-    "menagerie": "garden"
-  },
-  "keywords": {
-    "remaining": "remaining",
-    "Click": "Click",
-    "Tap": "Tap"
-  },
-  "home": {
-    "0": {
-      "0": "The animal kingdom (<i>Metazoa</i>, in Greek) is full of our distant relatives... some more distant than others! Metazooa is a game that tests how well you know our extended family tree.",
-      "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
+    "keywords": {
+      "remaining": "remaining",
+      "Click": "Click",
+      "Tap": "Tap"
     },
-    "1": "Your goal is to figure out today's <b>{{generic mystery}}</b> in as few guesses as possible. Wrong guesses will narrow down the answer by taxonomic rank (kingdom, phylum, class, order, etc.) The more your guess has in common with the answer, the more you will learn about the Mystery {{mystery}}.",
-    "2": "For example, if the answer is “{{answer}}”, your guesses might create a tree that looks like the following:",
-    "3": "There is only {{unique mystery}} per day, but you get {{MAX_GUESSES}} guesses to figure it out! A new game will start in <b>{{nextGame}}</b>.",
-    "4": "Already found today's {{generic mystery}}?",
-    "5": "Play"
-  },
-  "game": {
-    "0": "Show table",
-    "1": "The answer and {{node}} have this in common.",
-    "2": "{{click}} to learn more",
-    "3": "Find this {{species}}!",
-    "4": "You win! The answer is <b>{{answer}}</b>."
-  },
-  "modal": {
-    "0": {
-      "0": "You win!",
-      "1": "No more guesses."
+    "home": {
+      "0": {
+        "0": "The animal kingdom (<i>Metazoa</i>, in Greek) is full of our distant relatives... some more distant than others! Metazooa is a game that tests how well you know our extended family tree.",
+        "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
+      },
+      "1": "Your goal is to figure out today's <b>{{species.generic}}</b> in as few guesses as possible. Wrong guesses will narrow down the answer by taxonomic rank (kingdom, phylum, class, order, etc.) The more your guess has in common with the answer, the more you will learn about the  {{species.generic}}.",
+      "2": "For example, if the answer is “{{answer}}”, your guesses might create a tree that looks like the following:",
+      "3": "There is only {{species.unique}} per day, but you get {{MAX_GUESSES}} guesses to figure it out! A new game will start in <b>{{nextGame}}</b>.",
+      "4": "Already found today's {{species.generic}}?",
+      "5": "Play"
     },
-    "2": "Share your score or play a practice game!",
-    "3": "Play another game from <a href='https://trainwrecklabs.com' class='underline'>Trainwreck Labs!</a>"
-  },
-  "share": {
-    "0": "Share",
-    "1": "Shared!",
-    "2": "Copied!",
-    "3": "Failed to share your score."
-  },
-  "table": {
-    "0": "Rank",
-    "1": "Name",
-    "2": "Guesses",
-    "3": "Hints",
-    "4": "Return to tree"
-  },
-  "errors": {
-    "0": "No error",
-    "1": "\"{{guess}}\" not found in database",
-    "2": "Already guessed \"{{guess}}\"",
-    "3": "The answer is \"{{guess}}\"",
-    "4": "Did you mean \"{{guess}}\"?"
-  },
-  "button": {
-    "0": "Enter the {{menagerie}}!"
-  },
-  "footer": {
-    "0": "by Trainwreck Labs",
-    "1": "Join our Discord server!",
-    "2": "Have a question?",
-    "3": "Check out the FAQ"
-  },
-  "hint": {
-    "0": "Need a hint? Exchange 3 guesses to reveal a rank!",
-    "1": "Hint"
-  },
-  "wikipedia": {
-    "0": "From Wikipedia",
-    "1": {
-      "Show": "Show image",
-      "Hide": "Hide image"
-    }
-  },
-  "guesser": {
-    "0": "Guess any species to begin!",
-    "1": "Enter your next guess.",
-    "2": "Guess"
-  },
-  "statistics": {
-    "0": "Statistics",
-    "1": "Games",
-    "2": "Streak",
-    "3": "Plays",
-    "4": "Wins",
-    "5": "Current",
-    "6": "Max",
-    "7": "Questions used for each win. Bar colour denotes proximity of average guess to the answer."
-  },
-  "settings": {
-    "0": "Settings",
-    "1": "Guess with scientific names",
-    "2": "Language",
-    "3": "English"
-  },
-  "practice": {
-    "0": "Practice",
-    "1": "Play unlimited rounds of {{game}}!",
-    "2": "New Practice",
-    "3": "Resume Practice"
-  },
-  "links": {
-    "0": "Links",
-    "1": "Frequently Asked Questions",
-    "2": "Privacy Policy"
-  },
-  "twl": {
-    "0": "Account",
-    "1": "Connect <b>{{game}}</b> to your TWL account",
-    "2": "Sign in with Google",
-    "3": "Sign in with Discord",
-    "4": "Subscribe to the Trainwreck Labs newsletter",
-    "5": "Remove ads",
-    "6": "Disconnect",
-    "7": "Club Member"
-  },
-  "faq": {
-    "0": "FAQ",
-    "1": {
-      "q": "How were the {{kingdom}} in the game selected?",
-      "a": "The {{kingdom}} in {{game}} were selected based on how familiar they are to people, as well as for the breadth of species that would make the game more interesting."
+    "game": {
+      "0": "Show table",
+      "1": "The answer and {{guess}} have this in common.",
+      "2": "{{click}} to learn more",
+      "3": "Find this {{species.generic}}!",
+      "4": "You win! The answer is <b>{{answer}}</b>."
     },
-    "2": {
-      "q": "The game is wrong! Wikipedia has different classifications for one of the {{kingdom}}.",
-      "a": "This is possible. The classifications used in the game are based on the NCBI taxonomy, which is the most widely used taxonomy for animals. However, it is not the only taxonomy. The Wikipedia taxonomy is also widely used, and it is possible that the two taxonomies disagree on the classification of a species."
+    "modal": {
+      "0": {
+        "0": "You win!",
+        "1": "No more guesses."
+      },
+      "2": "Share your score or play a practice game!",
+      "3": "Play another game from"
     },
-    "3": {
-      "q": "Why is there no \"Reptile\" or \"Reptilia\" class in the game?",
-      "a": "While some datasets, like Wikipedia, use the class Reptilia, the NCBI taxonomy does not. Instead, the NCBI taxonomy uses the class Sauropsida, which includes all reptiles and birds. This is because some of the animals commonly identified as reptiles have more in common with birds than they do with other reptiles. For example, crocodiles are more closely related to birds than they are to lizards."
+    "share": {
+      "0": "Share",
+      "1": "Shared!",
+      "2": "Copied!",
+      "3": "Failed to share your score."
     },
-    "4": {
-      "q": "Why is \"domestic cat\" a possible guess but not \"domestic dog\"?",
-      "a": "This is because domestic cat's have their own species (\"Felis catus\"), but domestic dogs are usually classified as a subspecies of the wolf (\"Canis lupus familiaris\")."
+    "table": {
+      "0": "Rank",
+      "1": "Name",
+      "2": "Guesses",
+      "3": "Hints",
+      "4": "Return to tree"
     },
-    "5": {
-      "q": "Does {{game}} have a privacy policy?",
-      "a": "Click this link to see {{game}}'s <a href='/privacy-policy' class='underline'>privacy policy</a>."
+    "errors": {
+      "0": "No error",
+      "1": "\"{{guess}}\" not found in database",
+      "2": "Already guessed \"{{guess}}\"",
+      "3": "The answer is \"{{guess}}\"",
+      "4": "Did you mean \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Enter the {{menagerie}}!"
+    },
+    "footer": {
+      "0": "by Trainwreck Labs",
+      "1": "Join our Discord server!",
+      "2": "Have a question?",
+      "3": "Check out the FAQ"
+    },
+    "hint": {
+      "0": "Need a hint? Exchange 3 guesses to reveal a rank!",
+      "1": "Hint"
+    },
+    "wikipedia": {
+      "0": "From Wikipedia",
+      "1": {
+        "Show": "Show image",
+        "Hide": "Hide image"
+      }
+    },
+    "guesser": {
+      "0": "Guess any species to begin!",
+      "1": "Enter your next guess.",
+      "2": "Guess"
+    },
+    "statistics": {
+      "0": "Statistics",
+      "1": "Games",
+      "2": "Streak",
+      "3": "Plays",
+      "4": "Wins",
+      "5": "Current",
+      "6": "Max",
+      "7": "Questions used for each win. Bar colour denotes proximity of average guess to the answer."
+    },
+    "settings": {
+      "0": "Settings",
+      "1": "Guess with scientific names",
+      "2": "Language",
+      "3": "English"
+    },
+    "practice": {
+      "0": "Practice",
+      "1": "Play unlimited rounds of {{game}}!",
+      "2": "New Practice",
+      "3": "Resume Practice"
+    },
+    "links": {
+      "0": "Links",
+      "1": "Frequently Asked Questions",
+      "2": "Privacy Policy"
+    },
+    "twl": {
+      "0": "Account",
+      "1": "Connect <b>{{game}}</b> to your TWL account",
+      "2": "Sign in with Google",
+      "3": "Sign in with Discord",
+      "4": "Subscribe to the Trainwreck Labs newsletter",
+      "5": "Remove ads",
+      "6": "Disconnect",
+      "7": "Club Member"
+    },
+    "faq": {
+      "0": "FAQ",
+      "1": {
+        "q": "How were the {{kingdom.generic}} in the game selected?",
+        "a": "The {{kingdom.generic}} in {{game}} were selected based on how familiar they are to people, as well as for the breadth of species that would make the game more interesting."
+      },
+      "2": {
+        "q": "The game is wrong! Wikipedia has different classifications for one of the {{kingdom.generic}}.",
+        "a": "This is possible. The classifications used in the game are based on the NCBI taxonomy, which is the most widely used taxonomy for animals. However, it is not the only taxonomy. The Wikipedia taxonomy is also widely used, and it is possible that the two taxonomies disagree on the classification of a species."
+      },
+      "3": {
+        "q": "Why is there no \"Reptile\" or \"Reptilia\" class in the game?",
+        "a": "While some datasets, like Wikipedia, use the class Reptilia, the NCBI taxonomy does not. Instead, the NCBI taxonomy uses the class Sauropsida, which includes all reptiles and birds. This is because some of the animals commonly identified as reptiles have more in common with birds than they do with other reptiles. For example, crocodiles are more closely related to birds than they are to lizards."
+      },
+      "4": {
+        "q": "Why is \"domestic cat\" a possible guess but not \"domestic dog\"?",
+        "a": "This is because domestic cat's have their own species (\"Felis catus\"), but domestic dogs are usually classified as a subspecies of the wolf (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "Does {{game}} have a privacy policy?",
+        "a": "Click this link to see {{game}}'s <a href=\"/privacy-policy\" class=\"underline\">privacy policy</a>."
+      }
     }
   }
 }

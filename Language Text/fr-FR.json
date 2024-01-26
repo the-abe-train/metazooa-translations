@@ -1,164 +1,181 @@
 {
-  "Metazooa": {
-    "mystery": {
-      "generic": "animal mystère",
-      "unique": "un animal mystère",
-      "indefinite": "un animal mystère",
-      "definite": "l'animal mystère"
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "animal",
+        "unique": "un animal",
+        "indefinite": "un animal",
+        "definite": "l'animal",
+        "demonstrative": "cet animal"
+      },
+      "mystery": {
+        "singular": "mystère",
+        "plural": "mystérieux"
+      },
+      "answer": "humain",
+      "kingdom": {
+        "generic": "animaux",
+        "concord": "s",
+        "unique": "un",
+        "definite": "les"
+      },
+      "game": "Metazooa",
+      "menagerie": "le zoo"
     },
-    "Sample answer": "humain",
-    "kingdom": { "generic": "animaux", "concord": "s", "unique": "un" },
-    "game": "Metazooa",
-    "species": "animal",
-    "demonstrative": "cet",
-    "menagerie": "le zoo"
-  },
-  "Metaflora": {
-    "mystery": {
-      "generic": "plante mystère",
-      "unique": "une plante mystère",
-      "indefinite": "une plante mystère",
-      "definite": "la plante mystère"
+    "Metaflora": {
+      "species": {
+        "generic": "plante mystère",
+        "unique": "une plante mystère",
+        "indefinite": "une plante mystère",
+        "definite": "la plante mystère",
+        "demonstrative": "cette plante"
+      },
+      "answer": "tomate",
+      "kingdom": {
+        "generic": "plantes",
+        "concord": "es",
+        "unique": "une",
+        "definite": "les"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "mystère", "plural": "mystérieuses" },
+      "menagerie": "le jardin"
     },
-    "Sample answer": "tomate",
-    "kingdom": { "generic": "plantes", "concord": "es", "unique": "une" },
-    "game": "Metaflora",
-    "species": "plante",
-    "demonstrative": "cette",
-    "menagerie": "le jardin"
-  },
-  "keywords": {
-    "remaining": "restants",
-    "Click": "Cliquez",
-    "Tap": "Appuyez"
-  },
-  "home": {
-    "0": {
-      "0": "Le règne animal (<i>Metazoa</i> en grec) regorge de nos lointains parents... certains plus éloignés que d'autres ! Metazooa est un jeu qui teste vos connaissances sur notre arbre généalogique étendu.",
-      "1": "L'arbre généalogique du règne végétal (que les scientifiques appellent <i>Viridiplantae</i>) est vaste et beau... mais également complexe ! Metaflora est un jeu qui met à l'épreuve votre main verte, en testant vos connaissances sur ses branches feuillues."
+    "keywords": {
+      "remaining": "restants",
+      "Click": "Cliquez",
+      "Tap": "Appuyez"
     },
-    "1": "Votre but est de trouver <b>{{definite mystery}}</b> du jour en un minimum d'essais. Les mauvaises propositions réduiront le champ des possibles grâce aux rangs taxonomiques (règne, embranchement, classe, ordre, etc.). Plus votre proposition aura de points communs avec la réponse du jour, plus vous en apprendrez sur {{definite mystery}}.",
-    "2": "Par exemple, si la réponse est \"{{answer}}\", vos essais pourraient générer un arbre qui ressemble à celui-là :",
-    "3": "Il y a seulement {{unique mystery}} par jour, mais vous avez {{MAX_GUESSES}} essais pour le trouver ! Une nouvelle partie démarrera dans <b>{{nextGame}}</b>.",
-    "4": "Vous avez déjà trouvé {{definite mystery}} du jour ?",
-    "5": "Jouez à"
-  },
-  "game": {
-    "0": "Tableau",
-    "1": "La réponse et {{guess}} ont {{node}} en commun.",
-    "2": "{{click}} pour en apprendre plus",
-    "3": "Trouvez {{demonstrative}} {{species}} !",
-    "4": "Vous avez gagné ! La réponse est <b>{{answer}}</b>."
-  },
-  "modal": {
-    "0": {
-      "0": "Vous avez gagné !",
-      "1": "Pas d'autres essais disponibles."
+    "home": {
+      "0": {
+        "0": "Le règne animal (<i>Metazoa</i> en grec) regorge de nos lointains parents... certains plus éloignés que d'autres ! Metazooa est un jeu qui teste vos connaissances sur notre arbre généalogique étendu.",
+        "1": "L'arbre généalogique du règne végétal (que les scientifiques appellent <i>Viridiplantae</i>) est vaste et beau... mais également complexe ! Metaflora est un jeu qui met à l'épreuve votre main verte, en testant vos connaissances sur ses branches feuillues."
+      },
+      "1": "Votre but est de trouver <b>{{species.definite}} {{mystery.singular}}</b> du jour en un minimum d'essais. Les mauvaises propositions réduiront le champ des possibles grâce aux rangs taxonomiques (règne, embranchement, classe, ordre, etc.). Plus votre proposition aura de points communs avec la réponse du jour, plus vous en apprendrez sur {{species.definite}} {{mystery.singular}}.",
+      "2": "Par exemple, si la réponse est \"{{answer}}\", vos essais pourraient générer un arbre qui ressemble à celui-là :",
+      "3": "Il y a seulement {{species.unique}} {{mystery.singular}} par jour, mais vous avez {{MAX_GUESSES}} essais pour le trouver ! Une nouvelle partie démarrera dans <b>{{nextGame}}</b>.",
+      "4": "Vous avez déjà trouvé {{species.definite}} {{mystery.singular}} du jour ?",
+      "5": "Jouez à"
     },
-    "2": "Partagez votre score ou entraînez-vous !",
-    "3": "Jouez à un autre jeu par <a href='https://trainwrecklabs.com' class='underline'>Trainwreck Labs!</a>"
-  },
-  "share": {
-    "0": "Partager",
-    "1": "Partagé !",
-    "2": "Copié !",
-    "3": "Echec du partage du score."
-  },
-  "table": {
-    "0": "Rang",
-    "1": "Nom",
-    "2": "Essais",
-    "3": "Indices",
-    "4": "Retourner à l'arbre"
-  },
-  "errors": {
-    "0": "Pas d'erreur",
-    "1": "\"{{guess}}\" introuvable dans la base de données",
-    "2": "\"{{guess}}\" déjà proposé",
-    "3": "La réponse est \"{{guess}}\"",
-    "4": "Voulez-vous dire \"{{guess}}\" ?"
-  },
-  "button": {
-    "0": "Entrez dans {{menagerie}} !"
-  },
-  "footer": {
-    "0": "Par Trainwreck Labs",
-    "1": "Rejoindre le serveur Discord",
-    "2": "Une question ?",
-    "3": "Consulter la FAQ"
-  },
-  "hint": {
-    "0": "Besoin d'un indice ? Echangez 3 essais pour dévoiler un rang !",
-    "1": "Indice"
-  },
-  "wikipedia": {
-    "0": "Extrait de Wikipédia",
-    "1": {
-      "Show": "Cacher l'image",
-      "Hide": "Montrer l'image"
-    }
-  },
-  "guesser": {
-    "0": "Proposez n'importe quelle espèce pour commencer !",
-    "1": "Proposer une autre espèce",
-    "2": "Proposer"
-  },
-  "statistics": {
-    "0": "Statistiques",
-    "1": "Parties",
-    "2": "Série",
-    "3": "Jouées",
-    "4": "Gagnées",
-    "5": "Actuelle",
-    "6": "Max",
-    "7": "Nombre d'essais utilisés pour chaque partie gagnée. La couleur des traits indique la proximité de la moyenne des essais avec la réponse."
-  },
-  "settings": {
-    "0": "Paramètres",
-    "1": "Jouer avec les noms scientifiques"
-  },
-  "practice": {
-    "0": "S'entraîner",
-    "1": "Jouer un nombre illimité de parties de {{game}} !",
-    "2": "Nouvelle partie",
-    "3": "Reprendre la partie"
-  },
-  "links": {
-    "0": "Liens",
-    "1": "Questions les plus fréquentes",
-    "2": "Politique de confidentialité"
-  },
-  "twl": {
-    "0": "Compte",
-    "1": "Ajouter <b>{{game}}</b> à votre compte TWL",
-    "2": "Se connecter avec Google",
-    "3": "Se connecter avec Discord",
-    "4": "S'abonner à la newsletter Trainwreck Labs",
-    "5": "Enlever les pubs",
-    "6": "Se déconnecter",
-    "7": "Membre du club"
-  },
-  "faq": {
-    "0": "FAQ",
-    "1": {
-      "q": "Comment les {{generic kingdom}} présent{{concord kingdom}} dans le jeu ont-ils été choisi{{concord kingdom}} ?",
-      "a": "Les {{generic kingdom}} dans {{game}} ont été choisi{{concord kingdom}} en fonction de leur popularité, mais aussi selon la diversité des espèces pour rendre le jeu plus intéressant."
+    "game": {
+      "0": "Tableau",
+      "1": "La réponse et {{guess}} ont {{node}} en commun.",
+      "2": "{{click}} pour en apprendre plus",
+      "3": "Trouvez {{species.demonstrative}} !",
+      "4": "Vous avez gagné ! La réponse est <b>{{answer}}</b>."
     },
-    "2": {
-      "q": "Il y a des erreurs dans le jeu ! Wikipédia propose une classification différente pour l'{{unique kingdom}} des {{generic kingdom}}.",
-      "a": "C'est possible. Les classifications utilisées dans le jeu sont basées sur la taxonomie de NCBI, qui est la taxonomie la plus utilisée pour les {{kingdom}}. Cependant, ce n'est pas la seule taxonomie existante. La taxonomie utilisée dans Wikipédia est également largement utilisée, et il est possibe que les deux taxonomies soient en désaccord sur la classification d'une espèce."
+    "modal": {
+      "0": {
+        "0": "Vous avez gagné !",
+        "1": "Pas d'autres essais disponibles."
+      },
+      "2": "Partagez votre score ou entraînez-vous !",
+      "3": "Jouez à un autre jeu par"
     },
-    "3": {
-      "q": "Pourquoi n'y a-t-il pas de classe \"Reptile\" ou \"Reptilia\" dans le jeu ?",
-      "a": "Tandis que certaines ensembles de données comme Wikipédia utilisent la classe <i>Reptilia</i>, la taxonomie de NCBI ne l'utilise pas. Elle utilise plutôt le clade <i>Sauropsida</i>, qui rassemble les reptiles et les oiseaux. Cela s'explique par le fait que certains des animaux identifiés comme reptiles sont plus proches des oiseaux que d'autres reptiles. Par exemple, les crocodiles sont plus proches des oiseaux que des lézards."
+    "share": {
+      "0": "Partager",
+      "1": "Partagé !",
+      "2": "Copié !",
+      "3": "Echec du partage du score."
     },
-    "4": {
-      "q": "Pourquoi \"chat domestique\" est une proposition valide mais pas \"chien domestique\" ?",
-      "a": "C'est parce que les chats domestiques ont leur propre espèce (<i>Felis catus</i>), alors que les chiens domestiques sont apparentés au loup et sont classés comme une sous-espèce du loup (<i>Canis lupus familiaris</i>)."
+    "table": {
+      "0": "Rang",
+      "1": "Nom",
+      "2": "Essais",
+      "3": "Indices",
+      "4": "Retourner à l'arbre"
     },
-    "5": {
-      "q": "Est-ce que {{game}} possède une politique de confidentialité ?",
-      "a": "Cliquez sur ce lien pour consulter la <a href=\"/privacy-policy\" class=\"underline\">politique de confidentialité</a> de {{game}}."
+    "errors": {
+      "0": "Pas d'erreur",
+      "1": "\"{{guess}}\" introuvable dans la base de données",
+      "2": "\"{{guess}}\" déjà proposé",
+      "3": "La réponse est \"{{guess}}\"",
+      "4": "Voulez-vous dire \"{{guess}}\" ?"
+    },
+    "button": {
+      "0": "Entrez dans {{menagerie}} !"
+    },
+    "footer": {
+      "0": "Par Trainwreck Labs",
+      "1": "Rejoindre le serveur Discord",
+      "2": "Une question ?",
+      "3": "Consulter la FAQ"
+    },
+    "hint": {
+      "0": "Besoin d'un indice ? Echangez 3 essais pour dévoiler un rang !",
+      "1": "Indice"
+    },
+    "wikipedia": {
+      "0": "Extrait de Wikipédia",
+      "1": {
+        "Show": "Montrer l'image",
+        "Hide": "Cacher l'image"
+      }
+    },
+    "guesser": {
+      "0": "Proposer n'importe quelle espèce pour commencer !",
+      "1": "Proposer une autre espèce",
+      "2": "Proposer"
+    },
+    "statistics": {
+      "0": "Statistiques",
+      "1": "Parties",
+      "2": "Série",
+      "3": "Jouées",
+      "4": "Gagnées",
+      "5": "Actuelle",
+      "6": "Max",
+      "7": "Nombre d'essais utilisés pour chaque partie gagnée. La couleur des traits indique la proximité de la moyenne des essais avec la réponse."
+    },
+    "settings": {
+      "0": "Paramètres",
+      "1": "Jouer avec les noms scientifiques",
+      "2": "Langue",
+      "3": "Français"
+    },
+    "practice": {
+      "0": "S'entraîner",
+      "1": "Jouer un nombre illimité de parties de {{game}} !",
+      "2": "Nouvelle partie",
+      "3": "Reprendre la partie"
+    },
+    "links": {
+      "0": "Liens",
+      "1": "Questions les plus fréquentes",
+      "2": "Politique de confidentialité"
+    },
+    "twl": {
+      "0": "Compte",
+      "1": "Ajouter <b>{{game}}</b> à votre compte TWL",
+      "2": "Se connecter avec Google",
+      "3": "Se connecter avec Discord",
+      "4": "S'abonner à la newsletter Trainwreck Labs",
+      "5": "Enlever les pubs",
+      "6": "Se déconnecter",
+      "7": "Membre du club"
+    },
+    "faq": {
+      "0": "FAQ",
+      "1": {
+        "q": "Comment les {{kingdom.generic}} présent{{kingdom.concord}} dans le jeu ont-ils été choisi{{kingdom.concord}} ?",
+        "a": "Les {{kingdom.generic}} dans {{game}} ont été choisi{{kingdom.concord}} en fonction de leur popularité, mais aussi selon la diversité des espèces pour rendre le jeu plus intéressant."
+      },
+      "2": {
+        "q": "Il y a des erreurs dans le jeu ! Wikipédia propose une classification différente pour l'{{kingdom.unique}} des {{kingdom.generic}}.",
+        "a": "C'est possible. Les classifications utilisées dans le jeu sont basées sur la taxonomie de NCBI, qui est la taxonomie la plus utilisée pour les {{kingdom.generic}}. Cependant, ce n'est pas la seule taxonomie existante. La taxonomie utilisée dans Wikipédia est également largement utilisée, et il est possibe que les deux taxonomies soient en désaccord sur la classification d'une espèce."
+      },
+      "3": {
+        "q": "Pourquoi n'y a-t-il pas de classe \"Reptile\" ou \"Reptilia\" dans le jeu ?",
+        "a": "Tandis que certaines ensembles de données comme Wikipédia utilisent la classe <i>Reptilia</i>, la taxonomie de NCBI ne l'utilise pas. Elle utilise plutôt le clade <i>Sauropsida</i>, qui rassemble les reptiles et les oiseaux. Cela s'explique par le fait que certains des animaux identifiés comme reptiles sont plus proches des oiseaux que d'autres reptiles. Par exemple, les crocodiles sont plus proches des oiseaux que des lézards."
+      },
+      "4": {
+        "q": "Pourquoi \"chat domestique\" est une proposition valide mais pas \"chien domestique\" ?",
+        "a": "C'est parce que les chats domestiques ont leur propre espèce (<i>Felis catus</i>), alors que les chiens domestiques sont apparentés au loup et sont classés comme une sous-espèce du loup (<i>Canis lupus familiaris</i>)."
+      },
+      "5": {
+        "q": "Est-ce que {{game}} possède une politique de confidentialité ?",
+        "a": "Cliquez sur ce lien pour consulter la <a href=\"/privacy-policy\" class=\"underline\">politique de confidentialité</a> de {{game}}."
+      }
     }
   }
 }
