@@ -48,9 +48,9 @@
         "0": "O Reino Animal (<i>Metazoa</i>, em Grego) está cheio de nossos parentes distantes... alguns mais distantes do que outros! Metazooa é um jogo que testa o quanto você conhece nossa árvore genealógica estendida",
         "1": "A árvore genealógica do reino das plantas (que os cientistas chamam de <i>Viridiplantae</i>) é vasta e bela... mas também complexa! Metaflora é um jogo que testa sua habilidade com plantas, vendo o quão bem você pode navegar por seus ramos folhosos."
       },
-      "1": "Seu objetivo é descobrir o <b>{{species.generic}}</b> de hoje com o menor número de tentativas possível. As suposições incorretas irão reduzir a resposta por categoria taxonômica (reino, filo, classe, ordem, etc.). Quanto mais sua suposição tiver em comum com a resposta, mais você aprenderá sobre o {{species.generic}}.",
-      "2": "Por exemplo, se a resposta for “{{answer}}”, suas suposições podem criar uma árvore que se parece com o seguinte:",
-      "3": "Há apenas {{species.unique}} por dia, mas você tem {{MAX_GUESSES}} tentativas para descobrir! Um novo jogo começará em <b>{{nextGame}}</b>",
+      "1": "Seu objetivo é descobrir o <b>{{species.generic}}</b> de hoje com o menor número de palpites possíveis. Os palpites incorretos irão reduzir a resposta por categoria taxonômica (reino, filo, classe, ordem, etc.). Quanto mais seu palpite tiver em comum com a resposta, mais você aprenderá sobre o {{species.generic}}.",
+      "2": "Por exemplo, se a resposta for “{{answer}}”, seus palpites podem criar uma árvore que se parece com o seguinte:",
+      "3": "Há apenas {{species.unique}} por dia, mas você tem {{MAX_GUESSES}} palpites para descobrir! Um novo jogo começará em <b>{{nextGame}}</b>",
       "4": "Já encontrou a {{species.unique}} de hoje?",
       "5": "Jogar"
     },
@@ -166,7 +166,7 @@
         "a": "Embora alguns conjuntos de dados, como a Wikipédia, usem a classe Reptilia, a taxonomia do NCBI não o faz. Em vez disso, a taxonomia do NCBI usa a classe Sauropsida, que inclui todos os répteis e aves. Isso ocorre porque alguns dos animais comumente identificados como répteis têm mais em comum com aves do que com outros répteis. Por exemplo, os crocodilos estão mais relacionados às aves do que aos lagartos."
       },
       "4": {
-        "q": "Por que \"Gato doméstico\" é uma suposição possível, mas não \"cachorro doméstico\"?",
+        "q": "Por que \"Gato doméstico\" é um palpite possível, mas não \"cachorro doméstico\"?",
         "a": "Isso ocorre porque os gatos domésticos têm sua própria espécie (\"Felis catus\"), mas os cachorros domésticos geralmente são classificados como uma subespécie do lobo (\"Canis lupus familiaris\")."
       },
       "5": {
