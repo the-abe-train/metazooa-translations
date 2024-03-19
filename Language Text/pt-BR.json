@@ -1,0 +1,178 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Animal Misterioso",
+        "unique": "um Animal Misterioso",
+        "indefinite": "um Animal Misterioso",
+        "definite": "O Animal Misterioso",
+        "demonstrative": "esse"
+      },
+      "answer": "humano",
+      "kingdom": {
+        "generic": "animal",
+        "concord": "s",
+        "unique": "um",
+        "definite": "o"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "mistério", "plural": "mistérios" },
+      "menagerie": "zoológico"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "Planta Misteriosa",
+        "unique": "uma Planta Misteriosa",
+        "indefinite": "uma Planta Misteriosa",
+        "definite": "a Planta Misteriosa",
+        "demonstrative": "essa"
+      },
+      "answer": "tomate",
+      "kingdom": {
+        "generic": "plantas",
+        "concord": "s",
+        "unique": "uma",
+        "definite": "a"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "mistério", "plural": "mistérios" },
+      "menagerie": "jardim"
+    },
+    "keywords": {
+      "remaining": "restante",
+      "Click": "Clique",
+      "Tap": "Tocar"
+    },
+    "home": {
+      "0": {
+        "0": "O Reino Animal (<i>Metazoa</i>, em Grego) está cheio de nossos parentes distantes... alguns mais distantes do que outros! Metazooa é um jogo que testa o quanto você conhece nossa árvore genealógica estendida",
+        "1": "A árvore genealógica do reino das plantas (que os cientistas chamam de <i>Viridiplantae</i>) é vasta e bela... mas também complexa! Metaflora é um jogo que testa sua habilidade com plantas, vendo o quão bem você pode navegar por seus ramos folhosos."
+      },
+      "1": "Seu objetivo é descobrir o <b>{{species.generic}}</b> de hoje com o menor número de palpites possíveis. Os palpites incorretos irão reduzir a resposta por categoria taxonômica (reino, filo, classe, ordem, etc.). Quanto mais seu palpite tiver em comum com a resposta, mais você aprenderá sobre o {{species.generic}}.",
+      "2": "Por exemplo, se a resposta for “{{answer}}”, seus palpites podem criar uma árvore que se parece com o seguinte:",
+      "3": "Há apenas {{species.unique}} por dia, mas você tem {{MAX_GUESSES}} palpites para descobrir! Um novo jogo começará em <b>{{nextGame}}</b>",
+      "4": "Já encontrou a {{species.unique}} de hoje?",
+      "5": "Jogar"
+    },
+    "game": {
+      "0": "Mostrar tabela",
+      "1": "A resposta e {{guess}} têm isso em comum.",
+      "2": "{{click}} para aprender mais",
+      "3": "Ache isso {{species.generic}}!",
+      "4": "Você ganhou! A resposta é <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Você ganhou!",
+        "1": "Sem mais palpites."
+      },
+      "2": "Compartilhe sua pontuação ou jogue uma partida de treino!",
+      "3": "Jogue outro jogo de"
+    },
+    "share": {
+      "0": "Compartilhe",
+      "1": "Compartilhado!",
+      "2": "Copiado!",
+      "3": "Falha ao compartilhar sua pontuação."
+    },
+    "table": {
+      "0": "Rank",
+      "1": "Nome",
+      "2": "Palpites",
+      "3": "Dicas",
+      "4": "Retorne à árvore"
+    },
+    "errors": {
+      "0": "Sem erro",
+      "1": "\"{{guess}}\" não encontrado na base de dados",
+      "2": "Já adivinhado \"{{guess}}\"",
+      "3": "A resposta é \"{{guess}}\"",
+      "4": "Você quis dizer \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Entre no {{menagerie}}!"
+    },
+    "footer": {
+      "0": "by Trainwreck Labs",
+      "1": "Entre no nosso servidor do Discord!",
+      "2": "Tem alguma pergunta?",
+      "3": "Confira o FAQ"
+    },
+    "hint": {
+      "0": "Precisa de uma dica? Troque 3 palpites para revelar uma categoria taxonômica!",
+      "1": "Dica"
+    },
+    "wikipedia": {
+      "0": "Do Wikipédia",
+      "1": {
+        "Show": "Mostrar imagem",
+        "Hide": "Esconder imagem"
+      }
+    },
+    "guesser": {
+      "0": "Faça um palpite de qualquer espécie para começar!",
+      "1": "Digite seu próximo palpite.",
+      "2": "Palpite"
+    },
+    "statistics": {
+      "0": "Estatísticas",
+      "1": "Jogos",
+      "2": "Sequência",
+      "3": "Jogadas",
+      "4": "Vitórias",
+      "5": "Atual",
+      "6": "Max",
+      "7": "Perguntas usadas para cada vitória. A cor da barra indica a proximidade do palpite médio à resposta."
+    },
+    "settings": {
+      "0": "Configurações",
+      "1": "Palpite com nomes científicos",
+      "2": "Linguagem",
+      "3": "Inglês"
+    },
+    "practice": {
+      "0": "Praticar",
+      "1": "Jogue rodadas ilimitadas de {{game}}!",
+      "2": "Novo treino",
+      "3": "Continuar Treino"
+    },
+    "links": {
+      "0": "Links",
+      "1": "Perguntas Frequentes",
+      "2": "Política de privacidade"
+    },
+    "twl": {
+      "0": "Conta",
+      "1": "Conecte <b>{{game}}</b> à sua conta da TWL",
+      "2": "Entre com Google",
+      "3": "Entre com o Discord",
+      "4": "Inscreva-se na newsletter da Trainwreck Labs",
+      "5": "Remover anúncios",
+      "6": "Disconectar",
+      "7": "Membro do Clube"
+    },
+    "faq": {
+      "0": "FAQ",
+      "1": {
+        "q": "Como foram selecionados os {{kingdom.generic}} no jogo?",
+        "a": "Os {{kingdom.generic}} em {{game}} foram selecionados com base em quão familiares são para as pessoas, bem como na variedade de espécies que tornariam o jogo mais interessante."
+      },
+      "2": {
+        "q": "O jogo está errado! A Wikipédia tem classificações diferentes para um dos {{kingdom.generic}}.",
+        "a": "Isso é possível. As classificações usadas no jogo são baseadas na taxonomia do NCBI, que é a taxonomia mais amplamente usada para animais. No entanto, não é a única taxonomia. A taxonomia da Wikipedia também é amplamente usada, e é possível que as duas taxonomias discordem sobre a classificação de uma espécie."
+      },
+      "3": {
+        "q": "Por que não há uma classe \"Réptil\" ou \"Reptilia\" no jogo?",
+        "a": "Embora alguns conjuntos de dados, como a Wikipédia, usem a classe Reptilia, a taxonomia do NCBI não o faz. Em vez disso, a taxonomia do NCBI usa a classe Sauropsida, que inclui todos os répteis e aves. Isso ocorre porque alguns dos animais comumente identificados como répteis têm mais em comum com aves do que com outros répteis. Por exemplo, os crocodilos estão mais relacionados às aves do que aos lagartos."
+      },
+      "4": {
+        "q": "Por que \"Gato doméstico\" é um palpite possível, mas não \"cachorro doméstico\"?",
+        "a": "Isso ocorre porque os gatos domésticos têm sua própria espécie (\"Felis catus\"), mas os cachorros domésticos geralmente são classificados como uma subespécie do lobo (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "O {{game}} tem uma política de privacidade?",
+        "a": "Clique nesse link para ver {{game}} <a href=\"/privacy-policy\" class=\"underline\">política de privacidade</a>."
+      }
+    }
+  }
+}
