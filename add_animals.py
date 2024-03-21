@@ -1,6 +1,6 @@
 import json
 
-with open("data/animals_fr.json", "r") as f:
+with open("data/animals_pt.json", "r") as f:
     new_animals = json.load(f)
 
 with open("Species Lists/animals.json", "r") as f:
@@ -22,8 +22,8 @@ for animal in old_animals:
     node = animal["node"]
     if node in new_nodes:
         new_animal = new_animals[new_nodes.index(node)]
-        new_name = new_animal["name_fr"]
-        animal["name_fr"] = new_name
+        new_name = new_animal["name_pt"]
+        animal["name_pt"] = new_name
         output.append(animal)
     else:
         raise Exception(f"Node {node} not found in new animals")
