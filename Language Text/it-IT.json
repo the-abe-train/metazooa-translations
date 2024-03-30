@@ -1,0 +1,179 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Animale Misterioso",
+        "unique": "Un Animale Misterioso",
+        "indefinite": "un Animale Misterioso",
+        "definite": "L'Animale Misterioso",
+        "demonstrative": "questo"
+      },
+      "answer": "umano",
+      "kingdom": {
+        "generic": "animali",
+        "concord": "s",
+        "unique": "un",
+        "definite": "il"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "mistero", "plural": "misteri" },
+      "menagerie": "zoo"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "Mystery Plant",
+        "unique": "one Mystery Plant",
+        "indefinite": "a Mystery Plant",
+        "definite": "the Mystery Plant",
+        "demonstrative": "this"
+      },
+      "answer": "tomato",
+      "kingdom": {
+        "generic": "plants",
+        "concord": "s",
+        "unique": "a",
+        "definite": "the"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "mystery", "plural": "mystery" },
+      "menagerie": "garden"
+    },
+    "keywords": {
+      "remaining": "restanti",
+      "Click": "Clicca",
+      "Tap": "Tocca"
+    },
+    "home": {
+      "0": {
+        "0": "Il regno animale (<i>Metazoa</i>, in greco) è pieno di nostri prenti alla lontana... Alcuni più alla lontana di altri! Metazooa è un gioco che mette alla prova quanto conosci bene il nostro albero genealocico.",
+        "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
+      },
+      "1": "Il tuo obiettivo è scoprire la <b>{{species.generic}}</b> di oggi nel minor numero di tentativi possibili. Le risposte sbagliate restringeranno il campo di un rango tassonomico (regno, phylum, classe, ordine, etc.). Più la tua risposta sarà vicina alla soluzione, più imparerai sulla {{species.generic}}.",
+      "2": "Per esempio, se la risposta è “{{answer}}”, le tue risposte potrebbrero creare un albero come qui sotto:",
+      "3": "C'è un solo {{species.unique}} al giorno, ma avrai {{MAX_GUESSES}} tentativi per indovinare! Il prossimo round inizierà tra <b>{{nextGame}}</b>.",
+      "4": "Hai già trovato la {{species.generic}}?",
+      "5": "Gioca"
+    },
+    "game": {
+      "0": "Mostra tabella",
+      "1": "La soluzione e {{guess}} hanno questo in comune.",
+      "2": "{{click}} per scoprire di più",
+      "3": "Trova questa {{species.generic}}!",
+      "4": "Hai vinto! La risposta è <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Hai vinto!",
+        "1": "Tentativi finiti."
+      },
+      "2": "Condividi il tuo punteggio o gioca ad un round di allenamento!",
+      "3": "Gioca ad un altro gioco di"
+    },
+    "share": {
+      "0": "Condividi",
+      "1": "Condiviso!",
+      "2": "Copiato!",
+      "3": "Non siamo riusciti a condividere il tuo punteggio."
+    },
+    "table": {
+      "0": "Rango",
+      "1": "Nome",
+      "2": "Tentativi",
+      "3": "Suggerimenti",
+      "4": "Ritorna all'albero"
+    },
+    "errors": {
+      "0": "Nessun errore",
+      "1": "\"{{guess}}\" non trovato nel database",
+      "2": "Hai già provato \"{{guess}}\"",
+      "3": "La risposta è \"{{guess}}\"",
+      "4": "Intendevi \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Entra nel {{menagerie}}!"
+    },
+    "footer": {
+      "0": "da Trainwreck Labs",
+      "1": "Entra nel nostro server Discord!",
+      "2": "Hai delle domande?",
+      "3": "Guarda le FAQ"
+    },
+    "hint": {
+      "0": "Hai bisogno di un suggerimento? Scambia 3 tentativi per scoprire un rango",
+      "1": "Suggerimento"
+    },
+    "wikipedia": {
+      "0": "Da Wikipedia",
+      "1": {
+        "Show": "Mostra immagine",
+        "Hide": "Nascondi immagine"
+      }
+    },
+    "guesser": {
+      "0": "Scrivi una specie per iniziare!",
+      "1": "Scrivi la tua prossima risposta.",
+      "2": "Rispondi"
+    },
+    "statistics": {
+      "0": "Statistiche",
+      "1": "Giochi",
+      "2": "Serie",
+      "3": "Giocate",
+      "4": "Vittorie",
+      "5": "Odierno",
+      "6": "Massimo",
+      "7": "Domande usate per ogni vittoria. Il colore della barra descrive la media della vicinanza della risposta alla soluzione."
+    },
+    "settings": {
+      "0": "Impostazioni",
+      "1": "Indovina con i nomi scientifici",
+      "2": "Lingua",
+      "3": "Italiano",
+      "4": "Modalità scura"
+    },
+    "practice": {
+      "0": "Allenati",
+      "1": "Gioca rounds illimitati di {{game}}!",
+      "2": "Nuovo allenamento",
+      "3": "Ritorna all'allenamento"
+    },
+    "links": {
+      "0": "Links",
+      "1": "Frequently Asked Questions",
+      "2": "Privacy Policy"
+    },
+    "twl": {
+      "0": "Account",
+      "1": "Connetti <b>{{game}}</b> al tuo account TWL",
+      "2": "Entra con Google",
+      "3": "Entra con Discord",
+      "4": "Iscriviti alla newsletter di Trainwreck Labs newsletter",
+      "5": "Togli la pubblicità",
+      "6": "Disconnetti",
+      "7": "Membro del Club"
+    },
+    "faq": {
+      "0": "FAQ",
+      "1": {
+        "q": "Come sono stati scelti i {{kingdom.generic}} nel gioco?",
+        "a": "I {{kingdom.generic}} in {{game}} sono stati scelti in base al quanto sono familiari alle persone, e per il numero di specie che renderebbero il gioco più interessante."
+      },
+      "2": {
+        "q": "Il gioco si sbaglia! Wikipedia segna una classificazione diversa per uno dei {{kingdom.generic}}.",
+        "a": "È possibile. Le classificazioni del gioco sono basate sulla tassonomia NCBI, che è la tassonomia più utilizzata per gli animali. Tuttavia, non è l'unica. La tassonomia di Wikipedia è anche ampiamente usata, ed è possibile che le due tassonomie non siano uguali per la stessa specie."
+      },
+      "3": {
+        "q": "Perchè non c'è la classificazione \"Rettile\" o \"Reptilia\" in questo gioco?",
+        "a": "Sebbene alcune classificazioni, come quella di Wikipedia, usino la classe Reptilia, la tassonomia NCBI non la usa. Al suo posto, la tassonomia NCBI usa la classe Sauropsida, che include tutti i rettili e gli uccelli. Questo perchè tutti gli animali comunemente identificati come rettili hanno più cose in comune con gli uccelli che con gli altri rettili. Per esempio, i coccodrilli sono più strettamente imparentati con i coccodrilli che con le lucertole."
+      },
+      "4": {
+        "q": "Perchè il \"gatto domestico\" è una delle possibili risposte ma il \"cane domestico\" non lo è?",
+        "a": "Perchè il gatto domestico è una specie a sè stante (\"Felis catus\"), ma il cane domestico è solitamente classificato come sottospecie di lupo (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "{{game}} ha una informativa sulla privacy?",
+        "a": "Clicca questo link per vedere l'informativa sulla privacy di {{game}}'s <a href=\"/privacy-policy\" class=\"underline\">informativa sulla privacy</a>."
+      }
+    }
+  }
+}
