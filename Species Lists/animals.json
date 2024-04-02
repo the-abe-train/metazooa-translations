@@ -282,8 +282,8 @@
     "name_es": "ganso",
     "name_fr": "oie",
     "name_it": "oca canadese",
-    "name_pt": "ganso"
-    "name_ca": "oca del Canadà"
+    "name_pt": "ganso",
+    "name_ca": "oca del canadà"
   },
   {
     "node": 8869,
@@ -414,7 +414,7 @@
     "name_es": "murciélago vampiro",
     "name_fr": "vampire",
     "name_it": "pipistrello vampiro",
-    "name_pt": "morcego-vampiro"
+    "name_pt": "morcego-vampiro",
     "name_ca": "ratpenat vampir"
   },
   {
@@ -877,7 +877,7 @@
     "name_fr": "cacatoès",
     "name_it": "cacatua",
     "name_pt": "cacatua",
-    "name_ca": "cacatua de les Tanimbar"
+    "name_ca": "cacatua de les tanimbar"
   },
   {
     "node": 13037,
@@ -987,7 +987,7 @@
     "name_fr": "ours blanc",
     "name_it": "orso polare",
     "name_pt": "urso polar",
-    "name_ca": "os polar
+    "name_ca": "os polar"
   },
   {
     "node": 29139,
@@ -1745,8 +1745,8 @@
     "name_es": "almeja de mar",
     "name_fr": "palourde",
     "name_it": "vongola",
-    "name_pt": "molusco do mar"
-    "name_ca": "cloïssa de l'Atlàntic"
+    "name_pt": "molusco do mar",
+    "name_ca": "cloïssa de l'atlàntic"
   },
   {
     "node": 6707,
@@ -1779,7 +1779,7 @@
     "name_fr": "escargot",
     "name_it": "chiocciola",
     "name_pt": "escargot",
-    "name_ca": "caragol de Borgonya"
+    "name_ca": "caragol de borgonya"
   },
   {
     "node": 2067768,
@@ -2021,7 +2021,7 @@
     "name_fr": "dragon de komodo",
     "name_it": "drago di komodo",
     "name_pt": "dragão de komodo",
-    "name_ca": "dragó de Komodo"
+    "name_ca": "dragó de komodo"
   },
   {
     "node": 9305,
@@ -2032,7 +2032,7 @@
     "name_fr": "diable de tasmanie",
     "name_it": "diavolo della tasmania",
     "name_pt": "diabo da tasmânia",
-    "name_ca": "diable de Tasmània"
+    "name_ca": "diable de tasmània"
   },
   {
     "node": 9447,
@@ -2183,10 +2183,10 @@
     "name": "gila monster",
     "parent": 8550,
     "name_es": "monstruo de gila",
-    "name_fr": "monstre de Gila",
-    "name_it": "mostro di Gila",
+    "name_fr": "monstre de gila",
+    "name_it": "mostro di gila",
     "name_pt": "monstro de gila",
-    "name_ca": "monstre de Gila"
+    "name_ca": "monstre de gila"
   },
   {
     "node": 10149,
@@ -2285,7 +2285,7 @@
     "name_fr": "cloporte",
     "name_it": "porcellino di terra",
     "name_pt": "tatuzinho-de-jardim",
-    "name_ca": "porquet de sant Antoni"
+    "name_ca": "porquet de sant antoni"
   },
   {
     "node": 110520,
@@ -2326,7 +2326,7 @@
     "name": "guinea pig",
     "parent": 10140,
     "name_es": "conejillo de indias",
-    "name_fr": "cochon d'Inde",
+    "name_fr": "cochon d'inde",
     "name_it": "porcellino d'india",
     "name_pt": "porquinho da índia",
     "name_ca": "conillet d'índies"
@@ -2348,10 +2348,10 @@
     "name": "tortoise",
     "parent": 1137846,
     "name_es": "tortuga gigante",
-    "name_fr": "tortue géante des Galápagos",
-    "name_it": "tartaruga delle Galàpagos",
+    "name_fr": "tortue géante des galápagos",
+    "name_it": "tartaruga delle galàpagos",
     "name_pt": "tartaruga de galápagos",
-    "name_ca": "tortuga de les Galàpagos"
+    "name_ca": "tortuga de les galàpagos"
   },
   {
     "node": 8475,
@@ -2393,7 +2393,7 @@
     "parent": 60842,
     "name_es": "hércules escarabajo",
     "name_fr": "scarabée rhinocéros",
-    "name_it": "scarabeo Ercole",
+    "name_it": "scarabeo ercole",
     "name_pt": "besouro hércules",
     "name_ca": "escarabat hèrcules"
   },
@@ -2613,7 +2613,7 @@
     "parent": 34569,
     "name_es": "calamar bigfin",
     "name_fr": "calmar à grandes nageoires",
-    "name_it": "calamaro di Lesson",
+    "name_it": "calamaro di lesson",
     "name_pt": "lula de glitter",
     "name_ca": "calamar d'aleta gran"
   },
