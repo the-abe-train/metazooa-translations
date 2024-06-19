@@ -46,7 +46,7 @@
     "home": {
       "0": {
         "0": "Das Reich der Tiere (<i>Metazoa</i>, auf Griechisch) ist voll von unseren entfernten Verwandten... manche sind uns aber näher verwandt als andere. Im Spiel Metazooa kannst Du testen, wie gut Du unseren Stammbaum kennst!",
-	"1": "Der Stammbaum aller Pflanzen (die Wissenschaftler nennen ihn <i>Viridiplantae</i>) ist vielfältig und wunderschön... aber auch ziemlich kompliziert! Im Spiel Metaflora kannst Du dich testen &mdash; hast du einen grünen Daumen, findest Du dich zurecht in seinen vielen Zweigen?"
+        "1": "Der Stammbaum aller Pflanzen (die Wissenschaftler nennen ihn <i>Viridiplantae</i>) ist vielfältig und wunderschön... aber auch ziemlich kompliziert! Im Spiel Metaflora kannst Du dich testen &mdash; hast du einen grünen Daumen, findest Du dich zurecht in seinen vielen Zweigen?"
       },
       "1": "Dein Ziel ist: Errate die/das heutige <b>{{species.generic}}</b> mit so wenig Versuchen wie möglich! Mit jedem Versuch kannst du das Ergebnis weiter eingrenzen, denn du siehst, welchen Teil des Stammbaums dein Tipp und das Ergebnis gemeinsam haben. Und je näher du der Lösung kommst (man sagt auch: Je niedriger die gefundene <i>Rangstufe</i>) ist, desto mehr Eigenschaften weißst du über dein/e {{species.generic}}",
       "2": "Zum Beispiel, sagen wir die Antwort ist “{{answer}}”, und du tippst daneben, dann könnte dein gefundender Stammbaum so aussehen:",
@@ -63,8 +63,8 @@
     },
     "modal": {
       "0": {
-	"0": "Gewonnen!",
-	"1": "Alle Tipps aufgebraucht!"
+        "0": "Gewonnen!",
+        "1": "Alle Tipps aufgebraucht!"
       },
       "2": "Teile deine Punktzahl oder spiele eine Übungsrunde!",
       "3": "Spiele ein anderes Spiel von"
@@ -128,7 +128,7 @@
       "0": "Einstellungen",
       "1": "Wissenschaftliche Namen zum Raten verwenden",
       "2": "Sprache",
-      "3": "Englisch",
+      "3": "Deutsch",
       "4": "Dunkler Hintergrund"
     },
     "practice": {
@@ -160,14 +160,13 @@
       },
       "2": {
         "q": "Im Spiel steht es falsch! In der Wikipedia finde ich andere Einordnungen für eins der {{kingdom.generic}}!",
-	"a": "Das kann schon sein. Die Einordnungen im Spiel basieren auf der <i>NCBI taxonomy</i>. Sie ist die Taxonomie (Einordung der Arten), die für Tiere am häufigsten verwendet wird. Allerdings ist das nicht die einzige Taxonomie. Die Taxonomie von Wikipedia wird auch häufig verwendet, und es kann passieren dass es zwischen den beiden Unterschiede gibt."
+        "a": "Das kann schon sein. Die Einordnungen im Spiel basieren auf der <i>NCBI taxonomy</i>. Sie ist die Taxonomie (Einordung der Arten), die für Tiere am häufigsten verwendet wird. Allerdings ist das nicht die einzige Taxonomie. Die Taxonomie von Wikipedia wird auch häufig verwendet, und es kann passieren dass es zwischen den beiden Unterschiede gibt."
       },
       "3": {
         "q": "Warum finde ich die Klasse der \"Reptilien\" oder \"Reptilia\" nicht im Spiel?",
         "a": "In manchen Taxonomien, beispielsweise in der Wikipedia, findet man die Klasse \"Reptilia\". Die <i>NCBI taxonomy</i> verwendet sie nicht. Stattdessen. Stattdessen wird in der <i>NCBI taxonomy</i> die Klasse \"Sauropsida\" verwendet, die alle Reptilien und Vögel beinhaltet. Der Grund ist, dass manche der Tiere, die man landläufig als \"Reptilien\" bezeichnet, in Wirklichkeit mehr mit den Vögeln als mit anderen Reptilien zu tun haben. Zum Beispiel das Kokodil. Es ist wirklich näher mit den Vögeln als mit den Echsen verwandt!"
       },
       "4": {
-        "q": "Why is \"domestic cat\" a possible guess but not \"domestic dog\"?",
         "q": "Warum kann ich \"Hauskatze\" eintippen, aber nicht \"Haushund\"?",
         "a": "Die Hauskatzen wurden wissenschaftlich als eine eigene Art eingeteilt (\"Felis catus\"), aber die gezähmten Hunde wurden als eine Unterart des Wolfs eingeteilt. (\"Canis lupus familiaris\")."
       },

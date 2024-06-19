@@ -344,14 +344,6 @@
     "name_de": "Schwarzer Senf"
   },
   {
-    "node": 51089,
-    "scientific name": "Myristica fragrans",
-    "name": "nutmeg",
-    "parent": 51088,
-    "name_es": "tuerca",
-    "name_de": "Muskatblüte"
-  },
-  {
     "node": 51953,
     "scientific name": "Elaeis guineensis",
     "name": "oil palm",
@@ -664,8 +656,8 @@
     "name_de": "Tomate"
   },
   {
-    "node": 4111,
-    "scientific name": "Solanum melongena",
+    "node": 223891,
+    "scientific name": "Solanum virginianum",
     "name": "eggplant",
     "parent": 4107,
     "name_es": "berenjena",
@@ -865,7 +857,7 @@
   },
   {
     "node": 159033,
-    "scientific name": "Citrus aurantiifolia",
+    "scientific name": "Citrus x aurantiifolia",
     "name": "lime",
     "parent": 2706,
     "name_es": "cal",
@@ -873,7 +865,7 @@
   },
   {
     "node": 2708,
-    "scientific name": "Citrus limon",
+    "scientific name": "Citrus x limon",
     "name": "lemon",
     "parent": 2706,
     "name_es": "limón",
@@ -1206,14 +1198,6 @@
     "parent": 13402,
     "name_es": "pacana",
     "name_de": "Pekannuss"
-  },
-  {
-    "node": 89151,
-    "scientific name": "Musa x paradisiaca",
-    "name": "plantain",
-    "parent": 4640,
-    "name_es": "plátano",
-    "name_de": "Kochbanane"
   },
   {
     "node": 4547,

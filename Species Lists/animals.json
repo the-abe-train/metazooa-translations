@@ -42,7 +42,7 @@
     "parent": 7090,
     "name_es": "gusano de seda",
     "name_fr": "ver à soie",
-    "name_it": "",
+    "name_it": "baco da seta",
     "name_pt": "bicho-da-seda",
     "name_ca": "cuc de seda",
     "name_de": "Seidenspinner"
@@ -91,7 +91,7 @@
     "name_es": "avispón",
     "name_fr": "frelon",
     "name_it": "calabrone",
-    "name_pt": "vespa",
+    "name_pt": "marimbondo",
     "name_ca": "vespa",
     "name_de": "Hornisse"
   },
@@ -1093,7 +1093,7 @@
   },
   {
     "node": 29159,
-    "scientific name": "Crassostrea gigas",
+    "scientific name": "Magallana gigas",
     "name": "oyster",
     "parent": 6564,
     "name_es": "ostra",
