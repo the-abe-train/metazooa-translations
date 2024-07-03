@@ -9,7 +9,7 @@
     "name_it": "anemone",
     "name_pt": "anêmona",
     "name_ca": "anèmona",
-    "name_de": "Seeanemone"
+    "name_ko": "말미잘"
   },
   {
     "node": 7022,
@@ -21,7 +21,7 @@
     "name_it": "insetto stecco",
     "name_pt": "bicho-pau",
     "name_ca": "insecte pal",
-    "name_de": "Indische Stabschrecke"
+    "name_ko": "대벌레"
   },
   {
     "node": 7051,
@@ -33,7 +33,7 @@
     "name_it": "lucciola",
     "name_pt": "vagalume",
     "name_ca": "cuca de llum",
-    "name_de": "Genji-Leuchtkäfer"
+    "name_ko": "반딧불이"
   },
   {
     "node": 7091,
@@ -45,7 +45,7 @@
     "name_it": "baco da seta",
     "name_pt": "bicho-da-seda",
     "name_ca": "cuc de seda",
-    "name_de": "Seidenspinner"
+    "name_ko": "누에나방"
   },
   {
     "node": 7159,
@@ -57,7 +57,7 @@
     "name_it": "zanzara",
     "name_pt": "mosquito",
     "name_ca": "mosquit",
-    "name_de": "Ägyptische Tigermücke"
+    "name_ko": "모기"
   },
   {
     "node": 7227,
@@ -69,7 +69,7 @@
     "name_it": "moscerino della frutta",
     "name_pt": "mosca da fruta",
     "name_ca": "mosca de la fruita",
-    "name_de": "Fruchtfliege"
+    "name_ko": "초파리"
   },
   {
     "node": 7370,
@@ -81,7 +81,7 @@
     "name_it": "mosca domestica",
     "name_pt": "mosca doméstica",
     "name_ca": "mosca domèstica",
-    "name_de": "Stubenfliege"
+    "name_ko": "집파리"
   },
   {
     "node": 7445,
@@ -93,7 +93,7 @@
     "name_it": "calabrone",
     "name_pt": "marimbondo",
     "name_ca": "vespa",
-    "name_de": "Hornisse"
+    "name_ko": "말벌"
   },
   {
     "node": 7460,
@@ -105,7 +105,7 @@
     "name_it": "ape del miele",
     "name_pt": "abelha",
     "name_ca": "abella de la mel",
-    "name_de": "Honigbiene"
+    "name_ko": "꿀벌"
   },
   {
     "node": 7604,
@@ -117,7 +117,7 @@
     "name_it": "stella marina",
     "name_pt": "estrela do mar",
     "name_ca": "estrella de mar",
-    "name_de": "Seestern"
+    "name_ko": "불가사리"
   },
   {
     "node": 7957,
@@ -129,7 +129,7 @@
     "name_it": "pesce rosso",
     "name_pt": "peixe dourado",
     "name_ca": "carpí daurat",
-    "name_de": "Goldfisch"
+    "name_ko": "금붕어"
   },
   {
     "node": 7962,
@@ -141,7 +141,7 @@
     "name_it": "carpa",
     "name_pt": "carpa",
     "name_ca": "carpa",
-    "name_de": "Karpfen"
+    "name_ko": "잉어"
   },
   {
     "node": 7998,
@@ -153,7 +153,7 @@
     "name_it": "pesce gatto",
     "name_pt": "bagre",
     "name_ca": "peix gat",
-    "name_de": "Katzenwels"
+    "name_ko": "찬넬메기"
   },
   {
     "node": 8022,
@@ -165,7 +165,7 @@
     "name_it": "trota",
     "name_pt": "truta",
     "name_ca": "truita",
-    "name_de": "Regenbogenforelle"
+    "name_ko": "무지개송어"
   },
   {
     "node": 8030,
@@ -177,7 +177,7 @@
     "name_it": "salmone",
     "name_pt": "salmão",
     "name_ca": "salmó",
-    "name_de": "Lachs"
+    "name_ko": "연어"
   },
   {
     "node": 8049,
@@ -189,7 +189,7 @@
     "name_it": "merluzzo",
     "name_pt": "bacalhau",
     "name_ca": "bacallà",
-    "name_de": "Kabeljau"
+    "name_ko": "대구"
   },
   {
     "node": 8245,
@@ -201,7 +201,7 @@
     "name_it": "pesce spada",
     "name_pt": "peixe espada",
     "name_ca": "peix espasa",
-    "name_de": "Schwertfisch"
+    "name_ko": "황새치"
   },
   {
     "node": 8296,
@@ -213,7 +213,7 @@
     "name_it": "axolotl",
     "name_pt": "axolote",
     "name_ca": "axolot",
-    "name_de": "Axolotl"
+    "name_ko": "아홀로틀"
   },
   {
     "node": 8384,
@@ -225,7 +225,7 @@
     "name_it": "rospo",
     "name_pt": "sapo",
     "name_ca": "gripau",
-    "name_de": "Kröte"
+    "name_ko": "두꺼비"
   },
   {
     "node": 8400,
@@ -237,7 +237,7 @@
     "name_it": "rana toro americana",
     "name_pt": "sapo-boi",
     "name_ca": "granota toro",
-    "name_de": "Ochsenfrosch"
+    "name_ko": "황소개구리"
   },
   {
     "node": 8496,
@@ -249,7 +249,7 @@
     "name_it": "alligatore",
     "name_pt": "jacaré",
     "name_ca": "al·ligàtor",
-    "name_de": "Alligator"
+    "name_ko": "앨리게이터과 악어"
   },
   {
     "node": 8502,
@@ -261,7 +261,7 @@
     "name_it": "coccodrillo",
     "name_pt": "cocodilo",
     "name_ca": "cocodril",
-    "name_de": "Krokodil"
+    "name_ko": "크로커다일과 악어"
   },
   {
     "node": 8688,
@@ -273,7 +273,7 @@
     "name_it": "serpente di mare",
     "name_pt": "serpente marinha",
     "name_ca": "serp de mar",
-    "name_de": "Seeschlange"
+    "name_ko": "바다뱀"
   },
   {
     "node": 8790,
@@ -285,7 +285,7 @@
     "name_it": "emù",
     "name_pt": "emu",
     "name_ca": "emú",
-    "name_de": "Emu"
+    "name_ko": "에뮤"
   },
   {
     "node": 8801,
@@ -297,7 +297,7 @@
     "name_it": "struzzo",
     "name_pt": "avestruz",
     "name_ca": "estruç",
-    "name_de": "Strauß"
+    "name_ko": "타조"
   },
   {
     "node": 8853,
@@ -309,7 +309,7 @@
     "name_it": "oca canadese",
     "name_pt": "ganso",
     "name_ca": "oca del canadà",
-    "name_de": "Gans"
+    "name_ko": "캐나다기러기"
   },
   {
     "node": 8869,
@@ -321,7 +321,7 @@
     "name_it": "cigno",
     "name_pt": "cisne",
     "name_ca": "cigne",
-    "name_de": "Schwan"
+    "name_ko": "백조"
   },
   {
     "node": 8954,
@@ -333,7 +333,7 @@
     "name_it": "falco pellegrino",
     "name_pt": "falcão",
     "name_ca": "falcó",
-    "name_de": "Wanderfalke"
+    "name_ko": "매"
   },
   {
     "node": 33614,
@@ -345,7 +345,7 @@
     "name_it": "urubù",
     "name_pt": "urubu",
     "name_ca": "voltor",
-    "name_de": "Schwarzer Geier"
+    "name_ko": "검은대머리수리"
   },
   {
     "node": 9031,
@@ -357,7 +357,7 @@
     "name_it": "gallina",
     "name_pt": "galinha",
     "name_ca": "gallina",
-    "name_de": "Huhn"
+    "name_ko": "닭"
   },
   {
     "node": 9042,
@@ -369,7 +369,7 @@
     "name_it": "fagiano",
     "name_pt": "faisão",
     "name_ca": "faisà",
-    "name_de": "Fasan"
+    "name_ko": "꿩"
   },
   {
     "node": 34924,
@@ -381,7 +381,7 @@
     "name_it": "gazza ladra",
     "name_pt": "Pega",
     "name_ca": "garsa",
-    "name_de": "Elster"
+    "name_ko": "까치"
   },
   {
     "node": 9187,
@@ -393,7 +393,7 @@
     "name_it": "merlo",
     "name_pt": "melro",
     "name_ca": "merla",
-    "name_de": "Amsel"
+    "name_ko": "유라시아대륙검은지빠귀"
   },
   {
     "node": 9233,
@@ -405,7 +405,7 @@
     "name_it": "pinguino imperatore",
     "name_pt": "pinguim imperador",
     "name_ca": "pingüí emperador",
-    "name_de": "Kaiserpinguin"
+    "name_ko": "황제펭귄"
   },
   {
     "node": 9258,
@@ -417,7 +417,7 @@
     "name_it": "ornitorinco",
     "name_pt": "ornitorrinco",
     "name_ca": "ornitorrinc",
-    "name_de": "Schnabeltier"
+    "name_ko": "오리너구리"
   },
   {
     "node": 9261,
@@ -429,7 +429,7 @@
     "name_it": "echidna",
     "name_pt": "equidna",
     "name_ca": "equidna",
-    "name_de": "Ameisenigel"
+    "name_ko": "가시두더지"
   },
   {
     "node": 9365,
@@ -441,7 +441,7 @@
     "name_it": "riccio",
     "name_pt": "ouriço",
     "name_ca": "eriçó",
-    "name_de": "Igel"
+    "name_ko": "고슴도치"
   },
   {
     "node": 9430,
@@ -453,7 +453,7 @@
     "name_it": "pipistrello vampiro",
     "name_pt": "morcego-vampiro",
     "name_ca": "ratpenat vampir",
-    "name_de": "Vampirfledermaus"
+    "name_ko": "흡혈박쥐"
   },
   {
     "node": 9542,
@@ -465,7 +465,7 @@
     "name_it": "macaco",
     "name_pt": "macaco",
     "name_ca": "macaco",
-    "name_de": "Makak"
+    "name_ko": "일본원숭이"
   },
   {
     "node": 9561,
@@ -477,7 +477,7 @@
     "name_it": "mandrillo",
     "name_pt": "mandril",
     "name_ca": "mandril",
-    "name_de": "Mandrill"
+    "name_ko": "맨드릴"
   },
   {
     "node": 9593,
@@ -489,7 +489,7 @@
     "name_it": "gorilla",
     "name_pt": "gorila",
     "name_ca": "goril·la",
-    "name_de": "Gorilla"
+    "name_ko": "고릴라"
   },
   {
     "node": 9597,
@@ -501,7 +501,7 @@
     "name_it": "bonobo",
     "name_pt": "bonobo",
     "name_ca": "bonobo",
-    "name_de": "Bonobo"
+    "name_ko": "보노보"
   },
   {
     "node": 9598,
@@ -513,7 +513,7 @@
     "name_it": "scimpanzè",
     "name_pt": "chimpanzé",
     "name_ca": "ximpanzé",
-    "name_de": "Schimpanse"
+    "name_ko": "침팬지"
   },
   {
     "node": 9601,
@@ -525,7 +525,7 @@
     "name_it": "orangotango",
     "name_pt": "orangotango",
     "name_ca": "orangutan",
-    "name_de": "Orang-Utan"
+    "name_ko": "오랑우탄"
   },
   {
     "node": 9614,
@@ -537,7 +537,7 @@
     "name_it": "coyote",
     "name_pt": "coiote",
     "name_ca": "coiot",
-    "name_de": "Kojote"
+    "name_ko": "코요테"
   },
   {
     "node": 9627,
@@ -549,7 +549,7 @@
     "name_it": "volpe",
     "name_pt": "raposa vermelha",
     "name_ca": "guineu",
-    "name_de": "Rotfuchs"
+    "name_ko": "붉은여우"
   },
   {
     "node": 9643,
@@ -561,7 +561,7 @@
     "name_it": "orso nero",
     "name_pt": "urso negro",
     "name_ca": "os negre",
-    "name_de": "Schwarzbär"
+    "name_ko": "아메리카흑곰"
   },
   {
     "node": 9644,
@@ -573,7 +573,7 @@
     "name_it": "orso bruno",
     "name_pt": "urso marrom",
     "name_ca": "os marró",
-    "name_de": "Braunbär"
+    "name_ko": "불곰"
   },
   {
     "node": 9646,
@@ -585,7 +585,7 @@
     "name_it": "panda gigante",
     "name_pt": "panda gigante",
     "name_ca": "panda gegant",
-    "name_de": "Großer Panda"
+    "name_ko": "대왕판다"
   },
   {
     "node": 9649,
@@ -597,7 +597,7 @@
     "name_it": "panda rosso",
     "name_pt": "panda vermelho",
     "name_ca": "panda vermell",
-    "name_de": "Roter Panda"
+    "name_ko": "레서판다"
   },
   {
     "node": 9654,
@@ -609,7 +609,7 @@
     "name_it": "procione",
     "name_pt": "guaxinim",
     "name_ca": "os rentador",
-    "name_de": "Waschbär"
+    "name_ko": "라쿤"
   },
   {
     "node": 9666,
@@ -621,7 +621,7 @@
     "name_it": "visone",
     "name_pt": "doninha-europeia",
     "name_ca": "visó europeu",
-    "name_de": "Europäischer Nerz"
+    "name_ko": "밍크"
   },
   {
     "node": 9678,
@@ -633,7 +633,7 @@
     "name_it": "iena",
     "name_pt": "hiena",
     "name_ca": "hiena",
-    "name_de": "Hyäne"
+    "name_ko": "하이에나"
   },
   {
     "node": 9689,
@@ -645,7 +645,7 @@
     "name_it": "leone",
     "name_pt": "leão",
     "name_ca": "lleó",
-    "name_de": "Löwe"
+    "name_ko": "사자"
   },
   {
     "node": 9690,
@@ -657,7 +657,7 @@
     "name_it": "giaguaro",
     "name_pt": "onça",
     "name_ca": "jaguar",
-    "name_de": "Jaguar"
+    "name_ko": "재규어"
   },
   {
     "node": 9691,
@@ -669,7 +669,7 @@
     "name_it": "leopardo",
     "name_pt": "leopardo",
     "name_ca": "leopard",
-    "name_de": "Leopard"
+    "name_ko": "표범"
   },
   {
     "node": 9694,
@@ -681,7 +681,7 @@
     "name_it": "tigre",
     "name_pt": "tigre",
     "name_ca": "tigre",
-    "name_de": "Tiger"
+    "name_ko": "호랑이"
   },
   {
     "node": 9696,
@@ -693,7 +693,7 @@
     "name_it": "puma",
     "name_pt": "puma",
     "name_ca": "puma",
-    "name_de": "Puma"
+    "name_ko": "퓨마"
   },
   {
     "node": 9704,
@@ -705,7 +705,7 @@
     "name_it": "leone marino",
     "name_pt": "leão marinho",
     "name_ca": "lleó marí",
-    "name_de": "Seelöwe"
+    "name_ko": "바다사자"
   },
   {
     "node": 9707,
@@ -717,7 +717,7 @@
     "name_it": "tricheco",
     "name_pt": "morsa",
     "name_ca": "morsa",
-    "name_de": "Walross"
+    "name_ko": "바다코끼리"
   },
   {
     "node": 9711,
@@ -729,7 +729,7 @@
     "name_it": "foca",
     "name_pt": "foca",
     "name_ca": "foca",
-    "name_de": "Kegelrobbe"
+    "name_ko": "회색물범"
   },
   {
     "node": 9749,
@@ -741,7 +741,7 @@
     "name_it": "beluga",
     "name_pt": "beluga",
     "name_ca": "beluga",
-    "name_de": "Belugawal"
+    "name_ko": "벨루가"
   },
   {
     "node": 9755,
@@ -753,7 +753,7 @@
     "name_it": "capodoglio",
     "name_pt": "cachalote",
     "name_ca": "catxalot",
-    "name_de": "Pottwal"
+    "name_ko": "향고래"
   },
   {
     "node": 9773,
@@ -765,7 +765,7 @@
     "name_it": "megattera",
     "name_pt": "baleia jubarte",
     "name_ca": "iubarta",
-    "name_de": "Buckelwal"
+    "name_ko": "혹등고래"
   },
   {
     "node": 9778,
@@ -777,7 +777,7 @@
     "name_it": "lamantino",
     "name_pt": "peixe boi",
     "name_ca": "manatí",
-    "name_de": "Seekuh"
+    "name_ko": "매너티"
   },
   {
     "node": 9785,
@@ -789,7 +789,7 @@
     "name_it": "elefante",
     "name_pt": "elefante",
     "name_ca": "elefant",
-    "name_de": "Afrikanischer Elefant"
+    "name_ko": "코끼리"
   },
   {
     "node": 9796,
@@ -801,7 +801,7 @@
     "name_it": "cavallo",
     "name_pt": "cavalo",
     "name_ca": "cavall",
-    "name_de": "Pferd"
+    "name_ko": "말"
   },
   {
     "node": 9807,
@@ -813,7 +813,7 @@
     "name_it": "rinoceronte",
     "name_pt": "rinoceronte",
     "name_ca": "rinoceront",
-    "name_de": "Nashorn"
+    "name_ko": "코뿔소"
   },
   {
     "node": 9818,
@@ -825,7 +825,7 @@
     "name_it": "oritteropo",
     "name_pt": "porco-formigueiro",
     "name_ca": "porc formiguer",
-    "name_de": "Erdferkel"
+    "name_ko": "땅돼지"
   },
   {
     "node": 9838,
@@ -837,7 +837,7 @@
     "name_it": "dromedario",
     "name_pt": "camelo",
     "name_ca": "camell",
-    "name_de": "Dromedar"
+    "name_ko": "낙타"
   },
   {
     "node": 9894,
@@ -849,7 +849,7 @@
     "name_it": "giraffa",
     "name_pt": "girafa",
     "name_ca": "girafa",
-    "name_de": "Giraffe"
+    "name_ko": "기린"
   },
   {
     "node": 9901,
@@ -861,7 +861,7 @@
     "name_it": "bisonte",
     "name_pt": "bisão",
     "name_ca": "bisó",
-    "name_de": "Bison"
+    "name_ko": "들소"
   },
   {
     "node": 9913,
@@ -873,7 +873,7 @@
     "name_it": "mucca",
     "name_pt": "gado",
     "name_ca": "bou",
-    "name_de": "Rind"
+    "name_ko": "소"
   },
   {
     "node": 9940,
@@ -885,7 +885,7 @@
     "name_it": "pecora",
     "name_pt": "ovelha",
     "name_ca": "ovella",
-    "name_de": "Schaf"
+    "name_ko": "양"
   },
   {
     "node": 9974,
@@ -897,7 +897,7 @@
     "name_it": "pangolino",
     "name_pt": "pangolim",
     "name_ca": "pangolí",
-    "name_de": "Malaiisches Schuppentier (Pangolin)"
+    "name_ko": "천산갑"
   },
   {
     "node": 10036,
@@ -909,7 +909,7 @@
     "name_it": "criceto",
     "name_pt": "hamster",
     "name_ca": "hàmster",
-    "name_de": "Goldhamster"
+    "name_ko": "햄스터"
   },
   {
     "node": 10047,
@@ -921,7 +921,7 @@
     "name_it": "gerbillo",
     "name_pt": "gerbil",
     "name_ca": "jerbú",
-    "name_de": "Wüstenrennmaus"
+    "name_ko": "저빌"
   },
   {
     "node": 10090,
@@ -933,7 +933,7 @@
     "name_it": "topo",
     "name_pt": "camundongo",
     "name_ca": "ratolí",
-    "name_de": "Hausmaus"
+    "name_ko": "생쥐"
   },
   {
     "node": 10138,
@@ -945,7 +945,7 @@
     "name_it": "istrice",
     "name_pt": "porco espinho",
     "name_ca": "porc espí",
-    "name_de": "Stachelschwein"
+    "name_ko": "호저"
   },
   {
     "node": 12983,
@@ -957,7 +957,7 @@
     "name_it": "cacatua",
     "name_pt": "cacatua",
     "name_ca": "cacatua de les tanimbar",
-    "name_de": "Kakadu"
+    "name_ko": "코카투"
   },
   {
     "node": 13037,
@@ -969,7 +969,7 @@
     "name_it": "farfalla monarca",
     "name_pt": "borboleta monarca",
     "name_ca": "papallona monarca",
-    "name_de": "Monarchfalter"
+    "name_ko": "제왕나비"
   },
   {
     "node": 13125,
@@ -981,7 +981,7 @@
     "name_it": "lince europea",
     "name_pt": "lince",
     "name_ca": "linx nòrdic",
-    "name_de": "Luchs"
+    "name_ko": "스라소니"
   },
   {
     "node": 13180,
@@ -993,7 +993,7 @@
     "name_it": "calopsita",
     "name_pt": "calopsita",
     "name_ca": "cacatua nimfa",
-    "name_de": "Nymphensittich"
+    "name_ko": "왕관앵무"
   },
   {
     "node": 13397,
@@ -1005,7 +1005,7 @@
     "name_it": "squalo bianco",
     "name_pt": "tubarão branco",
     "name_ca": "tauró blanc",
-    "name_de": "Weißer Hai"
+    "name_ko": "백상아리"
   },
   {
     "node": 13686,
@@ -1017,7 +1017,7 @@
     "name_it": "formica di fuoco",
     "name_pt": "formiga de fogo",
     "name_ca": "formiga de foc",
-    "name_de": "Feuerameise"
+    "name_ko": "붉은불개미"
   },
   {
     "node": 27675,
@@ -1029,7 +1029,7 @@
     "name_it": "bradipo didattilo",
     "name_pt": "preguiça-real",
     "name_ca": "peresós",
-    "name_de": "Zweifingerfaultier"
+    "name_ko": "나무늘보"
   },
   {
     "node": 27794,
@@ -1041,7 +1041,7 @@
     "name_it": "tartaruga liuto",
     "name_pt": "tartaruga de couro",
     "name_ca": "tortuga llaüt",
-    "name_de": "Lederschildkröte"
+    "name_ko": "장수거북"
   },
   {
     "node": 28701,
@@ -1053,7 +1053,7 @@
     "name_it": "pulcinella di mare",
     "name_pt": "fradinho",
     "name_ca": "fraret",
-    "name_de": "Papageitaucher"
+    "name_ko": "코뿔바다오리"
   },
   {
     "node": 28727,
@@ -1065,7 +1065,7 @@
     "name_it": "ghiandaia azzurra",
     "name_pt": "gaio-azul",
     "name_ca": "gaig nord-americà",
-    "name_de": "Blauhäher"
+    "name_ko": "파랑어치"
   },
   {
     "node": 29073,
@@ -1077,7 +1077,7 @@
     "name_it": "orso polare",
     "name_pt": "urso polar",
     "name_ca": "os polar",
-    "name_de": "Eisbär"
+    "name_ko": "북극곰"
   },
   {
     "node": 29139,
@@ -1089,7 +1089,7 @@
     "name_it": "vombato",
     "name_pt": "vombate",
     "name_ca": "uombat",
-    "name_de": "Wombat"
+    "name_ko": "웜뱃"
   },
   {
     "node": 29159,
@@ -1101,7 +1101,7 @@
     "name_it": "ostrica",
     "name_pt": "ostra",
     "name_ca": "ostra",
-    "name_de": "Auster"
+    "name_ko": "굴"
   },
   {
     "node": 30213,
@@ -1113,7 +1113,7 @@
     "name_it": "vespa",
     "name_pt": "vespa",
     "name_ca": "vespa",
-    "name_de": "Wespe"
+    "name_ko": "말벌"
   },
   {
     "node": 30538,
@@ -1125,7 +1125,7 @@
     "name_it": "alpaca",
     "name_pt": "alpaca",
     "name_ca": "alpaca",
-    "name_de": "Alpaka"
+    "name_ko": "알파카"
   },
   {
     "node": 30548,
@@ -1137,7 +1137,7 @@
     "name_it": "moffetta",
     "name_pt": "gambá",
     "name_ca": "mofeta",
-    "name_de": "Stinktier"
+    "name_ko": "스컹크"
   },
   {
     "node": 30554,
@@ -1149,7 +1149,7 @@
     "name_it": "tasso",
     "name_pt": "texugo",
     "name_ca": "teixó",
-    "name_de": "Dachs"
+    "name_ko": "오소리"
   },
   {
     "node": 32536,
@@ -1161,7 +1161,7 @@
     "name_it": "ghepardo",
     "name_pt": "guepardo",
     "name_ca": "guepard",
-    "name_de": "Gepard"
+    "name_ko": "치타"
   },
   {
     "node": 32538,
@@ -1173,7 +1173,7 @@
     "name_it": "ocelot",
     "name_pt": "jaguatirica",
     "name_ca": "ocelot",
-    "name_de": "Ozelot"
+    "name_ko": "오셀롯"
   },
   {
     "node": 34882,
@@ -1185,7 +1185,7 @@
     "name_it": "lontra di mare",
     "name_pt": "lontra-marinha",
     "name_ca": "llúdriga marina",
-    "name_de": "Seeotter"
+    "name_ko": "해달"
   },
   {
     "node": 36312,
@@ -1197,7 +1197,7 @@
     "name_it": "salamandra",
     "name_pt": "salamandra",
     "name_ca": "salamandra",
-    "name_de": "Salamander"
+    "name_ko": "도룡뇽"
   },
   {
     "node": 37032,
@@ -1209,7 +1209,7 @@
     "name_it": "suricato",
     "name_pt": "suricato",
     "name_ca": "suricata",
-    "name_de": "Erdmännchen"
+    "name_ko": "미어캣"
   },
   {
     "node": 37189,
@@ -1221,7 +1221,7 @@
     "name_it": "antilope",
     "name_pt": "antílope",
     "name_ca": "antílop",
-    "name_de": "Antilope"
+    "name_ko": "검은영양"
   },
   {
     "node": 37295,
@@ -1233,7 +1233,7 @@
     "name_it": "scimmia cappuccina",
     "name_pt": "macaco prego",
     "name_ca": "caputxí",
-    "name_de": "Kapuzineraffe"
+    "name_ko": "카푸친원숭이"
   },
   {
     "node": 37610,
@@ -1245,7 +1245,7 @@
     "name_it": "pettirosso",
     "name_pt": "tordo",
     "name_ca": "pit-roig",
-    "name_de": "Rotkehlchen"
+    "name_ko": "미국 지빠귀"
   },
   {
     "node": 37751,
@@ -1257,7 +1257,7 @@
     "name_it": "gazzella",
     "name_pt": "gazela",
     "name_ca": "gasela",
-    "name_de": "Gazelle"
+    "name_ko": "가젤"
   },
   {
     "node": 38626,
@@ -1269,7 +1269,7 @@
     "name_it": "koala",
     "name_pt": "coala",
     "name_ca": "coala",
-    "name_de": "Koala"
+    "name_ko": "코알라"
   },
   {
     "node": 40151,
@@ -1281,7 +1281,7 @@
     "name_it": "narvalo",
     "name_pt": "narval",
     "name_ca": "narval",
-    "name_de": "Narwal"
+    "name_ko": "일각고래"
   },
   {
     "node": 42514,
@@ -1293,7 +1293,7 @@
     "name_it": "piragna",
     "name_pt": "piranha",
     "name_ca": "piranya",
-    "name_de": "Piranha"
+    "name_ko": "피라냐"
   },
   {
     "node": 48849,
@@ -1305,7 +1305,7 @@
     "name_it": "passerotto",
     "name_pt": "pardal",
     "name_ca": "pardal",
-    "name_de": "Spatz"
+    "name_ko": "참새"
   },
   {
     "node": 9375,
@@ -1317,7 +1317,7 @@
     "name_it": "talpa",
     "name_pt": "toupeira",
     "name_ca": "talp",
-    "name_de": "Maulwurf"
+    "name_ko": "두더지"
   },
   {
     "node": 51338,
@@ -1329,7 +1329,7 @@
     "name_it": "castoro",
     "name_pt": "castor",
     "name_ca": "castor",
-    "name_de": "Biber"
+    "name_ko": "비버"
   },
   {
     "node": 51908,
@@ -1341,7 +1341,7 @@
     "name_it": "parrocchetto",
     "name_pt": "periquito",
     "name_ca": "periquito",
-    "name_de": "Sittich"
+    "name_ko": "코뉴어 앵무새"
   },
   {
     "node": 51949,
@@ -1353,7 +1353,7 @@
     "name_it": "raganella velenosa",
     "name_pt": "rã venenosa",
     "name_ca": "granota arlequí",
-    "name_de": "Pfeilgiftfrosch"
+    "name_ko": "독화살개구리"
   },
   {
     "node": 52644,
@@ -1365,7 +1365,7 @@
     "name_it": "aquila calva",
     "name_pt": "águia-careca",
     "name_ca": "àguila marina",
-    "name_de": "Weißkopfseeadler"
+    "name_ko": "흰머리수리"
   },
   {
     "node": 55048,
@@ -1377,7 +1377,7 @@
     "name_it": "donnola",
     "name_pt": "doninha",
     "name_ca": "mostela",
-    "name_de": "Wiesel"
+    "name_ko": "족제비"
   },
   {
     "node": 56313,
@@ -1389,7 +1389,7 @@
     "name_it": "barbagianni",
     "name_pt": "coruja-das-torres",
     "name_ca": "òliba",
-    "name_de": "Schleiereule"
+    "name_ko": "올빼미"
   },
   {
     "node": 56781,
@@ -1401,7 +1401,7 @@
     "name_it": "corvo imperiale",
     "name_pt": "corvo",
     "name_ca": "corb",
-    "name_de": "Rabe"
+    "name_ko": "큰까마귀"
   },
   {
     "node": 57247,
@@ -1413,7 +1413,7 @@
     "name_it": "pappagallo cenerino",
     "name_pt": "papagaio-cinzento",
     "name_ca": "lloro gris",
-    "name_de": "Graupapagei"
+    "name_ko": "회색앵무"
   },
   {
     "node": 60713,
@@ -1425,7 +1425,7 @@
     "name_it": "mimo settentrionale",
     "name_pt": "tordo-imitador",
     "name_ca": "mim políglota",
-    "name_de": "Spottdrossel"
+    "name_ko": "흉내지빠귀"
   },
   {
     "node": 61384,
@@ -1437,7 +1437,7 @@
     "name_it": "lince rossa",
     "name_pt": "lince",
     "name_ca": "linx roig",
-    "name_de": "Rotluchs"
+    "name_ko": "붉은스라소니"
   },
   {
     "node": 9700,
@@ -1449,7 +1449,7 @@
     "name_it": "mangusta",
     "name_pt": "mangusto",
     "name_ca": "mangosta",
-    "name_de": "Mungo"
+    "name_ko": "몽구스"
   },
   {
     "node": 61853,
@@ -1461,7 +1461,7 @@
     "name_it": "gibbone",
     "name_pt": "gibão",
     "name_ca": "gibó",
-    "name_de": "Gibbon"
+    "name_ko": "긴팔원숭이"
   },
   {
     "node": 76717,
@@ -1473,7 +1473,7 @@
     "name_it": "lontra canadese",
     "name_pt": "lontra norte-mericana",
     "name_ca": "llúdriga",
-    "name_de": "Flussotter"
+    "name_ko": "수달"
   },
   {
     "node": 79627,
@@ -1485,7 +1485,7 @@
     "name_it": "pinguino dalla fronte dorata",
     "name_pt": "pinguim saltador",
     "name_ca": "pingüí crestadaurat",
-    "name_de": "Goldschopfpinguin"
+    "name_ko": "마카로니펭귄"
   },
   {
     "node": 84074,
@@ -1497,7 +1497,7 @@
     "name_it": "formichiere",
     "name_pt": "tamanduaí",
     "name_ca": "os formiguer",
-    "name_de": "Zwergameisenbär"
+    "name_ko": "개미핥기"
   },
   {
     "node": 85066,
@@ -1509,7 +1509,7 @@
     "name_it": "cornacchia",
     "name_pt": "corvo",
     "name_ca": "corb americà",
-    "name_de": "Krähe"
+    "name_ko": "까마귀"
   },
   {
     "node": 89248,
@@ -1521,7 +1521,7 @@
     "name_it": "zebra",
     "name_pt": "zebra",
     "name_ca": "zebra",
-    "name_de": "Zebra"
+    "name_ko": "얼룩말"
   },
   {
     "node": 89462,
@@ -1533,7 +1533,7 @@
     "name_it": "bufalo",
     "name_pt": "búfalo",
     "name_ca": "búfal",
-    "name_de": "Wasserbüffel"
+    "name_ko": "물소"
   },
   {
     "node": 30640,
@@ -1545,7 +1545,7 @@
     "name_it": "scoiattolo grigio",
     "name_pt": "esquilo",
     "name_ca": "esquirol",
-    "name_de": "Eichhörnchen"
+    "name_ko": "청설모"
   },
   {
     "node": 254707,
@@ -1557,7 +1557,7 @@
     "name_it": "scoiattolo volante",
     "name_pt": "esquilo voador",
     "name_ca": "esquirol volador",
-    "name_de": "Gleithörnchen"
+    "name_ko": "날다람쥐"
   },
   {
     "node": 100937,
@@ -1569,7 +1569,7 @@
     "name_it": "babbuino",
     "name_pt": "babuíno",
     "name_ca": "papió",
-    "name_de": "Pavian"
+    "name_ko": "개코원숭이"
   },
   {
     "node": 104421,
@@ -1581,7 +1581,7 @@
     "name_it": "formica carpentiere",
     "name_pt": "formiga carpinteira",
     "name_ca": "formiga fustera",
-    "name_de": "Zimmermannsameise"
+    "name_ko": "왕개미"
   },
   {
     "node": 109280,
@@ -1593,7 +1593,7 @@
     "name_it": "cavalluccio marino",
     "name_pt": "cavalo marinho",
     "name_ca": "cavallet de mar",
-    "name_de": "Seepferdchen"
+    "name_ko": "해마"
   },
   {
     "node": 132113,
@@ -1605,7 +1605,7 @@
     "name_it": "bombo",
     "name_pt": "mamangava",
     "name_ca": "borinot",
-    "name_de": "Hummel"
+    "name_ko": "뒤영벌"
   },
   {
     "node": 135631,
@@ -1617,7 +1617,7 @@
     "name_it": "colomba",
     "name_pt": "pomba",
     "name_ca": "colom feréstec",
-    "name_de": "Taube"
+    "name_ko": "비둘기"
   },
   {
     "node": 158814,
@@ -1629,7 +1629,7 @@
     "name_it": "testuggine",
     "name_pt": "tartaruga de caixa",
     "name_ca": "tortuga de caixa",
-    "name_de": "Dosenschildkröte"
+    "name_ko": "상자거북"
   },
   {
     "node": 161767,
@@ -1641,7 +1641,7 @@
     "name_it": "pesce pagliaccio",
     "name_pt": "peixe palhaço",
     "name_ca": "peix pallasso",
-    "name_de": "Clownfisch"
+    "name_ko": "흰동가리"
   },
   {
     "node": 176946,
@@ -1653,7 +1653,7 @@
     "name_it": "pitone birmano",
     "name_pt": "píton birmanesa",
     "name_ca": "pitó de birmania",
-    "name_de": "Birmanische Python"
+    "name_ko": "버마비단뱀"
   },
   {
     "node": 218467,
@@ -1665,7 +1665,7 @@
     "name_it": "scorpione",
     "name_pt": "escorpião",
     "name_ca": "escorpí",
-    "name_de": "Skorpion"
+    "name_ko": "전갈"
   },
   {
     "node": 37607,
@@ -1677,7 +1677,7 @@
     "name_it": "ciuffolotto",
     "name_pt": "dom-fafe",
     "name_ca": "pinsà borroner",
-    "name_de": "Gimpel"
+    "name_ko": "핀치새"
   },
   {
     "node": 262124,
@@ -1689,7 +1689,7 @@
     "name_it": "piccione",
     "name_pt": "pomba kereru",
     "name_ca": "colom",
-    "name_de": "Kererū"
+    "name_ko": "집비둘기"
   },
   {
     "node": 301843,
@@ -1701,7 +1701,7 @@
     "name_it": "geco",
     "name_pt": "lagartixa",
     "name_ca": "dragó",
-    "name_de": "Kapgecko"
+    "name_ko": "게코도마뱀"
   },
   {
     "node": 308060,
@@ -1713,7 +1713,7 @@
     "name_it": "kiwi",
     "name_pt": "kiwi",
     "name_ca": "kiwi",
-    "name_de": "Kiwi"
+    "name_ko": "키위"
   },
   {
     "node": 340076,
@@ -1725,7 +1725,7 @@
     "name_it": "armadillo",
     "name_pt": "tatu",
     "name_ca": "armadillo",
-    "name_de": "Gürteltier"
+    "name_ko": "아르마딜로"
   },
   {
     "node": 371907,
@@ -1737,7 +1737,7 @@
     "name_it": "civetta delle nevi",
     "name_pt": "coruja das neves",
     "name_ca": "duc blanc",
-    "name_de": "Schnee-Eule"
+    "name_ko": "흰올빼미"
   },
   {
     "node": 383689,
@@ -1749,7 +1749,7 @@
     "name_it": "usignolo",
     "name_pt": "rouxinol",
     "name_ca": "rossinyol",
-    "name_de": "Nachtigall"
+    "name_ko": "밤꾀꼬리"
   },
   {
     "node": 494514,
@@ -1761,7 +1761,7 @@
     "name_it": "volpe artica",
     "name_pt": "raposa do ártico",
     "name_ca": "guineu àrtica",
-    "name_de": "Polarfuchs"
+    "name_ko": "북극여우"
   },
   {
     "node": 505845,
@@ -1773,7 +1773,7 @@
     "name_it": "pipistrello della frutta",
     "name_pt": "morcego da fruta",
     "name_ca": "guineu voladora",
-    "name_de": "Flughund"
+    "name_ko": "과일박쥐"
   },
   {
     "node": 1037346,
@@ -1785,7 +1785,7 @@
     "name_it": "sparviere",
     "name_pt": "gavião",
     "name_ca": "astor",
-    "name_de": "Habicht"
+    "name_ko": "새매"
   },
   {
     "node": 6610,
@@ -1797,7 +1797,7 @@
     "name_it": "seppia",
     "name_pt": "sépia",
     "name_ca": "sèpia",
-    "name_de": "Sepia"
+    "name_ko": "갑오징어"
   },
   {
     "node": 102866,
@@ -1809,7 +1809,7 @@
     "name_it": "polpo dagli anelli blu",
     "name_pt": "polvo de anéis azuis",
     "name_ca": "pop d'anelles blaves",
-    "name_de": "Blauring-Krake"
+    "name_ko": "파란고리문어"
   },
   {
     "node": 256136,
@@ -1821,7 +1821,7 @@
     "name_it": "calamaro gigante",
     "name_pt": "lula gigante",
     "name_ca": "calamar gegant",
-    "name_de": "Riesenkalmar"
+    "name_ko": "대왕오징어"
   },
   {
     "node": 260533,
@@ -1833,7 +1833,7 @@
     "name_it": "tarantola golia",
     "name_pt": "tarântula",
     "name_ca": "taràntula",
-    "name_de": "Riesenvogelspinne"
+    "name_ko": "타란툴라"
   },
   {
     "node": 679132,
@@ -1845,7 +1845,7 @@
     "name_it": "ragno cacciatore gigante",
     "name_pt": "aranha-caçadora-gigante",
     "name_ca": "aranya caçadora gegant",
-    "name_de": "Riesenkrabbenspinne"
+    "name_ko": "농발거미"
   },
   {
     "node": 6925,
@@ -1857,7 +1857,7 @@
     "name_it": "vedova nera",
     "name_pt": "viúva negra",
     "name_ca": "vídua negra",
-    "name_de": "Schwarze Witwe"
+    "name_ko": "검은과부거미"
   },
   {
     "node": 8517,
@@ -1869,7 +1869,7 @@
     "name_it": "iguana",
     "name_pt": "iguana",
     "name_ca": "iguana",
-    "name_de": "Leguan"
+    "name_ko": "이구아나"
   },
   {
     "node": 91907,
@@ -1881,7 +1881,7 @@
     "name_it": "camaleonte",
     "name_pt": "camaleão",
     "name_ca": "camaleó",
-    "name_de": "Chamäleon"
+    "name_ko": "카멜레온"
   },
   {
     "node": 6145,
@@ -1893,7 +1893,7 @@
     "name_it": "medusa",
     "name_pt": "água-viva",
     "name_ca": "aurèlia",
-    "name_de": "Gemeine Ohrenqualle"
+    "name_ko": "해파리"
   },
   {
     "node": 6584,
@@ -1905,7 +1905,7 @@
     "name_it": "vongola",
     "name_pt": "molusco do mar",
     "name_ca": "cloïssa de l'atlàntic",
-    "name_de": "Meerklaffmuschel"
+    "name_ko": "조개"
   },
   {
     "node": 6707,
@@ -1917,7 +1917,7 @@
     "name_it": "astice",
     "name_pt": "lagosta",
     "name_ca": "llamàntol",
-    "name_de": "Europäischer Hummer"
+    "name_ko": "바닷가재"
   },
   {
     "node": 102976,
@@ -1929,7 +1929,7 @@
     "name_it": "krill",
     "name_pt": "krill",
     "name_ca": "krill",
-    "name_de": "Pazifischer Krill"
+    "name_ko": "크릴새우"
   },
   {
     "node": 6536,
@@ -1941,7 +1941,7 @@
     "name_it": "chiocciola",
     "name_pt": "escargot",
     "name_ca": "caragol de borgonya",
-    "name_de": "Weinbergschnecke"
+    "name_ko": "달팽이"
   },
   {
     "node": 2067768,
@@ -1953,7 +1953,7 @@
     "name_it": "lumaca banana",
     "name_pt": "lesma banana",
     "name_ca": "llimac plàtan",
-    "name_de": "Bananaschnecke"
+    "name_ko": "바나나민달팽이"
   },
   {
     "node": 7671,
@@ -1965,7 +1965,7 @@
     "name_it": "riccio di mare",
     "name_pt": "ouriço-do-mar",
     "name_ca": "eriçó de mar",
-    "name_de": "Seeigel"
+    "name_ko": "성게"
   },
   {
     "node": 242715,
@@ -1977,7 +1977,7 @@
     "name_it": "corallo cervello",
     "name_pt": "coral-cérebro",
     "name_ca": "corall cervell",
-    "name_de": "Gehirnkoralle"
+    "name_ko": "산호"
   },
   {
     "node": 168775,
@@ -1989,7 +1989,7 @@
     "name_it": "caravella portoghese",
     "name_pt": "caravela-portuguesa",
     "name_ca": "caravel·la portuguesa",
-    "name_de": "Portugiesische Galeere"
+    "name_ko": "고깔해파리"
   },
   {
     "node": 195334,
@@ -2001,7 +2001,7 @@
     "name_it": "squalo martello",
     "name_pt": "tubarão cabeça de martelo",
     "name_ca": "tauró martell",
-    "name_de": "Hammerhai"
+    "name_ko": "귀상어"
   },
   {
     "node": 9833,
@@ -2013,7 +2013,7 @@
     "name_it": "ippopotamo",
     "name_pt": "hipopótamo",
     "name_ca": "hipopòtam",
-    "name_de": "Flusspferd"
+    "name_ko": "하마"
   },
   {
     "node": 7507,
@@ -2025,7 +2025,7 @@
     "name_it": "mantide religiosa",
     "name_pt": "louva-a-deus",
     "name_ca": "mantis",
-    "name_de": "Gottesanbeterin"
+    "name_ko": "사마귀"
   },
   {
     "node": 35669,
@@ -2037,7 +2037,7 @@
     "name_it": "gabbiano",
     "name_pt": "gaivota",
     "name_ca": "gavià argentat",
-    "name_de": "Silbermöwe"
+    "name_ko": "갈매기"
   },
   {
     "node": 6687,
@@ -2049,7 +2049,7 @@
     "name_it": "gambero gigante indopacifico",
     "name_pt": "camarão tigre",
     "name_ca": "llagostí negre",
-    "name_de": "Tiger-Garnele"
+    "name_ko": "얼룩새우"
   },
   {
     "node": 51876,
@@ -2061,7 +2061,7 @@
     "name_it": "anaconda",
     "name_pt": "sucuri",
     "name_ca": "anaconda",
-    "name_de": "Grüne Anakonda"
+    "name_ko": "아나콘다"
   },
   {
     "node": 56350,
@@ -2073,7 +2073,7 @@
     "name_it": "gheppio",
     "name_pt": "falcão-americano",
     "name_ca": "xoriguer",
-    "name_de": "Amerikanischer Turmfalke"
+    "name_ko": "황조롱이"
   },
   {
     "node": 9739,
@@ -2085,7 +2085,7 @@
     "name_it": "delfino",
     "name_pt": "golfinho",
     "name_ca": "dofí",
-    "name_de": "Großer Tümmler"
+    "name_ko": "돌고래"
   },
   {
     "node": 166335,
@@ -2097,7 +2097,7 @@
     "name_it": "scarabeo stercorario",
     "name_pt": "escaravelho",
     "name_ca": "escarabat",
-    "name_de": "Heiliger Pillendreher"
+    "name_ko": "소똥구리"
   },
   {
     "node": 9321,
@@ -2109,7 +2109,7 @@
     "name_it": "canguro",
     "name_pt": "canguru",
     "name_ca": "cangur",
-    "name_de": "Rotes Riesenkänguru"
+    "name_ko": "캥거루"
   },
   {
     "node": 95723,
@@ -2121,7 +2121,7 @@
     "name_it": "tucano",
     "name_pt": "tucano",
     "name_ca": "tucà",
-    "name_de": "Tukan"
+    "name_ko": "왕부리새"
   },
   {
     "node": 9844,
@@ -2133,7 +2133,7 @@
     "name_it": "lama",
     "name_pt": "lhama",
     "name_ca": "llama",
-    "name_de": "Lama"
+    "name_ko": "라마"
   },
   {
     "node": 8924,
@@ -2145,7 +2145,7 @@
     "name_it": "condor",
     "name_pt": "condor",
     "name_ca": "còndor",
-    "name_de": "Andenkondor"
+    "name_ko": "콘도르"
   },
   {
     "node": 435638,
@@ -2157,7 +2157,7 @@
     "name_it": "fenicottero",
     "name_pt": "flamingo",
     "name_ca": "flamenc",
-    "name_de": "Rosaflamingo"
+    "name_ko": "플라밍고"
   },
   {
     "node": 9995,
@@ -2169,7 +2169,7 @@
     "name_it": "marmotta",
     "name_pt": "marmota",
     "name_ca": "marmota",
-    "name_de": "Murmel"
+    "name_ko": "마멋"
   },
   {
     "node": 8005,
@@ -2181,7 +2181,7 @@
     "name_it": "anguilla elettrica",
     "name_pt": "enguia elétrica",
     "name_ca": "anguila elèctrica",
-    "name_de": "Elektrischer Aal"
+    "name_ko": "전기뱀장어"
   },
   {
     "node": 8624,
@@ -2193,7 +2193,7 @@
     "name_it": "mamba nero",
     "name_pt": "mamba negra",
     "name_ca": "mamba negra",
-    "name_de": "Schwarze Mamba"
+    "name_ko": "블랙맘바"
   },
   {
     "node": 61221,
@@ -2205,7 +2205,7 @@
     "name_it": "drago di komodo",
     "name_pt": "dragão de komodo",
     "name_ca": "dragó de komodo",
-    "name_de": "Komodowaran"
+    "name_ko": "코모도왕도마뱀"
   },
   {
     "node": 9305,
@@ -2217,7 +2217,7 @@
     "name_it": "diavolo della tasmania",
     "name_pt": "diabo da tasmânia",
     "name_ca": "diable de tasmània",
-    "name_de": "Beutelteufel"
+    "name_ko": "태즈메이니아주머니너구리"
   },
   {
     "node": 9447,
@@ -2229,7 +2229,7 @@
     "name_it": "lemure",
     "name_pt": "lêmure",
     "name_ca": "lèmur",
-    "name_de": "Katta"
+    "name_ko": "여우원숭이"
   },
   {
     "node": 7010,
@@ -2241,7 +2241,7 @@
     "name_it": "locusta",
     "name_pt": "gafanhoto",
     "name_ca": "llagosta del desert",
-    "name_de": "Wüstenheuschrecke"
+    "name_ko": "사막메뚜기"
   },
   {
     "node": 7009,
@@ -2253,7 +2253,7 @@
     "name_it": "cavalletta",
     "name_pt": "esperança",
     "name_ca": "llagosta americana",
-    "name_de": "Gewöhnliche Grashüpfer"
+    "name_ko": "미국새메뚜기"
   },
   {
     "node": 58607,
@@ -2265,7 +2265,7 @@
     "name_it": "grillo",
     "name_pt": "grilo",
     "name_ca": "grill",
-    "name_de": "Heuschrecke"
+    "name_ko": "귀뚜라미"
   },
   {
     "node": 1574408,
@@ -2277,7 +2277,7 @@
     "name_it": "wapiti",
     "name_pt": "uapiti",
     "name_ca": "uapití",
-    "name_de": "Wapiti"
+    "name_ko": "와피티사슴"
   },
   {
     "node": 9870,
@@ -2289,7 +2289,7 @@
     "name_it": "caribù",
     "name_pt": "caribú",
     "name_ca": "ren",
-    "name_de": "Rentier"
+    "name_ko": "순록"
   },
   {
     "node": 70868,
@@ -2301,7 +2301,7 @@
     "name_it": "barracuda",
     "name_pt": "barracuda",
     "name_ca": "barracuda",
-    "name_de": "Barrakuda"
+    "name_ko": "꼬치고기"
   },
   {
     "node": 41139,
@@ -2313,7 +2313,7 @@
     "name_it": "coccinella",
     "name_pt": "joaninha",
     "name_ca": "marieta",
-    "name_de": "Siebenpunkt-Marienkäfer"
+    "name_ko": "무당벌레"
   },
   {
     "node": 63978,
@@ -2325,7 +2325,7 @@
     "name_it": "farfalla cobra",
     "name_pt": "mariposa atlas",
     "name_ca": "papallona atles",
-    "name_de": "Atlas-Falter"
+    "name_ko": "아틀라스나방"
   },
   {
     "node": 36987,
@@ -2337,7 +2337,7 @@
     "name_it": "termite",
     "name_pt": "cupim",
     "name_ca": "tèrmit",
-    "name_de": "Formosanische Termiten"
+    "name_ko": "흰개미"
   },
   {
     "node": 6978,
@@ -2349,7 +2349,7 @@
     "name_it": "scarafaggio",
     "name_pt": "barata",
     "name_ca": "panerola",
-    "name_de": "Amerikanische Schabe"
+    "name_ko": "바퀴벌레"
   },
   {
     "node": 13068,
@@ -2361,7 +2361,7 @@
     "name_it": "tagliaforbice",
     "name_pt": "lacrainha",
     "name_ca": "tisoretes",
-    "name_de": "Ohrwurm"
+    "name_ko": "집게벌레"
   },
   {
     "node": 1646243,
@@ -2373,7 +2373,7 @@
     "name_it": "libellula",
     "name_pt": "libélula",
     "name_ca": "libèl·lula",
-    "name_de": "Kanadische Mosaikjungfer"
+    "name_ko": "잠자리"
   },
   {
     "node": 8554,
@@ -2385,7 +2385,7 @@
     "name_it": "mostro di gila",
     "name_pt": "monstro de gila",
     "name_ca": "monstre de gila",
-    "name_de": "Gila-Krustenechse"
+    "name_ko": "독도마뱀"
   },
   {
     "node": 10149,
@@ -2397,7 +2397,7 @@
     "name_it": "capibara",
     "name_pt": "capivara",
     "name_ca": "capibara",
-    "name_de": "Wasserschwein"
+    "name_ko": "카피바라"
   },
   {
     "node": 1983395,
@@ -2409,7 +2409,7 @@
     "name_it": "manta",
     "name_pt": "raia manta",
     "name_ca": "manta gegant",
-    "name_de": "Rochen"
+    "name_ko": "대왕쥐가오리"
   },
   {
     "node": 2484686,
@@ -2421,7 +2421,7 @@
     "name_it": "razza",
     "name_pt": "raia do sul",
     "name_ca": "escurçana americana",
-    "name_de": "Stechrochen"
+    "name_ko": "매가오리"
   },
   {
     "node": 1129476,
@@ -2433,7 +2433,7 @@
     "name_it": "paguro",
     "name_pt": "caranguejo ermitão",
     "name_ca": "cranc hermità",
-    "name_de": "Einsiedlerkrebs"
+    "name_ko": "소라게"
   },
   {
     "node": 342437,
@@ -2445,7 +2445,7 @@
     "name_it": "pesce palla",
     "name_pt": "baiacu",
     "name_ca": "peix globus",
-    "name_de": "Kugelfisch"
+    "name_ko": "복어"
   },
   {
     "node": 9049,
@@ -2457,7 +2457,7 @@
     "name_it": "pavone",
     "name_pt": "pavão",
     "name_ca": "paó",
-    "name_de": "Pfau"
+    "name_ko": "공작"
   },
   {
     "node": 571810,
@@ -2469,7 +2469,7 @@
     "name_it": "cetriolo di mare",
     "name_pt": "pepino-do-mar",
     "name_ca": "cogombre de mar",
-    "name_de": "Seegurke"
+    "name_ko": "해삼"
   },
   {
     "node": 9852,
@@ -2481,7 +2481,7 @@
     "name_it": "alce",
     "name_pt": "alce",
     "name_ca": "ant",
-    "name_de": "Elch"
+    "name_ko": "물코손바닥사슴"
   },
   {
     "node": 13347,
@@ -2493,7 +2493,7 @@
     "name_it": "porcellino di terra",
     "name_pt": "tatuzinho-de-jardim",
     "name_ca": "porquet de sant antoni",
-    "name_de": "Kellerassel"
+    "name_ko": "공벌레"
   },
   {
     "node": 110520,
@@ -2505,7 +2505,7 @@
     "name_it": "balano",
     "name_pt": "craca",
     "name_ca": "percebe",
-    "name_de": "Seepocke"
+    "name_ko": "따개비"
   },
   {
     "node": 8574,
@@ -2517,7 +2517,7 @@
     "name_it": "boa constritor",
     "name_pt": "jiboia",
     "name_ca": "boa constrictor",
-    "name_de": "Boa Constrictor"
+    "name_ko": "보아뱀"
   },
   {
     "node": 30521,
@@ -2529,7 +2529,7 @@
     "name_it": "yak",
     "name_pt": "iaque",
     "name_ca": "iac",
-    "name_de": "Yak"
+    "name_ko": "야크"
   },
   {
     "node": 10141,
@@ -2541,7 +2541,7 @@
     "name_it": "porcellino d'india",
     "name_pt": "porquinho da índia",
     "name_ca": "conillet d'índies",
-    "name_de": "Meerschweinchen"
+    "name_ko": "기니피그"
   },
   {
     "node": 8697,
@@ -2553,7 +2553,7 @@
     "name_it": "vipera",
     "name_pt": "víbora chifruda",
     "name_ca": "escurçó cornut",
-    "name_de": "Wüstensandviper"
+    "name_ko": "사막뿔살무사"
   },
   {
     "node": 66189,
@@ -2565,7 +2565,7 @@
     "name_it": "tartaruga delle galàpagos",
     "name_pt": "tartaruga de galápagos",
     "name_ca": "tortuga de les galàpagos",
-    "name_de": "Riesenschildkröte"
+    "name_ko": "타란튤라"
   },
   {
     "node": 8475,
@@ -2577,7 +2577,7 @@
     "name_it": "tartaruga azzannatrice",
     "name_pt": "tartaruga mordedora",
     "name_ca": "tortuga mossegadora",
-    "name_de": "Schnappschildkröte"
+    "name_ko": "늑대거북"
   },
   {
     "node": 8730,
@@ -2589,7 +2589,7 @@
     "name_it": "serpente a sonagli",
     "name_pt": "cascavél",
     "name_ca": "serp de cascabell",
-    "name_de": "Klapperschlange"
+    "name_ko": "방울뱀"
   },
   {
     "node": 9268,
@@ -2601,7 +2601,7 @@
     "name_it": "opossum",
     "name_pt": "gambá-comum",
     "name_ca": "opòssum",
-    "name_de": "Beutelratte"
+    "name_ko": "주머니쥐"
   },
   {
     "node": 1247135,
@@ -2613,7 +2613,7 @@
     "name_it": "scarabeo ercole",
     "name_pt": "besouro hércules",
     "name_ca": "escarabat hèrcules",
-    "name_de": "Herkuleskäfer"
+    "name_ko": "헤라클레스장수풍뎅이"
   },
   {
     "node": 6421,
@@ -2625,7 +2625,7 @@
     "name_it": "sanguisuga",
     "name_pt": "sanguessuga",
     "name_ca": "sangonera",
-    "name_de": "Blutegel"
+    "name_ko": "거머리"
   },
   {
     "node": 8074,
@@ -2637,7 +2637,7 @@
     "name_it": "rana pescatrice",
     "name_pt": "peixe pescador",
     "name_ca": "rap",
-    "name_de": "Seeteufel"
+    "name_ko": "아귀"
   },
   {
     "node": 6398,
@@ -2649,7 +2649,7 @@
     "name_it": "lombrico",
     "name_pt": "minhoca",
     "name_ca": "cuc de terra",
-    "name_de": "Regenwurm"
+    "name_ko": "지렁이"
   },
   {
     "node": 1351942,
@@ -2661,7 +2661,7 @@
     "name_it": "dollaro della sabbia",
     "name_pt": "bolacha da praia",
     "name_ca": "dòlar de sorra",
-    "name_de": "Sanddollar"
+    "name_ko": "연잎성게"
   },
   {
     "node": 6550,
@@ -2673,7 +2673,7 @@
     "name_it": "cozza",
     "name_pt": "mexilhão",
     "name_ca": "musclo",
-    "name_de": "Miesmuschel"
+    "name_ko": "홍합"
   },
   {
     "node": 120888,
@@ -2685,7 +2685,7 @@
     "name_it": "canocchia pavone",
     "name_pt": "lagosta boxeadora",
     "name_ca": "gamba mantis",
-    "name_de": "Pfeilgrundel"
+    "name_ko": "갯가재"
   },
   {
     "node": 8665,
@@ -2697,7 +2697,7 @@
     "name_it": "cobra",
     "name_pt": "cobra real",
     "name_ca": "cobra reial",
-    "name_de": "Königskobra"
+    "name_ko": "킹코브라"
   },
   {
     "node": 291247,
@@ -2709,7 +2709,7 @@
     "name_it": "millepiedi",
     "name_pt": "mil-pés",
     "name_ca": "milpeus",
-    "name_de": "Tausendfüßler"
+    "name_ko": "노래기"
   },
   {
     "node": 8081,
@@ -2721,7 +2721,7 @@
     "name_it": "guppy",
     "name_pt": "barrigudinho",
     "name_ca": "guppy",
-    "name_de": "Guppy"
+    "name_ko": "구피"
   },
   {
     "node": 9333,
@@ -2733,7 +2733,7 @@
     "name_it": "coda ad anello",
     "name_pt": "possum",
     "name_ca": "uta",
-    "name_de": "Kletterbeutler"
+    "name_ko": "포섬"
   },
   {
     "node": 1678817,
@@ -2745,7 +2745,7 @@
     "name_it": "effimera",
     "name_pt": "efêmero",
     "name_ca": "efemeròpter",
-    "name_de": "Eintagsfliege"
+    "name_ko": "하루살이"
   },
   {
     "node": 29022,
@@ -2757,7 +2757,7 @@
     "name_it": "scutigera",
     "name_pt": "centopeia caseira",
     "name_ca": "centpeus",
-    "name_de": "Hundertfüßer"
+    "name_ko": "그리마"
   },
   {
     "node": 45474,
@@ -2769,7 +2769,7 @@
     "name_it": "tamia",
     "name_pt": "tâmia",
     "name_ca": "esquirol llistat",
-    "name_de": "Streifenhörnchen"
+    "name_ko": "다람쥐"
   },
   {
     "node": 8236,
@@ -2781,7 +2781,7 @@
     "name_it": "tonno",
     "name_pt": "atum",
     "name_ca": "tonyina",
-    "name_de": "Gelbflossen-Thunfisch"
+    "name_ko": "참치"
   },
   {
     "node": 190476,
@@ -2793,7 +2793,7 @@
     "name_it": "caimano",
     "name_pt": "caiman",
     "name_ca": "caiman",
-    "name_de": "Brillenkaiman"
+    "name_ko": "카이만"
   },
   {
     "node": 68724,
@@ -2805,7 +2805,7 @@
     "name_it": "sciacallo",
     "name_pt": "chacal",
     "name_ca": "xacal",
-    "name_de": "Goldschakal"
+    "name_ko": "자칼"
   },
   {
     "node": 7819,
@@ -2817,7 +2817,7 @@
     "name_it": "squalo tigre",
     "name_pt": "tubarão-tigre",
     "name_ca": "tauró tigre",
-    "name_de": "Tigerhai"
+    "name_ko": "뱀상어"
   },
   {
     "node": 57987,
@@ -2829,7 +2829,7 @@
     "name_it": "squalo goblin",
     "name_pt": "tubarão-duende",
     "name_ca": "tauró follet",
-    "name_de": "Koboldhai"
+    "name_ko": "마귀상어"
   },
   {
     "node": 267067,
@@ -2841,7 +2841,7 @@
     "name_it": "piovra gigante",
     "name_pt": "polvo gigante",
     "name_ca": "pop gegant",
-    "name_de": "Riesenkrake"
+    "name_ko": "태평양대왕문어"
   },
   {
     "node": 34570,
@@ -2853,7 +2853,7 @@
     "name_it": "calamaro di lesson",
     "name_pt": "lula de glitter",
     "name_ca": "calamar d'aleta gran",
-    "name_de": "Sepia"
+    "name_ko": "큰지느러미오징어"
   },
   {
     "node": 34578,
@@ -2865,7 +2865,7 @@
     "name_it": "nautilo",
     "name_pt": "náutilo",
     "name_ca": "nàutil",
-    "name_de": "Perlboot"
+    "name_ko": "앵무조개"
   },
   {
     "node": 51359,
@@ -2877,7 +2877,7 @@
     "name_it": "picchio",
     "name_pt": "pica-pau",
     "name_ca": "picot negre",
-    "name_de": "Helmspecht"
+    "name_ko": "딱따구리"
   },
   {
     "node": 2082998,
@@ -2889,7 +2889,7 @@
     "name_it": "colibrì",
     "name_pt": "beija-flor",
     "name_ca": "colibrí",
-    "name_de": "Kolibri"
+    "name_ko": "벌새"
   },
   {
     "node": 52810,
@@ -2901,7 +2901,7 @@
     "name_it": "nibbio bruno",
     "name_pt": "milhafre",
     "name_ca": "milà negre",
-    "name_de": "Schwarzmilan"
+    "name_ko": "솔개"
   },
   {
     "node": 43455,
@@ -2913,7 +2913,7 @@
     "name_it": "avvoltoio collorosso",
     "name_pt": "urubu-de-cabeça-vermelha",
     "name_ca": "zopilot capvermell",
-    "name_de": "Truthahngeier"
+    "name_ko": "칠면조독수리"
   },
   {
     "node": 96725,
@@ -2925,7 +2925,7 @@
     "name_it": "scinco",
     "name_pt": "lagarto",
     "name_ca": "esquinc de llengua blava",
-    "name_de": "Blauzungenskink"
+    "name_ko": "도루묵도마뱀"
   },
   {
     "node": 212017,
@@ -2937,7 +2937,7 @@
     "name_it": "cimice d'acqua",
     "name_pt": "barata d'água",
     "name_ca": "escarabat d'aigua",
-    "name_de": "Wasserwanze"
+    "name_ko": "물장군"
   },
   {
     "node": 209230,
@@ -2949,7 +2949,7 @@
     "name_it": "pesce betta",
     "name_pt": "peixe betta",
     "name_ca": "gourami",
-    "name_de": "Roter Kampffisch"
+    "name_ko": "베타"
   },
   {
     "node": 129333,
@@ -2961,7 +2961,7 @@
     "name_it": "pitone verde",
     "name_pt": "píton verde",
     "name_ca": "pitó verd",
-    "name_de": "Grüner Baumpython"
+    "name_ko": "초록나무비단뱀"
   },
   {
     "node": 1647984,
@@ -2973,7 +2973,7 @@
     "name_it": "granchio violino",
     "name_pt": "caranguejo violinista",
     "name_ca": "cranc violinista",
-    "name_de": "Winkerkrabbe"
+    "name_ko": "농게"
   },
   {
     "node": 9927,
@@ -2985,7 +2985,7 @@
     "name_it": "gnù",
     "name_pt": "gnu",
     "name_ca": "nyu",
-    "name_de": "Gnu"
+    "name_ko": "검은꼬리누"
   },
   {
     "node": 50434,
@@ -2997,7 +2997,7 @@
     "name_it": "pulce",
     "name_pt": "pulga",
     "name_ca": "puça",
-    "name_de": "Hundefloh"
+    "name_ko": "벼룩"
   },
   {
     "node": 7897,
@@ -3009,7 +3009,7 @@
     "name_it": "celacanto",
     "name_pt": "celacanto",
     "name_ca": "celacant",
-    "name_de": "Quastenflosser"
+    "name_ko": "실러캔스"
   },
   {
     "node": 202113,
@@ -3021,7 +3021,7 @@
     "name_it": "spugna di mare",
     "name_pt": "esponja do mar",
     "name_ca": "esponja de mar",
-    "name_de": "Meeresschwamm"
+    "name_ko": "해면"
   },
   {
     "node": 8839,
@@ -3033,7 +3033,7 @@
     "name_it": "papera",
     "name_pt": "pato",
     "name_ca": "ànec",
-    "name_de": "Stockente"
+    "name_ko": "청둥오리"
   },
   {
     "node": 9103,
@@ -3045,7 +3045,7 @@
     "name_it": "tacchino",
     "name_pt": "peru",
     "name_ca": "gall dindi",
-    "name_de": "Truthahn"
+    "name_ko": "칠면조"
   },
   {
     "node": 9606,
@@ -3057,7 +3057,7 @@
     "name_it": "umano",
     "name_pt": "humano",
     "name_ca": "humà",
-    "name_de": "Mensch"
+    "name_ko": "인간"
   },
   {
     "node": 9612,
@@ -3069,7 +3069,7 @@
     "name_it": "lupo",
     "name_pt": "lobo",
     "name_ca": "llop",
-    "name_de": "Wolf"
+    "name_ko": "늑대"
   },
   {
     "node": 9685,
@@ -3081,7 +3081,7 @@
     "name_it": "gatto",
     "name_pt": "gato",
     "name_ca": "gat",
-    "name_de": "Katze"
+    "name_ko": "고양이"
   },
   {
     "node": 9733,
@@ -3093,7 +3093,7 @@
     "name_it": "orca",
     "name_pt": "orca",
     "name_ca": "orca",
-    "name_de": "Orca"
+    "name_ko": "오르카"
   },
   {
     "node": 9793,
@@ -3105,7 +3105,7 @@
     "name_it": "asino",
     "name_pt": "burro",
     "name_ca": "ase",
-    "name_de": "Esel"
+    "name_ko": "당나귀"
   },
   {
     "node": 9823,
@@ -3117,7 +3117,7 @@
     "name_it": "maiale",
     "name_pt": "javali",
     "name_ca": "porc senglar",
-    "name_de": "Schwein"
+    "name_ko": "돼지"
   },
   {
     "node": 9874,
@@ -3129,7 +3129,7 @@
     "name_it": "cervo",
     "name_pt": "cervo",
     "name_ca": "cérvol",
-    "name_de": "Weißwedelhirsch"
+    "name_ko": "사슴"
   },
   {
     "node": 9925,
@@ -3141,7 +3141,7 @@
     "name_it": "capra",
     "name_pt": "cabra",
     "name_ca": "cabra",
-    "name_de": "Ziege"
+    "name_ko": "염소"
   },
   {
     "node": 9986,
@@ -3153,7 +3153,7 @@
     "name_it": "coniglio",
     "name_pt": "coelho",
     "name_ca": "conill",
-    "name_de": "Kaninchen"
+    "name_ko": "토끼"
   },
   {
     "node": 27706,
@@ -3165,7 +3165,7 @@
     "name_it": "pesce persico",
     "name_pt": "achigã",
     "name_ca": "perca americana",
-    "name_de": "Barsch"
+    "name_ko": "배스"
   },
   {
     "node": 48420,
@@ -3177,7 +3177,7 @@
     "name_it": "ghiottone",
     "name_pt": "glutão",
     "name_ca": "golut",
-    "name_de": "Vielfraß"
+    "name_ko": "울버린"
   },
   {
     "node": 51900,
@@ -3189,7 +3189,7 @@
     "name_it": "ara",
     "name_pt": "arara-azul",
     "name_ca": "guacamai jacint",
-    "name_de": "Hyazinthara"
+    "name_ko": "금강앵무"
   },
   {
     "node": 163847,
@@ -3201,7 +3201,7 @@
     "name_it": "canarino",
     "name_pt": "canário",
     "name_ca": "canari",
-    "name_de": "Kanarienvogel"
+    "name_ko": "카나리아"
   },
   {
     "node": 10116,
@@ -3213,7 +3213,7 @@
     "name_it": "ratto",
     "name_pt": "rato",
     "name_ca": "rata",
-    "name_de": "Hausratte"
+    "name_ko": "시궁쥐"
   },
   {
     "node": 46460,
@@ -3225,6 +3225,6 @@
     "name_it": "tardigrado",
     "name_pt": "tardígrado",
     "name_ca": "tardígrad",
-    "name_de": "Wasserbär"
+    "name_ko": "곰벌레"
   }
 ]
