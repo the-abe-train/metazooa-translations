@@ -45,14 +45,14 @@
     },
     "home": {
       "0": {
-        "0": "Az állatok országa (<i>Metazoa</i> görögül) tele van távoli rokonainkkal... néhányan még távolibbak mint mások! Metazooa egy játék ami próbára tesz hogy mennyire ismered a kiterjesztett családfánkat.",
+        "0": "Az állatok országa (<i>Metazoa</i> görögül) tele van távoli rokonainkkal... néhányan sokkal távolibbak mint mások! Metazooa egy játék ami próbára teszi hogy mennyire ismered a kiterjesztett családfánkat.",
         "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
       },
-      "1": "A célod hogy kitaláld a mai <b>{{species.generic}}</b>ot a lehető legkevesebb próbálkozásból. A rossz válaszok leszűkítik a végső megoldás rendszertani kategóriáját (ország, törzs , osztály, rend, stb.) Minél közelebb jutsz a megoldáshoz, annál többet tudsz meg a {{species.generic}}ról.",
+      "1": "A célod hogy kitaláld a mai <b>{{species.generic}}</b>ot a lehető legkevesebb próbálkozásból. A rossz válaszok leszűkítik a végső megoldás rendszertani kategóriáját (ország, törzs , osztály, rend, stb). Minél közelebb jutsz a megoldáshoz, annál többet tudsz meg a {{species.generic}}ról.",
       "2": "Például, ha a megoldás “{{answer}}”, a tippeid egy olyan fát hozhatnak létre, mint az alábbi:",
       "3": "Minden nap pontosan {{species.unique}} van, de kapsz {{MAX_GUESSES}} tippet hogy kitalálhasd! Új játékhoz hátrelévő idő: <b>{{nextGame}}</b>.",
       "4": "Már kitaláltad a mai {{species.generic}}ot?",
-      "5": "Játék",
+      "5": "Játék"
     },
     "game": {
       "0": "Mutasd a táblázatot",
@@ -67,7 +67,7 @@
         "1": "Elfogytak a tippjeid."
       },
       "2": "Oszd meg az eredményed másokkal vagy játsz egy gyakorló játékot!",
-      "3": "Játsz egy másik játékot" //TODO: find on page
+      "3": "Játsz egy másik játékot"
     },
     "share": {
       "0": "Megosztás",
@@ -83,27 +83,27 @@
       "4": "Vissza a családfához"
     },
     "errors": {
-      "0": "Nincs error",
+      "0": "Nincs hiba",
       "1": "\"{{guess}}\" nincs az adatbázisban",
       "2": "Már tippelted a  \"{{guess}}t\"",
       "3": "A megoldás \"{{guess}}\"",
-      "4": "\"{{guess}}\"re gondoltál?" //TODO: ra re
+      "4": "Erre gondoltál? \"{{guess}}\""
     },
     "button": {
       "0": "Lépj be az {{menagerie}}be!"
     },
     "footer": {
-      "0": "by Trainwreck Labs",
+      "0": "Trainwreck Labs",
       "1": "Csatlakozz a Discord szerverhez!",
       "2": "Kérdésed van?",
       "3": "Kattints ide a GYIKhez"
     },
     "hint": {
-      "0": "Segítség kell? Cserélj el 3 tippet hogy egy kategóriával közelebb kerülj a megoldáshoz!",
+      "0": "Segítség kell? Áldozz fel 3 tippet hogy egy kategóriával közelebb kerülj a megoldáshoz!",
       "1": "Segítség"
     },
     "wikipedia": {
-      "0": "Wikipediáról",
+      "0": "A Wikipediáról",
       "1": {
         "Show": "Mutasd a képet",
         "Hide": "Kép elrejtése"
@@ -116,19 +116,19 @@
     },
     "statistics": {
       "0": "Statisztika",
-      "1": "Games",
+      "1": "Játékok",
       "2": "Streak",
-      "3": "Plays",
-      "4": "Wins",
-      "5": "Current",
-      "6": "Max",
-      "7": "Questions used for each win. Bar colour denotes proximity of average guess to the answer."
+      "3": "Játékok",
+      "4": "Nyert játékok",
+      "5": "Mostani",
+      "6": "Leghosszabb",
+      "7": "Felhasznált kérdések per játék. A szín azt mutatja hogy mennyire volt közel az átlaghoz."
     },
     "settings": {
       "0": "Beállítások",
       "1": "Játék latin nevekkel",
       "2": "Nyelv",
-      "3": "Angol" //TODO: is it Magyar?
+      "3": "Magyar"
     },
     "practice": {
       "0": "Gyakorlás",
@@ -143,7 +143,7 @@
     },
     "twl": {
       "0": "Bejelentkezés",
-      "1": "Connect <b>{{game}}</b> to your TWL account",
+      "1": "Csatlakoztasd a <b>{{game}}</b>t a TWL felhasználódhoz",
       "2": "Bejelentkezés Google hasznalatával",
       "3": "Bejelentkezés Discord hasznalatával",
       "4": "Iratkozz fel a Trainwreck Labs hírlevelre",
@@ -155,7 +155,7 @@
       "0": "GYIK",
       "1": {
         "q": "Mi alapján lettek a játékban szereplő {{kingdom.generic}} kiválasztva?",
-        "a": "Az {{kingdom.generic}} a {{game}}ban az alapján lettek kiválasztva, hogy mennyire ismertek az átlegemberek számára és hogy a széles választékuk érdekessé tegye a játékot.."
+        "a": "Az {{kingdom.generic}} a {{game}}ban az alapján lettek kiválasztva, hogy mennyire ismertek az átlegemberek számára és hogy a széles választékuk érdekessé tegye a játékot."
       },
       "2": {
         "q": "Hibás a játék! A Wikipedián másmilyen besorolása van az {{kingdom.generic}}nak.",

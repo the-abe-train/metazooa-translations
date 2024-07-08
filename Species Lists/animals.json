@@ -645,7 +645,8 @@
     "name": "bison",
     "parent": 9900,
     "name_es": "bisonte",
-    "name_fr": "bison"
+    "name_fr": "bison",
+    "name_hu": "bölény"
   },
   {
     "node": 9913,
@@ -654,7 +655,7 @@
     "parent": 9903,
     "name_es": "ganado",
     "name_fr": "vache",
-    "name_hu": "bölény"
+    "name_hu": "tehén"
   },
   {
     "node": 9940,
@@ -1572,7 +1573,7 @@
     "parent": 1172026,
     "name_es": "escarabajo",
     "name_fr": "bousier",
-    "name_hum": "ganajtúró bogár"
+    "name_hu": "ganajtúró bogár"
   },
   {
     "node": 9321,
