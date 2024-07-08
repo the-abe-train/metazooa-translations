@@ -5,7 +5,8 @@
     "name": "anemone",
     "parent": 6104,
     "name_es": "anémona",
-    "name_fr": "anémone"
+    "name_fr": "anémone",
+    "name_hu": "tengeri rózsa"
   },
   {
     "node": 7022,
@@ -13,7 +14,8 @@
     "name": "stick bug",
     "parent": 7021,
     "name_es": "insecto palo",
-    "name_fr": "phasme"
+    "name_fr": "phasme",
+    "name_hu": "botsáska"
   },
   {
     "node": 7051,
@@ -21,7 +23,8 @@
     "name": "firefly",
     "parent": 3019017,
     "name_es": "luciérnaga",
-    "name_fr": "luciole"
+    "name_fr": "luciole",
+    "name_hu": "szentjánosbogár"
   },
   {
     "node": 7091,
@@ -29,7 +32,8 @@
     "name": "silkworm",
     "parent": 7090,
     "name_es": "gusano de seda",
-    "name_fr": "ver à soie"
+    "name_fr": "ver à soie",
+    "name_hu": "selyemhernyó"
   },
   {
     "node": 7159,
@@ -37,7 +41,8 @@
     "name": "mosquito",
     "parent": 53541,
     "name_es": "mosquito",
-    "name_fr": "moustique"
+    "name_fr": "moustique",
+    "name_hu": "szúnyog"
   },
   {
     "node": 7227,
@@ -45,7 +50,8 @@
     "name": "fruit fly",
     "parent": 32351,
     "name_es": "mosca de fruta",
-    "name_fr": "drosophile"
+    "name_fr": "drosophile",
+    "name_hu": "muslica"
   },
   {
     "node": 7370,
@@ -53,7 +59,8 @@
     "name": "house fly",
     "parent": 44052,
     "name_es": "mosca de casa",
-    "name_fr": "mouche"
+    "name_fr": "mouche",
+    "name_hu": "házilégy"
   },
   {
     "node": 7445,
@@ -61,7 +68,8 @@
     "name": "hornet",
     "parent": 7443,
     "name_es": "avispón",
-    "name_fr": "frelon"
+    "name_fr": "frelon",
+    "name_hu": "lódarázs"
   },
   {
     "node": 7460,
@@ -69,7 +77,8 @@
     "name": "honey bee",
     "parent": 7459,
     "name_es": "abeja de miel",
-    "name_fr": "abeille"
+    "name_fr": "abeille",
+    "name_hu": "háziméh"
   },
   {
     "node": 7604,
@@ -77,7 +86,8 @@
     "name": "starfish",
     "parent": 7601,
     "name_es": "estrella de mar",
-    "name_fr": "étoile de mer"
+    "name_fr": "étoile de mer",
+    "name_hu": "tengeri csillag"
   },
   {
     "node": 7957,
@@ -85,7 +95,8 @@
     "name": "goldfish",
     "parent": 7956,
     "name_es": "pez dorado",
-    "name_fr": "poisson rouge"
+    "name_fr": "poisson rouge",
+    "name_hu": "aranyhal"
   },
   {
     "node": 7962,
@@ -93,7 +104,8 @@
     "name": "carp",
     "parent": 7961,
     "name_es": "carpa",
-    "name_fr": "carpe"
+    "name_fr": "carpe",
+    "name_hu": "ponty"
   },
   {
     "node": 7998,
@@ -101,7 +113,8 @@
     "name": "catfish",
     "parent": 7997,
     "name_es": "pez gato",
-    "name_fr": "poisson-chat"
+    "name_fr": "poisson-chat",
+    "name_hu": "törpeharcsa"
   },
   {
     "node": 8022,
@@ -109,7 +122,8 @@
     "name": "trout",
     "parent": 8016,
     "name_es": "trucha",
-    "name_fr": "truite"
+    "name_fr": "truite",
+    "name_hu": "pisztráng"
   },
   {
     "node": 8030,
@@ -117,7 +131,8 @@
     "name": "salmon",
     "parent": 8028,
     "name_es": "salmón",
-    "name_fr": "saumon"
+    "name_fr": "saumon",
+    "name_hu": "lazac"
   },
   {
     "node": 8049,
@@ -125,7 +140,8 @@
     "name": "cod",
     "parent": 8048,
     "name_es": "bacalao",
-    "name_fr": "morue"
+    "name_fr": "morue",
+    "name_hu": "tőkehal"
   },
   {
     "node": 8245,
@@ -133,7 +149,8 @@
     "name": "swordfish",
     "parent": 8244,
     "name_es": "pez espada",
-    "name_fr": "espadon"
+    "name_fr": "espadon",
+    "name_hu": "kardhal"
   },
   {
     "node": 8296,
@@ -141,7 +158,8 @@
     "name": "axolotl",
     "parent": 8295,
     "name_es": "ajolote",
-    "name_fr": "axolotl"
+    "name_fr": "axolotl",
+    "name_hu": "axolotl"
   },
   {
     "node": 8384,
@@ -149,7 +167,8 @@
     "name": "toad",
     "parent": 8383,
     "name_es": "sapo",
-    "name_fr": "crapaud"
+    "name_fr": "crapaud",
+    "name_hu": "varangy"
   },
   {
     "node": 8400,
@@ -157,7 +176,8 @@
     "name": "bullfrog",
     "parent": 121236,
     "name_es": "rana mugidora",
-    "name_fr": "grenouille-taureau"
+    "name_fr": "grenouille-taureau",
+    "name_hu": "ökörbéka"
   },
   {
     "node": 8496,
@@ -165,7 +185,8 @@
     "name": "alligator",
     "parent": 8495,
     "name_es": "alligator",
-    "name_fr": "alligator"
+    "name_fr": "alligator",
+    "name_hu": "alligátor"
   },
   {
     "node": 8502,
@@ -173,7 +194,8 @@
     "name": "crocodile",
     "parent": 8500,
     "name_es": "cocodrilo",
-    "name_fr": "crocodile"
+    "name_fr": "crocodile",
+    "name_hu": "krokodil"
   },
   {
     "node": 8688,
@@ -181,7 +203,8 @@
     "name": "sea snake",
     "parent": 8683,
     "name_es": "serpiente de mar",
-    "name_fr": "serpent marin"
+    "name_fr": "serpent marin",
+    "name_hu": "tengeri kígyó"
   },
   {
     "node": 8790,
@@ -189,7 +212,8 @@
     "name": "emu",
     "parent": 8789,
     "name_es": "emú",
-    "name_fr": "émeu"
+    "name_fr": "émeu",
+    "name_hu": "emu"
   },
   {
     "node": 8801,
@@ -197,7 +221,8 @@
     "name": "ostrich",
     "parent": 8800,
     "name_es": "avestruz",
-    "name_fr": "autruche"
+    "name_fr": "autruche",
+    "name_hu": "strucc"
   },
   {
     "node": 8853,
@@ -205,7 +230,8 @@
     "name": "goose",
     "parent": 8852,
     "name_es": "ganso",
-    "name_fr": "oie"
+    "name_fr": "oie",
+    "name_hu": "lúd"
   },
   {
     "node": 8869,
@@ -213,7 +239,8 @@
     "name": "swan",
     "parent": 8867,
     "name_es": "cisne",
-    "name_fr": "cygne"
+    "name_fr": "cygne",
+    "name_hu": "hattyú"
   },
   {
     "node": 8954,
@@ -221,15 +248,17 @@
     "name": "falcon",
     "parent": 8952,
     "name_es": "halcón",
-    "name_fr": "faucon"
+    "name_fr": "faucon",
+    "name_hu": "sólyom"
   },
   {
     "node": 33614,
-    "scientific name": "Coragyps atratus",
+    "scientific name": "Coragyps atratus,",
     "name": "black vulture",
     "parent": 33613,
     "name_es": "buitre negro",
-    "name_fr": "vautour moine"
+    "name_fr": "vautour moine",
+    "name_hu": "hollókeselyű "
   },
   {
     "node": 9031,
@@ -237,7 +266,8 @@
     "name": "chicken",
     "parent": 9030,
     "name_es": "pollo",
-    "name_fr": "coq doré"
+    "name_fr": "coq doré",
+    "name_hu": "házi tyúk"
   },
   {
     "node": 9042,
@@ -245,7 +275,8 @@
     "name": "pheasant",
     "parent": 9041,
     "name_es": "faisán",
-    "name_fr": "faisan"
+    "name_fr": "faisan",
+    "name_hu": "fácán"
   },
   {
     "node": 34924,
@@ -253,7 +284,8 @@
     "name": "magpie",
     "parent": 34923,
     "name_es": "urraca",
-    "name_fr": "pie"
+    "name_fr": "pie",
+    "name_hu": "szarka"
   },
   {
     "node": 9187,
@@ -261,7 +293,8 @@
     "name": "blackbird",
     "parent": 9186,
     "name_es": "mirlo",
-    "name_fr": "merle"
+    "name_fr": "merle",
+    "name_hu": "feketerigó"
   },
   {
     "node": 9233,
@@ -269,7 +302,8 @@
     "name": "emperor penguin",
     "parent": 9232,
     "name_es": "pingüino emperador",
-    "name_fr": "manchot empereur"
+    "name_fr": "manchot empereur",
+    "name_hu": "császárpingvin"
   },
   {
     "node": 9258,
@@ -277,7 +311,8 @@
     "name": "platypus",
     "parent": 9257,
     "name_es": "ornitorrinco",
-    "name_fr": "ornithorynque"
+    "name_fr": "ornithorynque",
+    "name_hu": "kacsacsőrű emlős"
   },
   {
     "node": 9261,
@@ -285,7 +320,8 @@
     "name": "echidna",
     "parent": 9260,
     "name_es": "ecidna",
-    "name_fr": "échidné"
+    "name_fr": "échidné",
+    "name_hu": "hangyászsün"
   },
   {
     "node": 9365,
@@ -293,7 +329,8 @@
     "name": "hedgehog",
     "parent": 9364,
     "name_es": "erizo",
-    "name_fr": "hérisson"
+    "name_fr": "hérisson",
+    "name_hu": "sün"
   },
   {
     "node": 9430,
@@ -301,7 +338,8 @@
     "name": "vampire bat",
     "parent": 9429,
     "name_es": "murciélago vampiro",
-    "name_fr": "vampire"
+    "name_fr": "vampire",
+    "name_hu": "denevér"
   },
   {
     "node": 9542,
@@ -309,7 +347,8 @@
     "name": "macaque",
     "parent": 9539,
     "name_es": "macaco",
-    "name_fr": "macaque"
+    "name_fr": "macaque",
+    "name_hu": "makákó"
   },
   {
     "node": 9561,
@@ -317,7 +356,8 @@
     "name": "mandrill",
     "parent": 9567,
     "name_es": "mandril",
-    "name_fr": "mandrill"
+    "name_fr": "mandrill",
+    "name_hu": "mandrill"
   },
   {
     "node": 9593,
@@ -325,7 +365,8 @@
     "name": "gorilla",
     "parent": 9592,
     "name_es": "gorila",
-    "name_fr": "gorille"
+    "name_fr": "gorille",
+    "name_hu": "gorilla"
   },
   {
     "node": 9597,
@@ -333,7 +374,8 @@
     "name": "bonobo",
     "parent": 9596,
     "name_es": "bonobo",
-    "name_fr": "bonobo"
+    "name_fr": "bonobo",
+    "name_hu": "bonobo"
   },
   {
     "node": 9598,
@@ -341,7 +383,8 @@
     "name": "chimpanzee",
     "parent": 9596,
     "name_es": "chimpancé",
-    "name_fr": "chimpanzé"
+    "name_fr": "chimpanzé",
+    "name_hu": "csimpánz"
   },
   {
     "node": 9601,
@@ -349,7 +392,8 @@
     "name": "orangutan",
     "parent": 9599,
     "name_es": "orangután",
-    "name_fr": "orang-outan"
+    "name_fr": "orang-outan",
+    "name_hu": "orángután"
   },
   {
     "node": 9614,
@@ -357,7 +401,8 @@
     "name": "coyote",
     "parent": 9611,
     "name_es": "coyote",
-    "name_fr": "coyote"
+    "name_fr": "coyote",
+    "name_hu": "prérifarkas"
   },
   {
     "node": 9627,
@@ -365,7 +410,8 @@
     "name": "red fox",
     "parent": 9625,
     "name_es": "zorro rojo",
-    "name_fr": "renard roux"
+    "name_fr": "renard roux",
+    "name_hu": "vörös róka"
   },
   {
     "node": 9643,
@@ -373,7 +419,8 @@
     "name": "black bear",
     "parent": 9639,
     "name_es": "oso negro",
-    "name_fr": "ours noir"
+    "name_fr": "ours noir",
+    "name_hu": "fekete medve"
   },
   {
     "node": 9644,
@@ -381,7 +428,8 @@
     "name": "brown bear",
     "parent": 9639,
     "name_es": "oso café",
-    "name_fr": "ours brun"
+    "name_fr": "ours brun",
+    "name_hu": "barnamedve"
   },
   {
     "node": 9646,
@@ -389,7 +437,8 @@
     "name": "giant panda",
     "parent": 9645,
     "name_es": "panda gigante",
-    "name_fr": "panda géant"
+    "name_fr": "panda géant",
+    "name_hu": "óriáspanda"
   },
   {
     "node": 9649,
@@ -397,7 +446,8 @@
     "name": "red panda",
     "parent": 9648,
     "name_es": "panda rojo",
-    "name_fr": "panda roux"
+    "name_fr": "panda roux",
+    "name_hu": "vörös macskamedve"
   },
   {
     "node": 9654,
@@ -405,7 +455,8 @@
     "name": "raccoon",
     "parent": 9653,
     "name_es": "mapache",
-    "name_fr": "raton-laveur"
+    "name_fr": "raton-laveur",
+    "name_hu": "mosómedve"
   },
   {
     "node": 9666,
@@ -413,7 +464,8 @@
     "name": "mink",
     "parent": 9665,
     "name_es": "visón",
-    "name_fr": "vison"
+    "name_fr": "vison",
+    "name_hu": "nyérc"
   },
   {
     "node": 9678,
@@ -421,7 +473,8 @@
     "name": "hyena",
     "parent": 9677,
     "name_es": "hiena",
-    "name_fr": "hyène"
+    "name_fr": "hyène",
+    "name_hu": "hiéna"
   },
   {
     "node": 9689,
@@ -429,7 +482,8 @@
     "name": "lion",
     "parent": 9688,
     "name_es": "león",
-    "name_fr": "lion"
+    "name_fr": "lion",
+    "name_hu": "oroszlán"
   },
   {
     "node": 9690,
@@ -437,7 +491,8 @@
     "name": "jaguar",
     "parent": 9688,
     "name_es": "jaguar",
-    "name_fr": "jaguar"
+    "name_fr": "jaguar",
+    "name_hu": "jaguár"
   },
   {
     "node": 9691,
@@ -445,7 +500,8 @@
     "name": "leopard",
     "parent": 9688,
     "name_es": "leopardo",
-    "name_fr": "léopard"
+    "name_fr": "léopard",
+    "name_hu": "leopárd"
   },
   {
     "node": 9694,
@@ -453,7 +509,8 @@
     "name": "tiger",
     "parent": 9688,
     "name_es": "tigre",
-    "name_fr": "tigre"
+    "name_fr": "tigre",
+    "name_hu": "tigris"
   },
   {
     "node": 9696,
@@ -461,7 +518,8 @@
     "name": "puma",
     "parent": 146712,
     "name_es": "puma",
-    "name_fr": "puma"
+    "name_fr": "puma",
+    "name_hu": "puma"
   },
   {
     "node": 9704,
@@ -469,7 +527,8 @@
     "name": "sea lion",
     "parent": 9703,
     "name_es": "león marino",
-    "name_fr": "otarie"
+    "name_fr": "otarie",
+    "name_hu": "oroszlánfóka"
   },
   {
     "node": 9707,
@@ -477,7 +536,8 @@
     "name": "walrus",
     "parent": 9706,
     "name_es": "morsa",
-    "name_fr": "morse"
+    "name_fr": "morse",
+    "name_hu": "rozmár"
   },
   {
     "node": 9711,
@@ -485,7 +545,8 @@
     "name": "seal",
     "parent": 9710,
     "name_es": "foca",
-    "name_fr": "phoque"
+    "name_fr": "phoque",
+    "name_hu": "fóka"
   },
   {
     "node": 9749,
@@ -493,7 +554,8 @@
     "name": "beluga whale",
     "parent": 9748,
     "name_es": "ballena beluga",
-    "name_fr": "béluga"
+    "name_fr": "béluga",
+    "name_hu": "beluga"
   },
   {
     "node": 9755,
@@ -501,7 +563,8 @@
     "name": "sperm whale",
     "parent": 9753,
     "name_es": "esperma",
-    "name_fr": "cachalot"
+    "name_fr": "cachalot",
+    "name_hu": "nagy ámbráscet"
   },
   {
     "node": 9773,
@@ -509,7 +572,8 @@
     "name": "humpback whale",
     "parent": 9772,
     "name_es": "ballena jorobada",
-    "name_fr": "baleine à bosse"
+    "name_fr": "baleine à bosse",
+    "name_hu": "púpos bálna"
   },
   {
     "node": 9778,
@@ -517,7 +581,8 @@
     "name": "manatee",
     "parent": 9776,
     "name_es": "manatí",
-    "name_fr": "lamantin"
+    "name_fr": "lamantin",
+    "name_hu": "manátusz"
   },
   {
     "node": 9785,
@@ -525,7 +590,8 @@
     "name": "elephant",
     "parent": 9784,
     "name_es": "elefante",
-    "name_fr": "éléphant"
+    "name_fr": "éléphant",
+    "name_hu": "elefánt"
   },
   {
     "node": 9796,
@@ -533,7 +599,9 @@
     "name": "horse",
     "parent": 9789,
     "name_es": "caballo",
-    "name_fr": "cheval"
+    "name_fr": "cheval",
+    "name_hu": "ló"
+
   },
   {
     "node": 9807,
@@ -541,7 +609,8 @@
     "name": "rhinoceros",
     "parent": 9806,
     "name_es": "rinoceronte",
-    "name_fr": "rhinocéros"
+    "name_fr": "rhinocéros",
+    "name_hu": "orrszarvú"
   },
   {
     "node": 9818,
@@ -549,7 +618,8 @@
     "name": "aardvark",
     "parent": 9817,
     "name_es": "cerdo hormiguero",
-    "name_fr": "oryctérope"
+    "name_fr": "oryctérope",
+    "name_hu": "földimalac"
   },
   {
     "node": 9838,
@@ -557,7 +627,8 @@
     "name": "camel",
     "parent": 9836,
     "name_es": "camello",
-    "name_fr": "dromadaire"
+    "name_fr": "dromadaire",
+    "name_hu": "egypúpú teve"
   },
   {
     "node": 9894,
@@ -565,7 +636,8 @@
     "name": "giraffe",
     "parent": 9893,
     "name_es": "jirafa",
-    "name_fr": "girafe"
+    "name_fr": "girafe",
+    "name_hu": "zsiráf"
   },
   {
     "node": 9901,
@@ -581,7 +653,8 @@
     "name": "cattle",
     "parent": 9903,
     "name_es": "ganado",
-    "name_fr": "vache"
+    "name_fr": "vache",
+    "name_hu": "bölény"
   },
   {
     "node": 9940,
@@ -589,7 +662,8 @@
     "name": "sheep",
     "parent": 9935,
     "name_es": "oveja",
-    "name_fr": "mouton"
+    "name_fr": "mouton",
+    "name_hu": "juh"
   },
   {
     "node": 9974,
@@ -597,7 +671,8 @@
     "name": "pangolin",
     "parent": 9973,
     "name_es": "pangolín",
-    "name_fr": "pangolin"
+    "name_fr": "pangolin",
+    "name_hu": "pangolin"
   },
   {
     "node": 10036,
@@ -605,7 +680,8 @@
     "name": "hamster",
     "parent": 10035,
     "name_es": "hámster",
-    "name_fr": "hamster"
+    "name_fr": "hamster",
+    "name_hu": "hörcsög"
   },
   {
     "node": 10047,
@@ -613,7 +689,8 @@
     "name": "gerbil",
     "parent": 10046,
     "name_es": "gerbil",
-    "name_fr": "gerbille"
+    "name_fr": "gerbille",
+    "name_hu": "futóegér"
   },
   {
     "node": 10090,
@@ -621,7 +698,8 @@
     "name": "mouse",
     "parent": 862507,
     "name_es": "ratón",
-    "name_fr": "souris"
+    "name_fr": "souris",
+    "name_hu": "egér"
   },
   {
     "node": 10138,
@@ -629,7 +707,8 @@
     "name": "porcupine",
     "parent": 10136,
     "name_es": "puerco espín",
-    "name_fr": "porc-épic"
+    "name_fr": "porc-épic",
+    "name_hu": "tarajos sül"
   },
   {
     "node": 12983,
@@ -637,7 +716,8 @@
     "name": "cockatoo",
     "parent": 12981,
     "name_es": "cocotilla",
-    "name_fr": "cacatoès"
+    "name_fr": "cacatoès",
+    "name_hu": "kakadu"
   },
   {
     "node": 13037,
@@ -645,7 +725,8 @@
     "name": "monarch butterfly",
     "parent": 151542,
     "name_es": "mariposa monarca",
-    "name_fr": "monarque"
+    "name_fr": "monarque",
+    "name_hu": "pompás királylepke"
   },
   {
     "node": 13125,
@@ -653,7 +734,8 @@
     "name": "lynx",
     "parent": 13124,
     "name_es": "lince",
-    "name_fr": "lynx commun"
+    "name_fr": "lynx commun",
+    "name_hu": "hiúz"
   },
   {
     "node": 13180,
@@ -661,7 +743,8 @@
     "name": "cockatiel",
     "parent": 13179,
     "name_es": "cacatúa",
-    "name_fr": "calopsitte"
+    "name_fr": "calopsitte",
+    "name_hu": "nimfapapagáj"
   },
   {
     "node": 13397,
@@ -669,7 +752,8 @@
     "name": "great white shark",
     "parent": 13396,
     "name_es": "gran tiburón blanco",
-    "name_fr": "grand requin blanc"
+    "name_fr": "grand requin blanc",
+    "name_hu": "fehér cápa"
   },
   {
     "node": 13686,
@@ -677,7 +761,8 @@
     "name": "fire ant",
     "parent": 13685,
     "name_es": "hormiga de fuego",
-    "name_fr": "fourmi de feu"
+    "name_fr": "fourmi de feu",
+    "name_hu": " tűzhangya"
   },
   {
     "node": 27675,
@@ -685,7 +770,8 @@
     "name": "two-toed sloth",
     "parent": 9357,
     "name_es": "perezoso de dos dedos",
-    "name_fr": "paresseux à deux doigts"
+    "name_fr": "paresseux à deux doigts",
+    "name_hu": "kétujjú lajhár"
   },
   {
     "node": 27794,
@@ -693,7 +779,8 @@
     "name": "sea turtle",
     "parent": 27793,
     "name_es": "tortuga marina",
-    "name_fr": "tortue luth"
+    "name_fr": "tortue luth",
+    "name_hu": "kérgesteknős"
   },
   {
     "node": 28701,
@@ -701,7 +788,8 @@
     "name": "puffin",
     "parent": 28700,
     "name_es": "frailecillo",
-    "name_fr": "macareux"
+    "name_fr": "macareux",
+    "name_hu": "lunda"
   },
   {
     "node": 28727,
@@ -709,7 +797,8 @@
     "name": "blue jay",
     "parent": 28726,
     "name_es": "arrendajo azul",
-    "name_fr": "geai bleu"
+    "name_fr": "geai bleu",
+    "name_hu": "kék szajkó"
   },
   {
     "node": 29073,
@@ -717,7 +806,8 @@
     "name": "polar bear",
     "parent": 9639,
     "name_es": "oso polar",
-    "name_fr": "ours blanc"
+    "name_fr": "ours blanc",
+    "name_hu": "jegesmedve"
   },
   {
     "node": 29139,
@@ -725,7 +815,8 @@
     "name": "wombat",
     "parent": 29138,
     "name_es": "wombat",
-    "name_fr": "wombat"
+    "name_fr": "wombat",
+    "name_hu": "vombat"
   },
   {
     "node": 29159,
@@ -733,7 +824,8 @@
     "name": "oyster",
     "parent": 6564,
     "name_es": "ostra",
-    "name_fr": "huître"
+    "name_fr": "huître",
+    "name_hu": "osztriga"
   },
   {
     "node": 30213,
@@ -741,7 +833,8 @@
     "name": "wasp",
     "parent": 7451,
     "name_es": "avispa",
-    "name_fr": "guêpe"
+    "name_fr": "guêpe",
+    "name_hu": "darázs"
   },
   {
     "node": 30538,
@@ -749,7 +842,8 @@
     "name": "alpaca",
     "parent": 30539,
     "name_es": "alpaca",
-    "name_fr": "alpaga"
+    "name_fr": "alpaga",
+    "name_hu": "alpaka"
   },
   {
     "node": 30548,
@@ -757,7 +851,8 @@
     "name": "skunk",
     "parent": 30546,
     "name_es": "zorrillo",
-    "name_fr": "moufette"
+    "name_fr": "moufette",
+    "name_hu": "bűzös borz"
   },
   {
     "node": 30554,
@@ -765,7 +860,8 @@
     "name": "badger",
     "parent": 30553,
     "name_es": "tejón",
-    "name_fr": "blaireau"
+    "name_fr": "blaireau",
+    "name_hu": "borz"
   },
   {
     "node": 32536,
@@ -773,7 +869,8 @@
     "name": "cheetah",
     "parent": 32535,
     "name_es": "guepardo",
-    "name_fr": "guépard"
+    "name_fr": "guépard",
+    "name_hu": "gepárd"
   },
   {
     "node": 32538,
@@ -781,7 +878,8 @@
     "name": "ocelot",
     "parent": 46841,
     "name_es": "ocelote",
-    "name_fr": "ocelot"
+    "name_fr": "ocelot",
+    "name_hu": "ocelot"
   },
   {
     "node": 34882,
@@ -789,7 +887,8 @@
     "name": "sea otter",
     "parent": 34881,
     "name_es": "nutria de mar",
-    "name_fr": "loutre de mer"
+    "name_fr": "loutre de mer",
+    "name_hu": "tengeri vidra"
   },
   {
     "node": 36312,
@@ -797,7 +896,8 @@
     "name": "salamander",
     "parent": 1527437,
     "name_es": "salamandra",
-    "name_fr": "salamandre"
+    "name_fr": "salamandre",
+    "name_hu": "szalamander"
   },
   {
     "node": 37032,
@@ -805,7 +905,8 @@
     "name": "meerkat",
     "parent": 37031,
     "name_es": "manchat",
-    "name_fr": "suricate"
+    "name_fr": "suricate",
+    "name_hu": "szurikáta"
   },
   {
     "node": 37189,
@@ -813,7 +914,8 @@
     "name": "antelope",
     "parent": 37184,
     "name_es": "antílope",
-    "name_fr": "hippotrague"
+    "name_fr": "hippotrague",
+    "name_hu": "antilop"
   },
   {
     "node": 37295,
@@ -821,7 +923,8 @@
     "name": "capuchin",
     "parent": 9513,
     "name_es": "capuchino",
-    "name_fr": "capucin"
+    "name_fr": "capucin",
+    "name_hu": "csuklyásmajom"
   },
   {
     "node": 37610,
@@ -829,7 +932,8 @@
     "name": "robin",
     "parent": 36283,
     "name_es": "petirrojo",
-    "name_fr": "rouge-gorge"
+    "name_fr": "rouge-gorge",
+    "name_hu": "vörösbegy"
   },
   {
     "node": 37751,
@@ -837,7 +941,8 @@
     "name": "gazelle",
     "parent": 9933,
     "name_es": "gacela",
-    "name_fr": "gazelle"
+    "name_fr": "gazelle",
+    "name_hu": "gazella"
   },
   {
     "node": 38626,
@@ -845,7 +950,8 @@
     "name": "koala",
     "parent": 38625,
     "name_es": "coala",
-    "name_fr": "koala"
+    "name_fr": "koala",
+    "name_hu": "koala"
   },
   {
     "node": 40151,
@@ -853,7 +959,8 @@
     "name": "narwhal",
     "parent": 40150,
     "name_es": "narval",
-    "name_fr": "narval"
+    "name_fr": "narval",
+    "name_hu": "narvál"
   },
   {
     "node": 42514,
@@ -861,7 +968,8 @@
     "name": "piranha",
     "parent": 42513,
     "name_es": "piraña",
-    "name_fr": "piranha"
+    "name_fr": "piranha",
+    "name_hu": "pirája"
   },
   {
     "node": 48849,
@@ -869,7 +977,8 @@
     "name": "sparrow",
     "parent": 9159,
     "name_es": "gorrión",
-    "name_fr": "moineau"
+    "name_fr": "moineau",
+    "name_hu": "veréb"
   },
   {
     "node": 9375,
@@ -877,7 +986,8 @@
     "name": "mole",
     "parent": 9374,
     "name_es": "topo",
-    "name_fr": "taupe"
+    "name_fr": "taupe",
+    "name_hu": "vakond"
   },
   {
     "node": 51338,
@@ -885,7 +995,8 @@
     "name": "beaver",
     "parent": 10184,
     "name_es": "castor",
-    "name_fr": "castor"
+    "name_fr": "castor",
+    "name_hu": "hód"
   },
   {
     "node": 51908,
@@ -893,7 +1004,8 @@
     "name": "parakeet",
     "parent": 12945,
     "name_es": "periquito",
-    "name_fr": "perruche"
+    "name_fr": "perruche",
+    "name_hu": "aratinga"
   },
   {
     "node": 51949,
@@ -901,7 +1013,8 @@
     "name": "poison frog",
     "parent": 1004435,
     "name_es": "rana venenosa",
-    "name_fr": "dendrobate"
+    "name_fr": "dendrobate",
+    "name_hu": "nyílméregbéka"
   },
   {
     "node": 52644,
@@ -909,7 +1022,8 @@
     "name": "bald eagle",
     "parent": 8968,
     "name_es": "Águila calva",
-    "name_fr": "pygargue"
+    "name_fr": "pygargue",
+    "name_hu": "fehérfejű rétisas"
   },
   {
     "node": 55048,
@@ -917,7 +1031,8 @@
     "name": "weasel",
     "parent": 9665,
     "name_es": "comadreja",
-    "name_fr": "belette"
+    "name_fr": "belette",
+    "name_hu": "menyét"
   },
   {
     "node": 56313,
@@ -925,7 +1040,8 @@
     "name": "barn owl",
     "parent": 56312,
     "name_es": "lechuza",
-    "name_fr": "chouette effraie"
+    "name_fr": "chouette effraie",
+    "name_hu": "gyöngybagoly"
   },
   {
     "node": 56781,
@@ -933,7 +1049,8 @@
     "name": "raven",
     "parent": 30420,
     "name_es": "cuervo",
-    "name_fr": "grand corbeau"
+    "name_fr": "grand corbeau",
+    "name_hu": "holló"
   },
   {
     "node": 57247,
@@ -941,7 +1058,8 @@
     "name": "grey parrot",
     "parent": 13239,
     "name_es": "loro gris",
-    "name_fr": "gris du gabon"
+    "name_fr": "gris du gabon",
+    "name_hu": "szürkepapagáj"
   },
   {
     "node": 60713,
@@ -949,7 +1067,8 @@
     "name": "mockingbird",
     "parent": 58200,
     "name_es": "sinsonte",
-    "name_fr": "moqueur"
+    "name_fr": "moqueur",
+    "name_hu": "poszáta"
   },
   {
     "node": 61384,
@@ -957,7 +1076,8 @@
     "name": "bobcat",
     "parent": 13124,
     "name_es": "gato montés",
-    "name_fr": "lynx roux"
+    "name_fr": "lynx roux",
+    "name_hu": "vörös hiúz"
   },
   {
     "node": 9700,
@@ -965,7 +1085,8 @@
     "name": "mongoose",
     "parent": 9699,
     "name_es": "mangosta",
-    "name_fr": "mangouste"
+    "name_fr": "mangouste",
+    "name_hu": "mongúz"
   },
   {
     "node": 61853,
@@ -973,7 +1094,8 @@
     "name": "gibbon",
     "parent": 325165,
     "name_es": "gibón",
-    "name_fr": "gibbon"
+    "name_fr": "gibbon",
+    "name_hu": "gibbon"
   },
   {
     "node": 76717,
@@ -981,7 +1103,8 @@
     "name": "river otter",
     "parent": 71112,
     "name_es": "nutria de río",
-    "name_fr": "loutre de rivière"
+    "name_fr": "loutre de rivière",
+    "name_hu": "vidra"
   },
   {
     "node": 79627,
@@ -989,7 +1112,8 @@
     "name": "macaroni penguin",
     "parent": 9235,
     "name_es": "pingüino macarrón",
-    "name_fr": "gorfou sauteur"
+    "name_fr": "gorfou sauteur",
+    "name_hu": "bóbitás pingvin"
   },
   {
     "node": 84074,
@@ -997,7 +1121,8 @@
     "name": "anteater",
     "parent": 84073,
     "name_es": "oso hormiguero",
-    "name_fr": "myrmidon"
+    "name_fr": "myrmidon",
+    "name_hu": "hangyász"
   },
   {
     "node": 85066,
@@ -1005,7 +1130,8 @@
     "name": "crow",
     "parent": 30420,
     "name_es": "corneja",
-    "name_fr": "corneille"
+    "name_fr": "corneille",
+    "name_hu": "varjú"
   },
   {
     "node": 89248,
@@ -1013,7 +1139,8 @@
     "name": "zebra",
     "parent": 9789,
     "name_es": "cebra",
-    "name_fr": "zèbre"
+    "name_fr": "zèbre",
+    "name_hu": "zebra"
   },
   {
     "node": 89462,
@@ -1021,7 +1148,8 @@
     "name": "water buffalo",
     "parent": 9918,
     "name_es": "búfalo de agua",
-    "name_fr": "buffle"
+    "name_fr": "buffle",
+    "name_hu": "vízibivaly"
   },
   {
     "node": 30640,
@@ -1029,7 +1157,8 @@
     "name": "squirrel",
     "parent": 10001,
     "name_es": "ardilla",
-    "name_fr": "écureuil gris"
+    "name_fr": "écureuil gris",
+    "name_hu": "mókus"
   },
   {
     "node": 254707,
@@ -1037,7 +1166,8 @@
     "name": "flying squirrel",
     "parent": 100944,
     "name_es": "ardilla voladora",
-    "name_fr": "écureuil volant"
+    "name_fr": "écureuil volant",
+    "name_hu": "repülőmókus"
   },
   {
     "node": 100937,
@@ -1045,7 +1175,8 @@
     "name": "baboon",
     "parent": 9554,
     "name_es": "babuino",
-    "name_fr": "babouin"
+    "name_fr": "babouin",
+    "name_hu": "pávián"
   },
   {
     "node": 104421,
@@ -1053,7 +1184,8 @@
     "name": "carpenter ant",
     "parent": 13390,
     "name_es": "hormiga carpintera",
-    "name_fr": "fourmi charpentière"
+    "name_fr": "fourmi charpentière",
+    "name_hu": "lóhangya"
   },
   {
     "node": 109280,
@@ -1061,7 +1193,8 @@
     "name": "seahorse",
     "parent": 72046,
     "name_es": "caballo de mar",
-    "name_fr": "hippocampe"
+    "name_fr": "hippocampe",
+    "name_hu": "tengeri csikó"
   },
   {
     "node": 132113,
@@ -1069,7 +1202,8 @@
     "name": "bumble bee",
     "parent": 144703,
     "name_es": "abeja de abejas",
-    "name_fr": "bourdon"
+    "name_fr": "bourdon",
+    "name_hu": "poszméh"
   },
   {
     "node": 135631,
@@ -1077,7 +1211,8 @@
     "name": "dove",
     "parent": 115655,
     "name_es": "paloma blanca",
-    "name_fr": "colombe"
+    "name_fr": "colombe",
+    "name_hu": "gerle"
   },
   {
     "node": 158814,
@@ -1085,7 +1220,8 @@
     "name": "box turtle",
     "parent": 85610,
     "name_es": "tortuga de caja",
-    "name_fr": "tortue boîte"
+    "name_fr": "tortue boîte",
+    "name_hu": "dobozteknős"
   },
   {
     "node": 161767,
@@ -1093,7 +1229,8 @@
     "name": "clownfish",
     "parent": 80969,
     "name_es": "pez payaso",
-    "name_fr": "poisson-clown"
+    "name_fr": "poisson-clown",
+    "name_hu": "bohóchal"
   },
   {
     "node": 176946,
@@ -1101,7 +1238,8 @@
     "name": "burmese python",
     "parent": 37579,
     "name_es": "pitón birmano",
-    "name_fr": "python birman"
+    "name_fr": "python birman",
+    "name_hu": "tigrispiton"
   },
   {
     "node": 218467,
@@ -1109,7 +1247,8 @@
     "name": "scorpion",
     "parent": 6875,
     "name_es": "escorpión",
-    "name_fr": "scorpion"
+    "name_fr": "scorpion",
+    "name_hu": "skorpió"
   },
   {
     "node": 37607,
@@ -1117,7 +1256,8 @@
     "name": "finch",
     "parent": 37606,
     "name_es": "pinzón",
-    "name_fr": "bouvreuil"
+    "name_fr": "bouvreuil",
+    "name_hu": "pinty"
   },
   {
     "node": 262124,
@@ -1125,7 +1265,8 @@
     "name": "pigeon",
     "parent": 262123,
     "name_es": "paloma",
-    "name_fr": "pigeon"
+    "name_fr": "pigeon",
+    "name_hu": "galamb"
   },
   {
     "node": 301843,
@@ -1133,7 +1274,8 @@
     "name": "gecko",
     "parent": 57063,
     "name_es": "geco",
-    "name_fr": "gecko"
+    "name_fr": "gecko",
+    "name_hu": "gekko"
   },
   {
     "node": 308060,
@@ -1141,7 +1283,8 @@
     "name": "kiwi",
     "parent": 8821,
     "name_es": "kiwi",
-    "name_fr": "kiwi"
+    "name_fr": "kiwi",
+    "name_hu": "kiwi"
   },
   {
     "node": 340076,
@@ -1149,7 +1292,8 @@
     "name": "armadillo",
     "parent": 29079,
     "name_es": "armadillo",
-    "name_fr": "tatou"
+    "name_fr": "tatou",
+    "name_hu": "armadilló"
   },
   {
     "node": 371907,
@@ -1157,7 +1301,8 @@
     "name": "snowy owl",
     "parent": 30460,
     "name_es": "buho nevado",
-    "name_fr": "harfang des neiges"
+    "name_fr": "harfang des neiges",
+    "name_hu": "hóbagoly"
   },
   {
     "node": 383689,
@@ -1165,7 +1310,8 @@
     "name": "nightingale",
     "parent": 52791,
     "name_es": "ruiseñor",
-    "name_fr": "rossignol"
+    "name_fr": "rossignol",
+    "name_hu": "fülemüle"
   },
   {
     "node": 494514,
@@ -1173,7 +1319,8 @@
     "name": "arctic fox",
     "parent": 9625,
     "name_es": "zorro ártico",
-    "name_fr": "renard polaire"
+    "name_fr": "renard polaire",
+    "name_hu": "sarki róka"
   },
   {
     "node": 505845,
@@ -1181,7 +1328,8 @@
     "name": "fruit bat",
     "parent": 58056,
     "name_es": "murciélago de la fruta",
-    "name_fr": "roussette"
+    "name_fr": "roussette",
+    "name_hu": "repülőkutya"
   },
   {
     "node": 1037346,
@@ -1189,7 +1337,8 @@
     "name": "hawk",
     "parent": 8956,
     "name_es": "gavilán",
-    "name_fr": "épervier"
+    "name_fr": "épervier",
+    "name_hu": "sólyom"
   },
   {
     "node": 6610,
@@ -1197,7 +1346,8 @@
     "name": "cuttlefish",
     "parent": 6609,
     "name_es": "sepia",
-    "name_fr": "seiche"
+    "name_fr": "seiche",
+    "name_hu": "tintahal"
   },
   {
     "node": 102866,
@@ -1205,7 +1355,8 @@
     "name": "blue-ringed octopus",
     "parent": 61715,
     "name_es": "pulpo anillo de azul",
-    "name_fr": "poulpe à anneaux bleus"
+    "name_fr": "poulpe à anneaux bleus",
+    "name_hu": "kékgyűrűs polip"
   },
   {
     "node": 256136,
@@ -1213,7 +1364,8 @@
     "name": "giant squid",
     "parent": 34555,
     "name_es": "calamar gigante",
-    "name_fr": "calmar géant"
+    "name_fr": "calmar géant",
+    "name_hu": "óriáskalmár"
   },
   {
     "node": 260533,
@@ -1221,7 +1373,8 @@
     "name": "tarantula",
     "parent": 260532,
     "name_es": "tarántula",
-    "name_fr": "mygale"
+    "name_fr": "mygale",
+    "name_hu": "madárpók"
   },
   {
     "node": 679132,
@@ -1229,7 +1382,8 @@
     "name": "huntsman spider",
     "parent": 152924,
     "name_es": "araña cazadora",
-    "name_fr": "araignée-chasseuse des forêts"
+    "name_fr": "araignée-chasseuse des forêts",
+    "name_hu": "vadászpók"
   },
   {
     "node": 6925,
@@ -1237,7 +1391,8 @@
     "name": "black widow",
     "parent": 6923,
     "name_es": "viuda negra",
-    "name_fr": "veuve noire"
+    "name_fr": "veuve noire",
+    "name_hu": "fekete özvegy"
   },
   {
     "node": 8517,
@@ -1245,7 +1400,8 @@
     "name": "iguana",
     "parent": 8516,
     "name_es": "iguana",
-    "name_fr": "iguane vert"
+    "name_fr": "iguane vert",
+    "name_hu": "leguán"
   },
   {
     "node": 91907,
@@ -1253,7 +1409,8 @@
     "name": "chameleon",
     "parent": 51754,
     "name_es": "camaleón",
-    "name_fr": "caméléon"
+    "name_fr": "caméléon",
+    "name_hu": "kaméleon"
   },
   {
     "node": 6145,
@@ -1261,7 +1418,8 @@
     "name": "jellyfish",
     "parent": 6144,
     "name_es": "medusa",
-    "name_fr": "méduse"
+    "name_fr": "méduse",
+    "name_hu": "medúza"
   },
   {
     "node": 6584,
@@ -1269,7 +1427,8 @@
     "name": "sea clam",
     "parent": 6582,
     "name_es": "almeja de mar",
-    "name_fr": "palourde"
+    "name_fr": "palourde",
+    "name_hu": "tengeri kagyló"
   },
   {
     "node": 6707,
@@ -1277,7 +1436,8 @@
     "name": "lobster",
     "parent": 6705,
     "name_es": "bogavante",
-    "name_fr": "homard"
+    "name_fr": "homard",
+    "name_hu": "homár"
   },
   {
     "node": 102976,
@@ -1285,7 +1445,8 @@
     "name": "krill",
     "parent": 6818,
     "name_es": "krill",
-    "name_fr": "krill"
+    "name_fr": "krill",
+    "name_hu": "krill"
   },
   {
     "node": 6536,
@@ -1293,7 +1454,8 @@
     "name": "snail",
     "parent": 6534,
     "name_es": "caracol",
-    "name_fr": "escargot"
+    "name_fr": "escargot",
+    "name_hu": "csiga"
   },
   {
     "node": 2067768,
@@ -1301,7 +1463,8 @@
     "name": "banana slug",
     "parent": 2029300,
     "name_es": "babosa de plátano",
-    "name_fr": "limace-banane"
+    "name_fr": "limace-banane",
+    "name_hu": "banáncsiga"
   },
   {
     "node": 7671,
@@ -1309,7 +1472,8 @@
     "name": "sea urchin",
     "parent": 7664,
     "name_es": "erizo de mar",
-    "name_fr": "oursin"
+    "name_fr": "oursin",
+    "name_hu": "tengerisün"
   },
   {
     "node": 242715,
@@ -1317,7 +1481,8 @@
     "name": "brain coral",
     "parent": 89253,
     "name_es": "coral cerebral",
-    "name_fr": "corail-cerveau"
+    "name_fr": "corail-cerveau",
+    "name_hu": "agykorall"
   },
   {
     "node": 168775,
@@ -1325,7 +1490,8 @@
     "name": "man o war",
     "parent": 168774,
     "name_es": "carabela portuguesa",
-    "name_fr": "physalie"
+    "name_fr": "physalie",
+    "name_hu": "portugál gálya"
   },
   {
     "node": 195334,
@@ -1333,7 +1499,8 @@
     "name": "hammerhead shark",
     "parent": 7822,
     "name_es": "tiburon martillo",
-    "name_fr": "requin-marteau"
+    "name_fr": "requin-marteau",
+    "name_hu": "pörölycápa"
   },
   {
     "node": 9833,
@@ -1341,7 +1508,8 @@
     "name": "hippopotamus",
     "parent": 9832,
     "name_es": "hipopótamo",
-    "name_fr": "hippopotame"
+    "name_fr": "hippopotame",
+    "name_hu": "viziló"
   },
   {
     "node": 7507,
@@ -1349,7 +1517,8 @@
     "name": "praying mantis",
     "parent": 7506,
     "name_es": "mantis religiosa",
-    "name_fr": "mante religieuse"
+    "name_fr": "mante religieuse",
+    "name_hu": "imádkozó sáska"
   },
   {
     "node": 35669,
@@ -1357,7 +1526,8 @@
     "name": "seagull",
     "parent": 8911,
     "name_es": "gaviota",
-    "name_fr": "goéland"
+    "name_fr": "goéland",
+    "name_hu": "sirály"
   },
   {
     "node": 6687,
@@ -1365,7 +1535,8 @@
     "name": "tiger prawn",
     "parent": 133894,
     "name_es": "camarón tigre",
-    "name_fr": "crevette géante tigrée"
+    "name_fr": "crevette géante tigrée",
+    "name_hu": "tigrisrák"
   },
   {
     "node": 51876,
@@ -1373,7 +1544,8 @@
     "name": "anaconda",
     "parent": 51875,
     "name_es": "anaconda",
-    "name_fr": "anaconda"
+    "name_fr": "anaconda",
+    "name_hu": "anakonda"
   },
   {
     "node": 56350,
@@ -1381,7 +1553,8 @@
     "name": "kestrel",
     "parent": 8952,
     "name_es": "cernícalo",
-    "name_fr": "crécerelle"
+    "name_fr": "crécerelle",
+    "name_hu": "vércse"
   },
   {
     "node": 9739,
@@ -1389,7 +1562,8 @@
     "name": "dolphin",
     "parent": 9738,
     "name_es": "delfín",
-    "name_fr": "dauphin"
+    "name_fr": "dauphin",
+    "name_hu": "delfin"
   },
   {
     "node": 166335,
@@ -1397,7 +1571,8 @@
     "name": "dung beetle",
     "parent": 1172026,
     "name_es": "escarabajo",
-    "name_fr": "bousier"
+    "name_fr": "bousier",
+    "name_hum": "ganajtúró bogár"
   },
   {
     "node": 9321,
@@ -1405,7 +1580,8 @@
     "name": "kangaroo",
     "parent": 2182372,
     "name_es": "canguro",
-    "name_fr": "kangourou"
+    "name_fr": "kangourou",
+    "name_hu": "kenguru"
   },
   {
     "node": 95723,
@@ -1413,7 +1589,8 @@
     "name": "toucan",
     "parent": 91780,
     "name_es": "tucán",
-    "name_fr": "toucan"
+    "name_fr": "toucan",
+    "name_hu": "tukán"
   },
   {
     "node": 9844,
@@ -1421,7 +1598,8 @@
     "name": "llama",
     "parent": 9839,
     "name_es": "llama",
-    "name_fr": "lama"
+    "name_fr": "lama",
+    "name_hu": "láma"
   },
   {
     "node": 8924,
@@ -1429,7 +1607,8 @@
     "name": "condor",
     "parent": 8923,
     "name_es": "cóndor",
-    "name_fr": "condor"
+    "name_fr": "condor",
+    "name_hu": "kondorkeselyű"
   },
   {
     "node": 435638,
@@ -1437,7 +1616,8 @@
     "name": "flamingo",
     "parent": 9216,
     "name_es": "flamenco",
-    "name_fr": "flamant"
+    "name_fr": "flamant",
+    "name_hu": "flamingó"
   },
   {
     "node": 9995,
@@ -1445,7 +1625,8 @@
     "name": "groundhog",
     "parent": 9992,
     "name_es": "marmota",
-    "name_fr": "marmotte"
+    "name_fr": "marmotte",
+    "name_hu": "mormota"
   },
   {
     "node": 8005,
@@ -1453,7 +1634,8 @@
     "name": "electric eel",
     "parent": 8004,
     "name_es": "anguila electrica",
-    "name_fr": "anguille électrique"
+    "name_fr": "anguille électrique",
+    "name_hu": "elektromos angolna"
   },
   {
     "node": 8624,
@@ -1461,7 +1643,8 @@
     "name": "black mamba",
     "parent": 8617,
     "name_es": "mamba negro",
-    "name_fr": "mamba noir"
+    "name_fr": "mamba noir",
+    "name_hu": "fekete mamba"
   },
   {
     "node": 61221,
@@ -1469,7 +1652,8 @@
     "name": "komodo dragon",
     "parent": 8556,
     "name_es": "dragon de komodo",
-    "name_fr": "dragon de komodo"
+    "name_fr": "dragon de komodo",
+    "name_hu": "komodói varánusz"
   },
   {
     "node": 9305,
@@ -1477,7 +1661,8 @@
     "name": "tasmanian devil",
     "parent": 9304,
     "name_es": "demonio de tasmania",
-    "name_fr": "diable de Tasmanie"
+    "name_fr": "diable de Tasmanie",
+    "name_hu": "erszényes ördög"
   },
   {
     "node": 9447,
@@ -1485,7 +1670,8 @@
     "name": "lemur",
     "parent": 9446,
     "name_es": "lémur",
-    "name_fr": "lémur"
+    "name_fr": "lémur",
+    "name_hu": "lemúr"
   },
   {
     "node": 7010,
@@ -1493,7 +1679,8 @@
     "name": "locust",
     "parent": 7008,
     "name_es": "langosta del desierto",
-    "name_fr": "criquet pèlerin"
+    "name_fr": "criquet pèlerin",
+    "name_hu": "vándorsáska"
   },
   {
     "node": 7009,
@@ -1501,7 +1688,8 @@
     "name": "grasshopper",
     "parent": 7008,
     "name_es": "saltamontes",
-    "name_fr": "criquet d'Amérique"
+    "name_fr": "criquet d'Amérique",
+    "name_hu": "szöcske"
   },
   {
     "node": 58607,
@@ -1509,7 +1697,8 @@
     "name": "cricket",
     "parent": 6998,
     "name_es": "grillo",
-    "name_fr": "grillon"
+    "name_fr": "grillon",
+    "name_hu": "tücsök"
   },
   {
     "node": 1574408,
@@ -1517,7 +1706,8 @@
     "name": "elk",
     "parent": 9859,
     "name_es": "uapití",
-    "name_fr": "wapiti"
+    "name_fr": "wapiti",
+    "name_hu": "vapiti"
   },
   {
     "node": 9870,
@@ -1525,7 +1715,8 @@
     "name": "caribou",
     "parent": 9869,
     "name_es": "caribú",
-    "name_fr": "renne"
+    "name_fr": "renne",
+    "name_hu": "rénszarvas"
   },
   {
     "node": 70868,
@@ -1533,7 +1724,8 @@
     "name": "barracuda",
     "parent": 13691,
     "name_es": "barracuda",
-    "name_fr": "barracuda"
+    "name_fr": "barracuda",
+    "name_hu": "barrakuda"
   },
   {
     "node": 41139,
@@ -1541,7 +1733,8 @@
     "name": "ladybug",
     "parent": 41138,
     "name_es": "mariquita",
-    "name_fr": "coccinelle"
+    "name_fr": "coccinelle",
+    "name_hu": "katica"
   },
   {
     "node": 63978,
@@ -1549,7 +1742,8 @@
     "name": "atlas moth",
     "parent": 63966,
     "name_es": "polilla atlas",
-    "name_fr": "atlas"
+    "name_fr": "atlas",
+    "name_hu": "molylepke"
   },
   {
     "node": 36987,
@@ -1557,7 +1751,8 @@
     "name": "termite",
     "parent": 36986,
     "name_es": "termita",
-    "name_fr": "termite"
+    "name_fr": "termite",
+    "name_hu": "termesz"
   },
   {
     "node": 6978,
@@ -1565,7 +1760,8 @@
     "name": "cockroach",
     "parent": 6977,
     "name_es": "cucaracha",
-    "name_fr": "blatte"
+    "name_fr": "blatte",
+    "name_hu": "csótány"
   },
   {
     "node": 13068,
@@ -1573,7 +1769,8 @@
     "name": "earwig",
     "parent": 98427,
     "name_es": "tijereta",
-    "name_fr": "perce-oreille"
+    "name_fr": "perce-oreille",
+    "name_hu": "fülbemászó"
   },
   {
     "node": 1646243,
@@ -1581,7 +1778,8 @@
     "name": "dragonfly",
     "parent": 12920,
     "name_es": "libélula",
-    "name_fr": "libellule"
+    "name_fr": "libellule",
+    "name_hu": "szitakötő"
   },
   {
     "node": 8554,
@@ -1589,7 +1787,8 @@
     "name": "gila monster",
     "parent": 8550,
     "name_es": "monstruo de gila",
-    "name_fr": "monstre de Gila"
+    "name_fr": "monstre de Gila",
+    "name_hu": "gila"
   },
   {
     "node": 10149,
@@ -1597,7 +1796,8 @@
     "name": "capybara",
     "parent": 10148,
     "name_es": "capibara",
-    "name_fr": "capybara"
+    "name_fr": "capybara",
+    "name_hu": "vízidisznó"
   },
   {
     "node": 1983395,
@@ -1605,7 +1805,8 @@
     "name": "manta ray",
     "parent": 86365,
     "name_es": "mantarraya",
-    "name_fr": "raie manta"
+    "name_fr": "raie manta",
+    "name_hu": "ördögrája"
   },
   {
     "node": 2484686,
@@ -1613,7 +1814,8 @@
     "name": "sting ray",
     "parent": 2055258,
     "name_es": "raya de espina",
-    "name_fr": "raie pastenague"
+    "name_fr": "raie pastenague",
+    "name_hu": "rája"
   },
   {
     "node": 1129476,
@@ -1621,7 +1823,8 @@
     "name": "hermit crab",
     "parent": 370547,
     "name_es": "cangrejo ermitaño",
-    "name_fr": "bernard-l'hermite"
+    "name_fr": "bernard-l'hermite",
+    "name_hu": "remeterák"
   },
   {
     "node": 342437,
@@ -1629,7 +1832,8 @@
     "name": "pufferfish",
     "parent": 50368,
     "name_es": "pez globo",
-    "name_fr": "poisson-globe"
+    "name_fr": "poisson-globe",
+    "name_hu": "gömbhal"
   },
   {
     "node": 9049,
@@ -1637,7 +1841,8 @@
     "name": "peacock",
     "parent": 9048,
     "name_es": "pavo real",
-    "name_fr": "paon"
+    "name_fr": "paon",
+    "name_hu": "páva"
   },
   {
     "node": 571810,
@@ -1645,7 +1850,8 @@
     "name": "sea cucumber",
     "parent": 206674,
     "name_es": "pepino de mar",
-    "name_fr": "concombre de mer"
+    "name_fr": "concombre de mer",
+    "name_hu": "tengeri uborka"
   },
   {
     "node": 9852,
@@ -1653,7 +1859,8 @@
     "name": "moose",
     "parent": 9851,
     "name_es": "alce",
-    "name_fr": "élan"
+    "name_fr": "élan",
+    "name_hu": "jávorszarvas"
   },
   {
     "node": 13347,
@@ -1661,7 +1868,8 @@
     "name": "pillbug",
     "parent": 13346,
     "name_es": "píldora",
-    "name_fr": "cloporte"
+    "name_fr": "cloporte",
+    "name_hu": "pincebogár"
   },
   {
     "node": 110520,
@@ -1669,7 +1877,8 @@
     "name": "barnacle",
     "parent": 6677,
     "name_es": "percebe",
-    "name_fr": "balane"
+    "name_fr": "balane",
+    "name_hu": "tengerimakk"
   },
   {
     "node": 8574,
@@ -1677,7 +1886,8 @@
     "name": "boa constrictor",
     "parent": 8573,
     "name_es": "boa constrictor",
-    "name_fr": "boa constricteur"
+    "name_fr": "boa constricteur",
+    "name_hu": "közönséges óriáskígyó"
   },
   {
     "node": 30521,
@@ -1685,7 +1895,8 @@
     "name": "yak",
     "parent": 9903,
     "name_es": "como",
-    "name_fr": "yack"
+    "name_fr": "yack",
+    "name_hu": "jak"
   },
   {
     "node": 10141,
@@ -1693,7 +1904,8 @@
     "name": "guinea pig",
     "parent": 10140,
     "name_es": "conejillo de indias",
-    "name_fr": "cochon d'Inde"
+    "name_fr": "cochon d'Inde",
+    "name_hu": "tengerimalac"
   },
   {
     "node": 8697,
@@ -1701,7 +1913,8 @@
     "name": "viper",
     "parent": 8696,
     "name_es": "víbora",
-    "name_fr": "vipère"
+    "name_fr": "vipère",
+    "name_hu": "vipera"
   },
   {
     "node": 66189,
@@ -1709,7 +1922,8 @@
     "name": "tortoise",
     "parent": 1137846,
     "name_es": "tortuga gigante",
-    "name_fr": "tortue géante des Galápagos"
+    "name_fr": "tortue géante des Galápagos",
+    "name_hu": "óriásteknős"
   },
   {
     "node": 8475,
@@ -1717,7 +1931,8 @@
     "name": "snapping turtle",
     "parent": 8474,
     "name_es": "tortuga mordedora",
-    "name_fr": "tortue serpentine"
+    "name_fr": "tortue serpentine",
+    "name_hu": "aligátorteknős"
   },
   {
     "node": 8730,
@@ -1725,7 +1940,8 @@
     "name": "rattlesnake",
     "parent": 8728,
     "name_es": "serpiente de cascabel",
-    "name_fr": "crotale"
+    "name_fr": "crotale",
+    "name_hu": "csörgőkígyó"
   },
   {
     "node": 9268,
@@ -1733,7 +1949,8 @@
     "name": "opossum",
     "parent": 9266,
     "name_es": "zarigüeya",
-    "name_fr": "opossum"
+    "name_fr": "opossum",
+    "name_hu": "oposszum"
   },
   {
     "node": 1247135,
@@ -1741,7 +1958,8 @@
     "name": "hercules beetle",
     "parent": 60842,
     "name_es": "hércules escarabajo",
-    "name_fr": "scarabée rhinocéros"
+    "name_fr": "scarabée rhinocéros",
+    "name_hu": "herkulesbogár"
   },
   {
     "node": 6421,
@@ -1749,7 +1967,8 @@
     "name": "leech",
     "parent": 6420,
     "name_es": "sanguijuela",
-    "name_fr": "sangsue"
+    "name_fr": "sangsue",
+    "name_hu": "pióca"
   },
   {
     "node": 8074,
@@ -1757,7 +1976,8 @@
     "name": "anglerfish",
     "parent": 8072,
     "name_es": "rape blanco",
-    "name_fr": "baudroie"
+    "name_fr": "baudroie",
+    "name_hu": "horgászhal"
   },
   {
     "node": 6398,
@@ -1765,7 +1985,8 @@
     "name": "earthworm",
     "parent": 1050931,
     "name_es": "lombriz",
-    "name_fr": "ver de terre"
+    "name_fr": "ver de terre",
+    "name_hu": "földigiliszta"
   },
   {
     "node": 1351942,
@@ -1773,7 +1994,8 @@
     "name": "sand dollar",
     "parent": 551536,
     "name_es": "dolar de arena",
-    "name_fr": "dollar des sables"
+    "name_fr": "dollar des sables",
+    "name_hu": "homokdollár"
   },
   {
     "node": 6550,
@@ -1781,7 +2003,8 @@
     "name": "mussel",
     "parent": 6548,
     "name_es": "mejillón",
-    "name_fr": "moule"
+    "name_fr": "moule",
+    "name_hu": "kagyló"
   },
   {
     "node": 120888,
@@ -1789,7 +2012,8 @@
     "name": "mantis shrimp",
     "parent": 120887,
     "name_es": "camarón mantis",
-    "name_fr": "crevette-mante"
+    "name_fr": "crevette-mante",
+    "name_hu": "sáskarák"
   },
   {
     "node": 8665,
@@ -1797,7 +2021,8 @@
     "name": "king cobra",
     "parent": 8664,
     "name_es": "rey cobra",
-    "name_fr": "cobra royal"
+    "name_fr": "cobra royal",
+    "name_hu": "királykobra"
   },
   {
     "node": 291247,
@@ -1805,7 +2030,8 @@
     "name": "millipede",
     "parent": 118475,
     "name_es": "millipde",
-    "name_fr": "mille-pattes"
+    "name_fr": "mille-pattes",
+    "name_hu": "ezerlábú"
   },
   {
     "node": 8081,
@@ -1813,7 +2039,8 @@
     "name": "guppy",
     "parent": 8080,
     "name_es": "guppy",
-    "name_fr": "guppy"
+    "name_fr": "guppy",
+    "name_hu": "guppi"
   },
   {
     "node": 9333,
@@ -1821,7 +2048,8 @@
     "name": "possum",
     "parent": 9332,
     "name_es": "falangero",
-    "name_fr": "phalanger"
+    "name_fr": "phalanger",
+    "name_hu": "gyűrűsfarkú erszényes"
   },
   {
     "node": 1678817,
@@ -1829,7 +2057,8 @@
     "name": "mayfly",
     "parent": 307890,
     "name_es": "efímera",
-    "name_fr": "éphémère"
+    "name_fr": "éphémère",
+    "name_hu": "kérész"
   },
   {
     "node": 29022,
@@ -1837,7 +2066,8 @@
     "name": "centipede",
     "parent": 29021,
     "name_es": "ciempiés",
-    "name_fr": "scutigère"
+    "name_fr": "scutigère",
+    "name_hu": "százlábú"
   },
   {
     "node": 45474,
@@ -1845,7 +2075,8 @@
     "name": "chipmunk",
     "parent": 13712,
     "name_es": "ardilla",
-    "name_fr": "tamia"
+    "name_fr": "tamia",
+    "name_hu": "csíkosmókus"
   },
   {
     "node": 8236,
@@ -1853,7 +2084,8 @@
     "name": "tuna",
     "parent": 8234,
     "name_es": "atún",
-    "name_fr": "thon"
+    "name_fr": "thon",
+    "name_hu": "tonhal"
   },
   {
     "node": 190476,
@@ -1861,7 +2093,8 @@
     "name": "caiman",
     "parent": 8497,
     "name_es": "caiman",
-    "name_fr": "caïman"
+    "name_fr": "caïman",
+    "name_hu": "kajmán"
   },
   {
     "node": 68724,
@@ -1869,7 +2102,8 @@
     "name": "jackal",
     "parent": 9611,
     "name_es": "chacal",
-    "name_fr": "chacal"
+    "name_fr": "chacal",
+    "name_hu": "aranysakál"
   },
   {
     "node": 7819,
@@ -1877,7 +2111,8 @@
     "name": "tiger shark",
     "parent": 7818,
     "name_es": "tiburón tigre",
-    "name_fr": "requin-tigre"
+    "name_fr": "requin-tigre",
+    "name_hu": "tigriscápa"
   },
   {
     "node": 57987,
@@ -1885,7 +2120,8 @@
     "name": "goblin shark",
     "parent": 57986,
     "name_es": "tiburón duende",
-    "name_fr": "requin-lutin"
+    "name_fr": "requin-lutin",
+    "name_hu": "koboldcápa"
   },
   {
     "node": 267067,
@@ -1893,7 +2129,8 @@
     "name": "giant octopus",
     "parent": 267066,
     "name_es": "pulpo gigante",
-    "name_fr": "pieuvre géante"
+    "name_fr": "pieuvre géante",
+    "name_hu": "óriáspolip"
   },
   {
     "node": 34570,
@@ -1901,7 +2138,8 @@
     "name": "bigfin squid",
     "parent": 34569,
     "name_es": "calamar bigfin",
-    "name_fr": "calmar à grandes nageoires"
+    "name_fr": "calmar à grandes nageoires",
+    "name_hu": "ovális tintahal"
   },
   {
     "node": 34578,
@@ -1909,7 +2147,8 @@
     "name": "nautilus",
     "parent": 34572,
     "name_es": "nautilo",
-    "name_fr": "nautile"
+    "name_fr": "nautile",
+    "name_hu": "csigáspolip"
   },
   {
     "node": 51359,
@@ -1917,7 +2156,8 @@
     "name": "woodpecker",
     "parent": 51358,
     "name_es": "pájaro carpintero",
-    "name_fr": "pic"
+    "name_fr": "pic",
+    "name_hu": "harkály"
   },
   {
     "node": 2082998,
@@ -1925,7 +2165,8 @@
     "name": "hummingbird",
     "parent": 1507478,
     "name_es": "colibrí",
-    "name_fr": "colibri"
+    "name_fr": "colibri",
+    "name_hu": "kolibri"
   },
   {
     "node": 52810,
@@ -1933,7 +2174,8 @@
     "name": "kite",
     "parent": 43517,
     "name_es": "milano negro",
-    "name_fr": "milan"
+    "name_fr": "milan",
+    "name_hu": "barna kánya"
   },
   {
     "node": 43455,
@@ -1941,7 +2183,8 @@
     "name": "turkey vulture",
     "parent": 33611,
     "name_es": "buitre pavo",
-    "name_fr": "urubu à tête rouge"
+    "name_fr": "urubu à tête rouge",
+    "name_hu": "pulykakesely"
   },
   {
     "node": 96725,
@@ -1949,7 +2192,8 @@
     "name": "skink",
     "parent": 8526,
     "name_es": "escinco",
-    "name_fr": "scinque"
+    "name_fr": "scinque",
+    "name_hu": "szkink"
   },
   {
     "node": 212017,
@@ -1957,7 +2201,8 @@
     "name": "water bug",
     "parent": 43338,
     "name_es": "bicho de agua",
-    "name_fr": "punaise d'eau"
+    "name_fr": "punaise d'eau",
+    "name_hu": "vízipoloska"
   },
   {
     "node": 209230,
@@ -1965,7 +2210,8 @@
     "name": "betta fish",
     "parent": 158455,
     "name_es": "pez betta",
-    "name_fr": "poisson combattant"
+    "name_fr": "poisson combattant",
+    "name_hu": "sziámi harcoshal"
   },
   {
     "node": 129333,
@@ -1973,7 +2219,8 @@
     "name": "green tree python",
     "parent": 51894,
     "name_es": "pitón de árbol verde",
-    "name_fr": "python vert"
+    "name_fr": "python vert",
+    "name_hu": "smaragdzöld piton"
   },
   {
     "node": 1647984,
@@ -1981,7 +2228,8 @@
     "name": "fiddler crab",
     "parent": 1239988,
     "name_es": "cangrejo violinista",
-    "name_fr": "crabe violoniste"
+    "name_fr": "crabe violoniste",
+    "name_hu": "intőrák"
   },
   {
     "node": 9927,
@@ -1989,7 +2237,8 @@
     "name": "wildebeest",
     "parent": 9926,
     "name_es": "ñu",
-    "name_fr": "gnou"
+    "name_fr": "gnou",
+    "name_hu": "gnú"
   },
   {
     "node": 50434,
@@ -1997,7 +2246,8 @@
     "name": "flea",
     "parent": 7514,
     "name_es": "pulga",
-    "name_fr": "puce"
+    "name_fr": "puce",
+    "name_hu": "bolha"
   },
   {
     "node": 7897,
@@ -2005,7 +2255,8 @@
     "name": "coelacanth",
     "parent": 7896,
     "name_es": "celacantio",
-    "name_fr": "coelacanthe"
+    "name_fr": "coelacanthe",
+    "name_hu": "bojtosúszójúhal"
   },
   {
     "node": 202113,
@@ -2013,7 +2264,8 @@
     "name": "sea sponge",
     "parent": 121476,
     "name_es": "esponja de mar",
-    "name_fr": "éponge"
+    "name_fr": "éponge",
+    "name_hu": "szivacs"
   },
   {
     "node": 8839,
@@ -2021,7 +2273,8 @@
     "name": "duck",
     "parent": 8835,
     "name_es": "pato",
-    "name_fr": "canard"
+    "name_fr": "canard",
+    "name_hu": "kacsa"
   },
   {
     "node": 9103,
@@ -2029,7 +2282,8 @@
     "name": "turkey",
     "parent": 9102,
     "name_es": "pavo",
-    "name_fr": "dindon"
+    "name_fr": "dindon",
+    "name_hu": "pulyka"
   },
   {
     "node": 9606,
@@ -2037,7 +2291,8 @@
     "name": "human",
     "parent": 9605,
     "name_es": "humano",
-    "name_fr": "humain"
+    "name_fr": "humain",
+    "name_hu": "ember"
   },
   {
     "node": 9612,
@@ -2045,7 +2300,8 @@
     "name": "wolf",
     "parent": 9611,
     "name_es": "lobo",
-    "name_fr": "loup"
+    "name_fr": "loup",
+    "name_hu": "farkas"
   },
   {
     "node": 9685,
@@ -2053,7 +2309,8 @@
     "name": "cat",
     "parent": 9682,
     "name_es": "gato",
-    "name_fr": "chat"
+    "name_fr": "chat",
+    "name_hu": "macska"
   },
   {
     "node": 9733,
@@ -2061,7 +2318,8 @@
     "name": "orca",
     "parent": 9732,
     "name_es": "orco",
-    "name_fr": "orque"
+    "name_fr": "orque",
+    "name_hu": "kardszárnyú delfin"
   },
   {
     "node": 9793,
@@ -2069,7 +2327,8 @@
     "name": "donkey",
     "parent": 9789,
     "name_es": "burro",
-    "name_fr": "âne"
+    "name_fr": "âne",
+    "name_hu": "szamár"
   },
   {
     "node": 9823,
@@ -2077,7 +2336,8 @@
     "name": "pig",
     "parent": 9822,
     "name_es": "cerdo",
-    "name_fr": "cochon"
+    "name_fr": "cochon",
+    "name_hu": "sertés"
   },
   {
     "node": 9874,
@@ -2085,7 +2345,8 @@
     "name": "deer",
     "parent": 9871,
     "name_es": "ciervo",
-    "name_fr": "cerf"
+    "name_fr": "cerf",
+    "name_hu": "szarvas"
   },
   {
     "node": 9925,
@@ -2093,7 +2354,8 @@
     "name": "goat",
     "parent": 9922,
     "name_es": "cabro",
-    "name_fr": "chèvre"
+    "name_fr": "chèvre",
+    "name_hu": "kecske"
   },
   {
     "node": 9986,
@@ -2101,7 +2363,8 @@
     "name": "rabbit",
     "parent": 9984,
     "name_es": "conejo",
-    "name_fr": "lapin"
+    "name_fr": "lapin",
+    "name_hu": "nyúl"
   },
   {
     "node": 27706,
@@ -2109,7 +2372,8 @@
     "name": "bass",
     "parent": 27705,
     "name_es": "perca",
-    "name_fr": "perche noire"
+    "name_fr": "perche noire",
+    "name_hu": "pisztrángsügér"
   },
   {
     "node": 48420,
@@ -2117,7 +2381,8 @@
     "name": "wolverine",
     "parent": 48419,
     "name_es": "glotón",
-    "name_fr": "glouton"
+    "name_fr": "glouton",
+    "name_hu": "rozsomák"
   },
   {
     "node": 51900,
@@ -2125,7 +2390,8 @@
     "name": "macaw",
     "parent": 51899,
     "name_es": "guacamayo",
-    "name_fr": "ara"
+    "name_fr": "ara",
+    "name_hu": "jácintara"
   },
   {
     "node": 163847,
@@ -2133,7 +2399,8 @@
     "name": "canary",
     "parent": 1892169,
     "name_es": "canario",
-    "name_fr": "serin"
+    "name_fr": "serin",
+    "name_hu": "kanári"
   },
   {
     "node": 10116,
@@ -2141,7 +2408,8 @@
     "name": "rat",
     "parent": 10114,
     "name_es": "rato",
-    "name_fr": "rat"
+    "name_fr": "rat",
+    "name_hu": "patkány"
   },
   {
     "node": 46460,
@@ -2149,6 +2417,7 @@
     "name": "tardigrade",
     "parent": 46459,
     "name_es": "tardigrado",
-    "name_fr": "tardigrade"
+    "name_fr": "tardigrade",
+    "name_hu": "medveállatka"
   }
 ]

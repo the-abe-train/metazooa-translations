@@ -1,0 +1,178 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Titkos Állat",
+        "unique": "egy Titkos Állat",
+        "indefinite": "egy Titkos Állat",
+        "definite": "a Titkos Állat",
+        "demonstrative": "ez"
+      },
+      "answer": "ember",
+      "kingdom": {
+        "generic": "állatok",
+        "concord": "k",
+        "unique": "egy",
+        "definite": "a"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "mystery", "plural": "mystery" },
+      "menagerie": "állatkert"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "Mystery Plant",
+        "unique": "one Mystery Plant",
+        "indefinite": "a Mystery Plant",
+        "definite": "the Mystery Plant",
+        "demonstrative": "this"
+      },
+      "answer": "tomato",
+      "kingdom": {
+        "generic": "plants",
+        "concord": "s",
+        "unique": "a",
+        "definite": "the"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "mystery", "plural": "mystery" },
+      "menagerie": "garden"
+    },
+    "keywords": {
+      "remaining": "maradt",
+      "Click": "Kattints",
+      "Tap": "Tap"
+    },
+    "home": {
+      "0": {
+        "0": "Az állatok országa (<i>Metazoa</i> görögül) tele van távoli rokonainkkal... néhányan még távolibbak mint mások! Metazooa egy játék ami próbára tesz hogy mennyire ismered a kiterjesztett családfánkat.",
+        "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
+      },
+      "1": "A célod hogy kitaláld a mai <b>{{species.generic}}</b>ot a lehető legkevesebb próbálkozásból. A rossz válaszok leszűkítik a végső megoldás rendszertani kategóriáját (ország, törzs , osztály, rend, stb.) Minél közelebb jutsz a megoldáshoz, annál többet tudsz meg a {{species.generic}}ról.",
+      "2": "Például, ha a megoldás “{{answer}}”, a tippeid egy olyan fát hozhatnak létre, mint az alábbi:",
+      "3": "Minden nap pontosan {{species.unique}} van, de kapsz {{MAX_GUESSES}} tippet hogy kitalálhasd! Új játékhoz hátrelévő idő: <b>{{nextGame}}</b>.",
+      "4": "Már kitaláltad a mai {{species.generic}}ot?",
+      "5": "Játék",
+    },
+    "game": {
+      "0": "Mutasd a táblázatot",
+      "1": "Ez a közös a {{guess}} és a megoldás között",
+      "2": "{{click}} további információért",
+      "3": "Találd meg ezt a {{species.generic}}ot!",
+      "4": "Nyertél! A megoldás <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Nyertél!",
+        "1": "Elfogytak a tippjeid."
+      },
+      "2": "Oszd meg az eredményed másokkal vagy játsz egy gyakorló játékot!",
+      "3": "Játsz egy másik játékot" //TODO: find on page
+    },
+    "share": {
+      "0": "Megosztás",
+      "1": "Megosztva!",
+      "2": "Vágólapra másolva!",
+      "3": "Sikertelen megosztás."
+    },
+    "table": {
+      "0": "Rendszertani Kategória",
+      "1": "Név",
+      "2": "Tippek",
+      "3": "Segítségek",
+      "4": "Vissza a családfához"
+    },
+    "errors": {
+      "0": "Nincs error",
+      "1": "\"{{guess}}\" nincs az adatbázisban",
+      "2": "Már tippelted a  \"{{guess}}t\"",
+      "3": "A megoldás \"{{guess}}\"",
+      "4": "\"{{guess}}\"re gondoltál?" //TODO: ra re
+    },
+    "button": {
+      "0": "Lépj be az {{menagerie}}be!"
+    },
+    "footer": {
+      "0": "by Trainwreck Labs",
+      "1": "Csatlakozz a Discord szerverhez!",
+      "2": "Kérdésed van?",
+      "3": "Kattints ide a GYIKhez"
+    },
+    "hint": {
+      "0": "Segítség kell? Cserélj el 3 tippet hogy egy kategóriával közelebb kerülj a megoldáshoz!",
+      "1": "Segítség"
+    },
+    "wikipedia": {
+      "0": "Wikipediáról",
+      "1": {
+        "Show": "Mutasd a képet",
+        "Hide": "Kép elrejtése"
+      }
+    },
+    "guesser": {
+      "0": "Tippelj bármilyen állatfajra hogy elkezd a játékot!",
+      "1": "Írd be a következő tipped",
+      "2": "Tipp"
+    },
+    "statistics": {
+      "0": "Statisztika",
+      "1": "Games",
+      "2": "Streak",
+      "3": "Plays",
+      "4": "Wins",
+      "5": "Current",
+      "6": "Max",
+      "7": "Questions used for each win. Bar colour denotes proximity of average guess to the answer."
+    },
+    "settings": {
+      "0": "Beállítások",
+      "1": "Játék latin nevekkel",
+      "2": "Nyelv",
+      "3": "Angol" //TODO: is it Magyar?
+    },
+    "practice": {
+      "0": "Gyakorlás",
+      "1": "Játsz végtelen környi {{game}}t!",
+      "2": "Új gyakorló játék",
+      "3": "Gyakorlás foltatása"
+    },
+    "links": {
+      "0": "Linkek",
+      "1": "Gyakran Ismételt kérdések",
+      "2": "Adatkezelési tájékoztató"
+    },
+    "twl": {
+      "0": "Bejelentkezés",
+      "1": "Connect <b>{{game}}</b> to your TWL account",
+      "2": "Bejelentkezés Google hasznalatával",
+      "3": "Bejelentkezés Discord hasznalatával",
+      "4": "Iratkozz fel a Trainwreck Labs hírlevelre",
+      "5": "Reklámok eltávolítása",
+      "6": "Kijelentkezés",
+      "7": "Klub tagság"
+    },
+    "faq": {
+      "0": "GYIK",
+      "1": {
+        "q": "Mi alapján lettek a játékban szereplő {{kingdom.generic}} kiválasztva?",
+        "a": "Az {{kingdom.generic}} a {{game}}ban az alapján lettek kiválasztva, hogy mennyire ismertek az átlegemberek számára és hogy a széles választékuk érdekessé tegye a játékot.."
+      },
+      "2": {
+        "q": "Hibás a játék! A Wikipedián másmilyen besorolása van az {{kingdom.generic}}nak.",
+        "a": "Elképzelhető. A besorolások a játékban az NCBI osztályozásán alapulnak, ami a legszéleskörűbben használt osztályozástan az állatokhoz, viszont nem az egyetlen. A Wikipedia osztályozását issokan hasznalják, és teljesen elképzelhető, hogy a két rendszer nem egyezik meg egyes fajok besorolásában."
+      },
+      "3": {
+        "q": "Miért nincsen \"Hüllő\" vagy \"Reptilia\" kategória a játékban?",
+        "a": "Míg néhány adatbázis, például a Wikipedia, használja a Hüllők osztályát, az NCBI osztályozása nem. Ehelyett az NCBI a Hüllőszerűek osztályát használja, amibe beletartozik az összes hüllő és madár. Ennek az az oka, hogy néhány állat ami a köznyelvben hüllőként ismert, sokkal közelebb áll a madarakhoz, mint a többi hüllőhöz. Például,a krokodilok közelebbi rokonságban állnak a moadarakkal, mint a gyíkokkal."
+      },
+      "4": {
+        "q": "A \"házimacska\" miért egy elfogadott tipp, miközben a \"házi kutya\" nem?",
+        "a": "Ez azért van, mert a házimacska egy külön állatfaj (\"Felis catus\"), míg a házi kutyákat általában a farkasok alfajának tekintik (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "Van a {{game}}nak Adatkezelési tájékoztatója ?",
+        "a": "Kattints erra a linkre hogy megtaláld a {{game}} <a href=\"/privacy-policy\" class=\"underline\">Adatkezelési tájékoztatóját</a>."
+      }
+    }
+  }
+}
