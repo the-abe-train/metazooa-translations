@@ -1,0 +1,179 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Rätsel-Tier",
+        "unique": "ein Rätsel-Tier",
+        "indefinite": "ein Rätsel-Tier",
+        "definite": "das Rätsel-Tier",
+        "demonstrative": "dieses"
+      },
+      "answer": "Mensch",
+      "kingdom": {
+        "generic": "Tiere",
+        "concord": "e",
+        "unique": "ein",
+        "definite": "das"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "Rätsel", "plural": "Rätsel" },
+      "menagerie": "Zoo"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "Rätsel-Pflanze",
+        "unique": "eine Rätsel-Pflanze",
+        "indefinite": "eine Rätsel-Pflanze",
+        "definite": "die Rätsel-Pflanze",
+        "demonstrative": "diese"
+      },
+      "answer": "Tomate",
+      "kingdom": {
+        "generic": "Pflanzen",
+        "concord": "en",
+        "unique": "eine",
+        "definite": "die"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "Rätsel", "plural": "Rätsel" },
+      "menagerie": "Garten"
+    },
+    "keywords": {
+      "remaining": "verbleibend",
+      "Click": "Klick",
+      "Tap": "Tipp"
+    },
+    "home": {
+      "0": {
+        "0": "Das Reich der Tiere (<i>Metazoa</i>, auf Griechisch) ist voll von unseren entfernten Verwandten... manche sind uns aber näher verwandt als andere. Im Spiel Metazooa kannst Du testen, wie gut Du unseren Stammbaum kennst!",
+        "1": "Der Stammbaum aller Pflanzen (die Wissenschaftler nennen ihn <i>Viridiplantae</i>) ist vielfältig und wunderschön... aber auch ziemlich kompliziert! Im Spiel Metaflora kannst Du dich testen &mdash; hast du einen grünen Daumen, findest Du dich zurecht in seinen vielen Zweigen?"
+      },
+      "1": "Dein Ziel ist: Errate die/das heutige <b>{{species.generic}}</b> mit so wenig Versuchen wie möglich! Mit jedem Versuch kannst du das Ergebnis weiter eingrenzen, denn du siehst, welchen Teil des Stammbaums dein Tipp und das Ergebnis gemeinsam haben. Und je näher du der Lösung kommst (man sagt auch: Je niedriger die gefundene <i>Rangstufe</i>) ist, desto mehr Eigenschaften weißst du über dein/e {{species.generic}}",
+      "2": "Zum Beispiel, sagen wir die Antwort ist “{{answer}}”, und du tippst daneben, dann könnte dein gefundender Stammbaum so aussehen:",
+      "3": "Es gibt nur ein/e {{species.unique}} pro Tag zu finden, aber du hast {{MAX_GUESSES}} dafür! Das nächste Rätsel findest du hier dann ab <b>{{nextGame}}</b>.",
+      "4": "Du hast dein/e {{species.generic}} heute schon gefunden?",
+      "5": "Los gehts!"
+    },
+    "game": {
+      "0": "Tabelle anzeigen",
+      "1": "Deine Antwort und {{guess}} haben diese Abstammung gemeinsam:",
+      "2": "{{click}} hier um mehr zu erfahren",
+      "3": "Gesucht: {{species.generic}}!",
+      "4": "Gewonnen! Herzlichen Glückwunsch! Die Antwort ist <b>{{answer}}</b>"
+    },
+    "modal": {
+      "0": {
+        "0": "Gewonnen!",
+        "1": "Alle Tipps aufgebraucht!"
+      },
+      "2": "Teile deine Punktzahl oder spiele eine Übungsrunde!",
+      "3": "Spiele ein anderes Spiel von"
+    },
+    "share": {
+      "0": "Teilen",
+      "1": "Geteilt!",
+      "2": "Kopiert!",
+      "3": "Fehler; Wir konnten deine Punktzahl nicht teilen!"
+    },
+    "table": {
+      "0": "Rangstufe",
+      "1": "Name",
+      "2": "Versuche",
+      "3": "Tipps",
+      "4": "Zurück zum Stammbaum"
+    },
+    "errors": {
+      "0": "Kein Fehler",
+      "1": "\"{{guess}}\" nicht gefunden in unserer Datenbank",
+      "2": "Du hast \"{{guess}}\" vorher schon mal getippt",
+      "3": "Die Antwort ist \"{{guess}}\"",
+      "4": "Meintest du \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Auf in den {{menagerie}}!"
+    },
+    "footer": {
+      "0": "by Trainwreck Labs",
+      "1": "Komm auf unseren Discord-Server!",
+      "2": "Hast Du eine Frage?",
+      "3": "Antworten auf häufig gestellte Fragen"
+    },
+    "hint": {
+      "0": "Brauchst du einen Tipp? Tausche 3 Versuche gegen die nächste Rangstufe!",
+      "1": "Tipp"
+    },
+    "wikipedia": {
+      "0": "Aus der Wikipedia",
+      "1": {
+        "Show": "Bild anzeigen",
+        "Hide": "Bild verstecken"
+      }
+    },
+    "guesser": {
+      "0": "Gib irgendeine Art als ersten Rate-Versuch ein!",
+      "1": "Gib hier deinen nächsen Rate-Versuch ein.",
+      "2": "Raten"
+    },
+    "statistics": {
+      "0": "Statistiken",
+      "1": "Spiele",
+      "2": "Lauf",
+      "3": "Runden",
+      "4": "Gewonnen",
+      "5": "Momentan",
+      "6": "Maximum",
+      "7": "Wie viele Versuche du pro Gewinn brauchtest. Die Farbe des Balkens zeigt, wie nah du der korrekten Antwort warst."
+    },
+    "settings": {
+      "0": "Einstellungen",
+      "1": "Wissenschaftliche Namen zum Raten verwenden",
+      "2": "Sprache",
+      "3": "Deutsch",
+      "4": "Dunkler Hintergrund"
+    },
+    "practice": {
+      "0": "Übungsrunde",
+      "1": "Spiele so viele Runden {{game}} wie du willst!",
+      "2": "Neue Übungsrunde",
+      "3": "Übungsrunde fortsetzen"
+    },
+    "links": {
+      "0": "Links",
+      "1": "Häufig gestellte Fragen",
+      "2": "Datenschutz"
+    },
+    "twl": {
+      "0": "Konto",
+      "1": "<b>{{game}}</b> mit deinem TWL-Konto verbinden",
+      "2": "Mit Google anmelden",
+      "3": "Mit Discord anmelden",
+      "4": "Den Trainwreck Labs-Newsletter abbonieren",
+      "5": "Werbung entfernen",
+      "6": "Verbindung trennen",
+      "7": "Club-Mitglied"
+    },
+    "faq": {
+      "0": "Häufig gestellte Fragen",
+      "1": {
+        "q": "Wie habt ihr die {{kingdom.generic}} für das Spiel ausgewählt?",
+        "a": "Wir haben {{kingdom.generic}} für {{game}} ausgewählt, die viele Leute kennen. Außerdem haben wir versucht, eine große Vielfalt an Arten mit hineinzunehmen, um das Spiel möglichst interessant zu machen."
+      },
+      "2": {
+        "q": "Im Spiel steht es falsch! In der Wikipedia finde ich andere Einordnungen für eins der {{kingdom.generic}}!",
+        "a": "Das kann schon sein. Die Einordnungen im Spiel basieren auf der <i>NCBI taxonomy</i>. Sie ist die Taxonomie (Einordung der Arten), die für Tiere am häufigsten verwendet wird. Allerdings ist das nicht die einzige Taxonomie. Die Taxonomie von Wikipedia wird auch häufig verwendet, und es kann passieren dass es zwischen den beiden Unterschiede gibt."
+      },
+      "3": {
+        "q": "Warum finde ich die Klasse der \"Reptilien\" oder \"Reptilia\" nicht im Spiel?",
+        "a": "In manchen Taxonomien, beispielsweise in der Wikipedia, findet man die Klasse \"Reptilia\". Die <i>NCBI taxonomy</i> verwendet sie nicht. Stattdessen. Stattdessen wird in der <i>NCBI taxonomy</i> die Klasse \"Sauropsida\" verwendet, die alle Reptilien und Vögel beinhaltet. Der Grund ist, dass manche der Tiere, die man landläufig als \"Reptilien\" bezeichnet, in Wirklichkeit mehr mit den Vögeln als mit anderen Reptilien zu tun haben. Zum Beispiel das Kokodil. Es ist wirklich näher mit den Vögeln als mit den Echsen verwandt!"
+      },
+      "4": {
+        "q": "Warum kann ich \"Hauskatze\" eintippen, aber nicht \"Haushund\"?",
+        "a": "Die Hauskatzen wurden wissenschaftlich als eine eigene Art eingeteilt (\"Felis catus\"), aber die gezähmten Hunde wurden als eine Unterart des Wolfs eingeteilt. (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "Gibt es eine Datenschutzerklärung für {{game}}?",
+        "a": "Klicke hier für die <a href=\"/privacy-policy\" class=\"underline\">Datenschutzerklärung von {{game}}</a>."
+      }
+    }
+  }
+}

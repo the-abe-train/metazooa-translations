@@ -1,0 +1,178 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "animal",
+        "unique": "un animal",
+        "indefinite": "un animal",
+        "definite": "l'animal",
+        "demonstrative": "aquest"
+      },
+      "mystery": { "singular": "misteriós", "plural": "misteriosos" },
+      "answer": "humà",
+      "kingdom": {
+        "generic": "animals",
+        "concord": "s",
+        "unique": "un",
+        "definite": "els animals"
+      },
+      "game": "Metazooa",
+      "menagerie": "zoològic"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "planta",
+        "unique": "una planta",
+        "indefinite": "una planta",
+        "definite": "la planta",
+        "demonstrative": "aquesta"
+      },
+      "answer": "tomàquet",
+      "kingdom": {
+        "generic": "plantes",
+        "concord": "s",
+        "unique": "un",
+        "definite": "les plantes"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "misteriosa", "plural": "misterioses" },
+      "menagerie": "jardinet"
+    },
+    "keywords": {
+      "remaining": "restant",
+      "Click": "Clica",
+      "Tap": "Toca"
+    },
+    "home": {
+      "0": {
+        "0": "El regne animal (<i>Metazoa</i>, en grec) està ben ple de familiars llunyans… Alguns més llunyans que d'altres! Metazooa és un joc que posa a prova els teus coneixements sobre l'immens arbre genealògic del qual formem part.",
+        "1": "L'arbre genealògic del regne vegetal (també anomenat <i>Viridiplantae</i> pels científics) és enorme i ple de vida... Però també complex! Metaflora és un joc que posa a prova les teves capacitats de jardineria, a veure què tal naveges entre les seves branques frondoses."
+      },
+      "1": "El teu objectiu és descobrir <b>{{species.definite}} {{mystery.singular}}</b> d'avui utilitzant el mínim d'intents possibles. Els intents incorrectes t'ajudaran a trovar la resposta correcta acotant el rang taxonòmic (regne, fílum, classe, ordre, etc.) de l'animal misteriós. Com més en comú tingui el teu intent amb la resposta, més descobriràs sobre {{species.definite}} {{mystery.singular}}.",
+      "2": "Per exemple, si la resposta és “{{answer}}”, els teus intents podrien crear un arbre similar a aquest:",
+      "3": "Només hi ha {{species.unique}} {{mystery.singular}} al dia, i tan sols tens {{MAX_GUESSES}} per descobrir-lo. Es revelarà un nou animal misteriós d'aquí <b>{{nextGame}}</b>.",
+      "4": "Ja has trobat {{species.definite}} {{mystery.singular}} d'avui?",
+      "5": "Juga!"
+    },
+    "game": {
+      "0": "Mostra la taula",
+      "1": "La resposta i {{node}} tenen això en comú.",
+      "2": "{{click}} per saber-ne més!",
+      "3": "Troba {{species.generic}}!",
+      "4": "Has guanyat! La resposta és <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Has guanyat!",
+        "1": "No et queden intents."
+      },
+      "2": "Comparteix la teva puntuació o fes una partida de pràctica!",
+      "3": "Juga un altre joc de"
+    },
+    "share": {
+      "0": "Compartir",
+      "1": "Compartit!",
+      "2": "Copiat!",
+      "3": "No s'ha pogut compartir la puntuació."
+    },
+    "table": {
+      "0": "Rang",
+      "1": "Nom",
+      "2": "Intents",
+      "3": "Pistes",
+      "4": "Tornar a l'arbre"
+    },
+    "errors": {
+      "0": "Sense errorss",
+      "1": "\"{{guess}}\" no encontrat a la base de dades",
+      "2": "Ja he endevinat \"{{guess}}\"",
+      "3": "La resposta és \"{{guess}}\"",
+      "4": "Volies dir \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Entra al {{menagerie}}!"
+    },
+    "footer": {
+      "0": "Creat per Trainwreck Labs",
+      "1": "Uneix-te al nostre servidor de Discord!",
+      "2": "Tens alguna pregunta pregunta?",
+      "3": "Consulta les preguntes freqüents"
+    },
+    "guesser": {
+      "0": "Prova qualsevol espècie per començar!",
+      "1": "Prova amb una espècie diferent.",
+      "2": "Endevina!"
+    },
+    "hint": {
+      "0": "Vols una pista? ¡Intercanvia 3 intents per revelar un rang!",
+      "1": "Pista"
+    },
+    "wikipedia": {
+      "0": "De la Viquipèdia",
+      "1": {
+        "Show": "Mostra la imatge",
+        "Hide": "Amaga la imatge"
+      }
+    },
+    "statistics": {
+      "0": "Estadística",
+      "1": "Jocs",
+      "2": "Ratxa",
+      "3": "Total",
+      "4": "Victòries",
+      "5": "Actual",
+      "6": "Màxim",
+      "7": "Preguntes utilitzades per cada victòria. El color de la barra indica la proximitat a la repuesta."
+    },
+    "settings": {
+      "0": "Configuració",
+      "1": "Endevina amb noms científics",
+      "2": "Idioma",
+      "3": "Català"
+    },
+    "practice": {
+      "0": "Practicar",
+      "1": "Fes rondes il·limitades de {{game}}!",
+      "2": "Nova pràctica",
+      "3": "Repren la teva pràctica"
+    },
+    "links": {
+      "0": "Enllaços",
+      "1": "Preguntes freqüents",
+      "2": "Política de privacitat"
+    },
+    "faq": {
+      "0": "Preguntes freqüents",
+      "1": {
+        "q": "Com es decideix quins {{kingdom.generic}} utilitzar al joc?",
+        "a": "{{kingdom.definite}} de {{game}} s'han seleccionat en base a la seva popularitat entre la població en general, així com per diversificar les espècies presents al joc i fer-lo més interessant."
+      },
+      "2": {
+        "q": "El joc està malament! La Viquipèdia té diferents classificacions per {{species.indefinite}}.",
+        "a": "Pot ser possible. Les classificacions del joc es basen en la taxonomia NCBI; la més utilitzada pels animals. La taxonomia de la Viquipèdia també s'utilitza i és possible que les dues classificacions no acabin de concordar entre elles."
+      },
+      "3": {
+        "q": "Per què no hi ha cap classe \"Reptile\" o \"Reptilia\" al joc?",
+        "a": "Encara que algunes bases de dades, com Viquipèdia, utilitzen la classe Reptilia, la taxonomia NCBI no. Aquesta utilitza la classe Sauropsida, que inclou tots els rèptils i les aus. Això passa perquè alguns dels animals que de manera comuna són identificats com a rèptils tenen més en comú amb les aus que amb la resta de rèptils. Per exemple, els cocodrils estan relacionats de manera més estreta amb les aus que amb les sargantanes. És per això que el joc no és molt compatible amb aquest tipus de classificació."
+      },
+      "4": {
+        "q": "Per què es pot introduir com a espècie “gat domèstic” però en canvi “gos domèstic” no?",
+        "a": "Això passa perquè els gats domèstics estan classificats com a una espècie pròpia (\"Felis catus\"), mentre que els gossos domèstics se solen classificar com una subespècie del llop (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "Quina és la política de privacitat?",
+        "a": "Clica aquest enllaç per veure la <a href='/privacy-policy' class='underline'>Política de privacidad</a> de {{game}}."
+      }
+    },
+    "twl": {
+      "0": "Compte",
+      "1": "Connecta <b>{{game}}</b> amb el teu compte TWL",
+      "2": "Inicia sessió amb Google",
+      "3": "Inicia sessió amb Discord",
+      "4": "Subscriu-te al butlletí de Trainweck Labs",
+      "5": "Elimina anuncis",
+      "6": "Desconnecta't",
+      "7": "Membre del club"
+    }
+  }
+}
