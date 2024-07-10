@@ -516,6 +516,183 @@
     "alts": ["couguar", "cougar", "lion de montagne"]
   },
 
+  {
+    "language": "hu",
+    "name": "lúd",
+    "alts": ["liba"]
+  },
+  {
+    "language": "hu",
+    "name": "házi tyúk",
+    "alts": ["csirke"]
+  },
+  {
+    "language": "hu",
+    "name": "sün",
+    "alts": ["sündisznó"]
+  },
+  {
+    "language": "hu",
+    "name": "prérifarkas",
+    "alts": ["kojot"]
+  },
+  {
+    "language": "hu",
+    "name": "fekete medve",
+    "alts": ["feketemedve", "baribál"]
+  },
+  {
+    "language": "hu",
+    "name": "vörös macskamedve",
+    "alts": ["vörös panda", "kis panda"]
+  },
+  {
+    "language": "hu",
+    "name": "nyérc",
+    "alts": ["vidramenyét"]
+  },
+  {
+    "language": "hu",
+    "name": "leopárd",
+    "alts": ["párduc"]
+  },
+  {
+    "language": "hu",
+    "name": "puma",
+    "alts": ["hegyi oroszlán"]
+  },
+  {
+    "language": "hu",
+    "name": "beluga",
+    "alts": ["fehér bálna"]
+  },
+  {
+    "language": "hu",
+    "name": "nagy ámbráscet",
+    "alts": ["óriás ámbráscet"]
+  },
+  {
+    "language": "hu",
+    "name": "púpos bálna",
+    "alts": ["hosszúszárnyú bálna"]
+  },
+  {
+    "language": "hu",
+    "name": "manátusz",
+    "alts": ["manáti", "manatusz", "lamantin", "tengeri tehén", "szirén"]
+  },
+  {
+    "language": "hu",
+    "name": "orrszarvú",
+    "alts": ["rinocérosz"]
+  },
+  {
+    "language": "hu",
+    "name": "egypúpú teve",
+    "alts": ["dromedár"]
+  },
+  {
+    "language": "hu",
+    "name": "juh",
+    "alts": ["birka"]
+  },
+  {
+    "language": "hu",
+    "name": "kérgesteknős",
+    "alts": ["tengeri teknős"]
+  },
+  {
+    "language": "hu",
+    "name": "ocelot",
+    "alts": ["párducmacska"]
+  },
+  {
+    "language": "hu",
+    "name": "aratinga",
+    "alts": ["papagáj"]
+  },
+  {
+    "language": "hu",
+    "name": "szürkepapagáj",
+    "alts": ["jákópapagáj"]
+  },
+  {
+    "language": "hu",
+    "name": "bóbitás pingvin",
+    "alts": ["makaróni pingvin"]
+  },
+  {
+    "language": "hu",
+    "name": "poszméh",
+    "alts": ["dongó"]
+  },
+  {
+    "language": "hu",
+    "name": "armadilló",
+    "alts": ["szőröstatu"]
+  },
+  {
+    "language": "hu",
+    "name": "fülemüle",
+    "alts": ["csalogány"]
+  },
+  {
+    "language": "hu",
+    "name": "madárpók",
+    "alts": ["tarantula"]
+  },
+  {
+    "language": "hu",
+    "name": "krill",
+    "alts": ["világítórák"]
+  },
+  {
+    "language": "hu",
+    "name": "pörölycápa",
+    "alts": ["kalapácsfejű cápa"]
+  },
+  {
+    "language": "hu",
+    "name": "erszényes ördög",
+    "alts": ["tasmaniai ördög"]
+  },
+  {
+    "language": "hu",
+    "name": "vízidisznó",
+    "alts": ["kapibara"]
+  },
+  {
+    "language": "hu",
+    "name": "közönséges óriáskígyó",
+    "alts": ["bálványkígyó", "vörösfarkú boa", "bálványboa"]
+  },
+  {
+    "language": "hu",
+    "name": "oposszum",
+    "alts": ["erszényespatkány"]
+  },
+  {
+    "language": "hu",
+    "name": "csigáspolip",
+    "alts": ["nautilusz"]
+  },
+  {
+    "language": "hu",
+    "name": "kacsa",
+    "alts": ["tőkés réce"]
+  },
+  {
+    "language": "hu",
+    "name": "kardszárnyú delfin",
+    "alts": ["gyilkos bálna", "orka"]
+  },
+  {
+    "language": "hu",
+    "name": "sertés",
+    "alts": ["malac"]
+  },
+
+
   { "language": "it", "name": "anemone", "alts": ["anemone di mare"] },
   {
     "language": "it",
@@ -757,4 +934,5 @@
   { "language": "it", "name": "ara", "alts": ["pappagallo ara"] },
   { "language": "it", "name": "tardigrado", "alts": ["orsetto d'acqua"] },
   { "language": "it", "name": "ratto", "alts": ["pantegana", "surmolotto"] }
+
 ]
