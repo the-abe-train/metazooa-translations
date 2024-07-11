@@ -45,14 +45,14 @@
     },
     "home": {
       "0": {
-        "0": "Az állatok országa (<i>Metazoa</i> görögül) tele van távoli rokonainkkal... néhányan sokkal távolibbak mint mások! Metazooa egy játék ami próbára teszi hogy mennyire ismered a kiterjesztett családfánkat.",
+        "0": "Az állatok országa (görögül <i>Metazoa</i>) tele van távoli rokonainkkal... néhányan sokkal távolibbak mint mások! Metazooa egy játék ami próbára teszi hogy mennyire ismered a kiterjesztett családfánkat.",
         "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
       },
       "1": "A célod hogy kitaláld a mai <b>{{species.generic}}</b>ot a lehető legkevesebb próbálkozásból. A rossz válaszok leszűkítik a végső megoldás rendszertani kategóriáját (ország, törzs , osztály, rend, stb). Minél közelebb jutsz a megoldáshoz, annál többet tudsz meg a {{species.generic}}ról.",
       "2": "Például, ha a megoldás “{{answer}}”, a tippeid egy olyan fát hozhatnak létre, mint az alábbi:",
       "3": "Minden nap pontosan {{species.unique}} van, de kapsz {{MAX_GUESSES}} tippet hogy kitalálhasd! Új játékhoz hátrelévő idő: <b>{{nextGame}}</b>.",
       "4": "Már kitaláltad a mai {{species.generic}}ot?",
-      "5": "Játék"
+      "5": "Próbáld ki másik játékunkat:"
     },
     "game": {
       "0": "Mutasd a táblázatot",
@@ -122,7 +122,7 @@
       "4": "Nyert játékok",
       "5": "Mostani",
       "6": "Leghosszabb",
-      "7": "Felhasznált kérdések per játék. A szín azt mutatja hogy mennyire volt közel az átlaghoz."
+      "7": "Felhasznált kérdések per játék. A szín azt mutatja hogy mennyire voltál közel az átlaghoz."
     },
     "settings": {
       "0": "Beállítások",
@@ -159,11 +159,11 @@
       },
       "2": {
         "q": "Hibás a játék! A Wikipedián másmilyen besorolása van az {{kingdom.generic}}nak.",
-        "a": "Elképzelhető. A besorolások a játékban az NCBI osztályozásán alapulnak, ami a legszéleskörűbben használt osztályozástan az állatokhoz, viszont nem az egyetlen. A Wikipedia osztályozását issokan hasznalják, és teljesen elképzelhető, hogy a két rendszer nem egyezik meg egyes fajok besorolásában."
+        "a": "Elképzelhető. A besorolások a játékban az NCBI osztályozásán alapulnak, ami a legszéleskörűbben használt osztályozástan az állatokhoz, viszont nem az egyetlen. A Wikipedia osztályozását is sokan hasznalják, és teljesen elképzelhető, hogy a két rendszer nem egyezik meg egyes fajok besorolásában."
       },
       "3": {
         "q": "Miért nincsen \"Hüllő\" vagy \"Reptilia\" kategória a játékban?",
-        "a": "Míg néhány adatbázis, például a Wikipedia, használja a Hüllők osztályát, az NCBI osztályozása nem. Ehelyett az NCBI a Hüllőszerűek osztályát használja, amibe beletartozik az összes hüllő és madár. Ennek az az oka, hogy néhány állat ami a köznyelvben hüllőként ismert, sokkal közelebb áll a madarakhoz, mint a többi hüllőhöz. Például,a krokodilok közelebbi rokonságban állnak a moadarakkal, mint a gyíkokkal."
+        "a": "Míg néhány adatbázis, például a Wikipedia, használja a Hüllők osztályát, az NCBI osztályozása nem. Ehelyett az NCBI a Hüllőszerűek osztályát használja, amibe beletartozik az összes hüllő és madár. Ennek az az oka, hogy néhány állat ami a köznyelvben hüllőként ismert, sokkal közelebb áll a madarakhoz, mint a többi hüllőhöz. Például a krokodilok közelebbi rokonságban állnak a moadarakkal, mint a gyíkokkal."
       },
       "4": {
         "q": "A \"házimacska\" miért egy elfogadott tipp, miközben a \"házi kutya\" nem?",
