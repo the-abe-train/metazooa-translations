@@ -492,7 +492,7 @@
     "scientific name": "Vitellaria paradoxa",
     "name": "shea nut",
     "parent": 292384,
-    "name_es": "nuez",
+    "name_es": "karité",
     "name_de": "Sheanuss"
   },
   {
@@ -940,7 +940,7 @@
     "scientific name": "Cucurbita pepo",
     "name": "pumpkin",
     "parent": 3660,
-    "name_es": "calabaza",
+    "name_es": "calabaza gigante",
     "name_de": "Kürbis"
   },
   {
@@ -948,7 +948,7 @@
     "scientific name": "Cucurbita moschata",
     "name": "butternut squash",
     "parent": 3660,
-    "name_es": "calabaza",
+    "name_es": "ayote",
     "name_de": "Butternusskürbis"
   },
   {
@@ -972,7 +972,7 @@
     "scientific name": "Vaccinium uliginosum",
     "name": "blueberry",
     "parent": 13749,
-    "name_es": "arándano",
+    "name_es": "arándano azul",
     "name_de": "Heidelbeere"
   },
   {
@@ -1004,7 +1004,7 @@
     "scientific name": "Vaccinium macrocarpon",
     "name": "cranberry",
     "parent": 13749,
-    "name_es": "arándano",
+    "name_es": "arándano rojo",
     "name_de": "Moosbeere"
   },
   {
@@ -1212,7 +1212,7 @@
     "scientific name": "Dioscorea cayenensis",
     "name": "yam",
     "parent": 4672,
-    "name_es": "batata",
+    "name_es": "ñame",
     "name_de": "Yams"
   },
   {
@@ -1332,7 +1332,7 @@
     "scientific name": "Juglans nigra",
     "name": "walnut",
     "parent": 16718,
-    "name_es": "nuez",
+    "name_es": "nogul",
     "name_de": "Walnuss"
   },
   {
@@ -1436,7 +1436,7 @@
     "scientific name": "Asimina triloba",
     "name": "pawpaw",
     "parent": 12952,
-    "name_es": "papaya",
+    "name_es": "pawpaw",
     "name_de": "Papau"
   },
   {
@@ -1550,5 +1550,174 @@
     "parent": 39177,
     "name_es": "romero",
     "name_de": "Rosmarin"
+  },
+
+  {
+    "node": 4052,
+    "scientific name": "Hedera helix",
+    "name": "common ivy",
+    "parent": 4051,
+    "name_es": "hiedra común",
+    "name_de": "Gewöhnlicher Efeu"
+  },
+  {
+    "node": 78168,
+    "scientific name": "Passiflora edulis",
+    "name": "passionfruit",
+    "parent": 3684,
+    "name_es": "fruta de la pasión",
+    "name_de": "Passionsfrucht"
+  },
+  {
+    "node": 58228,
+    "scientific name": "Garcinia mangostana",
+    "name": "mangosteen",
+    "parent": 58227,
+    "name_es": "mangostán",
+    "name_de": "Mangostan"
+  },
+  {
+    "node": 40031,
+    "scientific name": "Rhizophora mangle",
+    "name": "red mangrove",
+    "parent": 40030,
+    "name_es": "mangle rojo",
+    "name_de": "Rote Mangrove"
+  },
+  {
+    "node": 4543,
+    "scientific name": "Cenchrus americanus",
+    "name": "pearl millet",
+    "parent": 4583,
+    "name_es": "mijo perla",
+    "name_de": "Perlhirse"
+  },
+  {
+    "node": 519065,
+    "scientific name": "Myosotis scorpioides",
+    "name": "forget-me-not",
+    "parent": 192333,
+    "name_es": "nomeolvides",
+    "name_de": "Vergissmeinnicht"
+  },
+  {
+    "node": 72332,
+    "scientific name": "Artemisia absinthium",
+    "name": "common wormwood",
+    "parent": 4219,
+    "name_es": "ajenjo",
+    "name_de": "Wermut"
+  },
+  {
+    "node": 4202,
+    "scientific name": "Sambucus nigra",
+    "name": "black elderberry",
+    "parent": 4201,
+    "name_es": "saúco negro",
+    "name_de": "Schwarzer Holunder"
+  },
+  {
+    "node": 4202,
+    "scientific name": "Sambucus nigra",
+    "name": "gooseberry",
+    "parent": 4201,
+    "name_es": "grosella",
+    "name_de": "Stachelbeere"
+  },
+  {
+    "node": 32224,
+    "scientific name": "Eriobotrya japonica",
+    "name": "loquat",
+    "parent": 23166,
+    "name_es": "níspero",
+    "name_de": "Mispel"
+  },
+  {
+    "node": 1041245,
+    "scientific name": "Opuntia macrorhiza",
+    "name": "prickly pear",
+    "parent": 106975,
+    "name_es": "nopal",
+    "name_de": "Feigenkaktus"
+  },
+  {
+    "node": 130111,
+    "scientific name": "Echinocactus grusonii",
+    "name": "barrel cactus",
+    "parent": 130110,
+    "name_es": "cactus barril",
+    "name_de": "Schwiegermutterstuhl"
+  },
+  {
+    "node": 3331,
+    "scientific name": "Picea pungens",
+    "name": "blue spruce",
+    "parent": 3328,
+    "name_es": "pícea azul",
+    "name_de": "Blaufichte"
+  },
+  {
+    "node": 105884,
+    "scientific name": "Lonicera japonica",
+    "name": "honeysuckle",
+    "parent": 49606,
+    "name_es": "madreselva",
+    "name_de": "Geißblatt"
+  },
+  {
+    "node": 65558,
+    "scientific name": "Capparis spinosa",
+    "name": "caper",
+    "parent": 13394,
+    "name_es": "alcaparra",
+    "name_de": "Kapernstrauch"
+  },
+  {
+    "node": 2675020,
+    "scientific name": "Nepenthes attenboroughii",
+    "name": "pitcher plant",
+    "parent": 4375,
+    "name_es": "planta jarra",
+    "name_de": "Kannenpflanze"
+  },
+  {
+    "node": 66656,
+    "scientific name": "Durio zibethinus",
+    "name": "durian",
+    "parent": 66655,
+    "name_es": "durián",
+    "name_de": "Durian"
+  },
+  {
+    "node": 136217,
+    "scientific name": "Curcuma longa",
+    "name": "turmeric",
+    "parent": 99568,
+    "name_es": "cúrcuma",
+    "name_de": "Kurkuma"
+  },
+  {
+    "node": 3311,
+    "scientific name": "Ginkgo biloba",
+    "name": "gingko",
+    "parent": 3310,
+    "name_es": "ginkgo",
+    "name_de": "Ginkgo"
+  },
+  {
+    "node": 34199,
+    "scientific name": "Aloe vera",
+    "name": "aloe",
+    "parent": 25641,
+    "name_es": "aloe",
+    "name_de": "Aloe"
+  },
+  {
+    "node": 119949,
+    "scientific name": "Myrtus communis",
+    "name": "myrtle",
+    "parent": 119948,
+    "name_es": "mirto",
+    "name_de": "Myrte"
   }
 ]
