@@ -1,6 +1,6 @@
 import json
 
-with open("data/animals_de.json", "r") as f:
+with open("data/animals_uk.json", "r") as f:
     new_animals = json.load(f)
 
 with open("Species Lists/animals.json", "r") as f:
