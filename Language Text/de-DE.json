@@ -38,18 +38,14 @@
       "mystery": { "singular": "Rätsel", "plural": "Rätsel" },
       "menagerie": "Garten"
     },
-    "keywords": {
-      "remaining": "verbleibend",
-      "Click": "Klick",
-      "Tap": "Tipp"
-    },
+    "keywords": { "remaining": "verbleibend", "Click": "Klick", "Tap": "Tipp" },
     "home": {
       "0": {
-        "0": "Das Reich der Tiere (<i>Metazoa</i>, auf Griechisch) ist voll von unseren entfernten Verwandten... manche sind uns aber näher verwandt als andere. Im Spiel Metazooa kannst Du testen, wie gut Du unseren Stammbaum kennst!",
-        "1": "Der Stammbaum aller Pflanzen (die Wissenschaftler nennen ihn <i>Viridiplantae</i>) ist vielfältig und wunderschön... aber auch ziemlich kompliziert! Im Spiel Metaflora kannst Du dich testen &mdash; hast du einen grünen Daumen, findest Du dich zurecht in seinen vielen Zweigen?"
+        "0": "Das Reich der Tiere (<i>Metazoa</i>, auf Griechisch) ist voll von unseren entfernten Verwandten... manche sind mit uns aber näher verwandt als andere. Im Spiel Metazooa kannst du testen, wie gut du unseren Stammbaum kennst!",
+        "1": "Der Stammbaum aller Pflanzen (die Wissenschaftler nennen ihn <i>Viridiplantae</i>) ist vielfältig und wunderschön... aber auch ziemlich kompliziert! Im Spiel Metaflora kannst du dich testen &mdash; hast du einen grünen Daumen, findest du dich zurecht in seinen vielen Zweigen?"
       },
-      "1": "Dein Ziel ist: Errate die/das heutige <b>{{species.generic}}</b> mit so wenig Versuchen wie möglich! Mit jedem Versuch kannst du das Ergebnis weiter eingrenzen, denn du siehst, welchen Teil des Stammbaums dein Tipp und das Ergebnis gemeinsam haben. Und je näher du der Lösung kommst (man sagt auch: Je niedriger die gefundene <i>Rangstufe</i>) ist, desto mehr Eigenschaften weißst du über dein/e {{species.generic}}",
-      "2": "Zum Beispiel, sagen wir die Antwort ist “{{answer}}”, und du tippst daneben, dann könnte dein gefundender Stammbaum so aussehen:",
+      "1": "Dein Ziel ist: Errate die/das heutige <b>{{species.generic}}</b> mit so wenigen Versuchen wie möglich! Mit jedem Versuch kannst du das Ergebnis weiter eingrenzen, denn du siehst, welchen Teil des Stammbaums dein Tipp und das Ergebnis (Reich, Stamm, Klasse, Ordnung etc.) gemeinsam haben. Je näher du der Lösung kommst (man sagt auch: Je niedriger die gefundene <i>Rangstufe</i>) ist, desto mehr lernst du über dein/e {{species.generic}}",
+      "2": "Ist die Antwort beispielsweise “{{answer}}”, dann könnte dein gefundender Stammbaum so aussehen:",
       "3": "Es gibt nur ein/e {{species.unique}} pro Tag zu finden, aber du hast {{MAX_GUESSES}} dafür! Das nächste Rätsel findest du hier dann ab <b>{{nextGame}}</b>.",
       "4": "Du hast dein/e {{species.generic}} heute schon gefunden?",
       "5": "Los gehts!"
@@ -62,10 +58,7 @@
       "4": "Gewonnen! Herzlichen Glückwunsch! Die Antwort ist <b>{{answer}}</b>"
     },
     "modal": {
-      "0": {
-        "0": "Gewonnen!",
-        "1": "Alle Tipps aufgebraucht!"
-      },
+      "0": { "0": "Gewonnen!", "1": "Alle Tipps aufgebraucht!" },
       "2": "Teile deine Punktzahl oder spiele eine Übungsrunde!",
       "3": "Spiele ein anderes Spiel von"
     },
@@ -89,9 +82,7 @@
       "3": "Die Antwort ist \"{{guess}}\"",
       "4": "Meintest du \"{{guess}}\"?"
     },
-    "button": {
-      "0": "Auf in den {{menagerie}}!"
-    },
+    "button": { "0": "Auf in den {{menagerie}}!" },
     "footer": {
       "0": "by Trainwreck Labs",
       "1": "Komm auf unseren Discord-Server!",
@@ -104,14 +95,11 @@
     },
     "wikipedia": {
       "0": "Aus der Wikipedia",
-      "1": {
-        "Show": "Bild anzeigen",
-        "Hide": "Bild verstecken"
-      }
+      "1": { "Show": "Bild anzeigen", "Hide": "Bild verstecken" }
     },
     "guesser": {
       "0": "Gib irgendeine Art als ersten Rate-Versuch ein!",
-      "1": "Gib hier deinen nächsen Rate-Versuch ein.",
+      "1": "Gib hier deinen nächsten Rate-Versuch ein.",
       "2": "Raten"
     },
     "statistics": {
