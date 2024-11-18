@@ -5,7 +5,7 @@
         "generic": "Animal Misterioso",
         "unique": "um Animal Misterioso",
         "indefinite": "um Animal Misterioso",
-        "definite": "O Animal Misterioso",
+        "definite": "o Animal Misterioso",
         "demonstrative": "esse"
       },
       "answer": "humano",
@@ -51,7 +51,7 @@
       "1": "Seu objetivo é descobrir o <b>{{species.generic}}</b> de hoje com o menor número de palpites possíveis. Os palpites incorretos irão reduzir a resposta por categoria taxonômica (reino, filo, classe, ordem, etc.). Quanto mais seu palpite tiver em comum com a resposta, mais você aprenderá sobre o {{species.generic}}.",
       "2": "Por exemplo, se a resposta for “{{answer}}”, seus palpites podem criar uma árvore que se parece com o seguinte:",
       "3": "Há apenas {{species.unique}} por dia, mas você tem {{MAX_GUESSES}} palpites para descobrir! Um novo jogo começará em <b>{{nextGame}}</b>",
-      "4": "Já encontrou a {{species.unique}} de hoje?",
+      "4": "Já encontrou {{species.definite}} de hoje?",
       "5": "Jogar"
     },
     "game": {
