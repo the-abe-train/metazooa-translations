@@ -1,0 +1,179 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Tajemné zvíře",
+        "unique": "jedno Tajemné zvíře",
+        "indefinite": "nějaké Tajemné zvíře",
+        "definite": "to Tajemné zvíře",
+        "demonstrative": "toto"
+      },
+      "answer": "člověk",
+      "kingdom": {
+        "generic": "zvířata",
+        "concord": "s",
+        "unique": "jedno",
+        "definite": "to"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "tajemství", "plural": "tajemství" },
+      "menagerie": "zoo"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "Tajemná rostlina",
+        "unique": "jedna Tajemná rostlina",
+        "indefinite": "nějaká Tajemná rostlina",
+        "definite": "ta Tajemná rostlina",
+        "demonstrative": "tato"
+      },
+      "answer": "rajče",
+      "kingdom": {
+        "generic": "rostliny",
+        "concord": "s",
+        "unique": "jedna",
+        "definite": "ta"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "tajemství", "plural": "tajemství" },
+      "menagerie": "zahrada"
+    },
+    "keywords": {
+      "remaining": "zbývající",
+      "Click": "Klikněte",
+      "Tap": "Klepněte"
+    },
+    "home": {
+      "0": {
+        "0": "Živočišná říše (<i>Metazoa</i>, v řečtině) je plná našich vzdálených příbuzných... někteří jsou vzdálenější než jiní! Metazooa je hra, která testuje, jak dobře znáte náš rozšířený rodokmen.",
+        "1": "Rodokmen rostlinné říše (kterou vědci nazývají <i>Viridiplantae</i>) je široký a krásný... ale také složitý! Metaflora je hra, která testuje váš zelený palec tím, jak dobře se dokážete orientovat v jejích listnatých větvích."
+      },
+      "1": "Vaším cílem je zjistit dnešní <b>{{species.generic}}</b> s co nejmenším počtem pokusů. Špatné odhady zúží odpověď podle taxonomické úrovně (říše, kmen, třída, řád atd.). Čím více má váš odhad společného s odpovědí, tím více se dozvíte o {{species.generic}}.",
+      "2": "Například, pokud je odpověď „{{answer}}“, vaše odhady mohou vytvořit strom, který vypadá následovně:",
+      "3": "Je pouze {{species.unique}} denně, ale máte {{MAX_GUESSES}} pokusů na jeho zjištění! Nová hra začne za <b>{{nextGame}}</b>.",
+      "4": "Už jste našli dnešní {{species.generic}}?",
+      "5": "Hrát"
+    },
+    "game": {
+      "0": "Zobrazit tabulku",
+      "1": "Odpověď a {{guess}} mají toto společné.",
+      "2": "{{click}} pro více informací",
+      "3": "Najděte toto {{species.generic}}!",
+      "4": "Vyhráli jste! Odpověď je <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Vyhráli jste!",
+        "1": "Žádné další pokusy."
+      },
+      "2": "Sdílejte svůj výsledek nebo si zahrajte cvičnou hru!",
+      "3": "Hrát další hru z"
+    },
+    "share": {
+      "0": "Sdílet",
+      "1": "Sdíleno!",
+      "2": "Zkopírováno!",
+      "3": "Nepodařilo se sdílet váš výsledek."
+    },
+    "table": {
+      "0": "Úroveň",
+      "1": "Název",
+      "2": "Odhady",
+      "3": "Nápovědy",
+      "4": "Návrat ke stromu"
+    },
+    "errors": {
+      "0": "Žádná chyba",
+      "1": "\"{{guess}}\" nebyl nalezen v databázi",
+      "2": "\"{{guess}}\" již byl odhadnut",
+      "3": "Odpověď je \"{{guess}}\"",
+      "4": "Mysleli jste \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Vstupte do {{menagerie}}!"
+    },
+    "footer": {
+      "0": "od Trainwreck Labs",
+      "1": "Připojte se k našemu Discord serveru!",
+      "2": "Máte otázku?",
+      "3": "Podívejte se na FAQ"
+    },
+    "hint": {
+      "0": "Potřebujete nápovědu? Vyměňte 3 odhady za odhalení úrovně!",
+      "1": "Nápověda"
+    },
+    "wikipedia": {
+      "0": "Z Wikipedie",
+      "1": {
+        "Show": "Zobrazit obrázek",
+        "Hide": "Skrýt obrázek"
+      }
+    },
+    "guesser": {
+      "0": "Odhadněte jakýkoli druh pro začátek!",
+      "1": "Zadejte svůj další odhad.",
+      "2": "Odhad"
+    },
+    "statistics": {
+      "0": "Statistiky",
+      "1": "Hry",
+      "2": "Série",
+      "3": "Hry",
+      "4": "Výhry",
+      "5": "Aktuální",
+      "6": "Max",
+      "7": "Otázky použité pro každou výhru. Barva sloupce označuje blízkost průměrného odhadu k odpovědi."
+    },
+    "settings": {
+      "0": "Nastavení",
+      "1": "Odhadovat vědeckými názvy",
+      "2": "Jazyk",
+      "3": "Angličtina",
+      "4": "Tmavý režim"
+    },
+    "practice": {
+      "0": "Cvičení",
+      "1": "Hrajte neomezené kola {{game}}!",
+      "2": "Nové cvičení",
+      "3": "Pokračovat v cvičení"
+    },
+    "links": {
+      "0": "Odkazy",
+      "1": "Často kladené otázky",
+      "2": "Zásady ochrany osobních údajů"
+    },
+    "twl": {
+      "0": "Účet",
+      "1": "Připojte <b>{{game}}</b> k vašemu TWL účtu",
+      "2": "Přihlásit se pomocí Google",
+      "3": "Přihlásit se pomocí Discord",
+      "4": "Přihlásit se k odběru newsletteru Trainwreck Labs",
+      "5": "Odstranit reklamy",
+      "6": "Odpojit",
+      "7": "Člen klubu"
+    },
+    "faq": {
+      "0": "FAQ",
+      "1": {
+        "q": "Jak byly vybrány {{kingdom.generic}} ve hře?",
+        "a": "{{kingdom.generic}} v {{game}} byly vybrány na základě toho, jak jsou lidem známé, a také pro šíři druhů, které by hru udělaly zajímavější."
+      },
+      "2": {
+        "q": "Hra je špatně! Wikipedia má pro jeden z {{kingdom.generic}} jiné klasifikace.",
+        "a": "To je možné. Klasifikace použité ve hře jsou založeny na taxonomii NCBI, která je nejpoužívanější taxonomií pro zvířata. Není to však jediná taxonomie. Taxonomie Wikipedie je také široce používána a je možné, že se obě taxonomie neshodují na klasifikaci druhu."
+      },
+      "3": {
+        "q": "Proč ve hře není třída \"Reptile\" nebo \"Reptilia\"?",
+        "a": "Zatímco některé datové sady, jako je Wikipedia, používají třídu Reptilia, taxonomie NCBI ne. Místo toho taxonomie NCBI používá třídu Sauropsida, která zahrnuje všechny plazy a ptáky. To je proto, že některá zvířata běžně označovaná jako plazi mají více společného s ptáky než s jinými plazy. Například krokodýli jsou blíže příbuzní ptákům než ještěrkám."
+      },
+      "4": {
+        "q": "Proč je možné odhadnout \"domácí kočku\", ale ne \"domácího psa\"?",
+        "a": "To je proto, že domácí kočka má svůj vlastní druh (\"Felis catus\"), ale domácí psi jsou obvykle klasifikováni jako poddruh vlka (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "Má {{game}} zásady ochrany osobních údajů?",
+        "a": "Klikněte na tento odkaz pro zobrazení <a href=\"/privacy-policy\" class=\"underline\">zásad ochrany osobních údajů</a> hry {{game}}."
+      }
+    }
+  }
+}
