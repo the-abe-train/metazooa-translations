@@ -2,10 +2,10 @@
   "translation": {
     "Metazooa": {
       "species": {
-        "generic": "Tajemné zvíře",
-        "unique": "jedno Tajemné zvíře",
-        "indefinite": "nějaké Tajemné zvíře",
-        "definite": "to Tajemné zvíře",
+        "generic": "tajemné zvíře",
+        "unique": "jedno tajemné zvíře",
+        "indefinite": "nějaké tajemné zvíře",
+        "definite": "to tajemné zvíře",
         "demonstrative": "toto"
       },
       "answer": "člověk",
@@ -21,10 +21,10 @@
     },
     "Metaflora": {
       "species": {
-        "generic": "Tajemná rostlina",
-        "unique": "jedna Tajemná rostlina",
-        "indefinite": "nějaká Tajemná rostlina",
-        "definite": "ta Tajemná rostlina",
+        "generic": "tajemná rostlina",
+        "unique": "jedna tajemná rostlina",
+        "indefinite": "nějaká tajemná rostlina",
+        "definite": "ta tajemná rostlina",
         "demonstrative": "tato"
       },
       "answer": "rajče",
@@ -67,7 +67,7 @@
         "1": "Žádné další pokusy."
       },
       "2": "Sdílejte svůj výsledek nebo si zahrajte cvičnou hru!",
-      "3": "Hrát další hru z"
+      "3": "Hrát další hru z {{game}}"
     },
     "share": {
       "0": "Sdílet",
@@ -122,7 +122,7 @@
       "4": "Výhry",
       "5": "Aktuální",
       "6": "Max",
-      "7": "Otázky použité pro každou výhru. Barva sloupce označuje blízkost průměrného odhadu k odpovědi."
+      "7": "Odhady použité pro každou výhru. Barva sloupce označuje, jak blízko byl průměrný odhad k odpovědi."
     },
     "settings": {
       "0": "Nastavení",

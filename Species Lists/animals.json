@@ -1,24 +1,25 @@
 [
   {
-    "node": 6105,
-    "scientific name": "Actinia tenebrosa",
+    "nodeId": 6105,
+    "scientific_name": "Actinia tenebrosa",
     "name": "anemone",
-    "parent": 6104,
+    "parentId": 6104,
     "name_es": "anémona",
     "name_fr": "anémone",
     "name_hu": "tengeri rózsa",
     "name_it": "anemone",
-    "name_pt": "anêmona",
+    "name_pt": "anêmona-do-mar",
     "name_ca": "anèmona",
     "name_ko": "말미잘",
     "name_de": "Seeanemone",
-    "name_uk": "анемона"
+    "name_uk": "анемона",
+    "name_tr": "deniz anemonu"
   },
   {
-    "node": 7022,
-    "scientific name": "Carausius morosus",
+    "nodeId": 7022,
+    "scientific_name": "Carausius morosus",
     "name": "stick bug",
-    "parent": 7021,
+    "parentId": 7021,
     "name_es": "insecto palo",
     "name_fr": "phasme",
     "name_hu": "botsáska",
@@ -27,13 +28,14 @@
     "name_ca": "insecte pal",
     "name_ko": "대벌레",
     "name_de": "Indische Stabschrecke",
-    "name_uk": "паличник"
+    "name_uk": "паличник",
+    "name_tr": "dal böceği"
   },
   {
-    "node": 7051,
-    "scientific name": "Nipponoluciola cruciata",
+    "nodeId": 7051,
+    "scientific_name": "Nipponoluciola cruciata",
     "name": "firefly",
-    "parent": 3019017,
+    "parentId": 3019017,
     "name_es": "luciérnaga",
     "name_fr": "luciole",
     "name_hu": "szentjánosbogár",
@@ -42,13 +44,14 @@
     "name_ca": "cuca de llum",
     "name_ko": "반딧불이",
     "name_de": "Genji-Leuchtkäfer",
-    "name_uk": "світлячок"
+    "name_uk": "світлячок",
+    "name_tr": "ateş böceği"
   },
   {
-    "node": 7091,
-    "scientific name": "Bombyx mori",
+    "nodeId": 7091,
+    "scientific_name": "Bombyx mori",
     "name": "silkworm",
-    "parent": 7090,
+    "parentId": 7090,
     "name_es": "gusano de seda",
     "name_fr": "ver à soie",
     "name_hu": "selyemhernyó",
@@ -57,13 +60,14 @@
     "name_ca": "cuc de seda",
     "name_ko": "누에나방",
     "name_de": "Seidenspinner",
-    "name_uk": "шовкопряд"
+    "name_uk": "шовкопряд",
+    "name_tr": "ipek böceği"
   },
   {
-    "node": 7159,
-    "scientific name": "Aedes aegypti",
+    "nodeId": 7159,
+    "scientific_name": "Aedes aegypti",
     "name": "mosquito",
-    "parent": 53541,
+    "parentId": 53541,
     "name_es": "mosquito",
     "name_fr": "moustique",
     "name_hu": "szúnyog",
@@ -72,13 +76,14 @@
     "name_ca": "mosquit",
     "name_ko": "모기",
     "name_de": "Ägyptische Tigermücke",
-    "name_uk": "комар"
+    "name_uk": "комар",
+    "name_tr": "sivrisinek"
   },
   {
-    "node": 7227,
-    "scientific name": "Drosophila melanogaster",
+    "nodeId": 7227,
+    "scientific_name": "Drosophila melanogaster",
     "name": "fruit fly",
-    "parent": 32351,
+    "parentId": 32351,
     "name_es": "mosca de fruta",
     "name_fr": "drosophile",
     "name_hu": "muslica",
@@ -87,13 +92,14 @@
     "name_ca": "mosca de la fruita",
     "name_ko": "초파리",
     "name_de": "Fruchtfliege",
-    "name_uk": "плодова мушка"
+    "name_uk": "плодова мушка",
+    "name_tr": "meyve sineği"
   },
   {
-    "node": 7370,
-    "scientific name": "Musca domestica",
+    "nodeId": 7370,
+    "scientific_name": "Musca domestica",
     "name": "house fly",
-    "parent": 44052,
+    "parentId": 44052,
     "name_es": "mosca de casa",
     "name_fr": "mouche",
     "name_hu": "házilégy",
@@ -102,13 +108,14 @@
     "name_ca": "mosca domèstica",
     "name_ko": "집파리",
     "name_de": "Stubenfliege",
-    "name_uk": "муха"
+    "name_uk": "муха",
+    "name_tr": "karasinek"
   },
   {
-    "node": 7445,
-    "scientific name": "Vespa crabro",
+    "nodeId": 7445,
+    "scientific_name": "Vespa crabro",
     "name": "hornet",
-    "parent": 7443,
+    "parentId": 7443,
     "name_es": "avispón",
     "name_fr": "frelon",
     "name_hu": "lódarázs",
@@ -117,13 +124,14 @@
     "name_ca": "vespa crabro",
     "name_ko": "장수말벌",
     "name_de": "Hornisse",
-    "name_uk": "шершень"
+    "name_uk": "шершень",
+    "name_tr": "eşek arısı"
   },
   {
-    "node": 7460,
-    "scientific name": "Apis mellifera",
+    "nodeId": 7460,
+    "scientific_name": "Apis mellifera",
     "name": "honey bee",
-    "parent": 7459,
+    "parentId": 7459,
     "name_es": "abeja de miel",
     "name_fr": "abeille",
     "name_hu": "háziméh",
@@ -132,13 +140,14 @@
     "name_ca": "abella de la mel",
     "name_ko": "꿀벌",
     "name_de": "Honigbiene",
-    "name_uk": "бджола"
+    "name_uk": "бджола",
+    "name_tr": "bal arısı"
   },
   {
-    "node": 7604,
-    "scientific name": "Asterias rubens",
+    "nodeId": 7604,
+    "scientific_name": "Asterias rubens",
     "name": "starfish",
-    "parent": 7601,
+    "parentId": 7601,
     "name_es": "estrella de mar",
     "name_fr": "étoile de mer",
     "name_hu": "tengeri csillag",
@@ -147,13 +156,14 @@
     "name_ca": "estrella de mar",
     "name_ko": "불가사리",
     "name_de": "Seestern",
-    "name_uk": "морська зірка"
+    "name_uk": "морська зірка",
+    "name_tr": "deniz yıldızı"
   },
   {
-    "node": 7957,
-    "scientific name": "Carassius auratus",
+    "nodeId": 7957,
+    "scientific_name": "Carassius auratus",
     "name": "goldfish",
-    "parent": 7956,
+    "parentId": 7956,
     "name_es": "pez dorado",
     "name_fr": "poisson rouge",
     "name_it": "pesce rosso",
@@ -162,13 +172,14 @@
     "name_ca": "carpí daurat",
     "name_ko": "금붕어",
     "name_de": "Goldfisch",
-    "name_uk": "золота рибка"
+    "name_uk": "золота рибка",
+    "name_tr": "japon balığı"
   },
   {
-    "node": 7962,
-    "scientific name": "Cyprinus carpio",
+    "nodeId": 7962,
+    "scientific_name": "Cyprinus carpio",
     "name": "carp",
-    "parent": 7961,
+    "parentId": 7961,
     "name_es": "carpa",
     "name_fr": "carpe",
     "name_hu": "ponty",
@@ -177,13 +188,14 @@
     "name_ca": "carpa",
     "name_ko": "잉어",
     "name_de": "Karpfen",
-    "name_uk": "короп"
+    "name_uk": "короп",
+    "name_tr": "sazan balığı"
   },
   {
-    "node": 7998,
-    "scientific name": "Ictalurus punctatus",
+    "nodeId": 7998,
+    "scientific_name": "Ictalurus punctatus",
     "name": "catfish",
-    "parent": 7997,
+    "parentId": 7997,
     "name_es": "pez gato",
     "name_fr": "poisson-chat",
     "name_hu": "törpeharcsa",
@@ -192,13 +204,14 @@
     "name_ca": "peix gat",
     "name_ko": "찬넬메기",
     "name_de": "Katzenwels",
-    "name_uk": "сом"
+    "name_uk": "сом",
+    "name_tr": "kedi balığı"
   },
   {
-    "node": 8022,
-    "scientific name": "Oncorhynchus mykiss",
+    "nodeId": 8022,
+    "scientific_name": "Oncorhynchus mykiss",
     "name": "trout",
-    "parent": 8016,
+    "parentId": 8016,
     "name_es": "trucha",
     "name_fr": "truite",
     "name_hu": "pisztráng",
@@ -207,13 +220,14 @@
     "name_ca": "truita",
     "name_ko": "무지개송어",
     "name_de": "Regenbogenforelle",
-    "name_uk": "форель"
+    "name_uk": "форель",
+    "name_tr": "alabalık"
   },
   {
-    "node": 8030,
-    "scientific name": "Salmo salar",
+    "nodeId": 8030,
+    "scientific_name": "Salmo salar",
     "name": "salmon",
-    "parent": 8028,
+    "parentId": 8028,
     "name_es": "salmón",
     "name_fr": "saumon",
     "name_it": "salmone",
@@ -222,13 +236,14 @@
     "name_ca": "salmó",
     "name_ko": "연어",
     "name_de": "Lachs",
-    "name_uk": "лосось"
+    "name_uk": "лосось",
+    "name_tr": "somon balığı"
   },
   {
-    "node": 8049,
-    "scientific name": "Gadus morhua",
+    "nodeId": 8049,
+    "scientific_name": "Gadus morhua",
     "name": "cod",
-    "parent": 8048,
+    "parentId": 8048,
     "name_es": "bacalao",
     "name_fr": "morue",
     "name_hu": "tőkehal",
@@ -237,13 +252,14 @@
     "name_ca": "bacallà",
     "name_ko": "대구",
     "name_de": "Kabeljau",
-    "name_uk": "тріска"
+    "name_uk": "тріска",
+    "name_tr": "atlantik morinası"
   },
   {
-    "node": 8245,
-    "scientific name": "Xiphias gladius",
+    "nodeId": 8245,
+    "scientific_name": "Xiphias gladius",
     "name": "swordfish",
-    "parent": 8244,
+    "parentId": 8244,
     "name_es": "pez espada",
     "name_fr": "espadon",
     "name_hu": "kardhal",
@@ -252,13 +268,14 @@
     "name_ca": "peix espasa",
     "name_ko": "황새치",
     "name_de": "Schwertfisch",
-    "name_uk": "риба-меч"
+    "name_uk": "риба-меч",
+    "name_tr": "kılıç balığı"
   },
   {
-    "node": 8296,
-    "scientific name": "Ambystoma mexicanum",
+    "nodeId": 8296,
+    "scientific_name": "Ambystoma mexicanum",
     "name": "axolotl",
-    "parent": 8295,
+    "parentId": 8295,
     "name_es": "ajolote",
     "name_fr": "axolotl",
     "name_hu": "axolotl",
@@ -267,13 +284,14 @@
     "name_ca": "axolot",
     "name_ko": "아홀로틀",
     "name_de": "Axolotl",
-    "name_uk": "аксолотль"
+    "name_uk": "аксолотль",
+    "name_tr": "su semenderi"
   },
   {
-    "node": 8384,
-    "scientific name": "Bufo bufo",
+    "nodeId": 8384,
+    "scientific_name": "Bufo bufo",
     "name": "toad",
-    "parent": 8383,
+    "parentId": 8383,
     "name_es": "sapo",
     "name_fr": "crapaud",
     "name_hu": "varangy",
@@ -282,13 +300,14 @@
     "name_ca": "gripau",
     "name_ko": "두꺼비",
     "name_de": "Kröte",
-    "name_uk": "жаба"
+    "name_uk": "жаба",
+    "name_tr": "siğilli kurbağa"
   },
   {
-    "node": 8400,
-    "scientific name": "Aquarana catesbeiana",
+    "nodeId": 8400,
+    "scientific_name": "Aquarana catesbeiana",
     "name": "bullfrog",
-    "parent": 121236,
+    "parentId": 121236,
     "name_es": "rana mugidora",
     "name_fr": "grenouille-taureau",
     "name_hu": "ökörbéka",
@@ -297,13 +316,14 @@
     "name_ca": "granota toro",
     "name_ko": "황소개구리",
     "name_de": "Ochsenfrosch",
-    "name_uk": "жаба-бик"
+    "name_uk": "жаба-бик",
+    "name_tr": "amerikan boğa kurbağası"
   },
   {
-    "node": 8496,
-    "scientific name": "Alligator mississippiensis",
+    "nodeId": 8496,
+    "scientific_name": "Alligator mississippiensis",
     "name": "alligator",
-    "parent": 8495,
+    "parentId": 8495,
     "name_es": "alligator",
     "name_fr": "alligator",
     "name_hu": "alligátor",
@@ -312,13 +332,14 @@
     "name_ca": "al·ligàtor",
     "name_ko": "앨리게이터과 악어",
     "name_de": "Alligator",
-    "name_uk": "алігатор"
+    "name_uk": "алігатор",
+    "name_tr": "amerikan aligatoru"
   },
   {
-    "node": 8502,
-    "scientific name": "Crocodylus porosus",
+    "nodeId": 8502,
+    "scientific_name": "Crocodylus porosus",
     "name": "crocodile",
-    "parent": 8500,
+    "parentId": 8500,
     "name_es": "cocodrilo",
     "name_fr": "crocodile",
     "name_hu": "krokodil",
@@ -327,13 +348,14 @@
     "name_ca": "cocodril",
     "name_ko": "크로커다일과 악어",
     "name_de": "Krokodil",
-    "name_uk": "крокодил"
+    "name_uk": "крокодил",
+    "name_tr": "timsah"
   },
   {
-    "node": 8688,
-    "scientific name": "Hydrophis platurus",
+    "nodeId": 8688,
+    "scientific_name": "Hydrophis platurus",
     "name": "sea snake",
-    "parent": 8683,
+    "parentId": 8683,
     "name_es": "serpiente de mar",
     "name_fr": "serpent marin",
     "name_hu": "tengeri kígyó",
@@ -342,13 +364,14 @@
     "name_ca": "serp de mar",
     "name_ko": "바다뱀",
     "name_de": "Seeschlange",
-    "name_uk": "морська змія"
+    "name_uk": "морська змія",
+    "name_tr": "deniz yılanı"
   },
   {
-    "node": 8790,
-    "scientific name": "Dromaius novaehollandiae",
+    "nodeId": 8790,
+    "scientific_name": "Dromaius novaehollandiae",
     "name": "emu",
-    "parent": 8789,
+    "parentId": 8789,
     "name_es": "emú",
     "name_fr": "émeu",
     "name_hu": "emu",
@@ -357,13 +380,14 @@
     "name_ca": "emú",
     "name_ko": "에뮤",
     "name_de": "Emu",
-    "name_uk": "ему"
+    "name_uk": "ему",
+    "name_tr": "emu"
   },
   {
-    "node": 8801,
-    "scientific name": "Struthio camelus",
+    "nodeId": 8801,
+    "scientific_name": "Struthio camelus",
     "name": "ostrich",
-    "parent": 8800,
+    "parentId": 8800,
     "name_es": "avestruz",
     "name_fr": "autruche",
     "name_hu": "strucc",
@@ -372,13 +396,14 @@
     "name_ca": "estruç",
     "name_ko": "타조",
     "name_de": "Strauß",
-    "name_uk": "страус"
+    "name_uk": "страус",
+    "name_tr": "deve kuşu"
   },
   {
-    "node": 8853,
-    "scientific name": "Branta canadensis",
+    "nodeId": 8853,
+    "scientific_name": "Branta canadensis",
     "name": "goose",
-    "parent": 8852,
+    "parentId": 8852,
     "name_es": "ganso",
     "name_fr": "oie",
     "name_hu": "lúd",
@@ -387,13 +412,14 @@
     "name_ca": "oca del canadà",
     "name_ko": "캐나다기러기",
     "name_de": "Gans",
-    "name_uk": "гусак"
+    "name_uk": "гусак",
+    "name_tr": "kaz"
   },
   {
-    "node": 8869,
-    "scientific name": "Cygnus olor",
+    "nodeId": 8869,
+    "scientific_name": "Cygnus olor",
     "name": "swan",
-    "parent": 8867,
+    "parentId": 8867,
     "name_es": "cisne",
     "name_fr": "cygne",
     "name_hu": "hattyú",
@@ -402,13 +428,14 @@
     "name_ca": "cigne",
     "name_ko": "백조",
     "name_de": "Schwan",
-    "name_uk": "лебідь"
+    "name_uk": "лебідь",
+    "name_tr": "kuğu"
   },
   {
-    "node": 8954,
-    "scientific name": "Falco peregrinus",
+    "nodeId": 8954,
+    "scientific_name": "Falco peregrinus",
     "name": "falcon",
-    "parent": 8952,
+    "parentId": 8952,
     "name_es": "halcón",
     "name_fr": "faucon",
     "name_hu": "sólyom",
@@ -417,28 +444,30 @@
     "name_ca": "falcó",
     "name_ko": "매",
     "name_de": "Wanderfalke",
-    "name_uk": "сокіл"
+    "name_uk": "сокіл",
+    "name_tr": "doğan"
   },
   {
-    "node": 33614,
-    "scientific name": "Coragyps atratus",
+    "nodeId": 33614,
+    "scientific_name": "Coragyps atratus",
     "name": "black vulture",
-    "parent": 33613,
+    "parentId": 33613,
     "name_es": "buitre negro",
     "name_fr": "vautour moine",
-    "name_hu": "hollókeselyű ",
+    "name_hu": "hollókeselyű",
     "name_it": "urubù",
     "name_pt": "urubu",
     "name_ca": "voltor",
     "name_ko": "검은대머리수리",
     "name_de": "Schwarzer Geier",
-    "name_uk": "стерв'ятник"
+    "name_uk": "стерв'ятник",
+    "name_tr": "kara akbaba"
   },
   {
-    "node": 9031,
-    "scientific name": "Gallus gallus",
+    "nodeId": 9031,
+    "scientific_name": "Gallus gallus",
     "name": "chicken",
-    "parent": 9030,
+    "parentId": 9030,
     "name_es": "pollo",
     "name_fr": "coq doré",
     "name_hu": "házi tyúk",
@@ -447,13 +476,14 @@
     "name_ca": "gallina",
     "name_ko": "닭",
     "name_de": "Huhn",
-    "name_uk": "курка"
+    "name_uk": "курка",
+    "name_tr": "tavuk"
   },
   {
-    "node": 9042,
-    "scientific name": "Lophura bulweri",
+    "nodeId": 9042,
+    "scientific_name": "Lophura bulweri",
     "name": "pheasant",
-    "parent": 9041,
+    "parentId": 9041,
     "name_es": "faisán",
     "name_fr": "faisan",
     "name_hu": "fácán",
@@ -462,13 +492,14 @@
     "name_ca": "faisà",
     "name_ko": "꿩",
     "name_de": "Fasan",
-    "name_uk": "фазан"
+    "name_uk": "фазан",
+    "name_tr": "sülün"
   },
   {
-    "node": 34924,
-    "scientific name": "Pica pica",
+    "nodeId": 34924,
+    "scientific_name": "Pica pica",
     "name": "magpie",
-    "parent": 34923,
+    "parentId": 34923,
     "name_es": "urraca",
     "name_fr": "pie",
     "name_hu": "szarka",
@@ -477,13 +508,14 @@
     "name_ca": "garsa",
     "name_ko": "까치",
     "name_de": "Elster",
-    "name_uk": "сорока"
+    "name_uk": "сорока",
+    "name_tr": "saksağan"
   },
   {
-    "node": 9187,
-    "scientific name": "Turdus merula",
+    "nodeId": 9187,
+    "scientific_name": "Turdus merula",
     "name": "blackbird",
-    "parent": 9186,
+    "parentId": 9186,
     "name_es": "mirlo",
     "name_fr": "merle",
     "name_hu": "feketerigó",
@@ -492,13 +524,14 @@
     "name_ca": "merla",
     "name_ko": "유라시아대륙검은지빠귀",
     "name_de": "Amsel",
-    "name_uk": "дрізд"
+    "name_uk": "дрізд",
+    "name_tr": "karatavuk"
   },
   {
-    "node": 9233,
-    "scientific name": "Aptenodytes forsteri",
+    "nodeId": 9233,
+    "scientific_name": "Aptenodytes forsteri",
     "name": "emperor penguin",
-    "parent": 9232,
+    "parentId": 9232,
     "name_es": "pingüino emperador",
     "name_fr": "manchot empereur",
     "name_hu": "császárpingvin",
@@ -507,13 +540,14 @@
     "name_ca": "pingüí emperador",
     "name_ko": "황제펭귄",
     "name_de": "Kaiserpinguin",
-    "name_uk": "імператорський пінгвін"
+    "name_uk": "імператорський пінгвін",
+    "name_tr": "imparator penguen"
   },
   {
-    "node": 9258,
-    "scientific name": "Ornithorhynchus anatinus",
+    "nodeId": 9258,
+    "scientific_name": "Ornithorhynchus anatinus",
     "name": "platypus",
-    "parent": 9257,
+    "parentId": 9257,
     "name_es": "ornitorrinco",
     "name_fr": "ornithorynque",
     "name_hu": "kacsacsőrű emlős",
@@ -522,13 +556,14 @@
     "name_ca": "ornitorrinc",
     "name_ko": "오리너구리",
     "name_de": "Schnabeltier",
-    "name_uk": "качкодзьоб"
+    "name_uk": "качкодзьоб",
+    "name_tr": "ornitorenk"
   },
   {
-    "node": 9261,
-    "scientific name": "Tachyglossus aculeatus",
+    "nodeId": 9261,
+    "scientific_name": "Tachyglossus aculeatus",
     "name": "echidna",
-    "parent": 9260,
+    "parentId": 9260,
     "name_es": "ecidna",
     "name_fr": "échidné",
     "name_hu": "hangyászsün",
@@ -537,13 +572,14 @@
     "name_ca": "equidna",
     "name_ko": "가시두더지",
     "name_de": "Ameisenigel",
-    "name_uk": "єхидна"
+    "name_uk": "єхидна",
+    "name_tr": "kısa burunlu dikenli karıncayiyen"
   },
   {
-    "node": 9365,
-    "scientific name": "Erinaceus europaeus",
+    "nodeId": 9365,
+    "scientific_name": "Erinaceus europaeus",
     "name": "hedgehog",
-    "parent": 9364,
+    "parentId": 9364,
     "name_es": "erizo",
     "name_fr": "hérisson",
     "name_hu": "sün",
@@ -552,13 +588,14 @@
     "name_ca": "eriçó",
     "name_ko": "고슴도치",
     "name_de": "Igel",
-    "name_uk": "їжак"
+    "name_uk": "їжак",
+    "name_tr": "kirpi"
   },
   {
-    "node": 9430,
-    "scientific name": "Desmodus rotundus",
+    "nodeId": 9430,
+    "scientific_name": "Desmodus rotundus",
     "name": "vampire bat",
-    "parent": 9429,
+    "parentId": 9429,
     "name_es": "murciélago vampiro",
     "name_fr": "vampire",
     "name_hu": "denevér",
@@ -567,13 +604,14 @@
     "name_ca": "ratpenat vampir",
     "name_ko": "흡혈박쥐",
     "name_de": "Vampirfledermaus",
-    "name_uk": "кажан"
+    "name_uk": "кажан",
+    "name_tr": "vampir yarasa"
   },
   {
-    "node": 9542,
-    "scientific name": "Macaca fuscata",
+    "nodeId": 9542,
+    "scientific_name": "Macaca fuscata",
     "name": "macaque",
-    "parent": 9539,
+    "parentId": 9539,
     "name_es": "macaco",
     "name_fr": "macaque",
     "name_hu": "makákó",
@@ -582,13 +620,14 @@
     "name_ca": "macaco",
     "name_ko": "일본원숭이",
     "name_de": "Makak",
-    "name_uk": "макака"
+    "name_uk": "макака",
+    "name_tr": "makak maymunu"
   },
   {
-    "node": 9561,
-    "scientific name": "Mandrillus sphinx",
+    "nodeId": 9561,
+    "scientific_name": "Mandrillus sphinx",
     "name": "mandrill",
-    "parent": 9567,
+    "parentId": 9567,
     "name_es": "mandril",
     "name_fr": "mandrill",
     "name_hu": "mandrill",
@@ -597,13 +636,14 @@
     "name_ca": "mandril",
     "name_ko": "맨드릴",
     "name_de": "Mandrill",
-    "name_uk": "мандриль"
+    "name_uk": "мандриль",
+    "name_tr": "mandril"
   },
   {
-    "node": 9593,
-    "scientific name": "Gorilla gorilla",
+    "nodeId": 9593,
+    "scientific_name": "Gorilla gorilla",
     "name": "gorilla",
-    "parent": 9592,
+    "parentId": 9592,
     "name_es": "gorila",
     "name_fr": "gorille",
     "name_hu": "gorilla",
@@ -612,13 +652,14 @@
     "name_ca": "goril·la",
     "name_ko": "고릴라",
     "name_de": "Gorilla",
-    "name_uk": "горила"
+    "name_uk": "горила",
+    "name_tr": "goril"
   },
   {
-    "node": 9597,
-    "scientific name": "Pan paniscus",
+    "nodeId": 9597,
+    "scientific_name": "Pan paniscus",
     "name": "bonobo",
-    "parent": 9596,
+    "parentId": 9596,
     "name_es": "bonobo",
     "name_fr": "bonobo",
     "name_hu": "bonobo",
@@ -627,13 +668,14 @@
     "name_ca": "bonobo",
     "name_ko": "보노보",
     "name_de": "Bonobo",
-    "name_uk": "бонобо"
+    "name_uk": "бонобо",
+    "name_tr": "bonobo"
   },
   {
-    "node": 9598,
-    "scientific name": "Pan troglodytes",
+    "nodeId": 9598,
+    "scientific_name": "Pan troglodytes",
     "name": "chimpanzee",
-    "parent": 9596,
+    "parentId": 9596,
     "name_es": "chimpancé",
     "name_fr": "chimpanzé",
     "name_hu": "csimpánz",
@@ -642,13 +684,14 @@
     "name_ca": "ximpanzé",
     "name_ko": "침팬지",
     "name_de": "Schimpanse",
-    "name_uk": "шимпанзе"
+    "name_uk": "шимпанзе",
+    "name_tr": "şempanze"
   },
   {
-    "node": 9601,
-    "scientific name": "Pongo abelii",
+    "nodeId": 9601,
+    "scientific_name": "Pongo abelii",
     "name": "orangutan",
-    "parent": 9599,
+    "parentId": 9599,
     "name_es": "orangután",
     "name_fr": "orang-outan",
     "name_hu": "orángután",
@@ -657,13 +700,14 @@
     "name_ca": "orangutan",
     "name_ko": "오랑우탄",
     "name_de": "Orang-Utan",
-    "name_uk": "орангутанг"
+    "name_uk": "орангутанг",
+    "name_tr": "orangutan"
   },
   {
-    "node": 9614,
-    "scientific name": "Canis latrans",
+    "nodeId": 9614,
+    "scientific_name": "Canis latrans",
     "name": "coyote",
-    "parent": 9611,
+    "parentId": 9611,
     "name_es": "coyote",
     "name_fr": "coyote",
     "name_hu": "prérifarkas",
@@ -672,13 +716,14 @@
     "name_ca": "coiot",
     "name_ko": "코요테",
     "name_de": "Kojote",
-    "name_uk": "койот"
+    "name_uk": "койот",
+    "name_tr": "kır kurdu"
   },
   {
-    "node": 9627,
-    "scientific name": "Vulpes vulpes",
+    "nodeId": 9627,
+    "scientific_name": "Vulpes vulpes",
     "name": "red fox",
-    "parent": 9625,
+    "parentId": 9625,
     "name_es": "zorro rojo",
     "name_fr": "renard roux",
     "name_hu": "vörös róka",
@@ -687,13 +732,14 @@
     "name_ca": "guineu",
     "name_ko": "붉은여우",
     "name_de": "Rotfuchs",
-    "name_uk": "лисиця"
+    "name_uk": "лисиця",
+    "name_tr": "kızıl tilki"
   },
   {
-    "node": 9643,
-    "scientific name": "Ursus americanus",
+    "nodeId": 9643,
+    "scientific_name": "Ursus americanus",
     "name": "black bear",
-    "parent": 9639,
+    "parentId": 9639,
     "name_es": "oso negro",
     "name_fr": "ours noir",
     "name_hu": "fekete medve",
@@ -702,13 +748,14 @@
     "name_ca": "os negre",
     "name_ko": "아메리카흑곰",
     "name_de": "Schwarzbär",
-    "name_uk": "чорний ведмідь"
+    "name_uk": "чорний ведмідь",
+    "name_tr": "kara ayı"
   },
   {
-    "node": 9644,
-    "scientific name": "Ursus arctos",
+    "nodeId": 9644,
+    "scientific_name": "Ursus arctos",
     "name": "brown bear",
-    "parent": 9639,
+    "parentId": 9639,
     "name_es": "oso café",
     "name_fr": "ours brun",
     "name_hu": "barnamedve",
@@ -717,13 +764,14 @@
     "name_ca": "os marró",
     "name_ko": "불곰",
     "name_de": "Braunbär",
-    "name_uk": "бурий ведмідь"
+    "name_uk": "бурий ведмідь",
+    "name_tr": "boz ayı"
   },
   {
-    "node": 9646,
-    "scientific name": "Ailuropoda melanoleuca",
+    "nodeId": 9646,
+    "scientific_name": "Ailuropoda melanoleuca",
     "name": "giant panda",
-    "parent": 9645,
+    "parentId": 9645,
     "name_es": "panda gigante",
     "name_fr": "panda géant",
     "name_hu": "óriáspanda",
@@ -732,13 +780,14 @@
     "name_ca": "panda gegant",
     "name_ko": "대왕판다",
     "name_de": "Großer Panda",
-    "name_uk": "велика панда"
+    "name_uk": "велика панда",
+    "name_tr": "dev panda"
   },
   {
-    "node": 9649,
-    "scientific name": "Ailurus fulgens",
+    "nodeId": 9649,
+    "scientific_name": "Ailurus fulgens",
     "name": "red panda",
-    "parent": 9648,
+    "parentId": 9648,
     "name_es": "panda rojo",
     "name_fr": "panda roux",
     "name_hu": "vörös macskamedve",
@@ -747,13 +796,14 @@
     "name_ca": "panda vermell",
     "name_ko": "레서판다",
     "name_de": "Roter Panda",
-    "name_uk": "червона панда"
+    "name_uk": "червона панда",
+    "name_tr": "kızıl panda"
   },
   {
-    "node": 9654,
-    "scientific name": "Procyon lotor",
+    "nodeId": 9654,
+    "scientific_name": "Procyon lotor",
     "name": "raccoon",
-    "parent": 9653,
+    "parentId": 9653,
     "name_es": "mapache",
     "name_fr": "raton-laveur",
     "name_hu": "mosómedve",
@@ -762,13 +812,14 @@
     "name_ca": "os rentador",
     "name_ko": "라쿤",
     "name_de": "Waschbär",
-    "name_uk": "єнот"
+    "name_uk": "єнот",
+    "name_tr": "rakun"
   },
   {
-    "node": 9666,
-    "scientific name": "Mustela lutreola",
+    "nodeId": 9666,
+    "scientific_name": "Mustela lutreola",
     "name": "mink",
-    "parent": 9665,
+    "parentId": 9665,
     "name_es": "visón",
     "name_fr": "vison",
     "name_hu": "nyérc",
@@ -777,13 +828,14 @@
     "name_ca": "visó europeu",
     "name_ko": "밍크",
     "name_de": "Europäischer Nerz",
-    "name_uk": "норка"
+    "name_uk": "норка",
+    "name_tr": "Avrasya gelinciği"
   },
   {
-    "node": 9678,
-    "scientific name": "Crocuta crocuta",
+    "nodeId": 9678,
+    "scientific_name": "Crocuta crocuta",
     "name": "hyena",
-    "parent": 9677,
+    "parentId": 9677,
     "name_es": "hiena",
     "name_fr": "hyène",
     "name_hu": "hiéna",
@@ -792,13 +844,14 @@
     "name_ca": "hiena",
     "name_ko": "하이에나",
     "name_de": "Hyäne",
-    "name_uk": "гієна"
+    "name_uk": "гієна",
+    "name_tr": "sırtlan"
   },
   {
-    "node": 9689,
-    "scientific name": "Panthera leo",
+    "nodeId": 9689,
+    "scientific_name": "Panthera leo",
     "name": "lion",
-    "parent": 9688,
+    "parentId": 9688,
     "name_es": "león",
     "name_fr": "lion",
     "name_hu": "oroszlán",
@@ -807,13 +860,14 @@
     "name_ca": "lleó",
     "name_ko": "사자",
     "name_de": "Löwe",
-    "name_uk": "лев"
+    "name_uk": "лев",
+    "name_tr": "aslan"
   },
   {
-    "node": 9690,
-    "scientific name": "Panthera onca",
+    "nodeId": 9690,
+    "scientific_name": "Panthera onca",
     "name": "jaguar",
-    "parent": 9688,
+    "parentId": 9688,
     "name_es": "jaguar",
     "name_fr": "jaguar",
     "name_hu": "jaguár",
@@ -822,13 +876,14 @@
     "name_ca": "jaguar",
     "name_ko": "재규어",
     "name_de": "Jaguar",
-    "name_uk": "ягуар"
+    "name_uk": "ягуар",
+    "name_tr": "jaguar"
   },
   {
-    "node": 9691,
-    "scientific name": "Panthera pardus",
+    "nodeId": 9691,
+    "scientific_name": "Panthera pardus",
     "name": "leopard",
-    "parent": 9688,
+    "parentId": 9688,
     "name_es": "leopardo",
     "name_fr": "léopard",
     "name_hu": "leopárd",
@@ -837,13 +892,14 @@
     "name_ca": "leopard",
     "name_ko": "표범",
     "name_de": "Leopard",
-    "name_uk": "леопард"
+    "name_uk": "леопард",
+    "name_tr": "leopar"
   },
   {
-    "node": 9694,
-    "scientific name": "Panthera tigris",
+    "nodeId": 9694,
+    "scientific_name": "Panthera tigris",
     "name": "tiger",
-    "parent": 9688,
+    "parentId": 9688,
     "name_es": "tigre",
     "name_fr": "tigre",
     "name_hu": "tigris",
@@ -852,13 +908,14 @@
     "name_ca": "tigre",
     "name_ko": "호랑이",
     "name_de": "Tiger",
-    "name_uk": "тигр"
+    "name_uk": "тигр",
+    "name_tr": "kaplan"
   },
   {
-    "node": 9696,
-    "scientific name": "Puma concolor",
+    "nodeId": 9696,
+    "scientific_name": "Puma concolor",
     "name": "puma",
-    "parent": 146712,
+    "parentId": 146712,
     "name_es": "puma",
     "name_fr": "puma",
     "name_hu": "puma",
@@ -867,13 +924,14 @@
     "name_ca": "puma",
     "name_ko": "퓨마",
     "name_de": "Puma",
-    "name_uk": "пума"
+    "name_uk": "пума",
+    "name_tr": "puma"
   },
   {
-    "node": 9704,
-    "scientific name": "Zalophus californianus",
+    "nodeId": 9704,
+    "scientific_name": "Zalophus californianus",
     "name": "sea lion",
-    "parent": 9703,
+    "parentId": 9703,
     "name_es": "león marino",
     "name_fr": "otarie",
     "name_hu": "oroszlánfóka",
@@ -882,13 +940,14 @@
     "name_ca": "lleó marí",
     "name_ko": "바다사자",
     "name_de": "Seelöwe",
-    "name_uk": "морський лев"
+    "name_uk": "морський лев",
+    "name_tr": "deniz aslanı"
   },
   {
-    "node": 9707,
-    "scientific name": "Odobenus rosmarus",
+    "nodeId": 9707,
+    "scientific_name": "Odobenus rosmarus",
     "name": "walrus",
-    "parent": 9706,
+    "parentId": 9706,
     "name_es": "morsa",
     "name_fr": "morse",
     "name_hu": "rozmár",
@@ -897,13 +956,14 @@
     "name_ca": "morsa",
     "name_ko": "바다코끼리",
     "name_de": "Walross",
-    "name_uk": "морж"
+    "name_uk": "морж",
+    "name_tr": "mors"
   },
   {
-    "node": 9711,
-    "scientific name": "Halichoerus grypus",
+    "nodeId": 9711,
+    "scientific_name": "Halichoerus grypus",
     "name": "seal",
-    "parent": 9710,
+    "parentId": 9710,
     "name_es": "foca",
     "name_fr": "phoque",
     "name_hu": "fóka",
@@ -912,13 +972,14 @@
     "name_ca": "foca",
     "name_ko": "회색물범",
     "name_de": "Kegelrobbe",
-    "name_uk": "тюлень"
+    "name_uk": "тюлень",
+    "name_tr": "fok"
   },
   {
-    "node": 9749,
-    "scientific name": "Delphinapterus leucas",
+    "nodeId": 9749,
+    "scientific_name": "Delphinapterus leucas",
     "name": "beluga whale",
-    "parent": 9748,
+    "parentId": 9748,
     "name_es": "ballena beluga",
     "name_fr": "béluga",
     "name_hu": "beluga",
@@ -927,13 +988,14 @@
     "name_ca": "beluga",
     "name_ko": "벨루가",
     "name_de": "Belugawal",
-    "name_uk": "білуга"
+    "name_uk": "білуга",
+    "name_tr": "beyaz balina"
   },
   {
-    "node": 9755,
-    "scientific name": "Physeter catodon",
+    "nodeId": 9755,
+    "scientific_name": "Physeter catodon",
     "name": "sperm whale",
-    "parent": 9753,
+    "parentId": 9753,
     "name_es": "esperma",
     "name_fr": "cachalot",
     "name_hu": "nagy ámbráscet",
@@ -942,13 +1004,14 @@
     "name_ca": "catxalot",
     "name_ko": "향고래",
     "name_de": "Pottwal",
-    "name_uk": "кашалот"
+    "name_uk": "кашалот",
+    "name_tr": "ispermeçet balinası"
   },
   {
-    "node": 9773,
-    "scientific name": "Megaptera novaeangliae",
+    "nodeId": 9773,
+    "scientific_name": "Megaptera novaeangliae",
     "name": "humpback whale",
-    "parent": 9772,
+    "parentId": 9772,
     "name_es": "ballena jorobada",
     "name_fr": "baleine à bosse",
     "name_hu": "púpos bálna",
@@ -957,13 +1020,14 @@
     "name_ca": "iubarta",
     "name_ko": "혹등고래",
     "name_de": "Buckelwal",
-    "name_uk": "горбатий кит"
+    "name_uk": "горбатий кит",
+    "name_tr": "kambur balina"
   },
   {
-    "node": 9778,
-    "scientific name": "Trichechus manatus",
+    "nodeId": 9778,
+    "scientific_name": "Trichechus manatus",
     "name": "manatee",
-    "parent": 9776,
+    "parentId": 9776,
     "name_es": "manatí",
     "name_fr": "lamantin",
     "name_hu": "manátusz",
@@ -972,13 +1036,14 @@
     "name_ca": "manatí",
     "name_ko": "매너티",
     "name_de": "Seekuh",
-    "name_uk": "ламантин"
+    "name_uk": "ламантин",
+    "name_tr": "manati"
   },
   {
-    "node": 9785,
-    "scientific name": "Loxodonta africana",
+    "nodeId": 9785,
+    "scientific_name": "Loxodonta africana",
     "name": "elephant",
-    "parent": 9784,
+    "parentId": 9784,
     "name_es": "elefante",
     "name_fr": "éléphant",
     "name_hu": "elefánt",
@@ -987,13 +1052,14 @@
     "name_ca": "elefant",
     "name_ko": "코끼리",
     "name_de": "Afrikanischer Elefant",
-    "name_uk": "слон"
+    "name_uk": "слон",
+    "name_tr": "Afrika fili"
   },
   {
-    "node": 9796,
-    "scientific name": "Equus caballus",
+    "nodeId": 9796,
+    "scientific_name": "Equus caballus",
     "name": "horse",
-    "parent": 9789,
+    "parentId": 9789,
     "name_es": "caballo",
     "name_fr": "cheval",
     "name_hu": "ló",
@@ -1002,13 +1068,14 @@
     "name_ca": "cavall",
     "name_ko": "말",
     "name_de": "Pferd",
-    "name_uk": "кінь"
+    "name_uk": "кінь",
+    "name_tr": "at"
   },
   {
-    "node": 9807,
-    "scientific name": "Ceratotherium simum",
+    "nodeId": 9807,
+    "scientific_name": "Ceratotherium simum",
     "name": "rhinoceros",
-    "parent": 9806,
+    "parentId": 9806,
     "name_es": "rinoceronte",
     "name_fr": "rhinocéros",
     "name_hu": "orrszarvú",
@@ -1017,13 +1084,14 @@
     "name_ca": "rinoceront",
     "name_ko": "코뿔소",
     "name_de": "Nashorn",
-    "name_uk": "носоріг"
+    "name_uk": "носоріг",
+    "name_tr": "gergedan"
   },
   {
-    "node": 9818,
-    "scientific name": "Orycteropus afer",
+    "nodeId": 9818,
+    "scientific_name": "Orycteropus afer",
     "name": "aardvark",
-    "parent": 9817,
+    "parentId": 9817,
     "name_es": "cerdo hormiguero",
     "name_fr": "oryctérope",
     "name_hu": "földimalac",
@@ -1032,13 +1100,14 @@
     "name_ca": "porc formiguer",
     "name_ko": "땅돼지",
     "name_de": "Erdferkel",
-    "name_uk": "трубкозуб"
+    "name_uk": "трубкозуб",
+    "name_tr": "yer domuzu"
   },
   {
-    "node": 9838,
-    "scientific name": "Camelus dromedarius",
+    "nodeId": 9838,
+    "scientific_name": "Camelus dromedarius",
     "name": "camel",
-    "parent": 9836,
+    "parentId": 9836,
     "name_es": "camello",
     "name_fr": "dromadaire",
     "name_hu": "egypúpú teve",
@@ -1047,13 +1116,14 @@
     "name_ca": "camell",
     "name_ko": "낙타",
     "name_de": "Dromedar",
-    "name_uk": "верблюд"
+    "name_uk": "верблюд",
+    "name_tr": "deve"
   },
   {
-    "node": 9894,
-    "scientific name": "Giraffa camelopardalis",
+    "nodeId": 9894,
+    "scientific_name": "Giraffa camelopardalis",
     "name": "giraffe",
-    "parent": 9893,
+    "parentId": 9893,
     "name_es": "jirafa",
     "name_fr": "girafe",
     "name_hu": "zsiráf",
@@ -1062,13 +1132,14 @@
     "name_ca": "girafa",
     "name_ko": "기린",
     "name_de": "Giraffe",
-    "name_uk": "жирафа"
+    "name_uk": "жирафа",
+    "name_tr": "zürafa"
   },
   {
-    "node": 9901,
-    "scientific name": "Bison bison",
+    "nodeId": 9901,
+    "scientific_name": "Bison bison",
     "name": "bison",
-    "parent": 9900,
+    "parentId": 9900,
     "name_es": "bisonte",
     "name_fr": "bison",
     "name_hu": "bölény",
@@ -1077,13 +1148,14 @@
     "name_ca": "bisó",
     "name_ko": "들소",
     "name_de": "Bison",
-    "name_uk": "бізон"
+    "name_uk": "бізон",
+    "name_tr": "bizon"
   },
   {
-    "node": 9913,
-    "scientific name": "Bos taurus",
+    "nodeId": 9913,
+    "scientific_name": "Bos taurus",
     "name": "cattle",
-    "parent": 9903,
+    "parentId": 9903,
     "name_es": "ganado",
     "name_fr": "vache",
     "name_hu": "tehén",
@@ -1092,13 +1164,14 @@
     "name_ca": "bou",
     "name_ko": "소",
     "name_de": "Rind",
-    "name_uk": "корова"
+    "name_uk": "корова",
+    "name_tr": "sığır"
   },
   {
-    "node": 9940,
-    "scientific name": "Ovis aries",
+    "nodeId": 9940,
+    "scientific_name": "Ovis aries",
     "name": "sheep",
-    "parent": 9935,
+    "parentId": 9935,
     "name_es": "oveja",
     "name_fr": "mouton",
     "name_hu": "juh",
@@ -1107,13 +1180,14 @@
     "name_ca": "ovella",
     "name_ko": "양",
     "name_de": "Schaf",
-    "name_uk": "вівця"
+    "name_uk": "вівця",
+    "name_tr": "koyun"
   },
   {
-    "node": 9974,
-    "scientific name": "Manis javanica",
+    "nodeId": 9974,
+    "scientific_name": "Manis javanica",
     "name": "pangolin",
-    "parent": 9973,
+    "parentId": 9973,
     "name_es": "pangolín",
     "name_fr": "pangolin",
     "name_hu": "pangolin",
@@ -1122,13 +1196,14 @@
     "name_ca": "pangolí",
     "name_ko": "천산갑",
     "name_de": "Malaiisches Schuppentier (Pangolin)",
-    "name_uk": "панголін"
+    "name_uk": "панголін",
+    "name_tr": "pangolin"
   },
   {
-    "node": 10036,
-    "scientific name": "Mesocricetus auratus",
+    "nodeId": 10036,
+    "scientific_name": "Mesocricetus auratus",
     "name": "hamster",
-    "parent": 10035,
+    "parentId": 10035,
     "name_es": "hámster",
     "name_fr": "hamster",
     "name_hu": "hörcsög",
@@ -1137,13 +1212,14 @@
     "name_ca": "hàmster",
     "name_ko": "햄스터",
     "name_de": "Goldhamster",
-    "name_uk": "хом'як"
+    "name_uk": "хом'як",
+    "name_tr": "hamster"
   },
   {
-    "node": 10047,
-    "scientific name": "Meriones unguiculatus",
+    "nodeId": 10047,
+    "scientific_name": "Meriones unguiculatus",
     "name": "gerbil",
-    "parent": 10046,
+    "parentId": 10046,
     "name_es": "gerbil",
     "name_fr": "gerbille",
     "name_hu": "futóegér",
@@ -1152,13 +1228,14 @@
     "name_ca": "jerbú",
     "name_ko": "저빌",
     "name_de": "Wüstenrennmaus",
-    "name_uk": "піщанка"
+    "name_uk": "піщанка",
+    "name_tr": "gerbil"
   },
   {
-    "node": 10090,
-    "scientific name": "Mus musculus",
+    "nodeId": 10090,
+    "scientific_name": "Mus musculus",
     "name": "mouse",
-    "parent": 862507,
+    "parentId": 862507,
     "name_es": "ratón",
     "name_fr": "souris",
     "name_hu": "egér",
@@ -1167,13 +1244,14 @@
     "name_ca": "ratolí",
     "name_ko": "생쥐",
     "name_de": "Hausmaus",
-    "name_uk": "миша"
+    "name_uk": "миша",
+    "name_tr": "fare"
   },
   {
-    "node": 10138,
-    "scientific name": "Hystrix africaeaustralis",
+    "nodeId": 10138,
+    "scientific_name": "Hystrix africaeaustralis",
     "name": "porcupine",
-    "parent": 10136,
+    "parentId": 10136,
     "name_es": "puerco espín",
     "name_fr": "porc-épic",
     "name_hu": "tarajos sül",
@@ -1182,13 +1260,14 @@
     "name_ca": "porc espí",
     "name_ko": "호저",
     "name_de": "Stachelschwein",
-    "name_uk": "дикобраз"
+    "name_uk": "дикобраз",
+    "name_tr": "oklu kirpi"
   },
   {
-    "node": 12983,
-    "scientific name": "Cacatua goffiniana",
+    "nodeId": 12983,
+    "scientific_name": "Cacatua goffiniana",
     "name": "cockatoo",
-    "parent": 12981,
+    "parentId": 12981,
     "name_es": "cocotilla",
     "name_fr": "cacatoès",
     "name_hu": "kakadu",
@@ -1197,13 +1276,14 @@
     "name_ca": "cacatua de les tanimbar",
     "name_ko": "코카투",
     "name_de": "Kakadu",
-    "name_uk": "какаду"
+    "name_uk": "какаду",
+    "name_tr": "kakadu"
   },
   {
-    "node": 13037,
-    "scientific name": "Danaus plexippus",
+    "nodeId": 13037,
+    "scientific_name": "Danaus plexippus",
     "name": "monarch butterfly",
-    "parent": 151542,
+    "parentId": 151542,
     "name_es": "mariposa monarca",
     "name_fr": "monarque",
     "name_hu": "pompás királylepke",
@@ -1212,13 +1292,14 @@
     "name_ca": "papallona monarca",
     "name_ko": "제왕나비",
     "name_de": "Monarchfalter",
-    "name_uk": "метелик монарх"
+    "name_uk": "метелик монарх",
+    "name_tr": "kral kelebeği"
   },
   {
-    "node": 13125,
-    "scientific name": "Lynx lynx",
+    "nodeId": 13125,
+    "scientific_name": "Lynx lynx",
     "name": "lynx",
-    "parent": 13124,
+    "parentId": 13124,
     "name_es": "lince",
     "name_fr": "lynx commun",
     "name_hu": "hiúz",
@@ -1227,13 +1308,14 @@
     "name_ca": "linx nòrdic",
     "name_ko": "스라소니",
     "name_de": "Luchs",
-    "name_uk": "рись"
+    "name_uk": "рись",
+    "name_tr": "bayağı vaşak"
   },
   {
-    "node": 13180,
-    "scientific name": "Nymphicus hollandicus",
+    "nodeId": 13180,
+    "scientific_name": "Nymphicus hollandicus",
     "name": "cockatiel",
-    "parent": 13179,
+    "parentId": 13179,
     "name_es": "cacatúa",
     "name_fr": "calopsitte",
     "name_hu": "nimfapapagáj",
@@ -1242,13 +1324,14 @@
     "name_ca": "cacatua nimfa",
     "name_ko": "왕관앵무",
     "name_de": "Nymphensittich",
-    "name_uk": "корелла"
+    "name_uk": "корелла",
+    "name_tr": "sultan papağanı"
   },
   {
-    "node": 13397,
-    "scientific name": "Carcharodon carcharias",
+    "nodeId": 13397,
+    "scientific_name": "Carcharodon carcharias",
     "name": "great white shark",
-    "parent": 13396,
+    "parentId": 13396,
     "name_es": "gran tiburón blanco",
     "name_fr": "grand requin blanc",
     "name_hu": "fehér cápa",
@@ -1257,13 +1340,14 @@
     "name_ca": "tauró blanc",
     "name_ko": "백상아리",
     "name_de": "Weißer Hai",
-    "name_uk": "біла акула"
+    "name_uk": "біла акула",
+    "name_tr": "büyük beyaz köpek balığı"
   },
   {
-    "node": 13686,
-    "scientific name": "Solenopsis invicta",
+    "nodeId": 13686,
+    "scientific_name": "Solenopsis invicta",
     "name": "fire ant",
-    "parent": 13685,
+    "parentId": 13685,
     "name_es": "hormiga de fuego",
     "name_fr": "fourmi de feu",
     "name_hu": " tűzhangya",
@@ -1272,13 +1356,14 @@
     "name_ca": "formiga de foc",
     "name_ko": "붉은불개미",
     "name_de": "Feuerameise",
-    "name_uk": "вогняна мураха"
+    "name_uk": "вогняна мураха",
+    "name_tr": "ateş karıncası"
   },
   {
-    "node": 27675,
-    "scientific name": "Choloepus didactylus",
+    "nodeId": 27675,
+    "scientific_name": "Choloepus didactylus",
     "name": "two-toed sloth",
-    "parent": 9357,
+    "parentId": 9357,
     "name_es": "perezoso de dos dedos",
     "name_fr": "paresseux à deux doigts",
     "name_hu": "kétujjú lajhár",
@@ -1287,13 +1372,14 @@
     "name_ca": "peresós",
     "name_ko": "나무늘보",
     "name_de": "Zweifingerfaultier",
-    "name_uk": "двопалий лінивець"
+    "name_uk": "двопалий лінивець",
+    "name_tr": "tembel hayvan"
   },
   {
-    "node": 27794,
-    "scientific name": "Dermochelys coriacea",
+    "nodeId": 27794,
+    "scientific_name": "Dermochelys coriacea",
     "name": "sea turtle",
-    "parent": 27793,
+    "parentId": 27793,
     "name_es": "tortuga marina",
     "name_fr": "tortue luth",
     "name_hu": "kérgesteknős",
@@ -1302,13 +1388,14 @@
     "name_ca": "tortuga llaüt",
     "name_ko": "장수거북",
     "name_de": "Lederschildkröte",
-    "name_uk": "морська черепаха"
+    "name_uk": "морська черепаха",
+    "name_tr": "deniz kaplumbağası"
   },
   {
-    "node": 28701,
-    "scientific name": "Fratercula arctica",
+    "nodeId": 28701,
+    "scientific_name": "Fratercula arctica",
     "name": "puffin",
-    "parent": 28700,
+    "parentId": 28700,
     "name_es": "frailecillo",
     "name_fr": "macareux",
     "name_hu": "lunda",
@@ -1317,13 +1404,14 @@
     "name_ca": "fraret",
     "name_ko": "코뿔바다오리",
     "name_de": "Papageitaucher",
-    "name_uk": "тупик"
+    "name_uk": "тупик",
+    "name_tr": "deniz papağanı"
   },
   {
-    "node": 28727,
-    "scientific name": "Cyanocitta cristata",
+    "nodeId": 28727,
+    "scientific_name": "Cyanocitta cristata",
     "name": "blue jay",
-    "parent": 28726,
+    "parentId": 28726,
     "name_es": "arrendajo azul",
     "name_fr": "geai bleu",
     "name_hu": "kék szajkó",
@@ -1332,13 +1420,14 @@
     "name_ca": "gaig nord-americà",
     "name_ko": "파랑어치",
     "name_de": "Blauhäher",
-    "name_uk": "сойка"
+    "name_uk": "сойка",
+    "name_tr": "alakarga"
   },
   {
-    "node": 29073,
-    "scientific name": "Ursus maritimus",
+    "nodeId": 29073,
+    "scientific_name": "Ursus maritimus",
     "name": "polar bear",
-    "parent": 9639,
+    "parentId": 9639,
     "name_es": "oso polar",
     "name_fr": "ours blanc",
     "name_hu": "jegesmedve",
@@ -1347,13 +1436,14 @@
     "name_ca": "os polar",
     "name_ko": "북극곰",
     "name_de": "Eisbär",
-    "name_uk": "полярний ведмідь"
+    "name_uk": "полярний ведмідь",
+    "name_tr": "kutup ayısı"
   },
   {
-    "node": 29139,
-    "scientific name": "Vombatus ursinus",
+    "nodeId": 29139,
+    "scientific_name": "Vombatus ursinus",
     "name": "wombat",
-    "parent": 29138,
+    "parentId": 29138,
     "name_es": "wombat",
     "name_fr": "wombat",
     "name_hu": "vombat",
@@ -1362,13 +1452,14 @@
     "name_ca": "uombat",
     "name_ko": "웜뱃",
     "name_de": "Wombat",
-    "name_uk": "вомбат"
+    "name_uk": "вомбат",
+    "name_tr": "vombat"
   },
   {
-    "node": 29159,
-    "scientific name": "Magallana gigas",
+    "nodeId": 29159,
+    "scientific_name": "Magallana gigas",
     "name": "oyster",
-    "parent": 6564,
+    "parentId": 6564,
     "name_es": "ostra",
     "name_fr": "huître",
     "name_hu": "osztriga",
@@ -1377,13 +1468,14 @@
     "name_ca": "ostra",
     "name_ko": "굴",
     "name_de": "Auster",
-    "name_uk": "устриця"
+    "name_uk": "устриця",
+    "name_tr": "istiridye"
   },
   {
-    "node": 30213,
-    "scientific name": "Vespula pensylvanica",
+    "nodeId": 30213,
+    "scientific_name": "Vespula pensylvanica",
     "name": "wasp",
-    "parent": 7451,
+    "parentId": 7451,
     "name_es": "avispa",
     "name_fr": "guêpe",
     "name_hu": "darázs",
@@ -1392,13 +1484,14 @@
     "name_ca": "vespa",
     "name_ko": "말벌",
     "name_de": "Wespe",
-    "name_uk": "оса"
+    "name_uk": "оса",
+    "name_tr": "yaban arısı"
   },
   {
-    "node": 30538,
-    "scientific name": "Vicugna pacos",
+    "nodeId": 30538,
+    "scientific_name": "Vicugna pacos",
     "name": "alpaca",
-    "parent": 30539,
+    "parentId": 30539,
     "name_es": "alpaca",
     "name_fr": "alpaga",
     "name_hu": "alpaka",
@@ -1407,13 +1500,14 @@
     "name_ca": "alpaca",
     "name_ko": "알파카",
     "name_de": "Alpaka",
-    "name_uk": "альпака"
+    "name_uk": "альпака",
+    "name_tr": "alpaka"
   },
   {
-    "node": 30548,
-    "scientific name": "Mephitis mephitis",
+    "nodeId": 30548,
+    "scientific_name": "Mephitis mephitis",
     "name": "skunk",
-    "parent": 30546,
+    "parentId": 30546,
     "name_es": "zorrillo",
     "name_fr": "moufette",
     "name_hu": "bűzös borz",
@@ -1422,13 +1516,14 @@
     "name_ca": "mofeta",
     "name_ko": "스컹크",
     "name_de": "Stinktier",
-    "name_uk": "скунс"
+    "name_uk": "скунс",
+    "name_tr": "kokarca"
   },
   {
-    "node": 30554,
-    "scientific name": "Taxidea taxus",
+    "nodeId": 30554,
+    "scientific_name": "Taxidea taxus",
     "name": "badger",
-    "parent": 30553,
+    "parentId": 30553,
     "name_es": "tejón",
     "name_fr": "blaireau",
     "name_hu": "borz",
@@ -1437,13 +1532,14 @@
     "name_ca": "teixó",
     "name_ko": "오소리",
     "name_de": "Dachs",
-    "name_uk": "борсук"
+    "name_uk": "борсук",
+    "name_tr": "porsuk"
   },
   {
-    "node": 32536,
-    "scientific name": "Acinonyx jubatus",
+    "nodeId": 32536,
+    "scientific_name": "Acinonyx jubatus",
     "name": "cheetah",
-    "parent": 32535,
+    "parentId": 32535,
     "name_es": "guepardo",
     "name_fr": "guépard",
     "name_hu": "gepárd",
@@ -1452,13 +1548,14 @@
     "name_ca": "guepard",
     "name_ko": "치타",
     "name_de": "Gepard",
-    "name_uk": "гепард"
+    "name_uk": "гепард",
+    "name_tr": "çita"
   },
   {
-    "node": 32538,
-    "scientific name": "Leopardus pardalis",
+    "nodeId": 32538,
+    "scientific_name": "Leopardus pardalis",
     "name": "ocelot",
-    "parent": 46841,
+    "parentId": 46841,
     "name_es": "ocelote",
     "name_fr": "ocelot",
     "name_hu": "ocelot",
@@ -1467,13 +1564,14 @@
     "name_ca": "ocelot",
     "name_ko": "오셀롯",
     "name_de": "Ozelot",
-    "name_uk": "оцелот"
+    "name_uk": "оцелот",
+    "name_tr": "oselo"
   },
   {
-    "node": 34882,
-    "scientific name": "Enhydra lutris",
+    "nodeId": 34882,
+    "scientific_name": "Enhydra lutris",
     "name": "sea otter",
-    "parent": 34881,
+    "parentId": 34881,
     "name_es": "nutria de mar",
     "name_fr": "loutre de mer",
     "name_hu": "tengeri vidra",
@@ -1482,13 +1580,14 @@
     "name_ca": "llúdriga marina",
     "name_ko": "해달",
     "name_de": "Seeotter",
-    "name_uk": "видра"
+    "name_uk": "видра",
+    "name_tr": "deniz samuru"
   },
   {
-    "node": 36312,
-    "scientific name": "Hynobius retardatus",
+    "nodeId": 36312,
+    "scientific_name": "Hynobius retardatus",
     "name": "salamander",
-    "parent": 1527437,
+    "parentId": 1527437,
     "name_es": "salamandra",
     "name_fr": "salamandre",
     "name_hu": "szalamander",
@@ -1497,14 +1596,15 @@
     "name_ca": "salamandra",
     "name_ko": "도룡뇽",
     "name_de": "Salamander",
-    "name_uk": "саламандра"
+    "name_uk": "саламандра",
+    "name_tr": "semender"
   },
   {
-    "node": 37032,
-    "scientific name": "Suricata suricatta",
+    "nodeId": 37032,
+    "scientific_name": "Suricata suricatta",
     "name": "meerkat",
-    "parent": 37031,
-    "name_es": "manchat",
+    "parentId": 37031,
+    "name_es": "suricata",
     "name_fr": "suricate",
     "name_hu": "szurikáta",
     "name_it": "suricato",
@@ -1512,13 +1612,14 @@
     "name_ca": "suricata",
     "name_ko": "미어캣",
     "name_de": "Erdmännchen",
-    "name_uk": "сурикат"
+    "name_uk": "сурикат",
+    "name_tr": "mirket"
   },
   {
-    "node": 37189,
-    "scientific name": "Hippotragus niger",
+    "nodeId": 37189,
+    "scientific_name": "Hippotragus niger",
     "name": "antelope",
-    "parent": 37184,
+    "parentId": 37184,
     "name_es": "antílope",
     "name_fr": "hippotrague",
     "name_hu": "antilop",
@@ -1527,13 +1628,14 @@
     "name_ca": "antílop",
     "name_ko": "검은영양",
     "name_de": "Antilope",
-    "name_uk": "антилопа"
+    "name_uk": "антилопа",
+    "name_tr": "dev samur antilobu"
   },
   {
-    "node": 37295,
-    "scientific name": "Cebus olivaceus",
+    "nodeId": 37295,
+    "scientific_name": "Cebus olivaceus",
     "name": "capuchin",
-    "parent": 9513,
+    "parentId": 9513,
     "name_es": "capuchino",
     "name_fr": "capucin",
     "name_hu": "csuklyásmajom",
@@ -1542,13 +1644,14 @@
     "name_ca": "caputxí",
     "name_ko": "카푸친원숭이",
     "name_de": "Kapuzineraffe",
-    "name_uk": "капуцин"
+    "name_uk": "капуцин",
+    "name_tr": "kapuçin maymunu"
   },
   {
-    "node": 37610,
-    "scientific name": "Erithacus rubecula",
+    "nodeId": 37610,
+    "scientific_name": "Erithacus rubecula",
     "name": "robin",
-    "parent": 36283,
+    "parentId": 36283,
     "name_es": "petirrojo",
     "name_fr": "rouge-gorge",
     "name_hu": "vörösbegy",
@@ -1557,13 +1660,14 @@
     "name_ca": "pit-roig",
     "name_ko": "미국 지빠귀",
     "name_de": "Rotkehlchen",
-    "name_uk": "малиновка"
+    "name_uk": "малиновка",
+    "name_tr": "kızılgerdan"
   },
   {
-    "node": 37751,
-    "scientific name": "Gazella dorcas",
+    "nodeId": 37751,
+    "scientific_name": "Gazella dorcas",
     "name": "gazelle",
-    "parent": 9933,
+    "parentId": 9933,
     "name_es": "gacela",
     "name_fr": "gazelle",
     "name_hu": "gazella",
@@ -1572,13 +1676,14 @@
     "name_ca": "gasela",
     "name_ko": "가젤",
     "name_de": "Gazelle",
-    "name_uk": "газель"
+    "name_uk": "газель",
+    "name_tr": "gazel"
   },
   {
-    "node": 38626,
-    "scientific name": "Phascolarctos cinereus",
+    "nodeId": 38626,
+    "scientific_name": "Phascolarctos cinereus",
     "name": "koala",
-    "parent": 38625,
+    "parentId": 38625,
     "name_es": "coala",
     "name_fr": "koala",
     "name_hu": "koala",
@@ -1587,13 +1692,14 @@
     "name_ca": "coala",
     "name_ko": "코알라",
     "name_de": "Koala",
-    "name_uk": "коала"
+    "name_uk": "коала",
+    "name_tr": "koala"
   },
   {
-    "node": 40151,
-    "scientific name": "Monodon monoceros",
+    "nodeId": 40151,
+    "scientific_name": "Monodon monoceros",
     "name": "narwhal",
-    "parent": 40150,
+    "parentId": 40150,
     "name_es": "narval",
     "name_fr": "narval",
     "name_hu": "narvál",
@@ -1602,13 +1708,14 @@
     "name_ca": "narval",
     "name_ko": "일각고래",
     "name_de": "Narwal",
-    "name_uk": "нарвал"
+    "name_uk": "нарвал",
+    "name_tr": "narval"
   },
   {
-    "node": 42514,
-    "scientific name": "Pygocentrus nattereri",
+    "nodeId": 42514,
+    "scientific_name": "Pygocentrus nattereri",
     "name": "piranha",
-    "parent": 42513,
+    "parentId": 42513,
     "name_es": "piraña",
     "name_fr": "piranha",
     "name_hu": "pirája",
@@ -1617,13 +1724,14 @@
     "name_ca": "piranya",
     "name_ko": "피라냐",
     "name_de": "Piranha",
-    "name_uk": "піранья"
+    "name_uk": "піранья",
+    "name_tr": "pirana"
   },
   {
-    "node": 48849,
-    "scientific name": "Passer domesticus",
+    "nodeId": 48849,
+    "scientific_name": "Passer domesticus",
     "name": "sparrow",
-    "parent": 9159,
+    "parentId": 9159,
     "name_es": "gorrión",
     "name_fr": "moineau",
     "name_hu": "veréb",
@@ -1632,13 +1740,14 @@
     "name_ca": "pardal",
     "name_ko": "참새",
     "name_de": "Spatz",
-    "name_uk": "горобець"
+    "name_uk": "горобець",
+    "name_tr": "serçe"
   },
   {
-    "node": 9375,
-    "scientific name": "Talpa europaea",
+    "nodeId": 9375,
+    "scientific_name": "Talpa europaea",
     "name": "mole",
-    "parent": 9374,
+    "parentId": 9374,
     "name_es": "topo",
     "name_fr": "taupe",
     "name_hu": "vakond",
@@ -1647,13 +1756,14 @@
     "name_ca": "talp",
     "name_ko": "두더지",
     "name_de": "Maulwurf",
-    "name_uk": "крiт"
+    "name_uk": "крiт",
+    "name_tr": "köstebek"
   },
   {
-    "node": 51338,
-    "scientific name": "Castor canadensis",
+    "nodeId": 51338,
+    "scientific_name": "Castor canadensis",
     "name": "beaver",
-    "parent": 10184,
+    "parentId": 10184,
     "name_es": "castor",
     "name_fr": "castor",
     "name_hu": "hód",
@@ -1662,13 +1772,14 @@
     "name_ca": "castor",
     "name_ko": "비버",
     "name_de": "Biber",
-    "name_uk": "бобер"
+    "name_uk": "бобер",
+    "name_tr": "kunduz"
   },
   {
-    "node": 51908,
-    "scientific name": "Aratinga nenday",
+    "nodeId": 51908,
+    "scientific_name": "Aratinga nenday",
     "name": "parakeet",
-    "parent": 12945,
+    "parentId": 12945,
     "name_es": "periquito",
     "name_fr": "perruche",
     "name_hu": "aratinga",
@@ -1677,13 +1788,14 @@
     "name_ca": "periquito",
     "name_ko": "코뉴어 앵무새",
     "name_de": "Sittich",
-    "name_uk": "папуга"
+    "name_uk": "папуга",
+    "name_tr": "muhabbet kuşu"
   },
   {
-    "node": 51949,
-    "scientific name": "Oophaga histrionica",
+    "nodeId": 51949,
+    "scientific_name": "Oophaga histrionica",
     "name": "poison frog",
-    "parent": 1004435,
+    "parentId": 1004435,
     "name_es": "rana venenosa",
     "name_fr": "dendrobate",
     "name_hu": "nyílméregbéka",
@@ -1692,14 +1804,15 @@
     "name_ca": "granota arlequí",
     "name_ko": "독화살개구리",
     "name_de": "Pfeilgiftfrosch",
-    "name_uk": "отруйна жаба"
+    "name_uk": "отруйна жаба",
+    "name_tr": "zehirli ok kurbağası"
   },
   {
-    "node": 52644,
-    "scientific name": "Haliaeetus leucocephalus",
+    "nodeId": 52644,
+    "scientific_name": "Haliaeetus leucocephalus",
     "name": "bald eagle",
-    "parent": 8968,
-    "name_es": "Águila calva",
+    "parentId": 8968,
+    "name_es": "águila calva",
     "name_fr": "pygargue",
     "name_hu": "fehérfejű rétisas",
     "name_it": "aquila calva",
@@ -1707,13 +1820,14 @@
     "name_ca": "àguila marina",
     "name_ko": "흰머리수리",
     "name_de": "Weißkopfseeadler",
-    "name_uk": "білоголовий орлан"
+    "name_uk": "білоголовий орлан",
+    "name_tr": "kel kartal"
   },
   {
-    "node": 55048,
-    "scientific name": "Mustela frenata",
+    "nodeId": 55048,
+    "scientific_name": "Mustela frenata",
     "name": "weasel",
-    "parent": 9665,
+    "parentId": 9665,
     "name_es": "comadreja",
     "name_fr": "belette",
     "name_hu": "menyét",
@@ -1722,13 +1836,14 @@
     "name_ca": "mostela",
     "name_ko": "족제비",
     "name_de": "Wiesel",
-    "name_uk": "ласка"
+    "name_uk": "ласка",
+    "name_tr": "uzun kuyruklu gelincik"
   },
   {
-    "node": 56313,
-    "scientific name": "Tyto alba",
+    "nodeId": 56313,
+    "scientific_name": "Tyto alba",
     "name": "barn owl",
-    "parent": 56312,
+    "parentId": 56312,
     "name_es": "lechuza",
     "name_fr": "chouette effraie",
     "name_hu": "gyöngybagoly",
@@ -1737,13 +1852,14 @@
     "name_ca": "òliba",
     "name_ko": "올빼미",
     "name_de": "Schleiereule",
-    "name_uk": "сова"
+    "name_uk": "сова",
+    "name_tr": "peçeli baykuş"
   },
   {
-    "node": 56781,
-    "scientific name": "Corvus corax",
+    "nodeId": 56781,
+    "scientific_name": "Corvus corax",
     "name": "raven",
-    "parent": 30420,
+    "parentId": 30420,
     "name_es": "cuervo",
     "name_fr": "grand corbeau",
     "name_hu": "holló",
@@ -1752,13 +1868,14 @@
     "name_ca": "corb",
     "name_ko": "큰까마귀",
     "name_de": "Rabe",
-    "name_uk": "ворон"
+    "name_uk": "ворон",
+    "name_tr": "kuzgun"
   },
   {
-    "node": 57247,
-    "scientific name": "Psittacus erithacus",
+    "nodeId": 57247,
+    "scientific_name": "Psittacus erithacus",
     "name": "grey parrot",
-    "parent": 13239,
+    "parentId": 13239,
     "name_es": "loro gris",
     "name_fr": "gris du gabon",
     "name_hu": "szürkepapagáj",
@@ -1767,13 +1884,14 @@
     "name_ca": "lloro gris",
     "name_ko": "회색앵무",
     "name_de": "Graupapagei",
-    "name_uk": "сірий папуга"
+    "name_uk": "сірий папуга",
+    "name_tr": "gri papağan"
   },
   {
-    "node": 60713,
-    "scientific name": "Mimus polyglottos",
+    "nodeId": 60713,
+    "scientific_name": "Mimus polyglottos",
     "name": "mockingbird",
-    "parent": 58200,
+    "parentId": 58200,
     "name_es": "sinsonte",
     "name_fr": "moqueur",
     "name_hu": "poszáta",
@@ -1782,13 +1900,14 @@
     "name_ca": "mim políglota",
     "name_ko": "흉내지빠귀",
     "name_de": "Spottdrossel",
-    "name_uk": "пересмішник"
+    "name_uk": "пересмішник",
+    "name_tr": "alaycı kuş"
   },
   {
-    "node": 61384,
-    "scientific name": "Lynx rufus",
+    "nodeId": 61384,
+    "scientific_name": "Lynx rufus",
     "name": "bobcat",
-    "parent": 13124,
+    "parentId": 13124,
     "name_es": "gato montés",
     "name_fr": "lynx roux",
     "name_hu": "vörös hiúz",
@@ -1797,13 +1916,14 @@
     "name_ca": "linx roig",
     "name_ko": "붉은스라소니",
     "name_de": "Rotluchs",
-    "name_uk": "руда рись"
+    "name_uk": "руда рись",
+    "name_tr": "doru vaşak"
   },
   {
-    "node": 9700,
-    "scientific name": "Herpestes ichneumon",
+    "nodeId": 9700,
+    "scientific_name": "Herpestes ichneumon",
     "name": "mongoose",
-    "parent": 9699,
+    "parentId": 9699,
     "name_es": "mangosta",
     "name_fr": "mangouste",
     "name_hu": "mongúz",
@@ -1812,13 +1932,14 @@
     "name_ca": "mangosta",
     "name_ko": "몽구스",
     "name_de": "Mungo",
-    "name_uk": "мангуст"
+    "name_uk": "мангуст",
+    "name_tr": "firavun faresi"
   },
   {
-    "node": 61853,
-    "scientific name": "Nomascus leucogenys",
+    "nodeId": 61853,
+    "scientific_name": "Nomascus leucogenys",
     "name": "gibbon",
-    "parent": 325165,
+    "parentId": 325165,
     "name_es": "gibón",
     "name_fr": "gibbon",
     "name_hu": "gibbon",
@@ -1827,13 +1948,14 @@
     "name_ca": "gibó",
     "name_ko": "긴팔원숭이",
     "name_de": "Gibbon",
-    "name_uk": "гібон"
+    "name_uk": "гібон",
+    "name_tr": "gibon"
   },
   {
-    "node": 76717,
-    "scientific name": "Lontra canadensis",
+    "nodeId": 76717,
+    "scientific_name": "Lontra canadensis",
     "name": "river otter",
-    "parent": 71112,
+    "parentId": 71112,
     "name_es": "nutria de río",
     "name_fr": "loutre de rivière",
     "name_hu": "vidra",
@@ -1842,13 +1964,14 @@
     "name_ca": "llúdriga",
     "name_ko": "수달",
     "name_de": "Flussotter",
-    "name_uk": "річкова видра"
+    "name_uk": "річкова видра",
+    "name_tr": "su samuru"
   },
   {
-    "node": 79627,
-    "scientific name": "Eudyptes chrysolophus",
+    "nodeId": 79627,
+    "scientific_name": "Eudyptes chrysolophus",
     "name": "macaroni penguin",
-    "parent": 9235,
+    "parentId": 9235,
     "name_es": "pingüino macarrón",
     "name_fr": "gorfou sauteur",
     "name_hu": "bóbitás pingvin",
@@ -1857,13 +1980,14 @@
     "name_ca": "pingüí crestadaurat",
     "name_ko": "마카로니펭귄",
     "name_de": "Goldschopfpinguin",
-    "name_uk": "макаронний пінгвін"
+    "name_uk": "макаронний пінгвін",
+    "name_tr": "makaroni pengueni"
   },
   {
-    "node": 84074,
-    "scientific name": "Cyclopes didactylus",
+    "nodeId": 84074,
+    "scientific_name": "Cyclopes didactylus",
     "name": "anteater",
-    "parent": 84073,
+    "parentId": 84073,
     "name_es": "oso hormiguero",
     "name_fr": "myrmidon",
     "name_hu": "hangyász",
@@ -1872,13 +1996,14 @@
     "name_ca": "os formiguer",
     "name_ko": "개미핥기",
     "name_de": "Zwergameisenbär",
-    "name_uk": "мурахоїд"
+    "name_uk": "мурахоїд",
+    "name_tr": "karıncayiyen"
   },
   {
-    "node": 85066,
-    "scientific name": "Corvus brachyrhynchos",
+    "nodeId": 85066,
+    "scientific_name": "Corvus brachyrhynchos",
     "name": "crow",
-    "parent": 30420,
+    "parentId": 30420,
     "name_es": "corneja",
     "name_fr": "corneille",
     "name_hu": "varjú",
@@ -1887,13 +2012,14 @@
     "name_ca": "corb americà",
     "name_ko": "까마귀",
     "name_de": "Krähe",
-    "name_uk": "ворона"
+    "name_uk": "ворона",
+    "name_tr": "karga"
   },
   {
-    "node": 89248,
-    "scientific name": "Equus quagga",
+    "nodeId": 89248,
+    "scientific_name": "Equus quagga",
     "name": "zebra",
-    "parent": 9789,
+    "parentId": 9789,
     "name_es": "cebra",
     "name_fr": "zèbre",
     "name_hu": "zebra",
@@ -1902,13 +2028,14 @@
     "name_ca": "zebra",
     "name_ko": "얼룩말",
     "name_de": "Zebra",
-    "name_uk": "зебра"
+    "name_uk": "зебра",
+    "name_tr": "zebra"
   },
   {
-    "node": 89462,
-    "scientific name": "Bubalus bubalis",
+    "nodeId": 89462,
+    "scientific_name": "Bubalus bubalis",
     "name": "water buffalo",
-    "parent": 9918,
+    "parentId": 9918,
     "name_es": "búfalo de agua",
     "name_fr": "buffle",
     "name_hu": "vízibivaly",
@@ -1917,13 +2044,14 @@
     "name_ca": "búfal",
     "name_ko": "물소",
     "name_de": "Wasserbüffel",
-    "name_uk": "буйвол"
+    "name_uk": "буйвол",
+    "name_tr": "Asya mandası"
   },
   {
-    "node": 30640,
-    "scientific name": "Sciurus carolinensis",
+    "nodeId": 30640,
+    "scientific_name": "Sciurus carolinensis",
     "name": "squirrel",
-    "parent": 10001,
+    "parentId": 10001,
     "name_es": "ardilla",
     "name_fr": "écureuil gris",
     "name_hu": "mókus",
@@ -1932,13 +2060,14 @@
     "name_ca": "esquirol",
     "name_ko": "청설모",
     "name_de": "Eichhörnchen",
-    "name_uk": "білка"
+    "name_uk": "білка",
+    "name_tr": "sincap"
   },
   {
-    "node": 254707,
-    "scientific name": "Hylopetes nigripes",
+    "nodeId": 254707,
+    "scientific_name": "Hylopetes nigripes",
     "name": "flying squirrel",
-    "parent": 100944,
+    "parentId": 100944,
     "name_es": "ardilla voladora",
     "name_fr": "écureuil volant",
     "name_hu": "repülőmókus",
@@ -1947,13 +2076,14 @@
     "name_ca": "esquirol volador",
     "name_ko": "날다람쥐",
     "name_de": "Gleithörnchen",
-    "name_uk": "білка-летяга"
+    "name_uk": "білка-летяга",
+    "name_tr": "uçan sincap"
   },
   {
-    "node": 100937,
-    "scientific name": "Papio papio",
+    "nodeId": 100937,
+    "scientific_name": "Papio papio",
     "name": "baboon",
-    "parent": 9554,
+    "parentId": 9554,
     "name_es": "babuino",
     "name_fr": "babouin",
     "name_hu": "pávián",
@@ -1962,13 +2092,14 @@
     "name_ca": "papió",
     "name_ko": "개코원숭이",
     "name_de": "Pavian",
-    "name_uk": "бабуїн"
+    "name_uk": "бабуїн",
+    "name_tr": "babun"
   },
   {
-    "node": 104421,
-    "scientific name": "Camponotus floridanus",
+    "nodeId": 104421,
+    "scientific_name": "Camponotus floridanus",
     "name": "carpenter ant",
-    "parent": 13390,
+    "parentId": 13390,
     "name_es": "hormiga carpintera",
     "name_fr": "fourmi charpentière",
     "name_hu": "lóhangya",
@@ -1977,13 +2108,14 @@
     "name_ca": "formiga fustera",
     "name_ko": "왕개미",
     "name_de": "Zimmermannsameise",
-    "name_uk": "мураха"
+    "name_uk": "мураха",
+    "name_tr": "marangoz karınca"
   },
   {
-    "node": 109280,
-    "scientific name": "Hippocampus comes",
+    "nodeId": 109280,
+    "scientific_name": "Hippocampus comes",
     "name": "seahorse",
-    "parent": 72046,
+    "parentId": 72046,
     "name_es": "caballo de mar",
     "name_fr": "hippocampe",
     "name_hu": "tengeri csikó",
@@ -1992,13 +2124,14 @@
     "name_ca": "cavallet de mar",
     "name_ko": "해마",
     "name_de": "Seepferdchen",
-    "name_uk": "морський коник"
+    "name_uk": "морський коник",
+    "name_tr": "denizatı"
   },
   {
-    "node": 132113,
-    "scientific name": "Bombus impatiens",
+    "nodeId": 132113,
+    "scientific_name": "Bombus impatiens",
     "name": "bumble bee",
-    "parent": 144703,
+    "parentId": 144703,
     "name_es": "abeja de abejas",
     "name_fr": "bourdon",
     "name_hu": "poszméh",
@@ -2007,13 +2140,14 @@
     "name_ca": "borinot",
     "name_ko": "뒤영벌",
     "name_de": "Hummel",
-    "name_uk": "джміль"
+    "name_uk": "джміль",
+    "name_tr": "bombus arısı"
   },
   {
-    "node": 135631,
-    "scientific name": "Leptotila verreauxi",
+    "nodeId": 135631,
+    "scientific_name": "Leptotila verreauxi",
     "name": "dove",
-    "parent": 115655,
+    "parentId": 115655,
     "name_es": "paloma blanca",
     "name_fr": "colombe",
     "name_hu": "gerle",
@@ -2022,13 +2156,14 @@
     "name_ca": "colom feréstec",
     "name_ko": "비둘기",
     "name_de": "Taube",
-    "name_uk": "горлиця"
+    "name_uk": "горлиця",
+    "name_tr": "kumru"
   },
   {
-    "node": 158814,
-    "scientific name": "Terrapene carolina",
+    "nodeId": 158814,
+    "scientific_name": "Terrapene carolina",
     "name": "box turtle",
-    "parent": 85610,
+    "parentId": 85610,
     "name_es": "tortuga de caja",
     "name_fr": "tortue boîte",
     "name_hu": "dobozteknős",
@@ -2037,13 +2172,14 @@
     "name_ca": "tortuga de caixa",
     "name_ko": "상자거북",
     "name_de": "Dosenschildkröte",
-    "name_uk": "коробчата черепаха"
+    "name_uk": "коробчата черепаха",
+    "name_tr": "kutu kaplumbağası"
   },
   {
-    "node": 161767,
-    "scientific name": "Amphiprion percula",
+    "nodeId": 161767,
+    "scientific_name": "Amphiprion percula",
     "name": "clownfish",
-    "parent": 80969,
+    "parentId": 80969,
     "name_es": "pez payaso",
     "name_fr": "poisson-clown",
     "name_hu": "bohóchal",
@@ -2052,13 +2188,14 @@
     "name_ca": "peix pallasso",
     "name_ko": "흰동가리",
     "name_de": "Clownfisch",
-    "name_uk": "риба-клоун"
+    "name_uk": "риба-клоун",
+    "name_tr": "palyaço balığı"
   },
   {
-    "node": 176946,
-    "scientific name": "Python bivittatus",
+    "nodeId": 176946,
+    "scientific_name": "Python bivittatus",
     "name": "burmese python",
-    "parent": 37579,
+    "parentId": 37579,
     "name_es": "pitón birmano",
     "name_fr": "python birman",
     "name_hu": "tigrispiton",
@@ -2067,13 +2204,14 @@
     "name_ca": "pitó de birmania",
     "name_ko": "버마비단뱀",
     "name_de": "Birmanische Python",
-    "name_uk": "бірманський пітон"
+    "name_uk": "бірманський пітон",
+    "name_tr": "burma pitonu"
   },
   {
-    "node": 218467,
-    "scientific name": "Centruroides sculpturatus",
+    "nodeId": 218467,
+    "scientific_name": "Centruroides sculpturatus",
     "name": "bark scorpion",
-    "parent": 6875,
+    "parentId": 6875,
     "name_es": "escorpión",
     "name_fr": "scorpion",
     "name_hu": "skorpió",
@@ -2082,13 +2220,14 @@
     "name_ca": "escorpí",
     "name_ko": "전갈",
     "name_de": "Skorpion",
-    "name_uk": "скорпіон"
+    "name_uk": "скорпіон",
+    "name_tr": "ağaç kabuğu akrebi"
   },
   {
-    "node": 37607,
-    "scientific name": "Pyrrhula pyrrhula",
+    "nodeId": 37607,
+    "scientific_name": "Pyrrhula pyrrhula",
     "name": "finch",
-    "parent": 37606,
+    "parentId": 37606,
     "name_es": "pinzón",
     "name_fr": "bouvreuil",
     "name_hu": "pinty",
@@ -2097,13 +2236,14 @@
     "name_ca": "pinsà borroner",
     "name_ko": "핀치새",
     "name_de": "Gimpel",
-    "name_uk": "зяблик"
+    "name_uk": "зяблик",
+    "name_tr": "ispinoz"
   },
   {
-    "node": 262124,
-    "scientific name": "Hemiphaga novaeseelandiae",
+    "nodeId": 262124,
+    "scientific_name": "Hemiphaga novaeseelandiae",
     "name": "pigeon",
-    "parent": 262123,
+    "parentId": 262123,
     "name_es": "paloma",
     "name_fr": "pigeon",
     "name_hu": "galamb",
@@ -2112,13 +2252,14 @@
     "name_ca": "colom",
     "name_ko": "집비둘기",
     "name_de": "Kererū",
-    "name_uk": "голуб"
+    "name_uk": "голуб",
+    "name_tr": "güvercin"
   },
   {
-    "node": 301843,
-    "scientific name": "Lygodactylus capensis",
+    "nodeId": 301843,
+    "scientific_name": "Lygodactylus capensis",
     "name": "gecko",
-    "parent": 57063,
+    "parentId": 57063,
     "name_es": "geco",
     "name_fr": "gecko",
     "name_hu": "gekko",
@@ -2127,13 +2268,14 @@
     "name_ca": "dragó",
     "name_ko": "게코도마뱀",
     "name_de": "Kapgecko",
-    "name_uk": "гекон"
+    "name_uk": "гекон",
+    "name_tr": "geko"
   },
   {
-    "node": 308060,
-    "scientific name": "Apteryx rowi",
+    "nodeId": 308060,
+    "scientific_name": "Apteryx rowi",
     "name": "kiwi",
-    "parent": 8821,
+    "parentId": 8821,
     "name_es": "kiwi",
     "name_fr": "kiwi",
     "name_hu": "kiwi",
@@ -2142,13 +2284,14 @@
     "name_ca": "kiwi",
     "name_ko": "키위",
     "name_de": "Kiwi",
-    "name_uk": "ківі"
+    "name_uk": "ківі",
+    "name_tr": "kivi"
   },
   {
-    "node": 340076,
-    "scientific name": "Chaetophractus vellerosus",
+    "nodeId": 340076,
+    "scientific_name": "Chaetophractus vellerosus",
     "name": "armadillo",
-    "parent": 29079,
+    "parentId": 29079,
     "name_es": "armadillo",
     "name_fr": "tatou",
     "name_hu": "armadilló",
@@ -2157,13 +2300,14 @@
     "name_ca": "armadillo",
     "name_ko": "아르마딜로",
     "name_de": "Gürteltier",
-    "name_uk": "броненосець"
+    "name_uk": "броненосець",
+    "name_tr": "armadillo"
   },
   {
-    "node": 371907,
-    "scientific name": "Bubo scandiacus",
+    "nodeId": 371907,
+    "scientific_name": "Bubo scandiacus",
     "name": "snowy owl",
-    "parent": 30460,
+    "parentId": 30460,
     "name_es": "buho nevado",
     "name_fr": "harfang des neiges",
     "name_hu": "hóbagoly",
@@ -2172,13 +2316,14 @@
     "name_ca": "duc blanc",
     "name_ko": "흰올빼미",
     "name_de": "Schnee-Eule",
-    "name_uk": "полярна сова"
+    "name_uk": "полярна сова",
+    "name_tr": "kar baykuşu"
   },
   {
-    "node": 383689,
-    "scientific name": "Luscinia megarhynchos",
+    "nodeId": 383689,
+    "scientific_name": "Luscinia megarhynchos",
     "name": "nightingale",
-    "parent": 52791,
+    "parentId": 52791,
     "name_es": "ruiseñor",
     "name_fr": "rossignol",
     "name_hu": "fülemüle",
@@ -2187,13 +2332,14 @@
     "name_ca": "rossinyol",
     "name_ko": "밤꾀꼬리",
     "name_de": "Nachtigall",
-    "name_uk": "соловей"
+    "name_uk": "соловей",
+    "name_tr": "bülbül"
   },
   {
-    "node": 494514,
-    "scientific name": "Vulpes lagopus",
+    "nodeId": 494514,
+    "scientific_name": "Vulpes lagopus",
     "name": "arctic fox",
-    "parent": 9625,
+    "parentId": 9625,
     "name_es": "zorro ártico",
     "name_fr": "renard polaire",
     "name_hu": "sarki róka",
@@ -2202,13 +2348,14 @@
     "name_ca": "guineu àrtica",
     "name_ko": "북극여우",
     "name_de": "Polarfuchs",
-    "name_uk": "песець"
+    "name_uk": "песець",
+    "name_tr": "kar tilkisi"
   },
   {
-    "node": 505845,
-    "scientific name": "Acerodon jubatus",
+    "nodeId": 505845,
+    "scientific_name": "Acerodon jubatus",
     "name": "fruit bat",
-    "parent": 58056,
+    "parentId": 58056,
     "name_es": "murciélago de la fruta",
     "name_fr": "roussette",
     "name_hu": "repülőkutya",
@@ -2217,13 +2364,14 @@
     "name_ca": "guineu voladora",
     "name_ko": "과일박쥐",
     "name_de": "Flughund",
-    "name_uk": "фруктовий кажан"
+    "name_uk": "фруктовий кажан",
+    "name_tr": "meyve yarasası"
   },
   {
-    "node": 1037346,
-    "scientific name": "Accipiter gundlachi",
+    "nodeId": 1037346,
+    "scientific_name": "Accipiter gundlachi",
     "name": "hawk",
-    "parent": 8956,
+    "parentId": 8956,
     "name_es": "gavilán",
     "name_fr": "épervier",
     "name_hu": "héja",
@@ -2232,13 +2380,14 @@
     "name_ca": "astor",
     "name_ko": "새매",
     "name_de": "Habicht",
-    "name_uk": "яструб"
+    "name_uk": "яструб",
+    "name_tr": "şahin"
   },
   {
-    "node": 6610,
-    "scientific name": "Sepia officinalis",
+    "nodeId": 6610,
+    "scientific_name": "Sepia officinalis",
     "name": "cuttlefish",
-    "parent": 6609,
+    "parentId": 6609,
     "name_es": "sepia",
     "name_fr": "seiche",
     "name_hu": "tintahal",
@@ -2247,13 +2396,14 @@
     "name_ca": "sèpia",
     "name_ko": "갑오징어",
     "name_de": "Gewöhnlicher Tintenfisch",
-    "name_uk": "каракатиця"
+    "name_uk": "каракатиця",
+    "name_tr": "mürekkep balığı"
   },
   {
-    "node": 102866,
-    "scientific name": "Hapalochlaena lunulata",
+    "nodeId": 102866,
+    "scientific_name": "Hapalochlaena lunulata",
     "name": "blue-ringed octopus",
-    "parent": 61715,
+    "parentId": 61715,
     "name_es": "pulpo anillo de azul",
     "name_fr": "poulpe à anneaux bleus",
     "name_hu": "kékgyűrűs polip",
@@ -2262,13 +2412,14 @@
     "name_ca": "pop d'anelles blaves",
     "name_ko": "파란고리문어",
     "name_de": "Blauring-Krake",
-    "name_uk": "синьокільчастий восьминіг"
+    "name_uk": "синьокільчастий восьминіг",
+    "name_tr": "mavi halkalı ahtapot"
   },
   {
-    "node": 256136,
-    "scientific name": "Architeuthis dux",
+    "nodeId": 256136,
+    "scientific_name": "Architeuthis dux",
     "name": "giant squid",
-    "parent": 34555,
+    "parentId": 34555,
     "name_es": "calamar gigante",
     "name_fr": "calmar géant",
     "name_hu": "óriáskalmár",
@@ -2277,13 +2428,14 @@
     "name_ca": "calamar gegant",
     "name_ko": "대왕오징어",
     "name_de": "Riesenkalmar",
-    "name_uk": "гігантський кальмар"
+    "name_uk": "гігантський кальмар",
+    "name_tr": "dev kalamar"
   },
   {
-    "node": 260533,
-    "scientific name": "Theraphosa blondi",
+    "nodeId": 260533,
+    "scientific_name": "Theraphosa blondi",
     "name": "tarantula",
-    "parent": 260532,
+    "parentId": 260532,
     "name_es": "tarántula",
     "name_fr": "mygale",
     "name_hu": "madárpók",
@@ -2292,13 +2444,14 @@
     "name_ca": "taràntula",
     "name_ko": "타란툴라",
     "name_de": "Riesenvogelspinne",
-    "name_uk": "тарантул"
+    "name_uk": "тарантул",
+    "name_tr": "tarantula"
   },
   {
-    "node": 679132,
-    "scientific name": "Heteropoda maxima",
+    "nodeId": 679132,
+    "scientific_name": "Heteropoda maxima",
     "name": "huntsman spider",
-    "parent": 152924,
+    "parentId": 152924,
     "name_es": "araña cazadora",
     "name_fr": "araignée-chasseuse des forêts",
     "name_hu": "vadászpók",
@@ -2307,13 +2460,14 @@
     "name_ca": "aranya caçadora gegant",
     "name_ko": "농발거미",
     "name_de": "Riesenkrabbenspinne",
-    "name_uk": "павук-мисливець"
+    "name_uk": "павук-мисливець",
+    "name_tr": "avcı örümceği"
   },
   {
-    "node": 6925,
-    "scientific name": "Latrodectus tredecimguttatus",
+    "nodeId": 6925,
+    "scientific_name": "Latrodectus tredecimguttatus",
     "name": "black widow",
-    "parent": 6923,
+    "parentId": 6923,
     "name_es": "viuda negra",
     "name_fr": "veuve noire",
     "name_hu": "fekete özvegy",
@@ -2322,13 +2476,14 @@
     "name_ca": "vídua negra",
     "name_ko": "검은과부거미",
     "name_de": "Schwarze Witwe",
-    "name_uk": "павук чорна вдова"
+    "name_uk": "павук чорна вдова",
+    "name_tr": "kara dul"
   },
   {
-    "node": 8517,
-    "scientific name": "Iguana iguana",
+    "nodeId": 8517,
+    "scientific_name": "Iguana iguana",
     "name": "iguana",
-    "parent": 8516,
+    "parentId": 8516,
     "name_es": "iguana",
     "name_fr": "iguane vert",
     "name_hu": "leguán",
@@ -2337,13 +2492,14 @@
     "name_ca": "iguana",
     "name_ko": "이구아나",
     "name_de": "Leguan",
-    "name_uk": "ігуана"
+    "name_uk": "ігуана",
+    "name_tr": "iguana"
   },
   {
-    "node": 91907,
-    "scientific name": "Chamaeleo chamaeleon",
+    "nodeId": 91907,
+    "scientific_name": "Chamaeleo chamaeleon",
     "name": "chameleon",
-    "parent": 51754,
+    "parentId": 51754,
     "name_es": "camaleón",
     "name_fr": "caméléon",
     "name_hu": "kaméleon",
@@ -2352,13 +2508,14 @@
     "name_ca": "camaleó",
     "name_ko": "카멜레온",
     "name_de": "Chamäleon",
-    "name_uk": "хамелеон"
+    "name_uk": "хамелеон",
+    "name_tr": "bukalemun"
   },
   {
-    "node": 6145,
-    "scientific name": "Aurelia aurita",
+    "nodeId": 6145,
+    "scientific_name": "Aurelia aurita",
     "name": "jellyfish",
-    "parent": 6144,
+    "parentId": 6144,
     "name_es": "medusa",
     "name_fr": "méduse",
     "name_hu": "medúza",
@@ -2367,13 +2524,14 @@
     "name_ca": "aurèlia",
     "name_ko": "해파리",
     "name_de": "Gemeine Ohrenqualle",
-    "name_uk": "медуза"
+    "name_uk": "медуза",
+    "name_tr": "denizanası"
   },
   {
-    "node": 6584,
-    "scientific name": "Spisula solidissima",
+    "nodeId": 6584,
+    "scientific_name": "Spisula solidissima",
     "name": "sea clam",
-    "parent": 6582,
+    "parentId": 6582,
     "name_es": "almeja de mar",
     "name_fr": "palourde",
     "name_hu": "tengeri kagyló",
@@ -2382,13 +2540,14 @@
     "name_ca": "cloïssa de l'atlàntic",
     "name_ko": "조개",
     "name_de": "Meerklaffmuschel",
-    "name_uk": "морський молюск"
+    "name_uk": "морський молюск",
+    "name_tr": "deniz tarağı"
   },
   {
-    "node": 6707,
-    "scientific name": "Homarus gammarus",
+    "nodeId": 6707,
+    "scientific_name": "Homarus gammarus",
     "name": "lobster",
-    "parent": 6705,
+    "parentId": 6705,
     "name_es": "bogavante",
     "name_fr": "homard",
     "name_hu": "homár",
@@ -2397,14 +2556,15 @@
     "name_ca": "llamàntol",
     "name_ko": "바닷가재",
     "name_de": "Europäischer Hummer",
-    "name_uk": "лобстер"
+    "name_uk": "лобстер",
+    "name_tr": "ıstakoz"
   },
   {
-    "node": 102976,
-    "scientific name": "Euphausia pacifica",
+    "nodeId": 102976,
+    "scientific_name": "Euphausia pacifica",
     "name": "krill",
-    "parent": 6818,
-    "name_es": "krill",
+    "parentId": 6818,
+    "name_es": "kril",
     "name_fr": "krill",
     "name_hu": "krill",
     "name_it": "krill",
@@ -2412,13 +2572,14 @@
     "name_ca": "krill",
     "name_ko": "크릴새우",
     "name_de": "Pazifischer Krill",
-    "name_uk": "криль"
+    "name_uk": "криль",
+    "name_tr": "kril"
   },
   {
-    "node": 6536,
-    "scientific name": "Helix pomatia",
+    "nodeId": 6536,
+    "scientific_name": "Helix pomatia",
     "name": "snail",
-    "parent": 6534,
+    "parentId": 6534,
     "name_es": "caracol",
     "name_fr": "escargot",
     "name_hu": "csiga",
@@ -2427,13 +2588,14 @@
     "name_ca": "caragol de borgonya",
     "name_ko": "달팽이",
     "name_de": "Weinbergschnecke",
-    "name_uk": "равлик"
+    "name_uk": "равлик",
+    "name_tr": "salyangoz"
   },
   {
-    "node": 2067768,
-    "scientific name": "Ariolimax columbianus",
+    "nodeId": 2067768,
+    "scientific_name": "Ariolimax columbianus",
     "name": "banana slug",
-    "parent": 2029300,
+    "parentId": 2029300,
     "name_es": "babosa de plátano",
     "name_fr": "limace-banane",
     "name_hu": "banáncsiga",
@@ -2442,13 +2604,14 @@
     "name_ca": "llimac plàtan",
     "name_ko": "바나나민달팽이",
     "name_de": "Bananaschnecke",
-    "name_uk": "слимак"
+    "name_uk": "слимак",
+    "name_tr": "sümüklüböcek"
   },
   {
-    "node": 7671,
-    "scientific name": "Strongylocentrotus droebachiensis",
+    "nodeId": 7671,
+    "scientific_name": "Strongylocentrotus droebachiensis",
     "name": "sea urchin",
-    "parent": 7664,
+    "parentId": 7664,
     "name_es": "erizo de mar",
     "name_fr": "oursin",
     "name_hu": "tengerisün",
@@ -2457,13 +2620,14 @@
     "name_ca": "eriçó de mar",
     "name_ko": "성게",
     "name_de": "Seeigel",
-    "name_uk": "морський їжак"
+    "name_uk": "морський їжак",
+    "name_tr": "deniz kestanesi"
   },
   {
-    "node": 242715,
-    "scientific name": "Diploria labyrinthiformis",
+    "nodeId": 242715,
+    "scientific_name": "Diploria labyrinthiformis",
     "name": "brain coral",
-    "parent": 89253,
+    "parentId": 89253,
     "name_es": "coral cerebral",
     "name_fr": "corail-cerveau",
     "name_hu": "agykorall",
@@ -2472,13 +2636,14 @@
     "name_ca": "corall cervell",
     "name_ko": "산호",
     "name_de": "Gehirnkoralle",
-    "name_uk": "корал-мозковик"
+    "name_uk": "корал-мозковик",
+    "name_tr": "beyin mercanı"
   },
   {
-    "node": 168775,
-    "scientific name": "Physalia physalis",
+    "nodeId": 168775,
+    "scientific_name": "Physalia physalis",
     "name": "man o war",
-    "parent": 168774,
+    "parentId": 168774,
     "name_es": "carabela portuguesa",
     "name_fr": "physalie",
     "name_hu": "portugál gálya",
@@ -2487,13 +2652,14 @@
     "name_ca": "caravel·la portuguesa",
     "name_ko": "고깔해파리",
     "name_de": "Portugiesische Galeere",
-    "name_uk": "фізалія"
+    "name_uk": "фізалія",
+    "name_tr": "fizalya"
   },
   {
-    "node": 195334,
-    "scientific name": "Sphyrna mokarran",
+    "nodeId": 195334,
+    "scientific_name": "Sphyrna mokarran",
     "name": "hammerhead shark",
-    "parent": 7822,
+    "parentId": 7822,
     "name_es": "tiburon martillo",
     "name_fr": "requin-marteau",
     "name_hu": "pörölycápa",
@@ -2502,13 +2668,14 @@
     "name_ca": "tauró martell",
     "name_ko": "귀상어",
     "name_de": "Hammerhai",
-    "name_uk": "акула-молот"
+    "name_uk": "акула-молот",
+    "name_tr": "çekiç başlı köpekbalığı"
   },
   {
-    "node": 9833,
-    "scientific name": "Hippopotamus amphibius",
+    "nodeId": 9833,
+    "scientific_name": "Hippopotamus amphibius",
     "name": "hippopotamus",
-    "parent": 9832,
+    "parentId": 9832,
     "name_es": "hipopótamo",
     "name_fr": "hippopotame",
     "name_hu": "viziló",
@@ -2517,13 +2684,14 @@
     "name_ca": "hipopòtam",
     "name_ko": "하마",
     "name_de": "Flusspferd",
-    "name_uk": "бегемот"
+    "name_uk": "бегемот",
+    "name_tr": "hipopotam"
   },
   {
-    "node": 7507,
-    "scientific name": "Mantis religiosa",
+    "nodeId": 7507,
+    "scientific_name": "Mantis religiosa",
     "name": "praying mantis",
-    "parent": 7506,
+    "parentId": 7506,
     "name_es": "mantis religiosa",
     "name_fr": "mante religieuse",
     "name_hu": "imádkozó sáska",
@@ -2532,13 +2700,14 @@
     "name_ca": "mantis",
     "name_ko": "사마귀",
     "name_de": "Gottesanbeterin",
-    "name_uk": "богомол"
+    "name_uk": "богомол",
+    "name_tr": "peygamberdevesi"
   },
   {
-    "node": 35669,
-    "scientific name": "Larus argentatus",
+    "nodeId": 35669,
+    "scientific_name": "Larus argentatus",
     "name": "seagull",
-    "parent": 8911,
+    "parentId": 8911,
     "name_es": "gaviota",
     "name_fr": "goéland",
     "name_hu": "sirály",
@@ -2547,13 +2716,14 @@
     "name_ca": "gavià argentat",
     "name_ko": "갈매기",
     "name_de": "Silbermöwe",
-    "name_uk": "чайка"
+    "name_uk": "чайка",
+    "name_tr": "martı"
   },
   {
-    "node": 6687,
-    "scientific name": "Penaeus monodon",
+    "nodeId": 6687,
+    "scientific_name": "Penaeus monodon",
     "name": "tiger prawn",
-    "parent": 133894,
+    "parentId": 133894,
     "name_es": "camarón tigre",
     "name_fr": "crevette géante tigrée",
     "name_hu": "tigrisrák",
@@ -2562,13 +2732,14 @@
     "name_ca": "llagostí negre",
     "name_ko": "얼룩새우",
     "name_de": "Tiger-Garnele",
-    "name_uk": "тигрова креветка"
+    "name_uk": "тигрова креветка",
+    "name_tr": "kaplan karidesi"
   },
   {
-    "node": 51876,
-    "scientific name": "Eunectes murinus",
+    "nodeId": 51876,
+    "scientific_name": "Eunectes murinus",
     "name": "anaconda",
-    "parent": 51875,
+    "parentId": 51875,
     "name_es": "anaconda",
     "name_fr": "anaconda",
     "name_hu": "anakonda",
@@ -2577,13 +2748,14 @@
     "name_ca": "anaconda",
     "name_ko": "아나콘다",
     "name_de": "Grüne Anakonda",
-    "name_uk": "анаконда"
+    "name_uk": "анаконда",
+    "name_tr": "anakonda"
   },
   {
-    "node": 56350,
-    "scientific name": "Falco sparverius",
+    "nodeId": 56350,
+    "scientific_name": "Falco sparverius",
     "name": "kestrel",
-    "parent": 8952,
+    "parentId": 8952,
     "name_es": "cernícalo",
     "name_fr": "crécerelle",
     "name_hu": "vércse",
@@ -2592,13 +2764,14 @@
     "name_ca": "xoriguer",
     "name_ko": "황조롱이",
     "name_de": "Amerikanischer Turmfalke",
-    "name_uk": "боривітер американський"
+    "name_uk": "боривітер американський",
+    "name_tr": "kerkenez"
   },
   {
-    "node": 9739,
-    "scientific name": "Tursiops truncatus",
+    "nodeId": 9739,
+    "scientific_name": "Tursiops truncatus",
     "name": "dolphin",
-    "parent": 9738,
+    "parentId": 9738,
     "name_es": "delfín",
     "name_fr": "dauphin",
     "name_hu": "delfin",
@@ -2607,13 +2780,14 @@
     "name_ca": "dofí",
     "name_ko": "돌고래",
     "name_de": "Großer Tümmler",
-    "name_uk": "дельфін"
+    "name_uk": "дельфін",
+    "name_tr": "yunus"
   },
   {
-    "node": 166335,
-    "scientific name": "Scarabaeus sacer",
+    "nodeId": 166335,
+    "scientific_name": "Scarabaeus sacer",
     "name": "dung beetle",
-    "parent": 1172026,
+    "parentId": 1172026,
     "name_es": "escarabajo",
     "name_fr": "bousier",
     "name_hu": "ganajtúró bogár",
@@ -2622,13 +2796,14 @@
     "name_ca": "escarabat",
     "name_ko": "소똥구리",
     "name_de": "Heiliger Pillendreher",
-    "name_uk": "гнойовий жук"
+    "name_uk": "гнойовий жук",
+    "name_tr": "bok böceği"
   },
   {
-    "node": 9321,
-    "scientific name": "Osphranter rufus",
+    "nodeId": 9321,
+    "scientific_name": "Osphranter rufus",
     "name": "kangaroo",
-    "parent": 2182372,
+    "parentId": 2182372,
     "name_es": "canguro",
     "name_fr": "kangourou",
     "name_hu": "kenguru",
@@ -2637,13 +2812,14 @@
     "name_ca": "cangur",
     "name_ko": "캥거루",
     "name_de": "Rotes Riesenkänguru",
-    "name_uk": "кенгуру"
+    "name_uk": "кенгуру",
+    "name_tr": "kanguru"
   },
   {
-    "node": 95723,
-    "scientific name": "Ramphastos toco",
+    "nodeId": 95723,
+    "scientific_name": "Ramphastos toco",
     "name": "toucan",
-    "parent": 91780,
+    "parentId": 91780,
     "name_es": "tucán",
     "name_fr": "toucan",
     "name_hu": "tukán",
@@ -2652,13 +2828,14 @@
     "name_ca": "tucà",
     "name_ko": "왕부리새",
     "name_de": "Tukan",
-    "name_uk": "тукан"
+    "name_uk": "тукан",
+    "name_tr": "tukan"
   },
   {
-    "node": 9844,
-    "scientific name": "Lama glama",
+    "nodeId": 9844,
+    "scientific_name": "Lama glama",
     "name": "llama",
-    "parent": 9839,
+    "parentId": 9839,
     "name_es": "llama",
     "name_fr": "lama",
     "name_hu": "láma",
@@ -2667,13 +2844,14 @@
     "name_ca": "llama",
     "name_ko": "라마",
     "name_de": "Lama",
-    "name_uk": "лама"
+    "name_uk": "лама",
+    "name_tr": "lama"
   },
   {
-    "node": 8924,
-    "scientific name": "Vultur gryphus",
+    "nodeId": 8924,
+    "scientific_name": "Vultur gryphus",
     "name": "condor",
-    "parent": 8923,
+    "parentId": 8923,
     "name_es": "cóndor",
     "name_fr": "condor",
     "name_hu": "kondorkeselyű",
@@ -2682,13 +2860,14 @@
     "name_ca": "còndor",
     "name_ko": "콘도르",
     "name_de": "Andenkondor",
-    "name_uk": "кондор"
+    "name_uk": "кондор",
+    "name_tr": "and kondoru"
   },
   {
-    "node": 435638,
-    "scientific name": "Phoenicopterus roseus",
+    "nodeId": 435638,
+    "scientific_name": "Phoenicopterus roseus",
     "name": "flamingo",
-    "parent": 9216,
+    "parentId": 9216,
     "name_es": "flamenco",
     "name_fr": "flamant",
     "name_hu": "flamingó",
@@ -2697,13 +2876,14 @@
     "name_ca": "flamenc",
     "name_ko": "플라밍고",
     "name_de": "Rosaflamingo",
-    "name_uk": "фламінго"
+    "name_uk": "фламінго",
+    "name_tr": "flamingo"
   },
   {
-    "node": 9995,
-    "scientific name": "Marmota monax",
+    "nodeId": 9995,
+    "scientific_name": "Marmota monax",
     "name": "groundhog",
-    "parent": 9992,
+    "parentId": 9992,
     "name_es": "marmota",
     "name_fr": "marmotte",
     "name_hu": "mormota",
@@ -2712,13 +2892,14 @@
     "name_ca": "marmota",
     "name_ko": "마멋",
     "name_de": "Murmel",
-    "name_uk": "бабак"
+    "name_uk": "бабак",
+    "name_tr": "dağ sıçanı"
   },
   {
-    "node": 8005,
-    "scientific name": "Electrophorus electricus",
+    "nodeId": 8005,
+    "scientific_name": "Electrophorus electricus",
     "name": "electric eel",
-    "parent": 8004,
+    "parentId": 8004,
     "name_es": "anguila electrica",
     "name_fr": "anguille électrique",
     "name_hu": "elektromos angolna",
@@ -2727,13 +2908,14 @@
     "name_ca": "anguila elèctrica",
     "name_ko": "전기뱀장어",
     "name_de": "Elektrischer Aal",
-    "name_uk": "електричний вугор"
+    "name_uk": "електричний вугор",
+    "name_tr": "elektrikli yılan balığı"
   },
   {
-    "node": 8624,
-    "scientific name": "Dendroaspis polylepis",
+    "nodeId": 8624,
+    "scientific_name": "Dendroaspis polylepis",
     "name": "black mamba",
-    "parent": 8617,
+    "parentId": 8617,
     "name_es": "mamba negro",
     "name_fr": "mamba noir",
     "name_hu": "fekete mamba",
@@ -2742,13 +2924,14 @@
     "name_ca": "mamba negra",
     "name_ko": "블랙맘바",
     "name_de": "Schwarze Mamba",
-    "name_uk": "чорна мамба"
+    "name_uk": "чорна мамба",
+    "name_tr": "kara mamba"
   },
   {
-    "node": 61221,
-    "scientific name": "Varanus komodoensis",
+    "nodeId": 61221,
+    "scientific_name": "Varanus komodoensis",
     "name": "komodo dragon",
-    "parent": 8556,
+    "parentId": 8556,
     "name_es": "dragon de komodo",
     "name_fr": "dragon de komodo",
     "name_hu": "komodói varánusz",
@@ -2757,13 +2940,14 @@
     "name_ca": "dragó de komodo",
     "name_ko": "코모도왕도마뱀",
     "name_de": "Komodowaran",
-    "name_uk": "комодський варан"
+    "name_uk": "комодський варан",
+    "name_tr": "komodo ejderi"
   },
   {
-    "node": 9305,
-    "scientific name": "Sarcophilus harrisii",
+    "nodeId": 9305,
+    "scientific_name": "Sarcophilus harrisii",
     "name": "tasmanian devil",
-    "parent": 9304,
+    "parentId": 9304,
     "name_es": "demonio de tasmania",
     "name_hu": "erszényes ördög",
     "name_fr": "diable de tasmanie",
@@ -2772,13 +2956,14 @@
     "name_ca": "diable de tasmània",
     "name_ko": "태즈메이니아주머니너구리",
     "name_de": "Beutelteufel",
-    "name_uk": "тасманійський диявол"
+    "name_uk": "тасманійський диявол",
+    "name_tr": "tazmanya canavarı"
   },
   {
-    "node": 9447,
-    "scientific name": "Lemur catta",
+    "nodeId": 9447,
+    "scientific_name": "Lemur catta",
     "name": "lemur",
-    "parent": 9446,
+    "parentId": 9446,
     "name_es": "lémur",
     "name_fr": "lémur",
     "name_hu": "lemúr",
@@ -2787,13 +2972,14 @@
     "name_ca": "lèmur",
     "name_ko": "여우원숭이",
     "name_de": "Katta",
-    "name_uk": "лемур"
+    "name_uk": "лемур",
+    "name_tr": "lemur"
   },
   {
-    "node": 7010,
-    "scientific name": "Schistocerca gregaria",
+    "nodeId": 7010,
+    "scientific_name": "Schistocerca gregaria",
     "name": "locust",
-    "parent": 7008,
+    "parentId": 7008,
     "name_es": "langosta del desierto",
     "name_fr": "criquet pèlerin",
     "name_hu": "vándorsáska",
@@ -2802,13 +2988,14 @@
     "name_ca": "llagosta del desert",
     "name_ko": "사막메뚜기",
     "name_de": "Wüstenheuschrecke",
-    "name_uk": "сарана"
+    "name_uk": "сарана",
+    "name_tr": "çöl çekirgesi"
   },
   {
-    "node": 7009,
-    "scientific name": "Schistocerca americana",
+    "nodeId": 7009,
+    "scientific_name": "Schistocerca americana",
     "name": "grasshopper",
-    "parent": 7008,
+    "parentId": 7008,
     "name_es": "saltamontes",
     "name_hu": "szöcske",
     "name_fr": "criquet d'amérique",
@@ -2817,13 +3004,14 @@
     "name_ca": "llagosta americana",
     "name_ko": "미국새메뚜기",
     "name_de": "Gewöhnliche Grashüpfer",
-    "name_uk": "коник-стрибунець"
+    "name_uk": "коник-стрибунець",
+    "name_tr": "çekirge"
   },
   {
-    "node": 58607,
-    "scientific name": "Gryllus campestris",
+    "nodeId": 58607,
+    "scientific_name": "Gryllus campestris",
     "name": "cricket",
-    "parent": 6998,
+    "parentId": 6998,
     "name_es": "grillo",
     "name_fr": "grillon",
     "name_hu": "tücsök",
@@ -2832,13 +3020,14 @@
     "name_ca": "grill",
     "name_ko": "귀뚜라미",
     "name_de": "Heuschrecke",
-    "name_uk": "цвіркун"
+    "name_uk": "цвіркун",
+    "name_tr": "cırcırböceği"
   },
   {
-    "node": 1574408,
-    "scientific name": "Cervus canadensis",
+    "nodeId": 1574408,
+    "scientific_name": "Cervus canadensis",
     "name": "elk",
-    "parent": 9859,
+    "parentId": 9859,
     "name_es": "uapití",
     "name_fr": "wapiti",
     "name_hu": "vapiti",
@@ -2847,13 +3036,14 @@
     "name_ca": "uapití",
     "name_ko": "와피티사슴",
     "name_de": "Wapiti",
-    "name_uk": "вапіті"
+    "name_uk": "вапіті",
+    "name_tr": "geyik"
   },
   {
-    "node": 9870,
-    "scientific name": "Rangifer tarandus",
+    "nodeId": 9870,
+    "scientific_name": "Rangifer tarandus",
     "name": "caribou",
-    "parent": 9869,
+    "parentId": 9869,
     "name_es": "caribú",
     "name_fr": "renne",
     "name_hu": "rénszarvas",
@@ -2862,13 +3052,14 @@
     "name_ca": "ren",
     "name_ko": "순록",
     "name_de": "Rentier",
-    "name_uk": "олень карібу"
+    "name_uk": "олень карібу",
+    "name_tr": "karibu"
   },
   {
-    "node": 70868,
-    "scientific name": "Sphyraena barracuda",
+    "nodeId": 70868,
+    "scientific_name": "Sphyraena barracuda",
     "name": "barracuda",
-    "parent": 13691,
+    "parentId": 13691,
     "name_es": "barracuda",
     "name_fr": "barracuda",
     "name_hu": "barrakuda",
@@ -2877,13 +3068,14 @@
     "name_ca": "barracuda",
     "name_ko": "꼬치고기",
     "name_de": "Barrakuda",
-    "name_uk": "баракуда"
+    "name_uk": "баракуда",
+    "name_tr": "baraküda"
   },
   {
-    "node": 41139,
-    "scientific name": "Coccinella septempunctata",
+    "nodeId": 41139,
+    "scientific_name": "Coccinella septempunctata",
     "name": "ladybug",
-    "parent": 41138,
+    "parentId": 41138,
     "name_es": "mariquita",
     "name_fr": "coccinelle",
     "name_hu": "katica",
@@ -2892,13 +3084,14 @@
     "name_ca": "marieta",
     "name_ko": "무당벌레",
     "name_de": "Siebenpunkt-Marienkäfer",
-    "name_uk": "сонечко"
+    "name_uk": "сонечко",
+    "name_tr": "uğur böceği"
   },
   {
-    "node": 63978,
-    "scientific name": "Attacus atlas",
+    "nodeId": 63978,
+    "scientific_name": "Attacus atlas",
     "name": "atlas moth",
-    "parent": 63966,
+    "parentId": 63966,
     "name_es": "polilla atlas",
     "name_fr": "atlas",
     "name_hu": "molylepke",
@@ -2907,13 +3100,14 @@
     "name_ca": "papallona atles",
     "name_ko": "아틀라스나방",
     "name_de": "Atlas-Falter",
-    "name_uk": "атласова міль"
+    "name_uk": "атласова міль",
+    "name_tr": "Atlas güvesi"
   },
   {
-    "node": 36987,
-    "scientific name": "Coptotermes formosanus",
+    "nodeId": 36987,
+    "scientific_name": "Coptotermes formosanus",
     "name": "termite",
-    "parent": 36986,
+    "parentId": 36986,
     "name_es": "termita",
     "name_fr": "termite",
     "name_hu": "termesz",
@@ -2922,13 +3116,14 @@
     "name_ca": "tèrmit",
     "name_ko": "흰개미",
     "name_de": "Formosanische Termiten",
-    "name_uk": "терміт"
+    "name_uk": "терміт",
+    "name_tr": "termit"
   },
   {
-    "node": 6978,
-    "scientific name": "Periplaneta americana",
+    "nodeId": 6978,
+    "scientific_name": "Periplaneta americana",
     "name": "cockroach",
-    "parent": 6977,
+    "parentId": 6977,
     "name_es": "cucaracha",
     "name_fr": "blatte",
     "name_hu": "csótány",
@@ -2937,13 +3132,14 @@
     "name_ca": "panerola",
     "name_ko": "바퀴벌레",
     "name_de": "Amerikanische Schabe",
-    "name_uk": "тарган"
+    "name_uk": "тарган",
+    "name_tr": "hamam böceği"
   },
   {
-    "node": 13068,
-    "scientific name": "Forficula auricularia",
+    "nodeId": 13068,
+    "scientific_name": "Forficula auricularia",
     "name": "earwig",
-    "parent": 98427,
+    "parentId": 98427,
     "name_es": "tijereta",
     "name_fr": "perce-oreille",
     "name_hu": "fülbemászó",
@@ -2952,13 +3148,14 @@
     "name_ca": "tisoretes",
     "name_ko": "집게벌레",
     "name_de": "Ohrwurm",
-    "name_uk": "вуховертка"
+    "name_uk": "вуховертка",
+    "name_tr": "kulağakaçan"
   },
   {
-    "node": 1646243,
-    "scientific name": "Aeshna canadensis",
+    "nodeId": 1646243,
+    "scientific_name": "Aeshna canadensis",
     "name": "dragonfly",
-    "parent": 12920,
+    "parentId": 12920,
     "name_es": "libélula",
     "name_fr": "libellule",
     "name_hu": "szitakötő",
@@ -2967,13 +3164,14 @@
     "name_ca": "libèl·lula",
     "name_ko": "잠자리",
     "name_de": "Kanadische Mosaikjungfer",
-    "name_uk": "бабка"
+    "name_uk": "бабка",
+    "name_tr": "yusufçuk"
   },
   {
-    "node": 8554,
-    "scientific name": "Heloderma suspectum",
+    "nodeId": 8554,
+    "scientific_name": "Heloderma suspectum",
     "name": "gila monster",
-    "parent": 8550,
+    "parentId": 8550,
     "name_es": "monstruo de gila",
     "name_hu": "gila",
     "name_fr": "monstre de gila",
@@ -2982,13 +3180,14 @@
     "name_ca": "monstre de gila",
     "name_ko": "독도마뱀",
     "name_de": "Gila-Krustenechse",
-    "name_uk": "ядозуб"
+    "name_uk": "ядозуб",
+    "name_tr": "gila canavarı"
   },
   {
-    "node": 10149,
-    "scientific name": "Hydrochoerus hydrochaeris",
+    "nodeId": 10149,
+    "scientific_name": "Hydrochoerus hydrochaeris",
     "name": "capybara",
-    "parent": 10148,
+    "parentId": 10148,
     "name_es": "capibara",
     "name_fr": "capybara",
     "name_hu": "vízidisznó",
@@ -2997,13 +3196,14 @@
     "name_ca": "capibara",
     "name_ko": "카피바라",
     "name_de": "Wasserschwein",
-    "name_uk": "капібара"
+    "name_uk": "капібара",
+    "name_tr": "kapibara"
   },
   {
-    "node": 1983395,
-    "scientific name": "Mobula birostris",
+    "nodeId": 1983395,
+    "scientific_name": "Mobula birostris",
     "name": "manta ray",
-    "parent": 86365,
+    "parentId": 86365,
     "name_es": "mantarraya",
     "name_fr": "raie manta",
     "name_hu": "ördögrája",
@@ -3012,13 +3212,14 @@
     "name_ca": "manta gegant",
     "name_ko": "대왕쥐가오리",
     "name_de": "Rochen",
-    "name_uk": "скат манта"
+    "name_uk": "скат манта",
+    "name_tr": "şeytan vatozu"
   },
   {
-    "node": 2484686,
-    "scientific name": "Hypanus americanus",
+    "nodeId": 2484686,
+    "scientific_name": "Hypanus americanus",
     "name": "sting ray",
-    "parent": 2055258,
+    "parentId": 2055258,
     "name_es": "raya de espina",
     "name_fr": "raie pastenague",
     "name_hu": "rája",
@@ -3027,13 +3228,14 @@
     "name_ca": "escurçana americana",
     "name_ko": "매가오리",
     "name_de": "Stechrochen",
-    "name_uk": "хвостокол каліфорнійський"
+    "name_uk": "хвостокол каліфорнійський",
+    "name_tr": "irina"
   },
   {
-    "node": 1129476,
-    "scientific name": "Dardanus calidus",
+    "nodeId": 1129476,
+    "scientific_name": "Dardanus calidus",
     "name": "hermit crab",
-    "parent": 370547,
+    "parentId": 370547,
     "name_es": "cangrejo ermitaño",
     "name_fr": "bernard-l'hermite",
     "name_hu": "remeterák",
@@ -3042,13 +3244,14 @@
     "name_ca": "cranc hermità",
     "name_ko": "소라게",
     "name_de": "Einsiedlerkrebs",
-    "name_uk": "рак-самітник"
+    "name_uk": "рак-самітник",
+    "name_tr": "hermit yengeci"
   },
   {
-    "node": 342437,
-    "scientific name": "Arothron meleagris",
+    "nodeId": 342437,
+    "scientific_name": "Arothron meleagris",
     "name": "pufferfish",
-    "parent": 50368,
+    "parentId": 50368,
     "name_es": "pez globo",
     "name_fr": "poisson-globe",
     "name_hu": "gömbhal",
@@ -3057,13 +3260,14 @@
     "name_ca": "peix globus",
     "name_ko": "복어",
     "name_de": "Kugelfisch",
-    "name_uk": "риба-фугу"
+    "name_uk": "риба-фугу",
+    "name_tr": "balon balığı"
   },
   {
-    "node": 9049,
-    "scientific name": "Pavo cristatus",
+    "nodeId": 9049,
+    "scientific_name": "Pavo cristatus",
     "name": "peacock",
-    "parent": 9048,
+    "parentId": 9048,
     "name_es": "pavo real",
     "name_fr": "paon",
     "name_hu": "páva",
@@ -3072,13 +3276,14 @@
     "name_ca": "paó",
     "name_ko": "공작",
     "name_de": "Pfau",
-    "name_uk": "павич"
+    "name_uk": "павич",
+    "name_tr": "tavus kuşu"
   },
   {
-    "node": 571810,
-    "scientific name": "Actinopyga echinites",
+    "nodeId": 571810,
+    "scientific_name": "Actinopyga echinites",
     "name": "sea cucumber",
-    "parent": 206674,
+    "parentId": 206674,
     "name_es": "pepino de mar",
     "name_fr": "concombre de mer",
     "name_hu": "tengeri uborka",
@@ -3087,13 +3292,14 @@
     "name_ca": "cogombre de mar",
     "name_ko": "해삼",
     "name_de": "Seegurke",
-    "name_uk": "морський огірок"
+    "name_uk": "морський огірок",
+    "name_tr": "deniz hıyarı"
   },
   {
-    "node": 9852,
-    "scientific name": "Alces alces",
+    "nodeId": 9852,
+    "scientific_name": "Alces alces",
     "name": "moose",
-    "parent": 9851,
+    "parentId": 9851,
     "name_es": "alce",
     "name_fr": "élan",
     "name_hu": "jávorszarvas",
@@ -3102,14 +3308,15 @@
     "name_ca": "ant",
     "name_ko": "물코손바닥사슴",
     "name_de": "Elch",
-    "name_uk": "лось звичайний"
+    "name_uk": "лось звичайний",
+    "name_tr": "sığın"
   },
   {
-    "node": 13347,
-    "scientific name": "Armadillidium vulgare",
+    "nodeId": 13347,
+    "scientific_name": "Armadillidium vulgare",
     "name": "pillbug",
-    "parent": 13346,
-    "name_es": "píldora",
+    "parentId": 13346,
+    "name_es": "conchinilla",
     "name_fr": "cloporte",
     "name_hu": "pincebogár",
     "name_it": "porcellino di terra",
@@ -3117,13 +3324,14 @@
     "name_ca": "porquet de sant antoni",
     "name_ko": "공벌레",
     "name_de": "Kellerassel",
-    "name_uk": "клоп"
+    "name_uk": "клоп",
+    "name_tr": "tespih böceği"
   },
   {
-    "node": 110520,
-    "scientific name": "Balanus glandula",
+    "nodeId": 110520,
+    "scientific_name": "Balanus glandula",
     "name": "barnacle",
-    "parent": 6677,
+    "parentId": 6677,
     "name_es": "percebe",
     "name_fr": "balane",
     "name_hu": "tengerimakk",
@@ -3132,13 +3340,14 @@
     "name_ca": "percebe",
     "name_ko": "따개비",
     "name_de": "Seepocke",
-    "name_uk": "барнакл"
+    "name_uk": "барнакл",
+    "name_tr": "kaya midyesi"
   },
   {
-    "node": 8574,
-    "scientific name": "Boa constrictor",
+    "nodeId": 8574,
+    "scientific_name": "Boa constrictor",
     "name": "boa constrictor",
-    "parent": 8573,
+    "parentId": 8573,
     "name_es": "boa constrictor",
     "name_fr": "boa constricteur",
     "name_hu": "közönséges óriáskígyó",
@@ -3147,14 +3356,15 @@
     "name_ca": "boa constrictor",
     "name_ko": "보아뱀",
     "name_de": "Boa Constrictor",
-    "name_uk": "удав"
+    "name_uk": "удав",
+    "name_tr": "boa yılanı"
   },
   {
-    "node": 30521,
-    "scientific name": "Bos grunniens",
+    "nodeId": 30521,
+    "scientific_name": "Bos grunniens",
     "name": "yak",
-    "parent": 9903,
-    "name_es": "como",
+    "parentId": 9903,
+    "name_es": "yak",
     "name_fr": "yack",
     "name_hu": "jak",
     "name_it": "yak",
@@ -3162,13 +3372,14 @@
     "name_ca": "iac",
     "name_ko": "야크",
     "name_de": "Yak",
-    "name_uk": "як"
+    "name_uk": "як",
+    "name_tr": "yak"
   },
   {
-    "node": 10141,
-    "scientific name": "Cavia porcellus",
+    "nodeId": 10141,
+    "scientific_name": "Cavia porcellus",
     "name": "guinea pig",
-    "parent": 10140,
+    "parentId": 10140,
     "name_es": "conejillo de indias",
     "name_hu": "tengerimalac",
     "name_fr": "cochon d'inde",
@@ -3177,13 +3388,14 @@
     "name_ca": "conillet d'índies",
     "name_ko": "기니피그",
     "name_de": "Meerschweinchen",
-    "name_uk": "морська свинка"
+    "name_uk": "морська свинка",
+    "name_tr": "gine domuzu"
   },
   {
-    "node": 8697,
-    "scientific name": "Cerastes cerastes",
+    "nodeId": 8697,
+    "scientific_name": "Cerastes cerastes",
     "name": "viper",
-    "parent": 8696,
+    "parentId": 8696,
     "name_es": "víbora",
     "name_fr": "vipère",
     "name_hu": "vipera",
@@ -3192,13 +3404,14 @@
     "name_ca": "escurçó cornut",
     "name_ko": "사막뿔살무사",
     "name_de": "Wüstensandviper",
-    "name_uk": "гадюка"
+    "name_uk": "гадюка",
+    "name_tr": "engerek"
   },
   {
-    "node": 66189,
-    "scientific name": "Chelonoidis niger",
+    "nodeId": 66189,
+    "scientific_name": "Chelonoidis niger",
     "name": "tortoise",
-    "parent": 1137846,
+    "parentId": 1137846,
     "name_es": "tortuga gigante",
     "name_hu": "óriásteknős",
     "name_fr": "tortue géante des galápagos",
@@ -3207,13 +3420,14 @@
     "name_ca": "tortuga de les galàpagos",
     "name_ko": "타란튤라",
     "name_de": "Riesenschildkröte",
-    "name_uk": "черепаха"
+    "name_uk": "черепаха",
+    "name_tr": "kaplumbağa"
   },
   {
-    "node": 8475,
-    "scientific name": "Chelydra serpentina",
+    "nodeId": 8475,
+    "scientific_name": "Chelydra serpentina",
     "name": "snapping turtle",
-    "parent": 8474,
+    "parentId": 8474,
     "name_es": "tortuga mordedora",
     "name_fr": "tortue serpentine",
     "name_hu": "aligátorteknős",
@@ -3222,13 +3436,14 @@
     "name_ca": "tortuga mossegadora",
     "name_ko": "늑대거북",
     "name_de": "Schnappschildkröte",
-    "name_uk": "кайманова черепаха"
+    "name_uk": "кайманова черепаха",
+    "name_tr": "yılansı kapan kaplumbağa"
   },
   {
-    "node": 8730,
-    "scientific name": "Crotalus atrox",
+    "nodeId": 8730,
+    "scientific_name": "Crotalus atrox",
     "name": "rattlesnake",
-    "parent": 8728,
+    "parentId": 8728,
     "name_es": "serpiente de cascabel",
     "name_fr": "crotale",
     "name_hu": "csörgőkígyó",
@@ -3237,13 +3452,14 @@
     "name_ca": "serp de cascabell",
     "name_ko": "방울뱀",
     "name_de": "Klapperschlange",
-    "name_uk": "гримуча змія"
+    "name_uk": "гримуча змія",
+    "name_tr": "çıngıraklı yılan"
   },
   {
-    "node": 9268,
-    "scientific name": "Didelphis marsupialis",
+    "nodeId": 9268,
+    "scientific_name": "Didelphis marsupialis",
     "name": "opossum",
-    "parent": 9266,
+    "parentId": 9266,
     "name_es": "zarigüeya",
     "name_fr": "opossum",
     "name_hu": "oposszum",
@@ -3252,13 +3468,14 @@
     "name_ca": "opòssum",
     "name_ko": "주머니쥐",
     "name_de": "Beutelratte",
-    "name_uk": "опосум"
+    "name_uk": "опосум",
+    "name_tr": "keseli sıçan"
   },
   {
-    "node": 1247135,
-    "scientific name": "Dynastes hercules",
+    "nodeId": 1247135,
+    "scientific_name": "Dynastes hercules",
     "name": "hercules beetle",
-    "parent": 60842,
+    "parentId": 60842,
     "name_es": "hércules escarabajo",
     "name_fr": "scarabée rhinocéros",
     "name_hu": "herkulesbogár",
@@ -3267,13 +3484,14 @@
     "name_ca": "escarabat hèrcules",
     "name_ko": "헤라클레스장수풍뎅이",
     "name_de": "Herkuleskäfer",
-    "name_uk": "жук-геркулес"
+    "name_uk": "жук-геркулес",
+    "name_tr": "herkül böceği"
   },
   {
-    "node": 6421,
-    "scientific name": "Hirudo medicinalis",
+    "nodeId": 6421,
+    "scientific_name": "Hirudo medicinalis",
     "name": "leech",
-    "parent": 6420,
+    "parentId": 6420,
     "name_es": "sanguijuela",
     "name_fr": "sangsue",
     "name_hu": "pióca",
@@ -3282,13 +3500,14 @@
     "name_ca": "sangonera",
     "name_ko": "거머리",
     "name_de": "Blutegel",
-    "name_uk": "п'явка"
+    "name_uk": "п'явка",
+    "name_tr": "sülük"
   },
   {
-    "node": 8074,
-    "scientific name": "Lophius piscatorius",
+    "nodeId": 8074,
+    "scientific_name": "Lophius piscatorius",
     "name": "anglerfish",
-    "parent": 8072,
+    "parentId": 8072,
     "name_es": "rape blanco",
     "name_fr": "baudroie",
     "name_hu": "horgászhal",
@@ -3297,13 +3516,14 @@
     "name_ca": "rap",
     "name_ko": "아귀",
     "name_de": "Seeteufel",
-    "name_uk": "риба-вудильник"
+    "name_uk": "риба-вудильник",
+    "name_tr": "fener balığı"
   },
   {
-    "node": 6398,
-    "scientific name": "Lumbricus terrestris",
+    "nodeId": 6398,
+    "scientific_name": "Lumbricus terrestris",
     "name": "earthworm",
-    "parent": 1050931,
+    "parentId": 1050931,
     "name_es": "lombriz",
     "name_fr": "ver de terre",
     "name_hu": "földigiliszta",
@@ -3312,13 +3532,14 @@
     "name_ca": "cuc de terra",
     "name_ko": "지렁이",
     "name_de": "Regenwurm",
-    "name_uk": "черв'як"
+    "name_uk": "черв'як",
+    "name_tr": "solucan"
   },
   {
-    "node": 1351942,
-    "scientific name": "Mellita quinquiesperforata",
+    "nodeId": 1351942,
+    "scientific_name": "Mellita quinquiesperforata",
     "name": "sand dollar",
-    "parent": 551536,
+    "parentId": 551536,
     "name_es": "dolar de arena",
     "name_fr": "dollar des sables",
     "name_hu": "homokdollár",
@@ -3327,13 +3548,14 @@
     "name_ca": "dòlar de sorra",
     "name_ko": "연잎성게",
     "name_de": "Sanddollar",
-    "name_uk": "пісочний долар"
+    "name_uk": "пісочний долар",
+    "name_tr": "kum doları"
   },
   {
-    "node": 6550,
-    "scientific name": "Mytilus edulis",
+    "nodeId": 6550,
+    "scientific_name": "Mytilus edulis",
     "name": "mussel",
-    "parent": 6548,
+    "parentId": 6548,
     "name_es": "mejillón",
     "name_fr": "moule",
     "name_hu": "kagyló",
@@ -3342,13 +3564,14 @@
     "name_ca": "musclo",
     "name_ko": "홍합",
     "name_de": "Miesmuschel",
-    "name_uk": "мідія"
+    "name_uk": "мідія",
+    "name_tr": "midye"
   },
   {
-    "node": 120888,
-    "scientific name": "Odontodactylus scyllarus",
+    "nodeId": 120888,
+    "scientific_name": "Odontodactylus scyllarus",
     "name": "mantis shrimp",
-    "parent": 120887,
+    "parentId": 120887,
     "name_es": "camarón mantis",
     "name_fr": "crevette-mante",
     "name_hu": "sáskarák",
@@ -3356,14 +3579,15 @@
     "name_pt": "lagosta boxeadora",
     "name_ca": "gamba mantis",
     "name_ko": "갯가재",
-    "name_de": "Pfeilgrundel",
-    "name_uk": "креветка богомол"
+    "name_de": "Bunter Fangschreckenkrebs",
+    "name_uk": "креветка богомол",
+    "name_tr": "peygamberdevesi karidesi"
   },
   {
-    "node": 8665,
-    "scientific name": "Ophiophagus hannah",
+    "nodeId": 8665,
+    "scientific_name": "Ophiophagus hannah",
     "name": "king cobra",
-    "parent": 8664,
+    "parentId": 8664,
     "name_es": "rey cobra",
     "name_fr": "cobra royal",
     "name_hu": "királykobra",
@@ -3372,13 +3596,14 @@
     "name_ca": "cobra reial",
     "name_ko": "킹코브라",
     "name_de": "Königskobra",
-    "name_uk": "королівська кобра"
+    "name_uk": "королівська кобра",
+    "name_tr": "kral kobra"
   },
   {
-    "node": 291247,
-    "scientific name": "Oxidus gracilis",
+    "nodeId": 291247,
+    "scientific_name": "Oxidus gracilis",
     "name": "millipede",
-    "parent": 118475,
+    "parentId": 118475,
     "name_es": "millipde",
     "name_fr": "mille-pattes",
     "name_hu": "ezerlábú",
@@ -3387,13 +3612,14 @@
     "name_ca": "milpeus",
     "name_ko": "노래기",
     "name_de": "Tausendfüßler",
-    "name_uk": "багатоніжка"
+    "name_uk": "багатоніжка",
+    "name_tr": "kırkayak"
   },
   {
-    "node": 8081,
-    "scientific name": "Poecilia reticulata",
+    "nodeId": 8081,
+    "scientific_name": "Poecilia reticulata",
     "name": "guppy",
-    "parent": 8080,
+    "parentId": 8080,
     "name_es": "guppy",
     "name_fr": "guppy",
     "name_hu": "guppi",
@@ -3402,13 +3628,14 @@
     "name_ca": "guppy",
     "name_ko": "구피",
     "name_de": "Guppy",
-    "name_uk": "гуппі"
+    "name_uk": "гуппі",
+    "name_tr": "lepistes"
   },
   {
-    "node": 9333,
-    "scientific name": "Pseudocheirus peregrinus",
+    "nodeId": 9333,
+    "scientific_name": "Pseudocheirus peregrinus",
     "name": "possum",
-    "parent": 9332,
+    "parentId": 9332,
     "name_es": "falangero",
     "name_fr": "phalanger",
     "name_hu": "gyűrűsfarkú erszényes",
@@ -3417,13 +3644,14 @@
     "name_ca": "uta",
     "name_ko": "포섬",
     "name_de": "Kletterbeutler",
-    "name_uk": "посум"
+    "name_uk": "посум",
+    "name_tr": "fırça kuyruklu keseli sıçan"
   },
   {
-    "node": 1678817,
-    "scientific name": "Rhithrogena germanica",
+    "nodeId": 1678817,
+    "scientific_name": "Rhithrogena germanica",
     "name": "mayfly",
-    "parent": 307890,
+    "parentId": 307890,
     "name_es": "efímera",
     "name_fr": "éphémère",
     "name_hu": "kérész",
@@ -3432,13 +3660,14 @@
     "name_ca": "efemeròpter",
     "name_ko": "하루살이",
     "name_de": "Eintagsfliege",
-    "name_uk": "oдноденкa"
+    "name_uk": "oдноденкa",
+    "name_tr": "mayıs sineği"
   },
   {
-    "node": 29022,
-    "scientific name": "Scutigera coleoptrata",
+    "nodeId": 29022,
+    "scientific_name": "Scutigera coleoptrata",
     "name": "house centipede",
-    "parent": 29021,
+    "parentId": 29021,
     "name_es": "ciempiés",
     "name_fr": "scutigère",
     "name_hu": "százlábú",
@@ -3447,13 +3676,14 @@
     "name_ca": "centpeus",
     "name_ko": "그리마",
     "name_de": "Hundertfüßer",
-    "name_uk": "домашня багатоніжка"
+    "name_uk": "домашня багатоніжка",
+    "name_tr": "ev çıyanı"
   },
   {
-    "node": 45474,
-    "scientific name": "Tamias striatus",
+    "nodeId": 45474,
+    "scientific_name": "Tamias striatus",
     "name": "chipmunk",
-    "parent": 13712,
+    "parentId": 13712,
     "name_hu": "csíkosmókus",
     "name_es": "ardilla listada",
     "name_fr": "tamia",
@@ -3462,13 +3692,14 @@
     "name_ca": "esquirol llistat",
     "name_ko": "다람쥐",
     "name_de": "Streifenhörnchen",
-    "name_uk": "бурундук"
+    "name_uk": "бурундук",
+    "name_tr": "çizgili sincap"
   },
   {
-    "node": 8236,
-    "scientific name": "Thunnus albacares",
+    "nodeId": 8236,
+    "scientific_name": "Thunnus albacares",
     "name": "tuna",
-    "parent": 8234,
+    "parentId": 8234,
     "name_es": "atún",
     "name_fr": "thon",
     "name_hu": "tonhal",
@@ -3477,13 +3708,14 @@
     "name_ca": "tonyina",
     "name_ko": "참치",
     "name_de": "Gelbflossen-Thunfisch",
-    "name_uk": "тунець"
+    "name_uk": "тунець",
+    "name_tr": "ton balığı"
   },
   {
-    "node": 190476,
-    "scientific name": "Caiman latirostris",
+    "nodeId": 190476,
+    "scientific_name": "Caiman latirostris",
     "name": "caiman",
-    "parent": 8497,
+    "parentId": 8497,
     "name_es": "caiman",
     "name_fr": "caïman",
     "name_hu": "kajmán",
@@ -3492,13 +3724,14 @@
     "name_ca": "caiman",
     "name_ko": "카이만",
     "name_de": "Brillenkaiman",
-    "name_uk": "кайман"
+    "name_uk": "кайман",
+    "name_tr": "kayman"
   },
   {
-    "node": 68724,
-    "scientific name": "Canis aureus",
+    "nodeId": 68724,
+    "scientific_name": "Canis aureus",
     "name": "jackal",
-    "parent": 9611,
+    "parentId": 9611,
     "name_es": "chacal",
     "name_fr": "chacal",
     "name_hu": "aranysakál",
@@ -3507,13 +3740,14 @@
     "name_ca": "xacal",
     "name_ko": "자칼",
     "name_de": "Goldschakal",
-    "name_uk": "шакал"
+    "name_uk": "шакал",
+    "name_tr": "çakal"
   },
   {
-    "node": 7819,
-    "scientific name": "Galeocerdo cuvier",
+    "nodeId": 7819,
+    "scientific_name": "Galeocerdo cuvier",
     "name": "tiger shark",
-    "parent": 7818,
+    "parentId": 7818,
     "name_es": "tiburón tigre",
     "name_fr": "requin-tigre",
     "name_hu": "tigriscápa",
@@ -3522,13 +3756,14 @@
     "name_ca": "tauró tigre",
     "name_ko": "뱀상어",
     "name_de": "Tigerhai",
-    "name_uk": "тигрова акула"
+    "name_uk": "тигрова акула",
+    "name_tr": "kaplan köpek balığı"
   },
   {
-    "node": 57987,
-    "scientific name": "Mitsukurina owstoni",
+    "nodeId": 57987,
+    "scientific_name": "Mitsukurina owstoni",
     "name": "goblin shark",
-    "parent": 57986,
+    "parentId": 57986,
     "name_es": "tiburón duende",
     "name_fr": "requin-lutin",
     "name_hu": "koboldcápa",
@@ -3537,13 +3772,14 @@
     "name_ca": "tauró follet",
     "name_ko": "마귀상어",
     "name_de": "Koboldhai",
-    "name_uk": "акула-гоблін"
+    "name_uk": "акула-гоблін",
+    "name_tr": "goblin köpek balığı"
   },
   {
-    "node": 267067,
-    "scientific name": "Enteroctopus dofleini",
+    "nodeId": 267067,
+    "scientific_name": "Enteroctopus dofleini",
     "name": "giant octopus",
-    "parent": 267066,
+    "parentId": 267066,
     "name_es": "pulpo gigante",
     "name_fr": "pieuvre géante",
     "name_hu": "óriáspolip",
@@ -3552,13 +3788,14 @@
     "name_ca": "pop gegant",
     "name_ko": "태평양대왕문어",
     "name_de": "Riesenkrake",
-    "name_uk": "гігантський восьминіг"
+    "name_uk": "гігантський восьминіг",
+    "name_tr": "dev ahtapot"
   },
   {
-    "node": 34570,
-    "scientific name": "Sepioteuthis lessoniana",
+    "nodeId": 34570,
+    "scientific_name": "Sepioteuthis lessoniana",
     "name": "bigfin squid",
-    "parent": 34569,
+    "parentId": 34569,
     "name_es": "calamar bigfin",
     "name_fr": "calmar à grandes nageoires",
     "name_hu": "ovális tintahal",
@@ -3567,13 +3804,14 @@
     "name_ca": "calamar d'aleta gran",
     "name_ko": "큰지느러미오징어",
     "name_de": "Großflossen-Riffkalmar",
-    "name_uk": "кальмар"
+    "name_uk": "кальмар",
+    "name_tr": "bigfin kalamarı"
   },
   {
-    "node": 34578,
-    "scientific name": "Nautilus belauensis",
+    "nodeId": 34578,
+    "scientific_name": "Nautilus belauensis",
     "name": "nautilus",
-    "parent": 34572,
+    "parentId": 34572,
     "name_es": "nautilo",
     "name_fr": "nautile",
     "name_hu": "csigáspolip",
@@ -3582,13 +3820,14 @@
     "name_ca": "nàutil",
     "name_ko": "앵무조개",
     "name_de": "Perlboot",
-    "name_uk": "наутилус"
+    "name_uk": "наутилус",
+    "name_tr": "notilus"
   },
   {
-    "node": 51359,
-    "scientific name": "Dryocopus pileatus",
+    "nodeId": 51359,
+    "scientific_name": "Dryocopus pileatus",
     "name": "woodpecker",
-    "parent": 51358,
+    "parentId": 51358,
     "name_es": "pájaro carpintero",
     "name_fr": "pic",
     "name_hu": "harkály",
@@ -3597,13 +3836,14 @@
     "name_ca": "picot negre",
     "name_ko": "딱따구리",
     "name_de": "Helmspecht",
-    "name_uk": "дятел"
+    "name_uk": "дятел",
+    "name_tr": "ağaçkakan"
   },
   {
-    "node": 2082998,
-    "scientific name": "Mellisuga helenae",
+    "nodeId": 2082998,
+    "scientific_name": "Mellisuga helenae",
     "name": "hummingbird",
-    "parent": 1507478,
+    "parentId": 1507478,
     "name_es": "colibrí",
     "name_fr": "colibri",
     "name_hu": "kolibri",
@@ -3612,13 +3852,14 @@
     "name_ca": "colibrí",
     "name_ko": "벌새",
     "name_de": "Kolibri",
-    "name_uk": "колібрі"
+    "name_uk": "колібрі",
+    "name_tr": "sinekkuşu"
   },
   {
-    "node": 52810,
-    "scientific name": "Milvus migrans",
+    "nodeId": 52810,
+    "scientific_name": "Milvus migrans",
     "name": "kite",
-    "parent": 43517,
+    "parentId": 43517,
     "name_es": "milano negro",
     "name_fr": "milan",
     "name_hu": "barna kánya",
@@ -3627,13 +3868,14 @@
     "name_ca": "milà negre",
     "name_ko": "솔개",
     "name_de": "Schwarzmilan",
-    "name_uk": "чорний шуліка"
+    "name_uk": "чорний шуліка",
+    "name_tr": "kara çaylak"
   },
   {
-    "node": 43455,
-    "scientific name": "Cathartes aura",
+    "nodeId": 43455,
+    "scientific_name": "Cathartes aura",
     "name": "turkey vulture",
-    "parent": 33611,
+    "parentId": 33611,
     "name_es": "buitre pavo",
     "name_fr": "urubu à tête rouge",
     "name_hu": "pulykakesely",
@@ -3642,13 +3884,14 @@
     "name_ca": "zopilot capvermell",
     "name_ko": "칠면조독수리",
     "name_de": "Truthahngeier",
-    "name_uk": "катарта червоноголова"
+    "name_uk": "катарта червоноголова",
+    "name_tr": "hindi akbabası"
   },
   {
-    "node": 96725,
-    "scientific name": "Tiliqua gigas",
+    "nodeId": 96725,
+    "scientific_name": "Tiliqua gigas",
     "name": "skink",
-    "parent": 8526,
+    "parentId": 8526,
     "name_es": "escinco",
     "name_fr": "scinque",
     "name_hu": "szkink",
@@ -3657,13 +3900,14 @@
     "name_ca": "esquinc de llengua blava",
     "name_ko": "도루묵도마뱀",
     "name_de": "Blauzungenskink",
-    "name_uk": "сцинк"
+    "name_uk": "сцинк",
+    "name_tr": "skink"
   },
   {
-    "node": 212017,
-    "scientific name": "Lethocerus indicus",
+    "nodeId": 212017,
+    "scientific_name": "Lethocerus indicus",
     "name": "water bug",
-    "parent": 43338,
+    "parentId": 43338,
     "name_es": "bicho de agua",
     "name_fr": "punaise d'eau",
     "name_hu": "vízipoloska",
@@ -3672,13 +3916,14 @@
     "name_ca": "escarabat d'aigua",
     "name_ko": "물장군",
     "name_de": "Wasserwanze",
-    "name_uk": "водяний клоп"
+    "name_uk": "водяний клоп",
+    "name_tr": "su böceği"
   },
   {
-    "node": 209230,
-    "scientific name": "Betta tussyae",
+    "nodeId": 209230,
+    "scientific_name": "Betta tussyae",
     "name": "betta fish",
-    "parent": 158455,
+    "parentId": 158455,
     "name_es": "pez betta",
     "name_fr": "poisson combattant",
     "name_hu": "sziámi harcoshal",
@@ -3687,13 +3932,14 @@
     "name_ca": "gourami",
     "name_ko": "베타",
     "name_de": "Roter Kampffisch",
-    "name_uk": "бойова рибка"
+    "name_uk": "бойова рибка",
+    "name_tr": "betta balığı"
   },
   {
-    "node": 129333,
-    "scientific name": "Morelia viridis",
+    "nodeId": 129333,
+    "scientific_name": "Morelia viridis",
     "name": "green tree python",
-    "parent": 51894,
+    "parentId": 51894,
     "name_es": "pitón de árbol verde",
     "name_fr": "python vert",
     "name_hu": "smaragdzöld piton",
@@ -3702,13 +3948,14 @@
     "name_ca": "pitó verd",
     "name_ko": "초록나무비단뱀",
     "name_de": "Grüner Baumpython",
-    "name_uk": "зелений деревний пітон"
+    "name_uk": "зелений деревний пітон",
+    "name_tr": "yeşil ağaç pitonu"
   },
   {
-    "node": 1647984,
-    "scientific name": "Tubuca urvillei",
+    "nodeId": 1647984,
+    "scientific_name": "Tubuca urvillei",
     "name": "fiddler crab",
-    "parent": 1239988,
+    "parentId": 1239988,
     "name_es": "cangrejo violinista",
     "name_fr": "crabe violoniste",
     "name_hu": "intőrák",
@@ -3717,13 +3964,14 @@
     "name_ca": "cranc violinista",
     "name_ko": "농게",
     "name_de": "Winkerkrabbe",
-    "name_uk": "краб-скрипаль"
+    "name_uk": "краб-скрипаль",
+    "name_tr": "kemancı yengeç"
   },
   {
-    "node": 9927,
-    "scientific name": "Connochaetes taurinus",
+    "nodeId": 9927,
+    "scientific_name": "Connochaetes taurinus",
     "name": "wildebeest",
-    "parent": 9926,
+    "parentId": 9926,
     "name_es": "ñu",
     "name_fr": "gnou",
     "name_hu": "gnú",
@@ -3732,13 +3980,14 @@
     "name_ca": "nyu",
     "name_ko": "검은꼬리누",
     "name_de": "Gnu",
-    "name_uk": "антилопа гну"
+    "name_uk": "антилопа гну",
+    "name_tr": "Afrika antilobu"
   },
   {
-    "node": 50434,
-    "scientific name": "Ctenocephalides canis",
+    "nodeId": 50434,
+    "scientific_name": "Ctenocephalides canis",
     "name": "flea",
-    "parent": 7514,
+    "parentId": 7514,
     "name_es": "pulga",
     "name_fr": "puce",
     "name_hu": "bolha",
@@ -3747,13 +3996,14 @@
     "name_ca": "puça",
     "name_ko": "벼룩",
     "name_de": "Hundefloh",
-    "name_uk": "блоха"
+    "name_uk": "блоха",
+    "name_tr": "pire"
   },
   {
-    "node": 7897,
-    "scientific name": "Latimeria chalumnae",
+    "nodeId": 7897,
+    "scientific_name": "Latimeria chalumnae",
     "name": "coelacanth",
-    "parent": 7896,
+    "parentId": 7896,
     "name_es": "celacantio",
     "name_fr": "coelacanthe",
     "name_hu": "bojtosúszójúhal",
@@ -3762,13 +4012,14 @@
     "name_ca": "celacant",
     "name_ko": "실러캔스",
     "name_de": "Quastenflosser",
-    "name_uk": "латимерія"
+    "name_uk": "латимерія",
+    "name_tr": "coelacanth"
   },
   {
-    "node": 202113,
-    "scientific name": "Aplysina fistularis",
+    "nodeId": 202113,
+    "scientific_name": "Aplysina fistularis",
     "name": "sea sponge",
-    "parent": 121476,
+    "parentId": 121476,
     "name_es": "esponja de mar",
     "name_fr": "éponge",
     "name_hu": "szivacs",
@@ -3777,13 +4028,14 @@
     "name_ca": "esponja de mar",
     "name_ko": "해면",
     "name_de": "Meeresschwamm",
-    "name_uk": "морська губка"
+    "name_uk": "морська губка",
+    "name_tr": "deniz süngeri"
   },
   {
-    "node": 8839,
-    "scientific name": "Anas platyrhynchos",
+    "nodeId": 8839,
+    "scientific_name": "Anas platyrhynchos",
     "name": "duck",
-    "parent": 8835,
+    "parentId": 8835,
     "name_es": "pato",
     "name_fr": "canard",
     "name_hu": "kacsa",
@@ -3792,13 +4044,14 @@
     "name_ca": "ànec",
     "name_ko": "청둥오리",
     "name_de": "Stockente",
-    "name_uk": "качка"
+    "name_uk": "качка",
+    "name_tr": "ördek"
   },
   {
-    "node": 9103,
-    "scientific name": "Meleagris gallopavo",
+    "nodeId": 9103,
+    "scientific_name": "Meleagris gallopavo",
     "name": "turkey",
-    "parent": 9102,
+    "parentId": 9102,
     "name_es": "pavo",
     "name_fr": "dindon",
     "name_hu": "pulyka",
@@ -3807,13 +4060,14 @@
     "name_ca": "gall dindi",
     "name_ko": "칠면조",
     "name_de": "Truthahn",
-    "name_uk": "індичка"
+    "name_uk": "індичка",
+    "name_tr": "hindi"
   },
   {
-    "node": 9606,
-    "scientific name": "Homo sapiens",
+    "nodeId": 9606,
+    "scientific_name": "Homo sapiens",
     "name": "human",
-    "parent": 9605,
+    "parentId": 9605,
     "name_es": "humano",
     "name_fr": "humain",
     "name_hu": "ember",
@@ -3822,13 +4076,14 @@
     "name_ca": "humà",
     "name_ko": "인간",
     "name_de": "Mensch",
-    "name_uk": "людина"
+    "name_uk": "людина",
+    "name_tr": "insan"
   },
   {
-    "node": 9612,
-    "scientific name": "Canis lupus",
+    "nodeId": 9612,
+    "scientific_name": "Canis lupus",
     "name": "wolf",
-    "parent": 9611,
+    "parentId": 9611,
     "name_es": "lobo",
     "name_fr": "loup",
     "name_hu": "farkas",
@@ -3837,13 +4092,14 @@
     "name_ca": "llop",
     "name_ko": "늑대",
     "name_de": "Wolf",
-    "name_uk": "вовк"
+    "name_uk": "вовк",
+    "name_tr": "kurt"
   },
   {
-    "node": 9685,
-    "scientific name": "Felis catus",
+    "nodeId": 9685,
+    "scientific_name": "Felis catus",
     "name": "cat",
-    "parent": 9682,
+    "parentId": 9682,
     "name_es": "gato",
     "name_fr": "chat",
     "name_hu": "macska",
@@ -3852,13 +4108,14 @@
     "name_ca": "gat",
     "name_ko": "고양이",
     "name_de": "Katze",
-    "name_uk": "кіт"
+    "name_uk": "кіт",
+    "name_tr": "kedi"
   },
   {
-    "node": 9733,
-    "scientific name": "Orcinus orca",
+    "nodeId": 9733,
+    "scientific_name": "Orcinus orca",
     "name": "orca",
-    "parent": 9732,
+    "parentId": 9732,
     "name_es": "orco",
     "name_fr": "orque",
     "name_hu": "kardszárnyú delfin",
@@ -3867,13 +4124,14 @@
     "name_ca": "orca",
     "name_ko": "오르카",
     "name_de": "Orca",
-    "name_uk": "косатка"
+    "name_uk": "косатка",
+    "name_tr": "katil balina"
   },
   {
-    "node": 9793,
-    "scientific name": "Equus asinus",
+    "nodeId": 9793,
+    "scientific_name": "Equus asinus",
     "name": "donkey",
-    "parent": 9789,
+    "parentId": 9789,
     "name_es": "burro",
     "name_fr": "âne",
     "name_hu": "szamár",
@@ -3882,13 +4140,14 @@
     "name_ca": "ase",
     "name_ko": "당나귀",
     "name_de": "Esel",
-    "name_uk": "віслюк"
+    "name_uk": "віслюк",
+    "name_tr": "eşek"
   },
   {
-    "node": 9823,
-    "scientific name": "Sus scrofa",
+    "nodeId": 9823,
+    "scientific_name": "Sus scrofa",
     "name": "pig",
-    "parent": 9822,
+    "parentId": 9822,
     "name_es": "cerdo",
     "name_fr": "cochon",
     "name_hu": "sertés",
@@ -3897,13 +4156,14 @@
     "name_ca": "porc senglar",
     "name_ko": "돼지",
     "name_de": "Schwein",
-    "name_uk": "свиня"
+    "name_uk": "свиня",
+    "name_tr": "domuz"
   },
   {
-    "node": 9874,
-    "scientific name": "Odocoileus virginianus",
+    "nodeId": 9874,
+    "scientific_name": "Odocoileus virginianus",
     "name": "deer",
-    "parent": 9871,
+    "parentId": 9871,
     "name_es": "ciervo",
     "name_hu": "szarvas",
     "name_fr": "cerf de virginie",
@@ -3912,13 +4172,14 @@
     "name_ca": "cérvol",
     "name_ko": "사슴",
     "name_de": "Weißwedelhirsch",
-    "name_uk": "олень"
+    "name_uk": "олень",
+    "name_tr": "ak kuyruklu geyik"
   },
   {
-    "node": 9925,
-    "scientific name": "Capra hircus",
+    "nodeId": 9925,
+    "scientific_name": "Capra hircus",
     "name": "goat",
-    "parent": 9922,
+    "parentId": 9922,
     "name_es": "cabro",
     "name_fr": "chèvre",
     "name_hu": "kecske",
@@ -3927,13 +4188,14 @@
     "name_ca": "cabra",
     "name_ko": "염소",
     "name_de": "Ziege",
-    "name_uk": "козел"
+    "name_uk": "козел",
+    "name_tr": "keçi"
   },
   {
-    "node": 9986,
-    "scientific name": "Oryctolagus cuniculus",
+    "nodeId": 9986,
+    "scientific_name": "Oryctolagus cuniculus",
     "name": "rabbit",
-    "parent": 9984,
+    "parentId": 9984,
     "name_es": "conejo",
     "name_fr": "lapin",
     "name_hu": "nyúl",
@@ -3942,13 +4204,14 @@
     "name_ca": "conill",
     "name_ko": "토끼",
     "name_de": "Kaninchen",
-    "name_uk": "кролик"
+    "name_uk": "кролик",
+    "name_tr": "tavşan"
   },
   {
-    "node": 27706,
-    "scientific name": "Micropterus salmoides",
+    "nodeId": 27706,
+    "scientific_name": "Micropterus salmoides",
     "name": "bass",
-    "parent": 27705,
+    "parentId": 27705,
     "name_es": "lubina",
     "name_fr": "perche noire",
     "name_hu": "pisztrángsügér",
@@ -3957,13 +4220,14 @@
     "name_ca": "perca americana",
     "name_ko": "배스",
     "name_de": "Forellenbarsch",
-    "name_uk": "чорний окунь"
+    "name_uk": "чорний окунь",
+    "name_tr": "levrek"
   },
   {
-    "node": 48420,
-    "scientific name": "Gulo gulo",
+    "nodeId": 48420,
+    "scientific_name": "Gulo gulo",
     "name": "wolverine",
-    "parent": 48419,
+    "parentId": 48419,
     "name_es": "glotón",
     "name_fr": "glouton",
     "name_hu": "rozsomák",
@@ -3972,13 +4236,14 @@
     "name_ca": "golut",
     "name_ko": "울버린",
     "name_de": "Vielfraß",
-    "name_uk": "росомаха"
+    "name_uk": "росомаха",
+    "name_tr": "kutup porsuğu"
   },
   {
-    "node": 51900,
-    "scientific name": "Anodorhynchus hyacinthinus",
+    "nodeId": 51900,
+    "scientific_name": "Anodorhynchus hyacinthinus",
     "name": "macaw",
-    "parent": 51899,
+    "parentId": 51899,
     "name_es": "guacamayo",
     "name_fr": "ara",
     "name_hu": "jácintara",
@@ -3987,13 +4252,14 @@
     "name_ca": "guacamai jacint",
     "name_ko": "금강앵무",
     "name_de": "Hyazinthara",
-    "name_uk": "ара"
+    "name_uk": "ара",
+    "name_tr": "sümbül makav"
   },
   {
-    "node": 163847,
-    "scientific name": "Crithagra flaviventris",
+    "nodeId": 163847,
+    "scientific_name": "Crithagra flaviventris",
     "name": "canary",
-    "parent": 1892169,
+    "parentId": 1892169,
     "name_es": "canario",
     "name_fr": "serin",
     "name_hu": "kanári",
@@ -4002,13 +4268,14 @@
     "name_ca": "canari",
     "name_ko": "카나리아",
     "name_de": "Kanarienvogel",
-    "name_uk": "канарейка"
+    "name_uk": "канарейка",
+    "name_tr": "kanarya"
   },
   {
-    "node": 10116,
-    "scientific name": "Rattus norvegicus",
+    "nodeId": 10116,
+    "scientific_name": "Rattus norvegicus",
     "name": "rat",
-    "parent": 10114,
+    "parentId": 10114,
     "name_es": "rato",
     "name_fr": "rat",
     "name_hu": "patkány",
@@ -4017,13 +4284,14 @@
     "name_ca": "rata",
     "name_ko": "시궁쥐",
     "name_de": "Hausratte",
-    "name_uk": "щур"
+    "name_uk": "щур",
+    "name_tr": "sıçan"
   },
   {
-    "node": 46460,
-    "scientific name": "Milnesium tardigradum",
+    "nodeId": 46460,
+    "scientific_name": "Milnesium tardigradum",
     "name": "tardigrade",
-    "parent": 46459,
+    "parentId": 46459,
     "name_es": "tardigrado",
     "name_fr": "tardigrade",
     "name_hu": "medveállatka",
@@ -4032,13 +4300,14 @@
     "name_ca": "tardígrad",
     "name_ko": "곰벌레",
     "name_de": "Wasserbär",
-    "name_uk": "тихохід"
+    "name_uk": "тихохід",
+    "name_tr": "tardigrad"
   },
   {
-    "node": 9771,
-    "scientific name": "Balaenoptera musculus",
+    "nodeId": 9771,
+    "scientific_name": "Balaenoptera musculus",
     "name": "blue whale",
-    "parent": 9766,
+    "parentId": 9766,
     "name_es": "ballena azul",
     "name_fr": "baleine bleue",
     "name_hu": "kék bálna",
@@ -4047,13 +4316,14 @@
     "name_ca": "rorqual blau",
     "name_ko": "대왕고래",
     "name_de": "Blauwal",
-    "name_uk": "синій кит"
+    "name_uk": "синій кит",
+    "name_tr": "mavi balina"
   },
   {
-    "node": 9742,
-    "scientific name": "Phocoena phocoena",
+    "nodeId": 9742,
+    "scientific_name": "Phocoena phocoena",
     "name": "porpoise",
-    "parent": 9741,
+    "parentId": 9741,
     "name_es": "marsopa",
     "name_fr": "marsouin",
     "name_hu": "barázdásdelfin",
@@ -4062,13 +4332,14 @@
     "name_ca": "porpoise",
     "name_ko": "쇠돌고래",
     "name_de": "porpoise",
-    "name_uk": "морська свиня"
+    "name_uk": "морська свиня",
+    "name_tr": "mutur"
   },
   {
-    "node": 30588,
-    "scientific name": "Leontopithecus rosalia",
+    "nodeId": 30588,
+    "scientific_name": "Leontopithecus rosalia",
     "name": "tamarin",
-    "parent": 30587,
+    "parentId": 30587,
     "name_es": "saguinus",
     "name_fr": "tamarin-lion",
     "name_hu": "tamarin",
@@ -4077,13 +4348,14 @@
     "name_it": "saguinus",
     "name_pt": "saguinus",
     "name_ko": "타마린",
-    "name_uk": "імператорський тамарин"
+    "name_uk": "імператорський тамарин",
+    "name_tr": "tamarin"
   },
   {
-    "node": 182253,
-    "scientific name": "Alouatta pigra",
+    "nodeId": 182253,
+    "scientific_name": "Alouatta pigra",
     "name": "howler monkey",
-    "parent": 9499,
+    "parentId": 9499,
     "name_es": "alouatta",
     "name_fr": "singe hurleur",
     "name_hu": "alouatta",
@@ -4092,13 +4364,14 @@
     "name_it": "alouatta",
     "name_pt": "bugio",
     "name_ko": "고함원숭이",
-    "name_uk": "ревун"
+    "name_uk": "ревун",
+    "name_tr": "uluyan maymun"
   },
   {
-    "node": 34899,
-    "scientific name": "Petaurus breviceps",
+    "nodeId": 34899,
+    "scientific_name": "Petaurus breviceps",
     "name": "sugar glider",
-    "parent": 34898,
+    "parentId": 34898,
     "name_es": "petauro del azúcar",
     "name_fr": "phalanger volant",
     "name_hu": "törpe erszényesmókus",
@@ -4107,14 +4380,15 @@
     "name_it": "petauro dello zucchero",
     "name_pt": "petauro-do-açúcar",
     "name_ko": "유대하늘다람쥐",
-    "name_uk": "карликова сумчаста летяга"
+    "name_uk": "карликова сумчаста летяга",
+    "name_tr": "şeker planörü"
   },
   {
-    "node": 29067,
-    "scientific name": "Potos flavus",
+    "nodeId": 29067,
+    "scientific_name": "Potos flavus",
     "name": "kinkajou",
-    "parent": 29066,
-    "name_es": "potos flavus",
+    "parentId": 29066,
+    "name_es": "kinkajú",
     "name_fr": "kinkajou",
     "name_hu": "farksodró",
     "name_ca": "kinkajú",
@@ -4122,13 +4396,14 @@
     "name_it": "cercoletto",
     "name_pt": "jupará",
     "name_ko": "킨카주",
-    "name_uk": "кінкажу"
+    "name_uk": "кінкажу",
+    "name_tr": "kinkaju"
   },
   {
-    "node": 476259,
-    "scientific name": "Nyctereutes procyonoides viverrinus",
+    "nodeId": 476259,
+    "scientific_name": "Nyctereutes procyonoides viverrinus",
     "name": "tanuki",
-    "parent": 34880,
+    "parentId": 34880,
     "name_es": "tanuki",
     "name_fr": "chien viverrin",
     "name_hu": "tanuki",
@@ -4137,14 +4412,15 @@
     "name_ca": "tanuki",
     "name_ko": "일본너구리",
     "name_de": "Tanuki",
-    "name_uk": "танукі"
+    "name_uk": "танукі",
+    "name_tr": "rakun köpeği"
   },
   {
-    "node": 9813,
-    "scientific name": "Procavia capensis",
+    "nodeId": 9813,
+    "scientific_name": "Procavia capensis",
     "name": "hyrax",
-    "parent": 9812,
-    "name_es": "damane",
+    "parentId": 9812,
+    "name_es": "daman",
     "name_fr": "daman",
     "name_hu": "szirtiborz-alakúak",
     "name_ca": "daman",
@@ -4152,14 +4428,15 @@
     "name_it": "irace",
     "name_pt": "hiracoides",
     "name_ko": "바위너구리목",
-    "name_uk": "даман"
+    "name_uk": "даман",
+    "name_tr": "daman"
   },
   {
-    "node": 9802,
-    "scientific name": "Tapirus indicus",
+    "nodeId": 9802,
+    "scientific_name": "Tapirus indicus",
     "name": "tapir",
-    "parent": 9800,
-    "name_es": "tapiridae",
+    "parentId": 9800,
+    "name_es": "tapir",
     "name_fr": "tapir",
     "name_hu": "tapírfélék",
     "name_ca": "tapírids",
@@ -4167,13 +4444,14 @@
     "name_it": "tapiro",
     "name_pt": "anta",
     "name_ko": "맥",
-    "name_uk": "тапір"
+    "name_uk": "тапір",
+    "name_tr": "tapir"
   },
   {
-    "node": 10181,
-    "scientific name": "Heterocephalus glaber",
+    "nodeId": 10181,
+    "scientific_name": "Heterocephalus glaber",
     "name": "naked mole rat",
-    "parent": 10180,
+    "parentId": 10180,
     "name_es": "rata topo desnuda",
     "name_fr": "rat-taupe nu",
     "name_hu": "meztelen vakond patkány",
@@ -4182,13 +4460,14 @@
     "name_ca": "rata talp nua",
     "name_ko": "벌거숭이두더지쥐",
     "name_de": "Nacktmull",
-    "name_uk": "голий землекоп"
+    "name_uk": "голий землекоп",
+    "name_tr": "çıplak kör fare"
   },
   {
-    "node": 45480,
-    "scientific name": "Cynomys ludovicianus",
+    "nodeId": 45480,
+    "scientific_name": "Cynomys ludovicianus",
     "name": "prairie dog",
-    "parent": 45478,
+    "parentId": 45478,
     "name_es": "perrito de las praderas",
     "name_fr": "chien de prairie",
     "name_hu": "prérikutya",
@@ -4197,13 +4476,14 @@
     "name_ca": "gos de les praderies",
     "name_ko": "프레리도그",
     "name_de": "Präriehund",
-    "name_uk": "лучний собачка"
+    "name_uk": "лучний собачка",
+    "name_tr": "çayır köpeği"
   },
   {
-    "node": 48087,
-    "scientific name": "Lepus californicus",
+    "nodeId": 48087,
+    "scientific_name": "Lepus californicus",
     "name": "hare",
-    "parent": 9980,
+    "parentId": 9980,
     "name_es": "liebre",
     "name_fr": "lièvre",
     "name_hu": "mezei nyúl",
@@ -4212,13 +4492,14 @@
     "name_ca": "llebre",
     "name_ko": "산토끼",
     "name_de": "Feldhase",
-    "name_uk": "заєць"
+    "name_uk": "заєць",
+    "name_tr": "yabani tavşan"
   },
   {
-    "node": 9669,
-    "scientific name": "Mustela putorius furo",
+    "nodeId": 9669,
+    "scientific_name": "Mustela putorius furo",
     "name": "ferret",
-    "parent": 9668,
+    "parentId": 9668,
     "name_es": "hurón",
     "name_fr": "furet",
     "name_hu": "vadászmenyét",
@@ -4227,13 +4508,14 @@
     "name_ca": "fura",
     "name_ko": "가는 리본",
     "name_de": "Frettchen",
-    "name_uk": "тхір"
+    "name_uk": "тхір",
+    "name_tr": "gelincik"
   },
   {
-    "node": 10152,
-    "scientific name": "Chinchilla chinchilla",
+    "nodeId": 10152,
+    "scientific_name": "Chinchilla chinchilla",
     "name": "chinchilla",
-    "parent": 10151,
+    "parentId": 10151,
     "name_es": "chinchilla",
     "name_fr": "chinchilla",
     "name_hu": "csincsilla",
@@ -4242,13 +4524,14 @@
     "name_ca": "xinxilla",
     "name_ko": "친칠라",
     "name_de": "Chinchilla",
-    "name_uk": "шиншила"
+    "name_uk": "шиншила",
+    "name_tr": "chinchilla"
   },
   {
-    "node": 94186,
-    "scientific name": "Civettictis civetta",
+    "nodeId": 94186,
+    "scientific_name": "Civettictis civetta",
     "name": "civet",
-    "parent": 94185,
+    "parentId": 94185,
     "name_es": "algalia",
     "name_fr": "civette",
     "name_hu": "cibet",
@@ -4257,13 +4540,14 @@
     "name_ca": "civet",
     "name_ko": "사향고양이",
     "name_de": "Zibetkatze",
-    "name_uk": "циветта"
+    "name_uk": "циветта",
+    "name_tr": "misk kedisi"
   },
   {
-    "node": 9615,
-    "scientific name": "Canis lupus familiaris",
+    "nodeId": 9615,
+    "scientific_name": "Canis lupus familiaris",
     "name": "dog",
-    "parent": 9612,
+    "parentId": 9612,
     "name_es": "perro",
     "name_fr": "chien",
     "name_hu": "kutya",
@@ -4272,13 +4556,14 @@
     "name_ca": "gos",
     "name_ko": "개",
     "name_de": "Hund",
-    "name_uk": "собака"
+    "name_uk": "собака",
+    "name_tr": "kedi"
   },
   {
-    "node": 72542,
-    "scientific name": "Capra ibex",
+    "nodeId": 72542,
+    "scientific_name": "Capra ibex",
     "name": "ibex",
-    "parent": 9922,
+    "parentId": 9922,
     "name_es": "ìbice",
     "name_fr": "bouquetin",
     "name_hu": "kőszáli kecske",
@@ -4287,13 +4572,14 @@
     "name_ca": "cabra alpina",
     "name_ko": "아이벡스",
     "name_de": "Steinbock",
-    "name_uk": "альпійський козел"
+    "name_uk": "альпійський козел",
+    "name_tr": "Alp dağ keçisi"
   },
   {
-    "node": 41426,
-    "scientific name": "Phacochoerus africanus",
+    "nodeId": 41426,
+    "scientific_name": "Phacochoerus africanus",
     "name": "warthog",
-    "parent": 41425,
+    "parentId": 41425,
     "name_es": "facóquero",
     "name_fr": "phacochère",
     "name_hu": "varacskos disznó",
@@ -4302,13 +4588,14 @@
     "name_ca": "senglar",
     "name_ko": "멧돼지",
     "name_de": "Warzenschwein",
-    "name_uk": "бородавочник"
+    "name_uk": "бородавочник",
+    "name_tr": "düğmeli domuz"
   },
   {
-    "node": 8787,
-    "scientific name": "Casuarius casuarius",
+    "nodeId": 8787,
+    "scientific_name": "Casuarius casuarius",
     "name": "cassowary",
-    "parent": 8786,
+    "parentId": 8786,
     "name_es": "casuario",
     "name_fr": "casoar",
     "name_hu": "kazuár",
@@ -4317,13 +4604,14 @@
     "name_ca": "casuari",
     "name_ko": "화식조",
     "name_de": "Kasuar",
-    "name_uk": "казуар"
+    "name_uk": "казуар",
+    "name_tr": "tepeli devekuşu"
   },
   {
-    "node": 56072,
-    "scientific name": "Ardea herodias",
+    "nodeId": 56072,
+    "scientific_name": "Ardea herodias",
     "name": "heron",
-    "parent": 30389,
+    "parentId": 30389,
     "name_es": "garza",
     "name_fr": "héron",
     "name_hu": "gém",
@@ -4332,13 +4620,14 @@
     "name_ca": "bernat pescaire",
     "name_ko": "왜가리",
     "name_de": "Reiher",
-    "name_uk": "чапля"
+    "name_uk": "чапля",
+    "name_tr": "balıkçıl"
   },
   {
-    "node": 110620,
-    "scientific name": "Ardea alba",
+    "nodeId": 110620,
+    "scientific_name": "Ardea alba",
     "name": "egret",
-    "parent": 30389,
+    "parentId": 30389,
     "name_es": "garceta",
     "name_fr": "aigrette",
     "name_hu": "kócsag",
@@ -4347,13 +4636,14 @@
     "name_ca": "garceta",
     "name_ko": "백로",
     "name_de": "Silberreiher",
-    "name_uk": "біла чапля"
+    "name_uk": "біла чапля",
+    "name_tr": "büyük ak balıkçıl"
   },
   {
-    "node": 36278,
-    "scientific name": "Troglodytes troglodytes",
+    "nodeId": 36278,
+    "scientific_name": "Troglodytes troglodytes",
     "name": "wren",
-    "parent": 36277,
+    "parentId": 36277,
     "name_es": "reyezuelo",
     "name_fr": "troglodyte",
     "name_hu": "ökörszem",
@@ -4362,13 +4652,14 @@
     "name_ca": "wren",
     "name_ko": "렌",
     "name_de": "Zaunkönig",
-    "name_uk": "крапивник"
+    "name_uk": "крапивник",
+    "name_tr": "çit kuşu"
   },
   {
-    "node": 8895,
-    "scientific name": "Apus apus",
+    "nodeId": 8895,
+    "scientific_name": "Apus apus",
     "name": "swift",
-    "parent": 8894,
+    "parentId": 8894,
     "name_es": "vencejo",
     "name_fr": "martinet",
     "name_hu": "sarlósfecske",
@@ -4377,13 +4668,14 @@
     "name_ca": "falciot",
     "name_ko": "칼새",
     "name_de": "Segler",
-    "name_uk": "стриж"
+    "name_uk": "стриж",
+    "name_tr": "ebabil kuşu"
   },
   {
-    "node": 43150,
-    "scientific name": "Hirundo rustica",
+    "nodeId": 43150,
+    "scientific_name": "Hirundo rustica",
     "name": "swallow",
-    "parent": 43149,
+    "parentId": 43149,
     "name_es": "golondrina",
     "name_fr": "hirondelle",
     "name_hu": "fecskefélék",
@@ -4392,13 +4684,14 @@
     "name_ca": "oreneta",
     "name_ko": "제비",
     "name_de": "Schwálbe",
-    "name_uk": "ластівка"
+    "name_uk": "ластівка",
+    "name_tr": "kır kırlangıcı"
   },
   {
-    "node": 56262,
-    "scientific name": "Pandion haliaetus",
+    "nodeId": 56262,
+    "scientific_name": "Pandion haliaetus",
     "name": "osprey",
-    "parent": 56261,
+    "parentId": 56261,
     "name_es": "águila pescadora",
     "name_fr": "balbuzard pêcheur",
     "name_hu": "halászsas",
@@ -4407,13 +4700,14 @@
     "name_ca": "àguila pescadora",
     "name_ko": "물수리",
     "name_de": "Fischadler",
-    "name_uk": "скопа"
+    "name_uk": "скопа",
+    "name_tr": "balık kartalı"
   },
   {
-    "node": 46550,
-    "scientific name": "Diomedea exulans",
+    "nodeId": 46550,
+    "scientific_name": "Diomedea exulans",
     "name": "albatross",
-    "parent": 37068,
+    "parentId": 37068,
     "name_es": "albatros",
     "name_fr": "albatros",
     "name_hu": "albatrosz",
@@ -4422,13 +4716,14 @@
     "name_ca": "albatros",
     "name_ko": "신천옹",
     "name_de": "Albatros",
-    "name_uk": "альбатрос"
+    "name_uk": "альбатрос",
+    "name_tr": "albatros"
   },
   {
-    "node": 1385931,
-    "scientific name": "Eoperipatus totoro",
+    "nodeId": 1385931,
+    "scientific_name": "Eoperipatus totoro",
     "name": "velvet worm",
-    "parent": 1198995,
+    "parentId": 1198995,
     "name_es": "gusano de terciopelo",
     "name_fr": "onychophore",
     "name_hu": "bársonyféreg",
@@ -4437,13 +4732,14 @@
     "name_ca": "cuc de vellut",
     "name_ko": "벨벳 벌레",
     "name_de": "Samtwurm",
-    "name_uk": "оксамитовий черв'як"
+    "name_uk": "оксамитовий черв'як",
+    "name_tr": "kadife solucanı"
   },
   {
-    "node": 6206,
-    "scientific name": "Taenia saginata",
+    "nodeId": 6206,
+    "scientific_name": "Taenia saginata",
     "name": "tapeworm",
-    "parent": 6202,
+    "parentId": 6202,
     "name_es": "tenia",
     "name_fr": "ténia",
     "name_hu": "galandféreg",
@@ -4452,13 +4748,14 @@
     "name_ca": "tènia",
     "name_ko": "촌충",
     "name_de": "Bandwurm",
-    "name_uk": "ціп’як"
+    "name_uk": "ціп’як",
+    "name_tr": "tenya"
   },
   {
-    "node": 6287,
-    "scientific name": "Dirofilaria immitis",
+    "nodeId": 6287,
+    "scientific_name": "Dirofilaria immitis",
     "name": "heartworm",
-    "parent": 6286,
+    "parentId": 6286,
     "name_es": "gusano del corazón",
     "name_fr": "dirofilaria",
     "name_hu": "szívféreg",
@@ -4467,13 +4764,14 @@
     "name_ca": "cuc del cor",
     "name_ko": "심장사상충",
     "name_de": "Herzwurm",
-    "name_uk": "дирофілярія"
+    "name_uk": "дирофілярія",
+    "name_tr": "kalp kurdu"
   },
   {
-    "node": 6239,
-    "scientific name": "Caenorhabditis elegans",
+    "nodeId": 6239,
+    "scientific_name": "Caenorhabditis elegans",
     "name": "nematode",
-    "parent": 6237,
+    "parentId": 6237,
     "name_es": "nematodo",
     "name_fr": "nématode",
     "name_hu": "fonálféreg",
@@ -4482,13 +4780,14 @@
     "name_ca": "nematode",
     "name_ko": "선형동물",
     "name_de": "Nematode",
-    "name_uk": "нематода"
+    "name_uk": "нематода",
+    "name_tr": "yuvarlak solucan"
   },
   {
-    "node": 206118,
-    "scientific name": "Mastacembelus erythrotaenia",
+    "nodeId": 206118,
+    "scientific_name": "Mastacembelus erythrotaenia",
     "name": "fire eel",
-    "parent": 94234,
+    "parentId": 94234,
     "name_es": "anguila de fuego",
     "name_fr": "anguille épineuse",
     "name_hu": "tűz angolna",
@@ -4497,13 +4796,14 @@
     "name_ca": "anguila de foc",
     "name_ko": "불장어",
     "name_de": "Feuer-Stachelaal",
-    "name_uk": "вогняний вугор"
+    "name_uk": "вогняний вугор",
+    "name_tr": "ateş yılan balığı"
   },
   {
-    "node": 6087,
-    "scientific name": "Hydra vulgaris",
+    "nodeId": 6087,
+    "scientific_name": "Hydra vulgaris",
     "name": "freshwater polyp",
-    "parent": 6083,
+    "parentId": 6083,
     "name_es": "Pólipo de agua dulce",
     "name_fr": "hydre",
     "name_hu": "édesvízi polip",
@@ -4512,13 +4812,14 @@
     "name_ca": "Pòlip d'aigua dolça",
     "name_ko": "민물 폴립",
     "name_de": "Süßwasserpolypen",
-    "name_uk": "гідра"
+    "name_uk": "гідра",
+    "name_tr": "tatlısu polibi"
   },
   {
-    "node": 27804,
-    "scientific name": "Cyanea capillata",
+    "nodeId": 27804,
+    "scientific_name": "Cyanea capillata",
     "name": "lions mane jellyfish",
-    "parent": 27803,
+    "parentId": 27803,
     "name_es": "medusa melena de león ártica",
     "name_fr": "méduse à crinière de lion",
     "name_hu": "sárga hajasmedúza",
@@ -4527,13 +4828,14 @@
     "name_ca": "medusa cabellera de lleó",
     "name_ko": "사자갈기 해파리",
     "name_de": "Löwenmähnenqualle",
-    "name_uk": "медуза левова грива"
+    "name_uk": "медуза левова грива",
+    "name_tr": "aslan yelesi denizanası"
   },
   {
-    "node": 301549,
-    "scientific name": "Pecten novaezelandiae",
+    "nodeId": 301549,
+    "scientific_name": "Pecten novaezelandiae",
     "name": "scallop",
-    "parent": 6578,
+    "parentId": 6578,
     "name_es": "vieira",
     "name_fr": "coquille saint-jacques",
     "name_hu": "fésűkagyló",
@@ -4542,13 +4844,14 @@
     "name_ca": "vieira",
     "name_ko": "가리비",
     "name_de": "Kammmuschel",
-    "name_uk": "гребінець"
+    "name_uk": "гребінець",
+    "name_tr": "Yeni Zelanda tarağı"
   },
   {
-    "node": 55288,
-    "scientific name": "Vampyroteuthis infernalis",
+    "nodeId": 55288,
+    "scientific_name": "Vampyroteuthis infernalis",
     "name": "vampire squid",
-    "parent": 55287,
+    "parentId": 55287,
     "name_es": "calamar vampiro",
     "name_fr": "vampire des abysses",
     "name_hu": "vámpírtintahal",
@@ -4557,13 +4860,14 @@
     "name_ca": "calamar vampir",
     "name_ko": "흡혈오징어",
     "name_de": "Vampirtintenfisch",
-    "name_uk": "пекельний вампір"
+    "name_uk": "пекельний вампір",
+    "name_tr": "vampir kalamar"
   },
   {
-    "node": 2109549,
-    "scientific name": "Alpheus digitalis",
+    "nodeId": 2109549,
+    "scientific_name": "Alpheus digitalis",
     "name": "pistol shrimp",
-    "parent": 29967,
+    "parentId": 29967,
     "name_es": "camarón pistola",
     "name_fr": "crevette pistolet",
     "name_hu": "pisztoly garnélarák",
@@ -4572,13 +4876,14 @@
     "name_ca": "gambeta pistola",
     "name_ko": "딱총새우",
     "name_de": "Pistolenkrebse",
-    "name_uk": "креветка-пістолет"
+    "name_uk": "креветка-пістолет",
+    "name_tr": "tabanca karidesi"
   },
   {
-    "node": 177283,
-    "scientific name": "Birgus latro",
+    "nodeId": 177283,
+    "scientific_name": "Birgus latro",
     "name": "coconut crab",
-    "parent": 177282,
+    "parentId": 177282,
     "name_es": "cangrejo de los cocoteros",
     "name_fr": "crabe de cocotier",
     "name_hu": "kókuszrák",
@@ -4587,13 +4892,14 @@
     "name_ca": "cranc dels cocoters",
     "name_ko": "야자집게",
     "name_de": "Kokosnussräuber",
-    "name_uk": "кокосовий краб"
+    "name_uk": "кокосовий краб",
+    "name_tr": "hindistan cevizi yengeci"
   },
   {
-    "node": 6850,
-    "scientific name": "Limulus polyphemus",
+    "nodeId": 6850,
+    "scientific_name": "Limulus polyphemus",
     "name": "horseshoe crab",
-    "parent": 6849,
+    "parentId": 6849,
     "name_es": "cangrejo herradura",
     "name_fr": "limule",
     "name_hu": "tőrfarkú rák",
@@ -4602,13 +4908,14 @@
     "name_ca": "cranc de ferradura",
     "name_ko": "투구게",
     "name_de": "Hufeisenkrebse",
-    "name_uk": "підковоподібний краб "
+    "name_uk": "підковоподібний краб",
+    "name_tr": "at nalı yengeci"
   },
   {
-    "node": 338475,
-    "scientific name": "Eudontomyzon mariae",
+    "nodeId": 338475,
+    "scientific_name": "Eudontomyzon mariae",
     "name": "lamprey",
-    "parent": 338474,
+    "parentId": 338474,
     "name_es": "lamprea",
     "name_fr": "lamproie",
     "name_hu": "ingóla",
@@ -4617,13 +4924,14 @@
     "name_ca": "lamprea",
     "name_ko": "칠성장어",
     "name_de": "Neunauge",
-    "name_uk": "мінога"
+    "name_uk": "мінога",
+    "name_tr": "Karadeniz dere taşemeni"
   },
   {
-    "node": 586820,
-    "scientific name": "Enchelycore pardalis",
+    "nodeId": 586820,
+    "scientific_name": "Enchelycore pardalis",
     "name": "moray eel",
-    "parent": 426091,
+    "parentId": 426091,
     "name_es": "morena",
     "name_fr": "murène",
     "name_hu": "muréna angolna",
@@ -4632,13 +4940,14 @@
     "name_ca": "anguila morena",
     "name_ko": "곰치",
     "name_de": "Muräne",
-    "name_uk": "мурена"
+    "name_uk": "мурена",
+    "name_tr": "moren balığı"
   },
   {
-    "node": 259920,
-    "scientific name": "Rhincodon typus",
+    "nodeId": 259920,
+    "scientific_name": "Rhincodon typus",
     "name": "whale shark",
-    "parent": 1849765,
+    "parentId": 1849765,
     "name_es": "tiburón ballena",
     "name_fr": "requin-baleine",
     "name_hu": "cetcápa",
@@ -4647,13 +4956,14 @@
     "name_ca": "tauró balena",
     "name_ko": "고래상어",
     "name_de": "Walhai",
-    "name_uk": "китова акула"
+    "name_uk": "китова акула",
+    "name_tr": "balina köpek balığı"
   },
   {
-    "node": 8010,
-    "scientific name": "Esox lucius",
+    "nodeId": 8010,
+    "scientific_name": "Esox lucius",
     "name": "pike",
-    "parent": 8009,
+    "parentId": 8009,
     "name_es": "lucio",
     "name_fr": "brochet",
     "name_hu": "csuka",
@@ -4662,13 +4972,14 @@
     "name_ca": "lluç",
     "name_ko": "강꼬치",
     "name_de": "Hecht",
-    "name_uk": "щука"
+    "name_uk": "щука",
+    "name_tr": "turna balığı"
   },
   {
-    "node": 8167,
-    "scientific name": "Perca flavescens",
+    "nodeId": 8167,
+    "scientific_name": "Perca flavescens",
     "name": "perch",
-    "parent": 8166,
+    "parentId": 8166,
     "name_es": "perca",
     "name_fr": "perchaude",
     "name_hu": "sügér",
@@ -4677,13 +4988,14 @@
     "name_ca": "perca",
     "name_ko": "퍼치",
     "name_de": "Flussbarsch",
-    "name_uk": "окунь"
+    "name_uk": "окунь",
+    "name_tr": "tatlısu levreği"
   },
   {
-    "node": 195615,
-    "scientific name": "Hippoglossus stenolepis",
+    "nodeId": 195615,
+    "scientific_name": "Hippoglossus stenolepis",
     "name": "halibut",
-    "parent": 8266,
+    "parentId": 8266,
     "name_es": "halibut",
     "name_fr": "flétan",
     "name_hu": "laposhal",
@@ -4692,13 +5004,14 @@
     "name_ca": "halibut",
     "name_ko": "넙치",
     "name_de": "Heilbutt",
-    "name_uk": "палтус"
+    "name_uk": "палтус",
+    "name_tr": "trança balığı"
   },
   {
-    "node": 129044,
-    "scientific name": "Cheilopogon melanurus",
+    "nodeId": 129044,
+    "scientific_name": "Cheilopogon melanurus",
     "name": "flying fish",
-    "parent": 293908,
+    "parentId": 293908,
     "name_es": "pez volador",
     "name_fr": "poisson volant",
     "name_hu": "repülőhal",
@@ -4707,13 +5020,14 @@
     "name_ca": "peix volador",
     "name_ko": "날치",
     "name_de": "fliegender Fisch",
-    "name_uk": "летюча риба"
+    "name_uk": "летюча риба",
+    "name_tr": "uçan balık"
   },
   {
-    "node": 8142,
-    "scientific name": "Oreochromis tanganicae",
+    "nodeId": 8142,
+    "scientific_name": "Oreochromis tanganicae",
     "name": "tilapia",
-    "parent": 8139,
+    "parentId": 8139,
     "name_es": "tilapia",
     "name_fr": "tilapia",
     "name_hu": "tilápia",
@@ -4722,13 +5036,14 @@
     "name_ca": "tilàpia",
     "name_ko": "틸라피아",
     "name_de": "Tilapia",
-    "name_uk": "тілапія"
+    "name_uk": "тілапія",
+    "name_tr": "tilapia balığı"
   },
   {
-    "node": 81389,
-    "scientific name": "Regalecus glesne",
+    "nodeId": 81389,
+    "scientific_name": "Regalecus glesne",
     "name": "oarfish",
-    "parent": 81388,
+    "parentId": 81388,
     "name_es": "pez remo",
     "name_fr": "régalec",
     "name_hu": "szíjhal",
@@ -4737,13 +5052,14 @@
     "name_ca": "peix rem",
     "name_ko": "산갈치",
     "name_de": "Riemenfische",
-    "name_uk": "оселедцевий король"
+    "name_uk": "оселедцевий король",
+    "name_tr": "kürek balığı"
   },
   {
-    "node": 7950,
-    "scientific name": "Clupea harengus",
+    "nodeId": 7950,
+    "scientific_name": "Clupea harengus",
     "name": "herring",
-    "parent": 7949,
+    "parentId": 7949,
     "name_es": "arenque",
     "name_fr": "hareng",
     "name_hu": "hering",
@@ -4752,13 +5068,14 @@
     "name_ca": "arengada",
     "name_ko": "청어",
     "name_de": "Hering",
-    "name_uk": "оселедець"
+    "name_uk": "оселедець",
+    "name_tr": "ringa balığı"
   },
   {
-    "node": 29150,
-    "scientific name": "Scomber australasicus",
+    "nodeId": 29150,
+    "scientific_name": "Scomber australasicus",
     "name": "mackerel",
-    "parent": 13675,
+    "parentId": 13675,
     "name_es": "caballa",
     "name_fr": "maquereau",
     "name_hu": "makréla",
@@ -4767,13 +5084,14 @@
     "name_ca": "verat",
     "name_ko": "고등어",
     "name_de": "Makrele",
-    "name_uk": "скумбрія"
+    "name_uk": "скумбрія",
+    "name_tr": "orkinos"
   },
   {
-    "node": 1317727,
-    "scientific name": "Pepsis grossa",
+    "nodeId": 1317727,
+    "scientific_name": "Pepsis grossa",
     "name": "tarantula hawk wasp",
-    "parent": 173815,
+    "parentId": 173815,
     "name_es": "avispas de las tarántulas",
     "name_fr": "guêpe chasseuse d'araignées",
     "name_hu": "tarantuladarazsak",
@@ -4782,13 +5100,14 @@
     "name_ca": "vespes de taràntula",
     "name_ko": "타란툴라사냥벌",
     "name_de": "Tarantulafalke",
-    "name_uk": "тарантуловий яструб"
+    "name_uk": "тарантуловий яструб",
+    "name_tr": "tarantula şahini"
   },
   {
-    "node": 44679,
-    "scientific name": "Magicicada septendecim",
+    "nodeId": 44679,
+    "scientific_name": "Magicicada septendecim",
     "name": "cicada",
-    "parent": 254007,
+    "parentId": 254007,
     "name_es": "cigarra",
     "name_fr": "cigale",
     "name_hu": "kabóca",
@@ -4797,13 +5116,14 @@
     "name_ca": "cigarra",
     "name_ko": "매미",
     "name_de": "Zikade",
-    "name_uk": "цикада"
+    "name_uk": "цикада",
+    "name_tr": "ağustos böceği"
   },
   {
-    "node": 2716284,
-    "scientific name": "Scolopendra cataracta",
+    "nodeId": 2716284,
+    "scientific_name": "Scolopendra cataracta",
     "name": "giant centipede",
-    "parent": 41364,
+    "parentId": 41364,
     "name_es": "ciempiés gigante",
     "name_fr": "scolopendre géante",
     "name_hu": "óriás százlábú",
@@ -4812,13 +5132,14 @@
     "name_ca": "centpeus gegant",
     "name_ko": "거대 지네",
     "name_de": "Riesentausendfüßer",
-    "name_uk": "гігантська багатоніжка"
+    "name_uk": "гігантська багатоніжка",
+    "name_tr": "dev çıyan"
   },
   {
-    "node": 50586,
-    "scientific name": "Lepisma saccharinum",
+    "nodeId": 50586,
+    "scientific_name": "Lepisma saccharinum",
     "name": "silverfish",
-    "parent": 50585,
+    "parentId": 50585,
     "name_es": "lepismátido",
     "name_fr": "poisson d'argent",
     "name_hu": "ezüstös pikkelyke",
@@ -4827,13 +5148,14 @@
     "name_ca": "peixet de plata",
     "name_ko": "좀벌레",
     "name_de": "Silberfischchen",
-    "name_uk": "товстолобик"
+    "name_uk": "товстолобик",
+    "name_tr": "gümüşçün"
   },
   {
-    "node": 34613,
-    "scientific name": "Ixodes ricinus",
+    "nodeId": 34613,
+    "scientific_name": "Ixodes ricinus",
     "name": "tick",
-    "parent": 6944,
+    "parentId": 6944,
     "name_es": "garrapata",
     "name_fr": "tique",
     "name_hu": "kullancs",
@@ -4842,13 +5164,14 @@
     "name_ca": "paparra",
     "name_ko": "진드기",
     "name_de": "Zecke",
-    "name_uk": "кліщ"
+    "name_uk": "кліщ",
+    "name_tr": "kene"
   },
   {
-    "node": 299642,
-    "scientific name": "Nephila pilipes",
+    "nodeId": 299642,
+    "scientific_name": "Nephila pilipes",
     "name": "orbweaver spider",
-    "parent": 6914,
+    "parentId": 6914,
     "name_es": "araña tejedora",
     "name_fr": "néphile",
     "name_hu": "kerek hálós pók",
@@ -4857,13 +5180,14 @@
     "name_ca": "aranya teixidora",
     "name_ko": "공작거미",
     "name_de": "Radnetzspinne",
-    "name_uk": "павук-ткач"
+    "name_uk": "павук-ткач",
+    "name_tr": "küre dokumacı örümcek"
   },
   {
-    "node": 280423,
-    "scientific name": "Pholcus opilionoides",
+    "nodeId": 280423,
+    "scientific_name": "Pholcus opilionoides",
     "name": "cellar spider",
-    "parent": 6931,
+    "parentId": 6931,
     "name_es": "araña de bodega",
     "name_fr": "pholque",
     "name_hu": "pincepók",
@@ -4871,14 +5195,15 @@
     "name_pt": "aranha de porão",
     "name_ca": "aranya de celler",
     "name_ko": "집게거미",
-    "name_de": "Kellerspinne",
-    "name_uk": "павук-довгоніжка"
+    "name_de": "Kleine Zitterspinne",
+    "name_uk": "павук-довгоніжка",
+    "name_tr": "kiler örümceği"
   },
   {
-    "node": 55084,
-    "scientific name": "Pandinus imperator",
+    "nodeId": 55084,
+    "scientific_name": "Pandinus imperator",
     "name": "emperor scorpion",
-    "parent": 55083,
+    "parentId": 55083,
     "name_es": "escorpión emperador",
     "name_fr": "scorpion empereur",
     "name_hu": "császárskorpió",
@@ -4887,13 +5212,14 @@
     "name_ca": "escorpí emperador",
     "name_ko": "황제 전갈",
     "name_de": "Kaiserskorpion",
-    "name_uk": "імператорський скорпіон"
+    "name_uk": "імператорський скорпіон",
+    "name_tr": "imparator akrep"
   },
   {
-    "node": 6921,
-    "scientific name": "Loxosceles reclusa",
+    "nodeId": 6921,
+    "scientific_name": "Loxosceles reclusa",
     "name": "brown recluse",
-    "parent": 6920,
+    "parentId": 6920,
     "name_es": "araña reclusa parda",
     "name_fr": "recluse brune",
     "name_hu": "barna remetepók",
@@ -4902,28 +5228,30 @@
     "name_ca": "aranya reclusa marró",
     "name_ko": "갈색 은둔자 거미",
     "name_de": "Braune Einsiedlerspinne",
-    "name_uk": "коричневий павук-відлюдник"
+    "name_uk": "коричневий павук-відлюдник",
+    "name_tr": "kahverengi münzevi örümcek"
   },
   {
-    "node": 475616,
-    "scientific name": "Rilaena triangularis",
+    "nodeId": 475616,
+    "scientific_name": "Rilaena triangularis",
     "name": "harvestman",
-    "parent": 475615,
+    "parentId": 475615,
     "name_es": "araña de la cosecha",
     "name_fr": "opilion",
-    "name_hu": "szüretelős pók",
+    "name_hu": "kaszáspók",
     "name_it": "ragno mietitore",
     "name_pt": "aranha da colheita",
     "name_ca": "aranya de la collita",
     "name_ko": "수확 거미",
     "name_de": "Erntespinne",
-    "name_uk": "косарик"
+    "name_uk": "косарик",
+    "name_tr": "hasatçı örümcek"
   },
   {
-    "node": 54263,
-    "scientific name": "Ichthyosaura alpestris",
+    "nodeId": 54263,
+    "scientific_name": "Ichthyosaura alpestris",
     "name": "newt",
-    "parent": 339873,
+    "parentId": 339873,
     "name_es": "tritone",
     "name_fr": "triton",
     "name_hu": "tarajosgőte",
@@ -4932,6 +5260,7 @@
     "name_ca": "tritó",
     "name_ko": "영원",
     "name_de": "Molch",
-    "name_uk": "тритон"
+    "name_uk": "тритон",
+    "name_tr": "sukeleri"
   }
 ]

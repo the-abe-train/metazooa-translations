@@ -1,0 +1,183 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Gizemli Hayvan",
+        "unique": "bir Gizemli Hayvan",
+        "indefinite": "bir Gizemli Hayvan",
+        "definite": "Gizemli Hayvan",
+        "demonstrative": "bu",
+        "ekligeneric": "Gizemli Hayvanı",
+        "genericc": "Gizemli Bitkisini"
+      },
+      "answer": "insan",
+      "kingdom": {
+        "generic": "hayvanlar",
+        "concord": "lar",
+        "unique": "bir",
+        "definite": "the"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "gizemli", "plural": "gizemli" },
+      "menagerie": "hayvanat bahçesine"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "Gizemli Bitki",
+        "unique": "bir Gizemli Bitki",
+        "indefinite": "bir Gizemli Bitki",
+        "definite": "Gizemli Bitki",
+        "demonstrative": "bu",
+        "ekligeneric": "Gizemli Bitkiyi",
+        "genericc": "Gizemli Bitkisini"
+      },
+      "answer": "domates",
+      "kingdom": {
+        "generic": "bitkiler",
+        "concord": "ler",
+        "unique": "bir",
+        "definite": "the"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "gizemli", "plural": "gizemli" },
+      "menagerie": "bahçeye"
+    },
+    "keywords": {
+      "remaining": "kalan",
+      "Click": "Tıkla",
+      "Tap": "Dokun"
+    },
+    "home": {
+      "0": {
+        "0": "Hayvanlar alemi (Yunanca’da <i>Metazoa</i>) uzak akrabalarımızla dolu... Bazıları diğerlerinden daha bile uzak! Metazooa, genişletilmiş aile ağacımızı ne kadar iyi bildiğini test eden bir oyun.",
+        "1": "Bitkiler aleminin (bilim insanları tarafından <i>Viridiplantae</i> olarak da adlandırılır) aile ağacı geniş ve nefes kesici... ama aynı zamanda komplike! Metaflora, bu ağacın yemyeşil yaprakları arasında yolunu ne kadar iyi bulabildiğini test eden bir oyun."
+      },
+      "1": "Hedefin bugünün <b>{{species.genericc}}</b> en az tahminde bulmak. Yanlış tahminler, cevabı taksonomik sıralama bakımından daraltacak. (alem, şube, sınıf, takım, vs.) Tahmininin cevapla ne kadar ortak noktası varsa, {{species.generic}} hakkında o kadar şey öğreneceksin.",
+      "2": "Örneğin, farz edelim ki cevap “{{answer}}”, tahminlerin aşağıdaki gibi görünen bir ağaç ortaya çıkarabilir:",
+      "3": "Günde yalnızca {{species.unique}} var, ama bulmak için {{MAX_GUESSES}} tahmin hakkın var! Yeni oyun <b>{{nextGame}}</b> içinde başlayacak.",
+      "4": "Bugünkü {{species.ekligeneric}} çoktan buldun mu?",
+      "5": "Oyna"
+    },
+    "game": {
+      "0": "Tabloyu göster",
+      "1": "Cevap ve {{guess}} bu ortak noktaya sahip.",
+      "2": "daha fazlasını öğrenmek için {{click}}",
+      "3": "Bu {{species.ekligeneric}} bul !",
+      "4": "Kazandın! Cevap <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Kazandın!",
+        "1": "Tahmin hakkın kalmadı."
+      },
+      "2": "Skorunu paylaş ya da bir alıştırma oyunu oyna!",
+      "3": "başka bir oyun oyna"
+    },
+    "share": {
+      "0": "Paylaş",
+      "1": "Paylaşıldı!",
+      "2": "Kopyalandı!",
+      "3": "Failed to share your score."
+    },
+    "table": {
+      "0": "Sıra",
+      "1": "İsim",
+      "2": "Tahminler",
+      "3": "İpuçları",
+      "4": "Ağaca dön"
+    },
+    "errors": {
+      "0": "Hata yok",
+      "1": "\"{{guess}}\" veritabanında bulunamadı",
+      "2": "\"{{guess}}\" zaten tahmin edildi",
+      "3": "Cevap \"{{guess}}\"",
+      "4": "Demek istediğin bu mu: \"{{guess}}\""
+    },
+    "button": {
+      "0": "{{menagerie}} giriş yap!"
+    },
+    "footer": {
+      "0": "Trainwreck Labs’den",
+      "1": "Discord sunucumuza katıl!",
+      "2": "Bir sorun mu var?",
+      "3": "SSS’ye bir göz at"
+    },
+    "hint": {
+      "0": "İpucuna mı ihtiyacın var? 3 tahmin karşılığında bir sıra aç!",
+      "1": "Hint"
+    },
+    "wikipedia": {
+      "0": "Vikipedi’den",
+      "1": {
+        "Show": "Görseli göster",
+        "Hide": "Görseli gizle"
+      }
+    },
+    "guesser": {
+      "0": "Başlamak için herhangi bir tahminde bulun!",
+      "1": "Sıradaki tahminini gir.",
+      "2": "Tahmin et"
+    },
+    "statistics": {
+      "0": "İstatistikler",
+      "1": "Oyunlar",
+      "2": "Seri",
+      "3": "Oynanan",
+      "4": "Kazanılan",
+      "5": "Mevcut",
+      "6": "Max",
+      "7": "Kazanılan her oyun için kullanılan soru sayısı. Bar rengi tahminin cevaba ortalama yakınlığını belirtir."
+    },
+    "settings": {
+      "0": "Ayarlar",
+      "1": "Bilimsel isimlerle tahmin et",
+      "2": "Dil",
+      "3": "Türkçe",
+      "4": "Karanlık mod"
+    },
+    "practice": {
+      "0": "Alıştırma",
+      "1": "Sınırsız {{game}} turu oyna!",
+      "2": "Yeni Alıştırma",
+      "3": "Alıştırmaya Devam Et"
+    },
+    "links": {
+      "0": "Linkler",
+      "1": "Sıkça Sorulan Sorular",
+      "2": "Gizlilik Politikası"
+    },
+    "twl": {
+      "0": "Hesap",
+      "1": "<b>{{game}}</b>’yı TWL hesabına bağla",
+      "2": "Google’la giriş yap",
+      "3": "Discord’la giriş yap",
+      "4": "Trainwreck Labs bültenine abone ol",
+      "5": "Reklamları kaldır",
+      "6": "Bağlantıyı kes",
+      "7": "Kulüp üyesi"
+    },
+    "faq": {
+      "0": "SSS",
+      "1": {
+        "q": "Oyundaki {{kingdom.generic}} neye göre seçildi?",
+        "a": "Oyundaki {{kingdom.generic}} insanların aşinalığına ve oyunu ne kadar daha ilginç hale getirebileceklerine göre seçildi."
+      },
+      "2": {
+        "q": "Oyun yanlış! Vikipedi’nin bazı {{kingdom.generic}} için farklı sınıflandırmaları var.",
+        "a": "Bu mümkün. Oyun içinde kullanılan sınıflandırmalar, hayvanlar için en yaygın sınıflandırma sistemi olan NCBI’nin sistemine dayalı. Fakat tek sınıflandırma sistemi bu değil. Vikipedi’nin sınıflandırma sistemi de yaygın bir şekilde kullanılmakta, ve bu iki sistemin bazı türleri farklı şekillerde sınıflandırması mümkün."
+      },
+      "3": {
+        "q": "Oyunda neden \"Sürüngen\" veya \"Reptilia\" sınıfları yok?",
+        "a": "Vikipedi gibi bazı veri kümeleri Sürüngen sınıfını kullanırken, NCBI sınıflandırma sistemi bunu kullanmaz. Bunun yerine NCBI, tüm sürüngen ve kuşları bünyesinde bulunduran Sauropsida sınıfını kullanır. Bunun sebebi, yaygın bir şekilde sürüngen olarak sınıflandırılan bazı hayvanların kuşlarla, diğer sürüngenlerle olduğundan daha fazla ortak noktaya sahip olmasıdır. Örneğin timsahlar, kertenkelelere nazaran kuşlarla daha yakın akrabalardır."
+      },
+      "4": {
+        "q": "Neden \"evcil kedi\" geçerli bir tahminken \"evcil köpek\" değil?",
+        "a": "Bunun nedeni, evcil kedilerin kendi türleri varken (\"Felis catus\"), evcil köpeklerin genellikle kurtların alt türü olarak (\"Canis lupus familiaris\") sınıflandırılmasıdır."
+      },
+      "5": {
+        "q": "{{game}} bir gizlilik politikasına sahip mi?",
+        "a": "{{game}}'nın gizlilik politikasına ulaşmak için bu linke tıkla <a href=\"/privacy-policy\" class=\"underline\">privacy policy</a>."
+      }
+    }
+  }
+}
