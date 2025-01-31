@@ -1,7 +1,7 @@
 import json
 
-new_lang = "tr"
-kingdom = "animals"
+new_lang = "cz"
+kingdom = "plants"
 
 with open(f"data/{kingdom}_{new_lang}.json", "r") as f:
     new_species = json.load(f)
@@ -31,7 +31,7 @@ for species in old_species:
         species[field] = new_name
         output.append(species)
     else:
-        raise Exception(f"Node {node} not found in new animals")
+        raise Exception(f"Node {node} not found in new {kingdom}")
 
 
 with open(f"data/{kingdom}_added.json", "w") as f:
