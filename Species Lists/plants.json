@@ -5,6 +5,7 @@
     "name": "almond",
     "parentId": 3754,
     "name_es": "almendra",
+    "name_fr": "amande",
     "name_de": "Mandel",
     "name_tr": "badem"
   },
@@ -14,6 +15,7 @@
     "name": "apple",
     "parentId": 3749,
     "name_es": "manzana",
+    "name_fr": "pomme",
     "name_de": "Apfel",
     "name_tr": "elma"
   },
@@ -23,6 +25,7 @@
     "name": "apricot",
     "parentId": 3754,
     "name_es": "albaricoque",
+    "name_fr": "abricot",
     "name_de": "Aprikose",
     "name_tr": "kayısı"
   },
@@ -32,6 +35,7 @@
     "name": "asparagus",
     "parentId": 4685,
     "name_es": "espárragos",
+    "name_fr": "asperge",
     "name_de": "Spargel",
     "name_tr": "kuşkonmaz"
   },
@@ -41,6 +45,7 @@
     "name": "avocado",
     "parentId": 3434,
     "name_es": "palta",
+    "name_fr": "avocat",
     "name_de": "Avocado",
     "name_tr": "avokado"
   },
@@ -50,6 +55,7 @@
     "name": "black pepper",
     "parentId": 13215,
     "name_es": "pimienta negra",
+    "name_fr": "poivre noir",
     "name_de": "Schwarzer Pfeffer",
     "name_tr": "karabiber"
   },
@@ -59,6 +65,7 @@
     "name": "brazil nut",
     "parentId": 3644,
     "name_es": "nuez de Brasil",
+    "name_fr": "noix du Brésil",
     "name_de": "Paranuss",
     "name_tr": "brezilya cevizi"
   },
@@ -68,6 +75,7 @@
     "name": "breadfruit",
     "parentId": 3488,
     "name_es": "panapen",
+    "name_fr": "arbre à pain",
     "name_de": "Brotfrucht",
     "name_tr": "ekmek ağacı meyvesi"
   },
@@ -77,6 +85,7 @@
     "name": "buckwheat",
     "parentId": 3616,
     "name_es": "alforfón",
+    "name_fr": "sarrasin",
     "name_de": "Buchweizen",
     "name_tr": "karabuğday"
   },
@@ -86,6 +95,7 @@
     "name": "cacao",
     "parentId": 3640,
     "name_es": "cacao",
+    "name_fr": "cacao",
     "name_de": "Kakao",
     "name_tr": "kakao"
   },
@@ -95,6 +105,7 @@
     "name": "melon",
     "parentId": 3655,
     "name_es": "melón",
+    "name_fr": "melon",
     "name_de": "Melone",
     "name_tr": "kavun"
   },
@@ -104,6 +115,7 @@
     "name": "cardamom",
     "parentId": 105180,
     "name_es": "cardamomo",
+    "name_fr": "cardamome",
     "name_de": "Kardamom",
     "name_tr": "kakule"
   },
@@ -113,6 +125,7 @@
     "name": "cashew",
     "parentId": 171928,
     "name_es": "anacardo",
+    "name_fr": "noix de cajou",
     "name_de": "Cashew",
     "name_tr": "kaju"
   },
@@ -122,6 +135,7 @@
     "name": "cassava",
     "parentId": 3982,
     "name_es": "mandioca",
+    "name_fr": "manioc",
     "name_de": "Maniok",
     "name_tr": "manyok"
   },
@@ -131,6 +145,7 @@
     "name": "celery",
     "parentId": 4044,
     "name_es": "apio",
+    "name_fr": "céleri",
     "name_de": "Sellerie",
     "name_tr": "kereviz"
   },
@@ -140,6 +155,7 @@
     "name": "chestnut",
     "parentId": 21019,
     "name_es": "castaña",
+    "name_fr": "châtaigne",
     "name_de": "Kastanie",
     "name_tr": "kestane"
   },
@@ -149,6 +165,7 @@
     "name": "chicory",
     "parentId": 13426,
     "name_es": "achicoria",
+    "name_fr": "chicorée",
     "name_de": "Chicorée",
     "name_tr": "hindiba"
   },
@@ -158,6 +175,7 @@
     "name": "cinnamon",
     "parentId": 13428,
     "name_es": "canela",
+    "name_fr": "cannelle",
     "name_de": "Zimt",
     "name_tr": "tarçın"
   },
@@ -167,6 +185,7 @@
     "name": "coconut",
     "parentId": 13893,
     "name_es": "coco",
+    "name_fr": "noix de coco",
     "name_de": "Kokosnuss",
     "name_tr": "hindistan cevizi"
   },
@@ -176,6 +195,7 @@
     "name": "corn",
     "parentId": 4575,
     "name_es": "maíz",
+    "name_fr": "maïs",
     "name_de": "Mais",
     "name_tr": "mısır"
   },
@@ -185,6 +205,7 @@
     "name": "cucumber",
     "parentId": 3655,
     "name_es": "pepino",
+    "name_fr": "concombre",
     "name_de": "Gurke",
     "name_tr": "salatalık"
   },
@@ -194,6 +215,7 @@
     "name": "date",
     "parentId": 4719,
     "name_es": "fecha",
+    "name_fr": "datte",
     "name_de": "Dattel",
     "name_tr": "arap hurması"
   },
@@ -203,6 +225,7 @@
     "name": "hazelnut",
     "parentId": 13450,
     "name_es": "avellana",
+    "name_fr": "noisette",
     "name_de": "Haselnuss",
     "name_tr": "fındık"
   },
@@ -212,6 +235,7 @@
     "name": "flax",
     "parentId": 4005,
     "name_es": "linaza",
+    "name_fr": "lin",
     "name_de": "Lein",
     "name_tr": "keten"
   },
@@ -221,6 +245,7 @@
     "name": "garlic",
     "parentId": 4678,
     "name_es": "ajo",
+    "name_fr": "ail",
     "name_de": "Knoblauch",
     "name_tr": "sarımsak"
   },
@@ -230,6 +255,7 @@
     "name": "ginger",
     "parentId": 4650,
     "name_es": "jengibre",
+    "name_fr": "gingembre",
     "name_de": "Ingwer",
     "name_tr": "zencefil"
   },
@@ -239,6 +265,7 @@
     "name": "grape",
     "parentId": 3603,
     "name_es": "uva",
+    "name_fr": "raisin",
     "name_de": "Weintraube",
     "name_tr": "üzüm"
   },
@@ -248,6 +275,7 @@
     "name": "orchard grass",
     "parentId": 4508,
     "name_es": "hierba de huerto",
+    "name_fr": "dactyle aggloméré",
     "name_de": "Knaulgras",
     "name_tr": "horoz ayağı"
   },
@@ -257,6 +285,7 @@
     "name": "guava",
     "parentId": 120289,
     "name_es": "guayaba",
+    "name_fr": "goyave",
     "name_de": "Guave",
     "name_tr": "guava"
   },
@@ -266,6 +295,7 @@
     "name": "hemp",
     "parentId": 3482,
     "name_es": "cáñamo",
+    "name_fr": "chanvre",
     "name_de": "Hanf",
     "name_tr": "kenevir"
   },
@@ -275,6 +305,7 @@
     "name": "henna",
     "parentId": 141190,
     "name_es": "alheña",
+    "name_fr": "henné",
     "name_de": "Henna",
     "name_tr": "kına"
   },
@@ -284,6 +315,7 @@
     "name": "hop",
     "parentId": 3484,
     "name_es": "brincar",
+    "name_fr": "houblon",
     "name_de": "Hopfen",
     "name_tr": "şerbetçiotu"
   },
@@ -293,6 +325,7 @@
     "name": "horseradish",
     "parentId": 3703,
     "name_es": "rábano picante",
+    "name_fr": "raifort",
     "name_de": "Meerrettich",
     "name_tr": "yaban turpu"
   },
@@ -302,6 +335,7 @@
     "name": "lemongrass",
     "parentId": 66013,
     "name_es": "la hierba de limón",
+    "name_fr": "citronnelle",
     "name_de": "Zitronengras",
     "name_tr": "limon otu"
   },
@@ -311,6 +345,7 @@
     "name": "lettuce",
     "parentId": 4235,
     "name_es": "lechuga",
+    "name_fr": "laitue",
     "name_de": "Kopfsalat",
     "name_tr": "marul"
   },
@@ -320,6 +355,7 @@
     "name": "lychee",
     "parentId": 151068,
     "name_es": "lychee",
+    "name_fr": "litchi",
     "name_de": "Litschi",
     "name_tr": "liçi"
   },
@@ -329,6 +365,7 @@
     "name": "macadamia nut",
     "parentId": 4329,
     "name_es": "nuez de macadamia",
+    "name_fr": "noix de macadamia",
     "name_de": "Macadamianuss",
     "name_tr": "makademya fındığı"
   },
@@ -338,6 +375,7 @@
     "name": "mace",
     "parentId": 51088,
     "name_es": "mazo",
+    "name_fr": "noix de muscade",
     "name_de": "Muskatblüte",
     "name_tr": "magi"
   },
@@ -347,6 +385,7 @@
     "name": "agave",
     "parentId": 39509,
     "name_es": "agave",
+    "name_fr": "agave",
     "name_de": "Agave",
     "name_tr": "agave"
   },
@@ -356,6 +395,7 @@
     "name": "mandarin",
     "parentId": 2706,
     "name_es": "mandarín",
+    "name_fr": "mandarine",
     "name_de": "Mandarine",
     "name_tr": "mandalina"
   },
@@ -365,6 +405,7 @@
     "name": "mango",
     "parentId": 23461,
     "name_es": "mango",
+    "name_fr": "mangue",
     "name_de": "Mango",
     "name_tr": "mango"
   },
@@ -374,6 +415,7 @@
     "name": "silkworm mulberry",
     "parentId": 3497,
     "name_es": "morera de gusano de seda",
+    "name_fr": "mûrier blanc",
     "name_de": "Weiße Maulbeere",
     "name_tr": "beyaz dut"
   },
@@ -383,6 +425,7 @@
     "name": "black mustard",
     "parentId": 3705,
     "name_es": "mostaza negra",
+    "name_fr": "moutarde noire",
     "name_de": "Schwarzer Senf",
     "name_tr": "hardal tohumu"
   },
@@ -392,6 +435,7 @@
     "name": "oil palm",
     "parentId": 51952,
     "name_es": "aceite de palma",
+    "name_fr": "palmier à huile",
     "name_de": "Ölpalme",
     "name_tr": "yağ palmiyesi"
   },
@@ -401,6 +445,7 @@
     "name": "okra",
     "parentId": 183218,
     "name_es": "okra",
+    "name_fr": "gombo",
     "name_de": "Okra",
     "name_tr": "bamya"
   },
@@ -410,6 +455,7 @@
     "name": "olive",
     "parentId": 4145,
     "name_es": "aceituna",
+    "name_fr": "olive",
     "name_de": "Olive",
     "name_tr": "zeytin"
   },
@@ -419,6 +465,7 @@
     "name": "papaya",
     "parentId": 3648,
     "name_es": "papaya",
+    "name_fr": "papaye",
     "name_de": "Papaya",
     "name_tr": "papaya"
   },
@@ -428,6 +475,7 @@
     "name": "parsnip",
     "parentId": 4040,
     "name_es": "chirivía",
+    "name_fr": "panais",
     "name_de": "Pastinake",
     "name_tr": "yaban havucu"
   },
@@ -437,6 +485,7 @@
     "name": "peach",
     "parentId": 3754,
     "name_es": "durazno",
+    "name_fr": "pêche",
     "name_de": "Pfirsich",
     "name_tr": "şeftali"
   },
@@ -446,6 +495,7 @@
     "name": "pear",
     "parentId": 3766,
     "name_es": "pera",
+    "name_fr": "poire",
     "name_de": "Birne",
     "name_tr": "armut"
   },
@@ -455,6 +505,7 @@
     "name": "persimmon",
     "parentId": 13492,
     "name_es": "caqui",
+    "name_fr": "kaki",
     "name_de": "Persimone",
     "name_tr": "hurma"
   },
@@ -464,6 +515,7 @@
     "name": "pistachio",
     "parentId": 55512,
     "name_es": "pistacho",
+    "name_fr": "pistache",
     "name_de": "Pistazie",
     "name_tr": "antep fıstığı"
   },
@@ -473,6 +525,7 @@
     "name": "plum",
     "parentId": 3754,
     "name_es": "ciruela",
+    "name_fr": "prune",
     "name_de": "Pflaume",
     "name_tr": "mürdüm eriği"
   },
@@ -482,6 +535,7 @@
     "name": "pomegranate",
     "parentId": 22662,
     "name_es": "granada",
+    "name_fr": "grenade",
     "name_de": "Granatapfel",
     "name_tr": "nar"
   },
@@ -491,6 +545,7 @@
     "name": "poppy",
     "parentId": 3468,
     "name_es": "amapola",
+    "name_fr": "pavot somnifère",
     "name_de": "Mohn",
     "name_tr": "haşhaş"
   },
@@ -500,6 +555,7 @@
     "name": "sweet potato",
     "parentId": 4119,
     "name_es": "batata",
+    "name_fr": "patate douce",
     "name_de": "Süßkartoffel",
     "name_tr": "tatlı patates"
   },
@@ -509,6 +565,7 @@
     "name": "quinoa",
     "parentId": 3558,
     "name_es": "quinua",
+    "name_fr": "quinoa",
     "name_de": "Quinoa",
     "name_tr": "kinoa"
   },
@@ -518,6 +575,7 @@
     "name": "radish",
     "parentId": 3725,
     "name_es": "rábano",
+    "name_fr": "radis",
     "name_de": "Radieschen",
     "name_tr": "turp"
   },
@@ -527,6 +585,7 @@
     "name": "rice",
     "parentId": 4527,
     "name_es": "arroz",
+    "name_fr": "riz",
     "name_de": "Reis",
     "name_tr": "pirinç"
   },
@@ -536,6 +595,7 @@
     "name": "rubber",
     "parentId": 3980,
     "name_es": "goma",
+    "name_fr": "hévéa",
     "name_de": "Kautschuk",
     "name_tr": "kauçuk ağacı"
   },
@@ -545,6 +605,7 @@
     "name": "rye",
     "parentId": 4549,
     "name_es": "centeno",
+    "name_fr": "seigle",
     "name_de": "Roggen",
     "name_tr": "çavdar"
   },
@@ -554,6 +615,7 @@
     "name": "shea nut",
     "parentId": 292384,
     "name_es": "karité",
+    "name_fr": "karité",
     "name_de": "Sheanuss",
     "name_tr": "karite"
   },
@@ -563,6 +625,7 @@
     "name": "sesame",
     "parentId": 4181,
     "name_es": "sésamo",
+    "name_fr": "sésame",
     "name_de": "Sesam",
     "name_tr": "susam"
   },
@@ -572,6 +635,7 @@
     "name": "spelt",
     "parentId": 4564,
     "name_es": "espelta",
+    "name_fr": "épautre",
     "name_de": "Dinkel",
     "name_tr": "kavuzlu buğday"
   },
@@ -581,6 +645,7 @@
     "name": "spinach",
     "parentId": 3561,
     "name_es": "espinaca",
+    "name_fr": "épinard",
     "name_de": "Spinat",
     "name_tr": "ıspanak"
   },
@@ -590,6 +655,7 @@
     "name": "sunflower",
     "parentId": 4231,
     "name_es": "girasol",
+    "name_fr": "tournesol",
     "name_de": "Sonnenblume",
     "name_tr": "ayçiçeği"
   },
@@ -599,6 +665,7 @@
     "name": "sweet pepper",
     "parentId": 4071,
     "name_es": "pimienta dulce",
+    "name_fr": "poivron",
     "name_de": "Paprika",
     "name_tr": "biber"
   },
@@ -608,6 +675,7 @@
     "name": "taro",
     "parentId": 4459,
     "name_es": "taro",
+    "name_fr": "taro",
     "name_de": "Taro",
     "name_tr": "gölevez"
   },
@@ -617,6 +685,7 @@
     "name": "tea",
     "parentId": 4441,
     "name_es": "té",
+    "name_fr": "thé",
     "name_de": "Tee",
     "name_tr": "çay"
   },
@@ -626,6 +695,7 @@
     "name": "tobacco",
     "parentId": 4085,
     "name_es": "tabaco",
+    "name_fr": "tabac",
     "name_de": "Tabak",
     "name_tr": "tütün bitkisi"
   },
@@ -635,6 +705,7 @@
     "name": "vanilla",
     "parentId": 51238,
     "name_es": "vainilla",
+    "name_fr": "vanille",
     "name_de": "Vanille",
     "name_tr": "vanilya"
   },
@@ -644,6 +715,7 @@
     "name": "watermelon",
     "parentId": 3653,
     "name_es": "sandía",
+    "name_fr": "pastèque",
     "name_de": "Wassermelone",
     "name_tr": "karpuz"
   },
@@ -653,6 +725,7 @@
     "name": "wheat",
     "parentId": 4564,
     "name_es": "trigo",
+    "name_fr": "blé",
     "name_de": "Weizen",
     "name_tr": "buğday"
   },
@@ -662,6 +735,7 @@
     "name": "baobab",
     "parentId": 69108,
     "name_es": "baobab",
+    "name_fr": "baobab",
     "name_de": "Baobab",
     "name_tr": "baobab"
   },
@@ -671,6 +745,7 @@
     "name": "weeping willow",
     "parentId": 40685,
     "name_es": "sauce llorón",
+    "name_fr": "saule pleureur",
     "name_de": "Trauerweide",
     "name_tr": "salkım söğüt"
   },
@@ -680,6 +755,7 @@
     "name": "silver birch",
     "parentId": 3504,
     "name_es": "abedul de plata",
+    "name_fr": "bouleau verruqueux",
     "name_de": "Hängebirke",
     "name_tr": "gümüş huş"
   },
@@ -689,6 +765,7 @@
     "name": "giant sequoia",
     "parentId": 99813,
     "name_es": "sequoia gigante",
+    "name_fr": "séquoia géant",
     "name_de": "Riesenmammutbaum",
     "name_tr": "dev sekoya"
   },
@@ -698,6 +775,7 @@
     "name": "douglas fir",
     "parentId": 3356,
     "name_es": "abeto de douglas",
+    "name_fr": "sapin de Douglas",
     "name_de": "Douglasie",
     "name_tr": "köknar ağacı"
   },
@@ -707,6 +785,7 @@
     "name": "cedar of lebanon",
     "parentId": 3321,
     "name_es": "cedro del Líbano",
+    "name_fr": "cèdre du liban",
     "name_de": "Libanon-Zeder",
     "name_tr": "Lübnan sediri"
   },
@@ -716,6 +795,7 @@
     "name": "baltic pine",
     "parentId": 139271,
     "name_es": "pino báltico",
+    "name_fr": "pin sylvestre",
     "name_de": "Waldkiefer",
     "name_tr": "Baltık çamı"
   },
@@ -725,6 +805,7 @@
     "name": "spruce",
     "parentId": 3328,
     "name_es": "abeto",
+    "name_fr": "épicéa commun",
     "name_de": "Fichte",
     "name_tr": "ladin"
   },
@@ -734,6 +815,7 @@
     "name": "tomato",
     "parentId": 49274,
     "name_es": "tomate",
+    "name_fr": "tomate",
     "name_de": "Tomate",
     "name_tr": "domates"
   },
@@ -743,6 +825,7 @@
     "name": "eggplant",
     "parentId": 4107,
     "name_es": "berenjena",
+    "name_fr": "aubergine",
     "name_de": "Aubergine",
     "name_tr": "patlıcan"
   },
@@ -752,6 +835,7 @@
     "name": "potato",
     "parentId": 4107,
     "name_es": "papa",
+    "name_fr": "pomme de terre",
     "name_de": "Kartoffel",
     "name_tr": "patates"
   },
@@ -761,6 +845,7 @@
     "name": "onion",
     "parentId": 4678,
     "name_es": "cebolla",
+    "name_fr": "oignon",
     "name_de": "Zwiebel",
     "name_tr": "soğan"
   },
@@ -770,6 +855,7 @@
     "name": "pineapple",
     "parentId": 4614,
     "name_es": "piña",
+    "name_fr": "ananas",
     "name_de": "Ananas",
     "name_tr": "ananas"
   },
@@ -779,6 +865,7 @@
     "name": "oak",
     "parentId": 3511,
     "name_es": "roble",
+    "name_fr": "chêne pédonculé",
     "name_de": "Eiche",
     "name_tr": "meşe"
   },
@@ -788,6 +875,7 @@
     "name": "common beech",
     "parentId": 21024,
     "name_es": "hayas comunes",
+    "name_fr": "hêtre commun",
     "name_de": "Rotbuche",
     "name_tr": "kayın"
   },
@@ -797,6 +885,7 @@
     "name": "common bean",
     "parentId": 3883,
     "name_es": "frijol común",
+    "name_fr": "haricot",
     "name_de": "Gartenbohne",
     "name_tr": "fasulye"
   },
@@ -806,6 +895,7 @@
     "name": "fava bean",
     "parentId": 3904,
     "name_es": "frijol fava",
+    "name_fr": "fève",
     "name_de": "Dicke Bohne",
     "name_tr": "bakla"
   },
@@ -815,6 +905,7 @@
     "name": "soy bean",
     "parentId": 1462606,
     "name_es": "soy bean",
+    "name_fr": "soja",
     "name_de": "Sojabohne",
     "name_tr": "soya fasulyesi"
   },
@@ -824,6 +915,7 @@
     "name": "garden pea",
     "parentId": 3887,
     "name_es": "guisante de jardín",
+    "name_fr": "pois",
     "name_de": "Erbse",
     "name_tr": "bezelye"
   },
@@ -833,6 +925,7 @@
     "name": "black eyed pea",
     "parentId": 3913,
     "name_es": "guisante de ojos negros",
+    "name_fr": "niébé",
     "name_de": "Augenbohne",
     "name_tr": "börülce"
   },
@@ -842,6 +935,7 @@
     "name": "chickpea",
     "parentId": 3826,
     "name_es": "garbanzo",
+    "name_fr": "pois chiche",
     "name_de": "Kichererbse",
     "name_tr": "nohut"
   },
@@ -851,6 +945,7 @@
     "name": "lentil",
     "parentId": 3863,
     "name_es": "lenteja",
+    "name_fr": "lentille",
     "name_de": "Linse",
     "name_tr": "mercimek"
   },
@@ -860,6 +955,7 @@
     "name": "peanut",
     "parentId": 3817,
     "name_es": "maní",
+    "name_fr": "cacahuète",
     "name_de": "Erdnuss",
     "name_tr": "yer fıstığı"
   },
@@ -869,6 +965,7 @@
     "name": "carob",
     "parentId": 20339,
     "name_es": "algarroba",
+    "name_fr": "caroube",
     "name_de": "Johannisbrot",
     "name_tr": "keçiboynuzu"
   },
@@ -878,6 +975,7 @@
     "name": "licorice",
     "parentId": 46347,
     "name_es": "regaliz",
+    "name_fr": "réglisse",
     "name_de": "Süßholz",
     "name_tr": "meyan kökü"
   },
@@ -887,6 +985,7 @@
     "name": "gum arabic tree",
     "parentId": 468162,
     "name_es": "goma de goma de árbol árabe",
+    "name_fr": "gommier rouge",
     "name_de": "Gummiarabikumbaum",
     "name_tr": "arap akasyası"
   },
@@ -896,6 +995,7 @@
     "name": "tamarind",
     "parentId": 58859,
     "name_es": "tamarindo",
+    "name_fr": "tamarinier",
     "name_de": "Tamarinde",
     "name_tr": "demirhindi"
   },
@@ -905,6 +1005,7 @@
     "name": "alfalfa",
     "parentId": 3877,
     "name_es": "alfalfa",
+    "name_fr": "luzerne",
     "name_de": "Luzerne",
     "name_tr": "yonca"
   },
@@ -914,6 +1015,7 @@
     "name": "sweet pea",
     "parentId": 3853,
     "name_es": "guisante dulce",
+    "name_fr": "pois de senteur",
     "name_de": "Duftwicke",
     "name_tr": "ıtırşahi"
   },
@@ -923,6 +1025,7 @@
     "name": "touch-me-not",
     "parentId": 21013,
     "name_es": "nometoques",
+    "name_fr": "sensitive",
     "name_de": "Schamhafte Mimose",
     "name_tr": "küstüm otu"
   },
@@ -932,6 +1035,7 @@
     "name": "senna",
     "parentId": 53922,
     "name_es": "senna",
+    "name_fr": "séné",
     "name_de": "Sennes",
     "name_tr": "sinameki"
   },
@@ -941,6 +1045,7 @@
     "name": "gorse",
     "parentId": 3901,
     "name_es": "tojo",
+    "name_fr": "ajonc",
     "name_de": "Stechginster",
     "name_tr": "dikenli katırtırnağı"
   },
@@ -950,6 +1055,7 @@
     "name": "citron",
     "parentId": 2706,
     "name_es": "cidra",
+    "name_fr": "cédrat",
     "name_de": "Zedrat",
     "name_tr": "ağaç kavunu"
   },
@@ -959,6 +1065,7 @@
     "name": "rose",
     "parentId": 3764,
     "name_es": "rosa",
+    "name_fr": "rose",
     "name_de": "Rose",
     "name_tr": "gül"
   },
@@ -968,6 +1075,7 @@
     "name": "lime",
     "parentId": 2706,
     "name_es": "lima",
+    "name_fr": "citron vert",
     "name_de": "Limette",
     "name_tr": "misket limonu"
   },
@@ -977,6 +1085,7 @@
     "name": "lemon",
     "parentId": 2706,
     "name_es": "limón",
+    "name_fr": "citron",
     "name_de": "Zitrone",
     "name_tr": "limon"
   },
@@ -986,6 +1095,7 @@
     "name": "wasabi",
     "parentId": 98005,
     "name_es": "wasabi",
+    "name_fr": "wasabi",
     "name_de": "Wasabi",
     "name_tr": "vasabi"
   },
@@ -995,6 +1105,7 @@
     "name": "orchid",
     "parentId": 59329,
     "name_es": "orquídea",
+    "name_fr": "orchidée",
     "name_de": "Bienen-Ragwurz",
     "name_tr": "arı salebi"
   },
@@ -1004,6 +1115,7 @@
     "name": "carrot",
     "parentId": 1873447,
     "name_es": "zanahoria",
+    "name_fr": "carotte",
     "name_de": "Karotte",
     "name_tr": "havuç"
   },
@@ -1013,6 +1125,7 @@
     "name": "beetroot",
     "parentId": 3554,
     "name_es": "raíz de remolacha",
+    "name_fr": "betterave rouge",
     "name_de": "Rote Bete",
     "name_tr": "pancar"
   },
@@ -1022,6 +1135,7 @@
     "name": "cherry",
     "parentId": 3754,
     "name_es": "cereza",
+    "name_fr": "cerise",
     "name_de": "Kirsche",
     "name_tr": "kiraz"
   },
@@ -1031,6 +1145,7 @@
     "name": "daisy",
     "parentId": 1478145,
     "name_es": "margarita",
+    "name_fr": "chrysanthème des jardins",
     "name_de": "Speisecrysantheme",
     "name_tr": "papatya"
   },
@@ -1040,6 +1155,7 @@
     "name": "moss",
     "parentId": 80888,
     "name_es": "musgo",
+    "name_fr": "mousse",
     "name_de": "Moos",
     "name_tr": "yosun"
   },
@@ -1049,6 +1165,7 @@
     "name": "leek",
     "parentId": 4678,
     "name_es": "puerro",
+    "name_fr": "poireau",
     "name_de": "Porree",
     "name_tr": "kaya sarımsağı"
   },
@@ -1058,6 +1175,7 @@
     "name": "pumpkin",
     "parentId": 3660,
     "name_es": "calabaza gigante",
+    "name_fr": "courge",
     "name_de": "Kürbis",
     "name_tr": "sakız kabağı"
   },
@@ -1067,6 +1185,7 @@
     "name": "butternut squash",
     "parentId": 3660,
     "name_es": "ayote",
+    "name_fr": "courge musquée",
     "name_de": "Butternusskürbis",
     "name_tr": "bal kabağı"
   },
@@ -1076,6 +1195,7 @@
     "name": "tulip",
     "parentId": 13305,
     "name_es": "tulipán",
+    "name_fr": "tulipe",
     "name_de": "Tulpe",
     "name_tr": "lale"
   },
@@ -1085,6 +1205,7 @@
     "name": "sugar maple",
     "parentId": 4022,
     "name_es": "arce de azúcar",
+    "name_fr": "érable à sucre",
     "name_de": "Zuckerahorn",
     "name_tr": "gümüşi akçaağaç"
   },
@@ -1094,6 +1215,7 @@
     "name": "blueberry",
     "parentId": 13749,
     "name_es": "arándano azul",
+    "name_fr": "airelle des marais",
     "name_de": "Heidelbeere",
     "name_tr": "yaban mersini"
   },
@@ -1103,6 +1225,7 @@
     "name": "strawberry",
     "parentId": 3746,
     "name_es": "fresa",
+    "name_fr": "fraise",
     "name_de": "Erdbeere",
     "name_tr": "çilek"
   },
@@ -1112,6 +1235,7 @@
     "name": "blackberry",
     "parentId": 23216,
     "name_es": "mora",
+    "name_fr": "mûre",
     "name_de": "Brombeere",
     "name_tr": "karadut"
   },
@@ -1121,6 +1245,7 @@
     "name": "raspberry",
     "parentId": 23216,
     "name_es": "frambuesa",
+    "name_fr": "framboise",
     "name_de": "Himbeere",
     "name_tr": "frambuaz"
   },
@@ -1130,6 +1255,7 @@
     "name": "cranberry",
     "parentId": 13749,
     "name_es": "arándano rojo",
+    "name_fr": "canneberge",
     "name_de": "Moosbeere",
     "name_tr": "kızılcık"
   },
@@ -1139,6 +1265,7 @@
     "name": "cabbage",
     "parentId": 3705,
     "name_es": "repollo",
+    "name_fr": "chou",
     "name_de": "Kohl",
     "name_tr": "lahana"
   },
@@ -1148,6 +1275,7 @@
     "name": "bok choy",
     "parentId": 3705,
     "name_es": "libro choy",
+    "name_fr": "pakchoï",
     "name_de": "Pak Choi",
     "name_tr": "şalgam"
   },
@@ -1157,6 +1285,7 @@
     "name": "dandelion",
     "parentId": 49743,
     "name_es": "diente de león",
+    "name_fr": "pissenlit",
     "name_de": "Löwenzahn",
     "name_tr": "karahindiba"
   },
@@ -1166,6 +1295,7 @@
     "name": "spearmint",
     "parentId": 21819,
     "name_es": "menta verde",
+    "name_fr": "menthe verte",
     "name_de": "Grüne Minze",
     "name_tr": "eşek nanesi"
   },
@@ -1175,6 +1305,7 @@
     "name": "basil",
     "parentId": 39173,
     "name_es": "albahaca",
+    "name_fr": "basilic",
     "name_de": "Basilikum",
     "name_tr": "fesleğen"
   },
@@ -1184,6 +1315,7 @@
     "name": "coffee",
     "parentId": 13442,
     "name_es": "café",
+    "name_fr": "caffé",
     "name_de": "Kaffee",
     "name_tr": "kahve"
   },
@@ -1193,6 +1325,7 @@
     "name": "lavender",
     "parentId": 39169,
     "name_es": "lavanda",
+    "name_fr": "lavande",
     "name_de": "Lavendel",
     "name_tr": "lavanta"
   },
@@ -1202,6 +1335,7 @@
     "name": "parsley",
     "parentId": 4042,
     "name_es": "perejil",
+    "name_fr": "persil",
     "name_de": "Petersilie",
     "name_tr": "maydanoz"
   },
@@ -1211,6 +1345,7 @@
     "name": "thyme",
     "parentId": 49990,
     "name_es": "tomillo",
+    "name_fr": "thym",
     "name_de": "Thymian",
     "name_tr": "kekik"
   },
@@ -1220,6 +1355,7 @@
     "name": "orange",
     "parentId": 2706,
     "name_es": "naranja",
+    "name_fr": "orange",
     "name_de": "Orange",
     "name_tr": "portakal"
   },
@@ -1229,6 +1365,7 @@
     "name": "grapefruit",
     "parentId": 2706,
     "name_es": "pomelo",
+    "name_fr": "pamplemousse",
     "name_de": "Grapefruit",
     "name_tr": "greyfurt"
   },
@@ -1238,6 +1375,7 @@
     "name": "cactus",
     "parentId": 130120,
     "name_es": "cactus",
+    "name_fr": "cactus",
     "name_de": "Kaktus",
     "name_tr": "kaktüs"
   },
@@ -1247,6 +1385,7 @@
     "name": "tumbleweed",
     "parentId": 151233,
     "name_es": "barrilla",
+    "name_fr": "soude roulante",
     "name_de": "Steppenroller",
     "name_tr": "kum döngelesi"
   },
@@ -1256,6 +1395,7 @@
     "name": "poison ivy",
     "parentId": 43852,
     "name_es": "hiedra venenosa",
+    "name_fr": "sumac grimpant",
     "name_de": "Giftsumach",
     "name_tr": "zehirli sarmaşık"
   },
@@ -1265,6 +1405,7 @@
     "name": "oat",
     "parentId": 4496,
     "name_es": "avena",
+    "name_fr": "avoine",
     "name_de": "Hafer",
     "name_tr": "beyaz yulaf"
   },
@@ -1274,6 +1415,7 @@
     "name": "barley",
     "parentId": 4512,
     "name_es": "cebada",
+    "name_fr": "orge",
     "name_de": "Gerste",
     "name_tr": "arpa"
   },
@@ -1283,6 +1425,7 @@
     "name": "sycamore",
     "parentId": 4022,
     "name_es": "sicomoro",
+    "name_fr": "érable sycomore",
     "name_de": "Bergahorn",
     "name_tr": "dağ akçaağacı"
   },
@@ -1292,6 +1435,7 @@
     "name": "tiger lily",
     "parentId": 4688,
     "name_es": "lirio de tigre",
+    "name_fr": "lis tigré",
     "name_de": "Tigerlilie",
     "name_tr": "kaplan zambağı"
   },
@@ -1301,6 +1445,7 @@
     "name": "cotton",
     "parentId": 3633,
     "name_es": "algodón",
+    "name_fr": "cotton",
     "name_de": "Baumwolle",
     "name_tr": "pamuk"
   },
@@ -1310,6 +1455,7 @@
     "name": "kiwi",
     "parentId": 3624,
     "name_es": "kiwi",
+    "name_fr": "kiwi",
     "name_de": "Kiwi",
     "name_tr": "kivi"
   },
@@ -1319,6 +1465,7 @@
     "name": "seaweed",
     "parentId": 76312,
     "name_es": "algas marinas",
+    "name_fr": "algue",
     "name_de": "Meeresalge",
     "name_tr": "deniz yosunu"
   },
@@ -1328,6 +1475,7 @@
     "name": "bamboo",
     "parentId": 4581,
     "name_es": "bambú",
+    "name_fr": "bambou",
     "name_de": "Bambus",
     "name_tr": "bambu"
   },
@@ -1337,6 +1485,7 @@
     "name": "artichoke",
     "parentId": 4264,
     "name_es": "alcachofa",
+    "name_fr": "artichaud",
     "name_de": "Artischocke",
     "name_tr": "enginar"
   },
@@ -1346,6 +1495,7 @@
     "name": "pecan",
     "parentId": 13402,
     "name_es": "pacana",
+    "name_fr": "noix de pécan",
     "name_de": "Pekannuss",
     "name_tr": "pikan cevizi"
   },
@@ -1355,6 +1505,7 @@
     "name": "sugarcane",
     "parentId": 286192,
     "name_es": "caña de azúcar",
+    "name_fr": "canne à sucre",
     "name_de": "Zuckerrohr",
     "name_tr": "şeker kamışı"
   },
@@ -1364,6 +1515,7 @@
     "name": "yam",
     "parentId": 4672,
     "name_es": "ñame",
+    "name_fr": "igname",
     "name_de": "Yams",
     "name_tr": "Hint yer elması"
   },
@@ -1373,6 +1525,7 @@
     "name": "rhubarb",
     "parentId": 3620,
     "name_es": "ruibarbo",
+    "name_fr": "rhubarbe",
     "name_de": "Rhabarber",
     "name_tr": "ravent"
   },
@@ -1382,6 +1535,7 @@
     "name": "chrysanthemum",
     "parentId": 13422,
     "name_es": "crisantemo",
+    "name_fr": "chrysanthème d'Inde",
     "name_de": "Chrysantheme",
     "name_tr": "kasımpatı"
   },
@@ -1391,6 +1545,7 @@
     "name": "fern",
     "parentId": 32081,
     "name_es": "helecho",
+    "name_fr": "fougère",
     "name_de": "Farn",
     "name_tr": "eğrelti otu"
   },
@@ -1400,6 +1555,7 @@
     "name": "jasmine",
     "parentId": 4147,
     "name_es": "jazmín",
+    "name_fr": "jasmin",
     "name_de": "Jasmin",
     "name_tr": "yasemin"
   },
@@ -1409,6 +1565,7 @@
     "name": "water lily",
     "parentId": 4418,
     "name_es": "lirio de agua",
+    "name_fr": "nénuphar",
     "name_de": "Seerose",
     "name_tr": "beyaz nilüfer"
   },
@@ -1418,6 +1575,7 @@
     "name": "lotus",
     "parentId": 4430,
     "name_es": "loto",
+    "name_fr": "lotus",
     "name_de": "Lotus",
     "name_tr": "lotus"
   },
@@ -1427,6 +1585,7 @@
     "name": "hibiscus",
     "parentId": 47605,
     "name_es": "hibisco",
+    "name_fr": "hibiscus",
     "name_de": "Hibiskus",
     "name_tr": "hibiskus"
   },
@@ -1436,6 +1595,7 @@
     "name": "magnolia",
     "parentId": 3402,
     "name_es": "magnolia",
+    "name_fr": "magnolia",
     "name_de": "Magnolie",
     "name_tr": "magnolya"
   },
@@ -1445,6 +1605,7 @@
     "name": "peony",
     "parentId": 13625,
     "name_es": "peonía",
+    "name_fr": "pivoine",
     "name_de": "Pfingstrose",
     "name_tr": "şakayık"
   },
@@ -1454,6 +1615,7 @@
     "name": "chamomile",
     "parentId": 56016,
     "name_es": "manzanilla",
+    "name_fr": "camomille",
     "name_de": "Kamille",
     "name_tr": "Mayıs papatyası"
   },
@@ -1463,6 +1625,7 @@
     "name": "daffodil",
     "parentId": 4697,
     "name_es": "narciso",
+    "name_fr": "narcisse des poètes",
     "name_de": "Narzisse",
     "name_tr": "zerrinkadeh"
   },
@@ -1472,6 +1635,7 @@
     "name": "clover",
     "parentId": 3898,
     "name_es": "trébol",
+    "name_fr": "trèfle",
     "name_de": "Klee",
     "name_tr": "üçgül"
   },
@@ -1481,6 +1645,7 @@
     "name": "violet",
     "parentId": 2985427,
     "name_es": "violeta",
+    "name_fr": "violette",
     "name_de": "Veilchen",
     "name_tr": "menekşe"
   },
@@ -1490,6 +1655,7 @@
     "name": "dahlia",
     "parentId": 41562,
     "name_es": "dalia",
+    "name_fr": "dahlia",
     "name_de": "Dahlie",
     "name_tr": "yıldız çiçeği"
   },
@@ -1499,6 +1665,7 @@
     "name": "walnut",
     "parentId": 16718,
     "name_es": "nogul",
+    "name_fr": "noix",
     "name_de": "Walnuss",
     "name_tr": "ceviz"
   },
@@ -1508,6 +1675,7 @@
     "name": "fig",
     "parentId": 3493,
     "name_es": "higo",
+    "name_fr": "figue",
     "name_de": "Feige",
     "name_tr": "incir"
   },
@@ -1517,6 +1685,7 @@
     "name": "carnation",
     "parentId": 3569,
     "name_es": "clavel",
+    "name_fr": "oeillet des fleuristes",
     "name_de": "Nelke",
     "name_tr": "karanfil"
   },
@@ -1526,6 +1695,7 @@
     "name": "venus flytrap",
     "parentId": 4361,
     "name_es": "venus atrapamoscas",
+    "name_fr": "dionée attrape-mouche",
     "name_de": "Venusfliegenfalle",
     "name_tr": "venüs sinekkapanı"
   },
@@ -1535,6 +1705,7 @@
     "name": "banana",
     "parentId": 4640,
     "name_es": "banana",
+    "name_fr": "banane",
     "name_de": "Kochbanane",
     "name_tr": "muz"
   },
@@ -1544,6 +1715,7 @@
     "name": "dragon fruit",
     "parentId": 83431,
     "name_es": "pitahaya",
+    "name_fr": "fruit du dragon",
     "name_de": "Drachenfrucht",
     "name_tr": "pitaya"
   },
@@ -1553,6 +1725,7 @@
     "name": "fennel",
     "parentId": 40921,
     "name_es": "hinojo",
+    "name_fr": "fenouil",
     "name_de": "Fenchel",
     "name_tr": "rezene"
   },
@@ -1562,6 +1735,7 @@
     "name": "dill",
     "parentId": 40921,
     "name_es": "eneldo",
+    "name_fr": "aneth",
     "name_de": "Dill",
     "name_tr": "dereotu"
   },
@@ -1571,6 +1745,7 @@
     "name": "eucalyptus tree",
     "parentId": 3932,
     "name_es": "árbol de eucalipto",
+    "name_fr": "eucalyptus",
     "name_de": "Eukalyptusbaum",
     "name_tr": "okaliptüs ağacı"
   },
@@ -1580,6 +1755,7 @@
     "name": "watercress",
     "parentId": 65947,
     "name_es": "berro",
+    "name_fr": "cresson d'eau",
     "name_de": "Brunnenkresse",
     "name_tr": "suteresi"
   },
@@ -1589,6 +1765,7 @@
     "name": "hyacinth",
     "parentId": 82024,
     "name_es": "jacinto",
+    "name_fr": "jacinthe",
     "name_de": "Hyazinthe",
     "name_tr": "sümbül"
   },
@@ -1598,6 +1775,7 @@
     "name": "wisteria",
     "parentId": 3921,
     "name_es": "glicinia",
+    "name_fr": "glycine",
     "name_de": "Blauregen",
     "name_tr": "mor salkım"
   },
@@ -1607,6 +1785,7 @@
     "name": "sandalwood",
     "parentId": 35973,
     "name_es": "sándalo",
+    "name_fr": "bois de santal",
     "name_de": "Sandelholz",
     "name_tr": "sandal ağacı"
   },
@@ -1616,6 +1795,7 @@
     "name": "pawpaw",
     "parentId": 12952,
     "name_es": "pawpaw",
+    "name_fr": "asiminier trilobé",
     "name_de": "Papau",
     "name_tr": "papav"
   },
@@ -1625,6 +1805,7 @@
     "name": "coriander",
     "parentId": 4046,
     "name_es": "cilantro",
+    "name_fr": "coriandre",
     "name_de": "Koriander",
     "name_tr": "kişniş"
   },
@@ -1634,6 +1815,7 @@
     "name": "ginseng",
     "parentId": 4053,
     "name_es": "ginseng",
+    "name_fr": "ginseng",
     "name_de": "Ginseng",
     "name_tr": "ginseng"
   },
@@ -1643,6 +1825,7 @@
     "name": "anise",
     "parentId": 40958,
     "name_es": "anís",
+    "name_fr": "anis",
     "name_de": "Anis",
     "name_tr": "anason"
   },
@@ -1652,6 +1835,7 @@
     "name": "holly",
     "parentId": 4295,
     "name_es": "acebo",
+    "name_fr": "houx",
     "name_de": "Stechpalme",
     "name_tr": "çoban püskülü"
   },
@@ -1661,6 +1845,7 @@
     "name": "rooibos",
     "parentId": 70004,
     "name_es": "rooibos",
+    "name_fr": "rooibos",
     "name_de": "Rooibos",
     "name_tr": "rooibos"
   },
@@ -1670,6 +1855,7 @@
     "name": "petunia",
     "parentId": 4101,
     "name_es": "petunia",
+    "name_fr": "pétunia",
     "name_de": "Petunie",
     "name_tr": "petunya"
   },
@@ -1679,6 +1865,7 @@
     "name": "mistletoe",
     "parentId": 3971,
     "name_es": "muérdago",
+    "name_fr": "gui blanc",
     "name_de": "Mistel",
     "name_tr": "ökseotu"
   },
@@ -1688,6 +1875,7 @@
     "name": "coca",
     "parentId": 13511,
     "name_es": "coca",
+    "name_fr": "arbre à coca",
     "name_de": "Kokastrauch",
     "name_tr": "koka ağacı"
   },
@@ -1697,6 +1885,7 @@
     "name": "ricin",
     "parentId": 3987,
     "name_es": "ricina",
+    "name_fr": "ricin",
     "name_de": "Rizinus",
     "name_tr": "hint yağı bitkisi"
   },
@@ -1706,6 +1895,7 @@
     "name": "geranium",
     "parentId": 4028,
     "name_es": "geranio",
+    "name_fr": "géranium",
     "name_de": "Storchschnabel",
     "name_tr": "sardunya"
   },
@@ -1715,6 +1905,7 @@
     "name": "jackfruit",
     "parentId": 3488,
     "name_es": "jackfruit",
+    "name_fr": "jacquier",
     "name_de": "Jackfrucht",
     "name_tr": "jak meyvesi"
   },
@@ -1724,6 +1915,7 @@
     "name": "nettle",
     "parentId": 3500,
     "name_es": "ortiga",
+    "name_fr": "ortie",
     "name_de": "Brennnessel",
     "name_tr": "ısırgan otu"
   },
@@ -1733,6 +1925,7 @@
     "name": "sage",
     "parentId": 2291027,
     "name_es": "salvia",
+    "name_fr": "sauge",
     "name_de": "Salbei",
     "name_tr": "adaçayı"
   },
@@ -1742,6 +1935,7 @@
     "name": "rosemary",
     "parentId": 39177,
     "name_es": "romero",
+    "name_fr": "romarin",
     "name_de": "Rosmarin",
     "name_tr": "biberiye"
   },
@@ -1751,6 +1945,7 @@
     "name": "common ivy",
     "parentId": 4051,
     "name_es": "hiedra común",
+    "name_fr": "lierre grimpant",
     "name_de": "Gewöhnlicher Efeu",
     "name_tr": "sarmaşık"
   },
@@ -1760,6 +1955,7 @@
     "name": "passionfruit",
     "parentId": 3684,
     "name_es": "fruta de la pasión",
+    "name_fr": "passiflore",
     "name_de": "Passionsfrucht",
     "name_tr": "çarkıfelek meyvesi"
   },
@@ -1769,6 +1965,7 @@
     "name": "mangosteen",
     "parentId": 58227,
     "name_es": "mangostán",
+    "name_fr": "mangoustan",
     "name_de": "Mangostan",
     "name_tr": "mangostan"
   },
@@ -1778,6 +1975,7 @@
     "name": "red mangrove",
     "parentId": 40030,
     "name_es": "mangle rojo",
+    "name_fr": "palétuvier rouge",
     "name_de": "Rote Mangrove",
     "name_tr": "kırmıız mangrove"
   },
@@ -1787,6 +1985,7 @@
     "name": "pearl millet",
     "parentId": 4583,
     "name_es": "mijo perla",
+    "name_fr": "mil à chandelle",
     "name_de": "Perlhirse",
     "name_tr": "inci darısı"
   },
@@ -1796,6 +1995,7 @@
     "name": "forget-me-not",
     "parentId": 192333,
     "name_es": "nomeolvides",
+    "name_fr": "myosotis des marais",
     "name_de": "Vergissmeinnicht",
     "name_tr": "unutmabeni"
   },
@@ -1805,6 +2005,7 @@
     "name": "common wormwood",
     "parentId": 4219,
     "name_es": "ajenjo",
+    "name_fr": "absinthe",
     "name_de": "Wermut",
     "name_tr": "pelin otu"
   },
@@ -1814,6 +2015,7 @@
     "name": "black elderberry",
     "parentId": 4201,
     "name_es": "saúco negro",
+    "name_fr": "sureau noir",
     "name_de": "Schwarzer Holunder",
     "name_tr": "kara mürver"
   },
@@ -1823,6 +2025,7 @@
     "name": "gooseberry",
     "parentId": 3801,
     "name_es": "grosella",
+    "name_fr": "groseille à maquereau",
     "name_de": "Stachelbeere",
     "name_tr": "Bektaşi üzümü"
   },
@@ -1832,6 +2035,7 @@
     "name": "loquat",
     "parentId": 23166,
     "name_es": "níspero",
+    "name_fr": "néflier du Japon",
     "name_de": "Mispel",
     "name_tr": "yenidünya"
   },
@@ -1841,6 +2045,7 @@
     "name": "prickly pear",
     "parentId": 106975,
     "name_es": "nopal",
+    "name_fr": "Oponce à grosses racines",
     "name_de": "Feigenkaktus",
     "name_tr": "dikenli armut"
   },
@@ -1850,6 +2055,7 @@
     "name": "barrel cactus",
     "parentId": 130110,
     "name_es": "cactus barril",
+    "name_fr": "coussin de belle-mère",
     "name_de": "Schwiegermutterstuhl",
     "name_tr": "altın fıçı kaktüsü"
   },
@@ -1859,6 +2065,7 @@
     "name": "blue spruce",
     "parentId": 3328,
     "name_es": "pícea azul",
+    "name_fr": "épicéa bleu",
     "name_de": "Blaufichte",
     "name_tr": "mavi ladin"
   },
@@ -1868,6 +2075,7 @@
     "name": "honeysuckle",
     "parentId": 49606,
     "name_es": "madreselva",
+    "name_fr": "chèvrefeuille du japon",
     "name_de": "Geißblatt",
     "name_tr": "hanımeli"
   },
@@ -1877,6 +2085,7 @@
     "name": "caper",
     "parentId": 13394,
     "name_es": "alcaparra",
+    "name_fr": "câprier",
     "name_de": "Kapernstrauch",
     "name_tr": "gebre otu"
   },
@@ -1886,6 +2095,7 @@
     "name": "pitcher plant",
     "parentId": 4375,
     "name_es": "planta jarra",
+    "name_fr": "Nepenthes attenboroughii",
     "name_de": "Kannenpflanze",
     "name_tr": "sürahi bitkisi"
   },
@@ -1895,6 +2105,7 @@
     "name": "durian",
     "parentId": 66655,
     "name_es": "durián",
+    "name_fr": "durian",
     "name_de": "Durian",
     "name_tr": "durian"
   },
@@ -1904,6 +2115,7 @@
     "name": "turmeric",
     "parentId": 99568,
     "name_es": "cúrcuma",
+    "name_fr": "curcuma",
     "name_de": "Kurkuma",
     "name_tr": "zerdeçal"
   },
@@ -1913,6 +2125,7 @@
     "name": "gingko",
     "parentId": 3310,
     "name_es": "ginkgo",
+    "name_fr": "ginkgo",
     "name_de": "Ginkgo",
     "name_tr": "mabet ağacı"
   },
@@ -1922,6 +2135,7 @@
     "name": "aloe",
     "parentId": 25641,
     "name_es": "aloe",
+    "name_fr": "aloe vera",
     "name_de": "Aloe",
     "name_tr": "aloe vera"
   },
@@ -1931,6 +2145,7 @@
     "name": "myrtle",
     "parentId": 119948,
     "name_es": "mirto",
+    "name_fr": "myrte",
     "name_de": "Myrte",
     "name_tr": "mersin"
   }
