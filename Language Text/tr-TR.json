@@ -8,7 +8,7 @@
         "definite": "Gizemli Hayvan",
         "demonstrative": "bu",
         "ekligeneric": "Gizemli Hayvanı",
-        "genericc": "Gizemli Bitkisini"
+        "genericc": "Gizemli Hayvanını"
       },
       "answer": "insan",
       "kingdom": {
@@ -19,7 +19,7 @@
       },
       "game": "Metazooa",
       "mystery": { "singular": "gizemli", "plural": "gizemli" },
-      "menagerie": "hayvanat bahçesine"
+      "menagerie": "Hayvanat bahçesine"
     },
     "Metaflora": {
       "species": {
@@ -40,21 +40,21 @@
       },
       "game": "Metaflora",
       "mystery": { "singular": "gizemli", "plural": "gizemli" },
-      "menagerie": "bahçeye"
+      "menagerie": "Bahçeye"
     },
     "keywords": {
-      "remaining": "kalan",
+      "remaining": "tahmin hakkın kaldı",
       "Click": "Tıkla",
       "Tap": "Dokun"
     },
     "home": {
       "0": {
-        "0": "Hayvanlar alemi (Yunanca’da <i>Metazoa</i>) uzak akrabalarımızla dolu... Bazıları diğerlerinden daha bile uzak! Metazooa, genişletilmiş aile ağacımızı ne kadar iyi bildiğini test eden bir oyun.",
+        "0": "Hayvanlar alemi (Yunanca <i>Metazoa</i>) uzak akrabalarımızla dolu... Bazıları diğerlerinden daha bile uzak! Metazooa, genişletilmiş aile ağacımızı ne kadar iyi bildiğini test eden bir oyun.",
         "1": "Bitkiler aleminin (bilim insanları tarafından <i>Viridiplantae</i> olarak da adlandırılır) aile ağacı geniş ve nefes kesici... ama aynı zamanda komplike! Metaflora, bu ağacın yemyeşil yaprakları arasında yolunu ne kadar iyi bulabildiğini test eden bir oyun."
       },
       "1": "Hedefin bugünün <b>{{species.genericc}}</b> en az tahminde bulmak. Yanlış tahminler, cevabı taksonomik sıralama bakımından daraltacak. (alem, şube, sınıf, takım, vs.) Tahmininin cevapla ne kadar ortak noktası varsa, {{species.generic}} hakkında o kadar şey öğreneceksin.",
       "2": "Örneğin, farz edelim ki cevap “{{answer}}”, tahminlerin aşağıdaki gibi görünen bir ağaç ortaya çıkarabilir:",
-      "3": "Günde yalnızca {{species.unique}} var, ama bulmak için {{MAX_GUESSES}} tahmin hakkın var! Yeni oyun <b>{{nextGame}}</b> içinde başlayacak.",
+      "3": "Her gün yalnızca {{species.unique}} var, ama bulmak için {{MAX_GUESSES}} tahmin hakkın var! Yeni oyun <b>{{nextGame}}</b> içinde başlayacak.",
       "4": "Bugünkü {{species.ekligeneric}} çoktan buldun mu?",
       "5": "Oyna"
     },
@@ -77,7 +77,7 @@
       "0": "Paylaş",
       "1": "Paylaşıldı!",
       "2": "Kopyalandı!",
-      "3": "Failed to share your score."
+      "3": "Skorunu paylaşmakta bir hata yaşandı."
     },
     "table": {
       "0": "Sıra",
@@ -97,14 +97,14 @@
       "0": "{{menagerie}} giriş yap!"
     },
     "footer": {
-      "0": "Trainwreck Labs’den",
+      "0": "Trainwreck Labs",
       "1": "Discord sunucumuza katıl!",
       "2": "Bir sorun mu var?",
       "3": "SSS’ye bir göz at"
     },
     "hint": {
       "0": "İpucuna mı ihtiyacın var? 3 tahmin karşılığında bir sıra aç!",
-      "1": "Hint"
+      "1": "İpucu"
     },
     "wikipedia": {
       "0": "Vikipedi’den",
@@ -126,7 +126,7 @@
       "4": "Kazanılan",
       "5": "Mevcut",
       "6": "Max",
-      "7": "Kazanılan her oyun için kullanılan soru sayısı. Bar rengi tahminin cevaba ortalama yakınlığını belirtir."
+      "7": "Kazanılan her oyun için kullanılan tahmin sayısı. Bar rengi tahminin cevaba ortalama yakınlığını belirtir."
     },
     "settings": {
       "0": "Ayarlar",
@@ -176,7 +176,7 @@
       },
       "5": {
         "q": "{{game}} bir gizlilik politikasına sahip mi?",
-        "a": "{{game}}'nın gizlilik politikasına ulaşmak için bu linke tıkla <a href=\"/privacy-policy\" class=\"underline\">privacy policy</a>."
+        "a": "{{game}}'nın gizlilik politikasına ulaşmak için bu linke tıkla: <a href=\"/gizlilik-politikası\" class=\"underline\">gizlilik politikası</a>."
       }
     }
   }
