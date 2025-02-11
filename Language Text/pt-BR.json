@@ -45,18 +45,18 @@
     },
     "home": {
       "0": {
-        "0": "O Reino Animal (<i>Metazoa</i>, em Grego) está cheio de nossos parentes distantes... alguns mais distantes do que outros! Metazooa é um jogo que testa o quanto você conhece nossa árvore genealógica estendida",
-        "1": "A árvore genealógica do reino das plantas (que os cientistas chamam de <i>Viridiplantae</i>) é vasta e bela... mas também complexa! Metaflora é um jogo que testa sua habilidade com plantas, vendo o quão bem você pode navegar por seus ramos folhosos."
+        "0": "O Reino Animal (<i>Metazoa</i>, em Grego) está cheio dos nossos parentes distantes... alguns mais distantes do que outros! Metazooa é um jogo que testa o quanto conheces da nossa árvore genealógica estendida",
+        "1": "A árvore genealógica do reino das plantas (que os cientistas chamam de <i>Viridiplantae</i>) é vasta e bela... mas também complexa! Metaflora é um jogo que testa a tua habilidade com plantas, vendo o quão bem consegues navegar pelos seus ramos folhosos."
       },
-      "1": "Seu objetivo é descobrir o <b>{{species.generic}}</b> de hoje com o menor número de palpites possíveis. Os palpites incorretos irão reduzir a resposta por categoria taxonômica (reino, filo, classe, ordem, etc.). Quanto mais seu palpite tiver em comum com a resposta, mais você aprenderá sobre o {{species.generic}}.",
-      "2": "Por exemplo, se a resposta for “{{answer}}”, seus palpites podem criar uma árvore que se parece com o seguinte:",
-      "3": "Há apenas {{species.unique}} por dia, mas você tem {{MAX_GUESSES}} palpites para descobrir! Um novo jogo começará em <b>{{nextGame}}</b>",
-      "4": "Já encontrou {{species.definite}} de hoje?",
+      "1": "O teu objetivo é descobrir o <b>{{species.generic}}</b> de hoje com o menor número de palpites possíveis. Os palpites incorretos irão reduzir a resposta por categoria taxonômica (reino, filo, classe, ordem, etc.). Quanto mais o teu palpite tiver em comum com a resposta, mais aprenderás sobre o {{species.generic}}.",
+      "2": "Por exemplo, se a resposta for “{{answer}}”, o teus palpites podem criar uma árvore que se parece com o seguinte:",
+      "3": "Há apenas {{species.unique}} por dia, mas tens {{MAX_GUESSES}} palpites para descobrir! Um novo jogo começará em <b>{{nextGame}}</b>",
+      "4": "Já encontraste {{species.definite}} de hoje?",
       "5": "Jogar"
     },
     "game": {
       "0": "Mostrar tabela",
-      "1": "A resposta e {{guess}} têm isso em comum.",
+      "1": "A resposta e {{guess}} têm isto em comum.",
       "2": "{{click}} para aprender mais",
       "3": "Ache isso {{species.generic}}!",
       "4": "Você ganhou! A resposta é <b>{{answer}}</b>."
@@ -66,7 +66,7 @@
         "0": "Você ganhou!",
         "1": "Sem mais palpites."
       },
-      "2": "Compartilhe sua pontuação ou jogue uma partida de treino!",
+      "2": "Compartilha a sua pontuação ou jogue uma partida de treino!",
       "3": "Jogue outro jogo de"
     },
     "share": {
