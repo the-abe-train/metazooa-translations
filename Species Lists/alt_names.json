@@ -1139,6 +1139,21 @@
     "language": "cz",
     "name": "echinokaktus Grusonův",
     "alts": ["ježunka", "židle pro tchýni", "Kroenleinia"]
-  }
-  { "language": "pt", "name": "cervo", "alts": ["veado", "gamo"] }
+  },
+
+  { "language": "pt", "name": "cervo", "alts": ["veado", "gamo"] },
+
+  { "language": "pt", "name": "maracujá", "alts": ["passiflora"]},
+  { "language": "pt", "name": "crisântemo", "alts": ["malmequer", "mal-me-quer"]},
+  { "language": "pt", "name": "macieira", "alts": ["maçã"]},
+  { "language": "pt", "name": "laranjeira", "alts": ["laranja"]},
+  { "language": "pt", "name": "limoeiro", "alts": ["limão"]},
+  { "language": "pt", "name": "abacateiro", "alts": ["abacate"]},
+  { "language": "pt", "name": "pereira", "alts": ["pera"]},
+  { "language": "pt", "name": "oliveira", "alts": ["azeitona"]},
+  { "language": "pt", "name": "nogueira", "alts": ["noz"]},
+  { "language": "pt", "name": "alfarrobeira", "alts": ["alfarroba"]},
+  { "language": "pt", "name": "tomateiro", "alts": ["tomate"]},
+  
+
 ]
