@@ -1,6 +1,6 @@
 import json
 
-new_lang = "cz"
+new_lang = "pt"
 kingdom = "plants"
 
 with open(f"data/{kingdom}_{new_lang}.json", "r") as f:
@@ -24,11 +24,15 @@ output = []
 for species in old_species:
     node = species["nodeId"]
     if node in new_nodes:
-        print(node)
+        # print(node)
         new_animal = new_species[new_nodes.index(node)]
-        field = f"name_{new_lang}"
-        new_name = new_animal[field]
-        species[field] = new_name
+        try:
+            field = f"name_{new_lang}"
+            new_name = new_animal[field]
+            species[field] = new_name
+        except KeyError:
+            print(f"Field {field} not found in new species")
+            print(new_animal)
         output.append(species)
     else:
         raise Exception(f"Node {node} not found in new {kingdom}")

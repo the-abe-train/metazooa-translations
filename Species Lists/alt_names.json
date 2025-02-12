@@ -1,10 +1,15 @@
 [
   { "language": "en", "name": "alfalfa", "alts": ["afalfa"] },
   { "language": "en", "name": "anemone", "alts": ["sea anemone"] },
+  { "language": "en", "name": "sea turtle", "alts": ["leatherback"] },
   { "language": "en", "name": "bok choy", "alts": ["turnip"] },
   { "language": "en", "name": "brown bear", "alts": ["grizzly bear"] },
   { "language": "en", "name": "burmese python", "alts": ["python"] },
-  { "language": "en", "name": "cattle", "alts": ["cow", "bull"] },
+  {
+    "language": "en",
+    "name": "cattle",
+    "alts": ["cow", "bull", "steer", "ox"]
+  },
   { "language": "en", "name": "caribou", "alts": ["reindeer"] },
   { "language": "en", "name": "carp", "alts": ["koi"] },
   { "language": "en", "name": "cat", "alts": ["domestic cat"] },
@@ -22,12 +27,21 @@
   { "language": "en", "name": "orca", "alts": ["killer whale"] },
   { "language": "en", "name": "mace", "alts": ["nutmeg"] },
   { "language": "en", "name": "banana", "alts": ["plantain"] },
+  { "language": "en", "name": "black eyed pea", "alts": ["cowpea"] },
+  { "language": "en", "name": "bark scorpion", "alts": ["scorpion"] },
+  { "language": "en", "name": "house centipede", "alts": ["centipede"] },
+  {
+    "language": "en",
+    "name": "harvestman",
+    "alts": ["harvest spider", "daddy longlegs"]
+  },
+  { "language": "en", "name": "pig", "alts": ["wild boar", "sow"] },
   {
     "language": "en",
     "name": "pillbug",
     "alts": ["potato bug", "roly-poly", "woodlouse"]
   },
-  { "language": "en", "name": "prawn", "alts": ["shrimp"] },
+  { "language": "en", "name": "freshwater polyp", "alts": ["hydra"] },
   { "language": "en", "name": "puma", "alts": ["cougar", "mountain lion"] },
   { "language": "en", "name": "raccoon", "alts": ["trash panda"] },
   { "language": "en", "name": "ricin", "alts": ["castor bean"] },
@@ -38,10 +52,12 @@
   { "language": "en", "name": "capuchin", "alts": ["capuchin monkey"] },
   { "language": "en", "name": "tardigrade", "alts": ["water bear"] },
   { "language": "en", "name": "wasp", "alts": ["yellowjacket"] },
-  { "language": "en", "name": "wolf", "alts": ["dog"] },
+  { "language": "en", "name": "starfish", "alts": ["sea star"] },
   { "language": "en", "name": "wildebeest", "alts": ["gnu"] },
   { "language": "en", "name": "gum arabic tree", "alts": ["gum tree"] },
-  { "language": "en", "name": "tiger prawn", "alts": ["prawn"] },
+  { "language": "en", "name": "tiger prawn", "alts": ["prawn", "shrimp"] },
+  { "language": "en", "name": "elk", "alts": ["wapiti"] },
+  { "language": "en", "name": "corn", "alts": ["maize"] },
   {
     "language": "en",
     "name": "sweet pepper",
@@ -107,6 +123,11 @@
     "language": "fr",
     "name": "vampire",
     "alts": ["chauve-souris vampire"]
+  },
+  {
+    "language": "fr",
+    "name": "crotale",
+    "alts": ["serpent à sonnette"]
   },
   {
     "language": "fr",
@@ -393,11 +414,7 @@
     "name": "élan",
     "alts": ["orignal"]
   },
-  {
-    "language": "fr",
-    "name": "balane",
-    "alts": ["bernache", "bernacle"]
-  },
+  { "language": "fr", "name": "balane", "alts": ["bernache", "bernacle"] },
   {
     "language": "fr",
     "name": "yack",
@@ -405,12 +422,12 @@
   },
   {
     "language": "fr",
-    "name": "cochon d'Inde",
+    "name": "cochon d'inde",
     "alts": ["cobaye"]
   },
   {
     "language": "fr",
-    "name": "tortue géante des Galápagos",
+    "name": "tortue géante des galápagos",
     "alts": ["tortue terrestre"]
   },
   {
@@ -515,215 +532,11 @@
     "name": "puma",
     "alts": ["couguar", "cougar", "lion de montagne"]
   },
-  { "language": "fr", "name": "pomme", "alts": ["pommier"]},
-  { "language": "fr", "name": "poire", "alts": ["poirier"]},
-  { "language": "fr", "name": "pêche", "alts": ["pêcher"]},
-  { "language": "fr", "name": "abricot", "alts": ["abricotier"]},
-  { "language": "fr", "name": "cerise", "alts": ["cerisier"]},
-  { "language": "fr", "name": "châtaigne", "alts": ["châtaignier"]},
-  { "language": "fr", "name": "datte", "alts": ["dattier"]},
-  { "language": "fr", "name": "framboise", "alts": ["framboisier"]},
-  { "language": "fr", "name": "noisette", "alts": ["noisetier"]},
-  { "language": "fr", "name": "mandarine", "alts": ["mandarinier"]},
-  { "language": "fr", "name": "olive", "alts": ["olivier"]},
-  { "language": "fr", "name": "prune", "alts": ["prunier"]},
-  { "language": "fr", "name": "mangue", "alts": ["manguier"]},
-  { "language": "fr", "name": "figue", "alts": ["figuier"]},
-  { "language": "fr", "name": "poivron", "alts": ["piment", "paprika"]},
-  { "language": "fr", "name": "kaki", "alts": ["plaqueminier du japon"]},
-  { "language": "fr", "name": "hévéa", "alts": ["arbre à caoutchouc"]},
-  { "language": "fr", "name": "sarrasin", "alts": ["blé noir"]},
-  { "language": "fr", "name": "raisin", "alts": ["vigne"]},
-  { "language": "fr", "name": "citron vert", "alts": ["lime"]},
-  { "language": "fr", "name": "pois", "alts": ["petits pois", "pois cassés"]},
-  { "language": "fr", "name": "dactyle aggloméré", "alts": ["herbe"]},
-  { "language": "fr", "name": "sensitive", "alts": ["mimosa pudique"]},
-  { "language": "fr", "name": "orchidée", "alts": ["ophrys abeille"]},
-  { "language": "fr", "name": "courge", "alts": ["courgette", "potiron", "potimarron", "citrouille"]},
-  { "language": "fr", "name": "mûre", "alts": ["ronce"]},
-  { "language": "fr", "name": "canneberge", "alts": ["cranberry"]},
-  { "language": "fr", "name": "pakchoï", "alts": ["navet"]},
-  { "language": "fr", "name": "dionée attrape-mouche", "alts": ["plante carnivore"]},
-  { "language": "fr", "name": "fruit du dragon", "alts": ["pitaya"]},
-  { "language": "fr", "name": "passiflore", "alts": ["fruit de la passion"]},
-  { "language": "fr", "name": "aleo vera", "alts": ["aloé véra"]},
-
   {
-    "language": "hu",
-    "name": "lúd",
-    "alts": ["liba"]
+    "language": "fr",
+    "name": "poisson volant",
+    "alts": ["exocet"]
   },
-  {
-    "language": "hu",
-    "name": "házi tyúk",
-    "alts": ["csirke"]
-  },
-  {
-    "language": "hu",
-    "name": "sün",
-    "alts": ["sündisznó"]
-  },
-  {
-    "language": "hu",
-    "name": "prérifarkas",
-    "alts": ["kojot"]
-  },
-  {
-    "language": "hu",
-    "name": "fekete medve",
-    "alts": ["feketemedve", "baribál"]
-  },
-  {
-    "language": "hu",
-    "name": "vörös macskamedve",
-    "alts": ["vörös panda", "kis panda"]
-  },
-  {
-    "language": "hu",
-    "name": "nyérc",
-    "alts": ["vidramenyét"]
-  },
-  {
-    "language": "hu",
-    "name": "leopárd",
-    "alts": ["párduc"]
-  },
-  {
-    "language": "hu",
-    "name": "puma",
-    "alts": ["hegyi oroszlán"]
-  },
-  {
-    "language": "hu",
-    "name": "beluga",
-    "alts": ["fehér bálna"]
-  },
-  {
-    "language": "hu",
-    "name": "nagy ámbráscet",
-    "alts": ["óriás ámbráscet"]
-  },
-  {
-    "language": "hu",
-    "name": "púpos bálna",
-    "alts": ["hosszúszárnyú bálna"]
-  },
-  {
-    "language": "hu",
-    "name": "manátusz",
-    "alts": ["manáti", "manatusz", "lamantin", "tengeri tehén", "szirén"]
-  },
-  {
-    "language": "hu",
-    "name": "orrszarvú",
-    "alts": ["rinocérosz"]
-  },
-  {
-    "language": "hu",
-    "name": "egypúpú teve",
-    "alts": ["dromedár"]
-  },
-  {
-    "language": "hu",
-    "name": "juh",
-    "alts": ["birka"]
-  },
-  {
-    "language": "hu",
-    "name": "kérgesteknős",
-    "alts": ["tengeri teknős"]
-  },
-  {
-    "language": "hu",
-    "name": "ocelot",
-    "alts": ["párducmacska"]
-  },
-  {
-    "language": "hu",
-    "name": "aratinga",
-    "alts": ["papagáj"]
-  },
-  {
-    "language": "hu",
-    "name": "szürkepapagáj",
-    "alts": ["jákópapagáj"]
-  },
-  {
-    "language": "hu",
-    "name": "bóbitás pingvin",
-    "alts": ["makaróni pingvin"]
-  },
-  {
-    "language": "hu",
-    "name": "poszméh",
-    "alts": ["dongó"]
-  },
-  {
-    "language": "hu",
-    "name": "armadilló",
-    "alts": ["szőröstatu"]
-  },
-  {
-    "language": "hu",
-    "name": "fülemüle",
-    "alts": ["csalogány"]
-  },
-  {
-    "language": "hu",
-    "name": "madárpók",
-    "alts": ["tarantula"]
-  },
-  {
-    "language": "hu",
-    "name": "krill",
-    "alts": ["világítórák"]
-  },
-  {
-    "language": "hu",
-    "name": "pörölycápa",
-    "alts": ["kalapácsfejű cápa"]
-  },
-  {
-    "language": "hu",
-    "name": "erszényes ördög",
-    "alts": ["tasmaniai ördög"]
-  },
-  {
-    "language": "hu",
-    "name": "vízidisznó",
-    "alts": ["kapibara"]
-  },
-  {
-    "language": "hu",
-    "name": "közönséges óriáskígyó",
-    "alts": ["bálványkígyó", "vörösfarkú boa", "bálványboa"]
-  },
-  {
-    "language": "hu",
-    "name": "oposszum",
-    "alts": ["erszényespatkány"]
-  },
-  {
-    "language": "hu",
-    "name": "csigáspolip",
-    "alts": ["nautilusz"]
-  },
-  {
-    "language": "hu",
-    "name": "kacsa",
-    "alts": ["tőkés réce"]
-  },
-  {
-    "language": "hu",
-    "name": "kardszárnyú delfin",
-    "alts": ["gyilkos bálna", "orka"]
-  },
-  {
-    "language": "hu",
-    "name": "sertés",
-    "alts": ["malac"]
-  },
-
   { "language": "it", "name": "anemone", "alts": ["anemone di mare"] },
   {
     "language": "it",
@@ -904,7 +717,7 @@
   },
   {
     "language": "it",
-    "name": "mostro di Gila",
+    "name": "mostro di gila",
     "alts": ["lucertola perlinata"]
   },
   { "language": "it", "name": "razza", "alts": ["pastinaca", "trigone"] },
@@ -965,195 +778,101 @@
   { "language": "it", "name": "ara", "alts": ["pappagallo ara"] },
   { "language": "it", "name": "tardigrado", "alts": ["orsetto d'acqua"] },
   { "language": "it", "name": "ratto", "alts": ["pantegana", "surmolotto"] },
+  { "language": "uk", "name": "собака", "alts": ["пес"] },
+  { "language": "uk", "name": "корова", "alts": ["бик"] },
+  { "language": "uk", "name": "морський молюск", "alts": ["морське блюдечко"] },
+  { "language": "uk", "name": "плодова мушка", "alts": ["дрозофілова мушка"] },
+  { "language": "uk", "name": "горлиця", "alts": ["голубка"] },
+  { "language": "uk", "name": "бегемот", "alts": ["гіпопотам"] },
   {
-    "language": "cz",
-    "name": "kardamom obecný",
-    "alts": ["kardamovník", "kardamomník"]
+    "language": "uk",
+    "name": "фруктовий кажан",
+    "alts": ["ацеродон гривастий"]
   },
-  { "language": "cz", "name": "skořicovník pravý", "alts": ["skořice"] },
+  { "language": "uk", "name": "латимерія", "alts": ["целакант"] },
+  { "language": "uk", "name": "козел", "alts": ["цап"] },
+  { "language": "uk", "name": "кролик", "alts": ["кріль"] },
+  { "language": "uk", "name": "морська свиня", "alts": ["фоцена", "пихтун"] },
   {
-    "language": "cz",
-    "name": "kokosovník ořechoplodý",
-    "alts": ["kokosová palma", "kokos"]
+    "language": "uk",
+    "name": "рак-самітник",
+    "alts": ["рак-пустельник", "равлинець", "краб-самітник", "краб-відлюдник"]
   },
+  { "language": "uk", "name": "щур", "alts": ["пацюк", "криса"] },
+  { "language": "uk", "name": "метелик монарх", "alts": ["данаїда монарх"] },
+  { "language": "de", "name": "Kleine Zitterspinne", "alts": ["Kellerspinne"] },
+  { "language": "de", "name": "Erntespinne", "alts": ["Weberknecht"] },
   {
-    "language": "cz",
-    "name": "datlovník pravý",
-    "alts": ["datlová palma", "datle"]
+    "language": "de",
+    "name": "Bunter Fangschreckenkrebs",
+    "alts": ["Fangschreckenkrebse"]
   },
-  { "language": "cz", "name": "konopí seté", "alts": ["marihuana"] },
-  { "language": "cz", "name": "henna bílá", "alts": ["alkana", "henovník"] },
+  { "language": "hu", "name": "pincebogár", "alts": ["ászka"] },
   {
-    "language": "cz",
-    "name": "voňatka citronová",
-    "alts": ["citronová tráva"]
-  },
-  {
-    "language": "cz",
-    "name": "makadamie celolistá",
-    "alts": ["makadamový ořech"]
-  },
-  {
-    "language": "cz",
-    "name": "muškátovník vonný",
-    "alts": ["muškátový oříšek"]
-  },
-  { "language": "cz", "name": "mangovník indický", "alts": ["mango"] },
-  { "language": "cz", "name": "morušovník bílý", "alts": ["moruše bílá"] },
-  {
-    "language": "cz",
-    "name": "brukev černá",
-    "alts": ["černohořčice setá", "hořčice černá"]
-  },
-  { "language": "cz", "name": "olivovník evropskýý", "alts": ["oliva"] },
-  { "language": "cz", "name": "broskvoň obecná", "alts": ["broskev"] },
-  { "language": "cz", "name": "hrušeň obecná", "alts": ["hruška"] },
-  { "language": "cz", "name": "tomel viržinský", "alts": ["kaki viržinské"] },
-  { "language": "cz", "name": "řečík pistáciový", "alts": ["pistácie pravá"] },
-  {
-    "language": "cz",
-    "name": "slivoň švestka",
-    "alts": ["švestka domácí", "slíva", "bluma", "mirabelka"]
+    "language": "tr",
+    "name": "su semenderi",
+    "alts": ["axolotl"]
   },
   {
-    "language": "cz",
-    "name": "marhaník granátový",
-    "alts": ["granátové jablko"]
+    "language": "tr",
+    "name": "kısa burunlu dikenli karıncayiyen",
+    "alts": ["ekidna", "echidna"]
   },
   {
-    "language": "cz",
-    "name": "povijnice batátová",
-    "alts": ["sladká brambora", "batatovník jedlý"]
+    "language": "tr",
+    "name": "gila canavarı",
+    "alts": ["boncuklu kertenkele"]
   },
   {
-    "language": "cz",
-    "name": "merlík chilský",
-    "alts": ["quinoa", "merlík čilský", "kvinoa"]
+    "language": "tr",
+    "name": "katil balina",
+    "alts": ["orka"]
   },
   {
-    "language": "cz",
-    "name": "máslovník africký - bambucké máslo",
-    "alts": ["shea", "karité", "vitelárie africká"]
+    "language": "tr",
+    "name": "Afrika antilobu",
+    "alts": ["gnu", "öküz başlı antilop"]
   },
   {
-    "language": "cz",
-    "name": "vanilovník plocholistý",
-    "alts": ["vanilka pravá"]
+    "language": "tr",
+    "name": "frambuaz",
+    "alts": ["ahududu"]
   },
   {
-    "language": "cz",
-    "name": "lubenice obecná - meloun",
-    "alts": ["meloun vodní"]
-  },
-  {
-    "language": "cz",
-    "name": "lilek brambor",
-    "alts": ["brambora", "brambor hlíznatý", "erteple", "zemák", "krumple"]
-  },
-  { "language": "cz", "name": "bob obecný", "alts": ["vikev bob"] },
-  { "language": "cz", "name": "sója luštinatá", "alts": ["soja"] },
-  {
-    "language": "cz",
-    "name": "vigna čínská",
-    "alts": ["čínská fazole", "doluhatec", "špagetová fazole"]
-  },
-  {
-    "language": "cz",
-    "name": "podzemnice olejná",
-    "alts": ["burák", "burský oříšek"]
-  },
-  {
-    "language": "cz",
-    "name": "rohovník obecný",
-    "alts": ["svatojánský chléb", "karát"]
-  },
-  { "language": "cz", "name": "akácie arabská", "alts": ["Acacia nilotica"] },
-  { "language": "cz", "name": "sena pravá", "alts": ["kassie pravá"] },
-  { "language": "cz", "name": "cedrát", "alts": ["citroník lékařský"] },
-  {
-    "language": "cz",
-    "name": "eutrema japonská - wasabi",
-    "alts": ["křen wasabi"]
-  },
-  { "language": "cz", "name": "řepa obecná", "alts": ["cukrovka", "mangold"] },
-  { "language": "cz", "name": "pór letní", "alts": ["pórek"] },
-  {
-    "language": "cz",
-    "name": "tykev obecná",
-    "alts": ["patizon", "dýně", "cuketa"]
-  },
-  {
-    "language": "cz",
-    "name": "brusnice vlochyně",
-    "alts": ["vlochyně bahenní", "borůvka bažinná", "blinkavka", "raušinka"]
-  },
-  { "language": "cz", "name": "jahodník zahradní", "alts": ["jahoda"] },
-  { "language": "cz", "name": "ostružiník maliník", "alts": ["malina"] },
-  {
-    "language": "cz",
-    "name": "brukev zelná",
+    "language": "es",
+    "name": "nabo",
     "alts": [
-      "zelí",
-      "květák",
-      "kapusta",
-      "kedluben",
-      "brokolice",
-      "kadeřávek",
-      "romanesco"
+      "rapini",
+      "bok choy",
+      "mizuna",
+      "col china",
+      "yuyo",
+      "grelo",
+      "mostaza de campo"
     ]
   },
-  { "language": "cz", "name": "brukev řepák", "alts": ["vodnice"] },
-  { "language": "cz", "name": "pampeliška lékařská", "alts": ["smetánka"] },
-  { "language": "cz", "name": "mateřídouška obecná", "alts": ["tymián"] },
   {
-    "language": "cz",
-    "name": "grepfruit",
-    "alts": ["citroník rajský", "grapefruit"]
+    "language": "es",
+    "name": "falso abeto",
+    "alts": ["abeto rojo", "pícea de Noruega"]
   },
-  { "language": "cz", "name": "slanobýl obecný", "alts": ["stepní běžec"] },
-  {
-    "language": "cz",
-    "name": "jedovatec kořenující",
-    "alts": ["škumpovník zákeřný", "škumpa jedovatá"]
-  },
-  { "language": "cz", "name": "lazucha prorůstavá", "alts": ["zelená řasa"] },
-  { "language": "cz", "name": "třtinovec cukrový", "alts": ["cukrová třtina"] },
-  { "language": "cz", "name": "smldinec", "alts": ["guinejský jam", "yam"] },
-  { "language": "cz", "name": "cyatea", "alts": ["stromovitá kapradina"] },
-  { "language": "cz", "name": "banánovník ovocný", "alts": ["banán"] },
-  { "language": "cz", "name": "blahovičník", "alts": ["eukalyptus"] },
-  { "language": "cz", "name": "kořenovník obecný", "alts": ["mangrove"] },
-  {
-    "language": "cz",
-    "name": "ostrokvět americký",
-    "alts": ["Pennisetum glaucum", "dochan"]
-  },
-  {
-    "language": "cz",
-    "name": "pomněnka bahenní",
-    "alts": ["Myosotis palustris"]
-  },
-  { "language": "cz", "name": "bez černý", "alts": ["bezinka"] },
-  { "language": "cz", "name": "opuncie", "alts": ["nopál"] },
-  {
-    "language": "cz",
-    "name": "echinokaktus Grusonův",
-    "alts": ["ježunka", "židle pro tchýni", "Kroenleinia"]
-  },
-
+  { "language": "es", "name": "beluga", "alts": ["ballena beluga"] },
+  { "language": "es", "name": "abejorro", "alts": ["moscardón"] },
+  { "language": "es", "name": "vaca", "alts": ["toro", "ganado"] },
   { "language": "pt", "name": "cervo", "alts": ["veado", "gamo"] },
-
-  { "language": "pt", "name": "maracujá", "alts": ["passiflora"]},
-  { "language": "pt", "name": "crisântemo", "alts": ["malmequer", "mal-me-quer"]},
-  { "language": "pt", "name": "macieira", "alts": ["maçã"]},
-  { "language": "pt", "name": "laranjeira", "alts": ["laranja"]},
-  { "language": "pt", "name": "limoeiro", "alts": ["limão"]},
-  { "language": "pt", "name": "abacateiro", "alts": ["abacate"]},
-  { "language": "pt", "name": "pereira", "alts": ["pera"]},
-  { "language": "pt", "name": "oliveira", "alts": ["azeitona"]},
-  { "language": "pt", "name": "nogueira", "alts": ["noz"]},
-  { "language": "pt", "name": "alfarrobeira", "alts": ["alfarroba"]},
-  { "language": "pt", "name": "tomateiro", "alts": ["tomate"]},
-  
-
+  { "language": "pt", "name": "maracujá", "alts": ["passiflora"] },
+  {
+    "language": "pt",
+    "name": "crisântemo",
+    "alts": ["malmequer", "mal-me-quer"]
+  },
+  { "language": "pt", "name": "macieira", "alts": ["maçã"] },
+  { "language": "pt", "name": "laranjeira", "alts": ["laranja"] },
+  { "language": "pt", "name": "limoeiro", "alts": ["limão"] },
+  { "language": "pt", "name": "abacateiro", "alts": ["abacate"] },
+  { "language": "pt", "name": "pereira", "alts": ["pera"] },
+  { "language": "pt", "name": "oliveira", "alts": ["azeitona"] },
+  { "language": "pt", "name": "nogueira", "alts": ["noz"] },
+  { "language": "pt", "name": "alfarrobeira", "alts": ["alfarroba"] },
+  { "language": "pt", "name": "tomateiro", "alts": ["tomate"] }
 ]
