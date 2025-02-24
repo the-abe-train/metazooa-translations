@@ -874,6 +874,7 @@
   { "language": "pt", "name": "oliveira", "alts": ["azeitona"] },
   { "language": "pt", "name": "nogueira", "alts": ["noz"] },
   { "language": "pt", "name": "alfarrobeira", "alts": ["alfarroba"] },
-  { "language": "pt", "name": "tomateiro", "alts": ["tomate"] }
+  { "language": "pt", "name": "tomateiro", "alts": ["tomate"] },
+  { "language": "es", "name": "frutipán", "alts": ["árbol del pan"] },
   { "language": "pt", "name": "amendoeira", "alts": ["amêndoa"] }
 ]
