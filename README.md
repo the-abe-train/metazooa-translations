@@ -31,6 +31,9 @@ If this is your first time on GitHub and you don't know what a pull request is, 
 ## Correcting an existing translation
 If you notice an incorrect translation in an language already available in the game, feel free to submit a pull request to change it. In your pull request, please include a note about why your translation is more appropriate.
 
+## Quick Corrections for Species Names
+If you want to suggest a correction to a specific species name in any existing language without adding an entirely new language, you can use our [Google Form](https://forms.gle/kRXL4iM3tDgyXrsW6). This is ideal for small corrections when you don't want to create a pull request. You can also use this form to correct the Wikipedia article associated with any clade, or recommend new alternative names that should be accepted for a given species.
+
 ## Final notes
 - Accepted pull requests still need to be hardcoded into the actual code for each game, so translations will not go into effect immediately. 
 - Any and all languages are welcome.
