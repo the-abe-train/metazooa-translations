@@ -889,5 +889,24 @@
     "name": "frijol común",
     "alts": ["alubia", "judía"]
   },
-  { "language": "es", "name": "caucho", "alts": ["gomero"] }
+  { "language": "es", "name": "caucho", "alts": ["gomero"] },
+  {
+    "language": "es",
+    "name": "pececillo de plata",
+    "alts": [
+      "lepisma de la harina",
+      "gusano de polvo",
+      "lepisma del azúcar",
+      "traza",
+      "come santos",
+      "bicho del zócalo",
+      "cucaracha de agua",
+      "sardineta",
+      "comecuadro",
+      "chiripa"
+    ]
+  },
+  { "language": "es", "name": "soya", "alts": ["soja"] },
+  { "language": "en", "name": "fava bean", "alts": ["broad bean"] },
+  { "language": "es", "name": "chochín común", "alts": ["reyezuelo"] }
 ]
