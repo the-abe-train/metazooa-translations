@@ -30,6 +30,7 @@
   { "language": "en", "name": "black eyed pea", "alts": ["cowpea"] },
   { "language": "en", "name": "bark scorpion", "alts": ["scorpion"] },
   { "language": "en", "name": "house centipede", "alts": ["centipede"] },
+  { "language": "en", "name": "peacock", "alts": ["peafowl"] },
   {
     "language": "en",
     "name": "harvestman",
@@ -908,5 +909,15 @@
   },
   { "language": "es", "name": "soya", "alts": ["soja"] },
   { "language": "en", "name": "fava bean", "alts": ["broad bean"] },
-  { "language": "es", "name": "chochín común", "alts": ["reyezuelo"] }
+  { "language": "es", "name": "chochín común", "alts": ["reyezuelo"] },
+  {
+    "language": "de",
+    "name": "Riesentausendfüßer",
+    "alts": ["Wasserfall-Hundertfüßer"]
+  },
+  {
+    "language": "es",
+    "name": "alheña",
+    "alts": ["arjeña", "henna", "gena", "jena"]
+  }
 ]
