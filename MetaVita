@@ -1,0 +1,31 @@
+{
+  {
+    "node" : 29 ,
+    "sci_name" : "Myxococcales" ,
+    "cmn_name" : "Fruiting Gliding Bacteria"
+  }
+
+  {
+    "node" : 72 ,
+    "sci_name" : "Caryophanon muelleri" ,
+    "cmn_name" : "Screw Bacteria"
+  }
+
+  {
+    "node" : 139 ,
+    "sci_name" : "Borreliella burgdorferi" ,
+    "cmn_name" : "Lyme Disease Spirochete"
+  }
+
+  {
+    "node" : 161 ,
+    "sci_name" : "Treponema pallidum pallidum" ,
+    "cmn_name" : "Syphilis Triponeme"
+  }
+
+  {
+    "node" : 638 ,
+    "sci_name" : "Arsenophonus nasoniae" ,
+    "cmn_name" : "Son-killer Infecting Nasonia Vitripennis"
+  }
+}
