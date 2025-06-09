@@ -939,8 +939,14 @@
     "alts": ["goliath cockatoo", "palm cockatoo", "black cockatoo"]
   },
   { "language": "es", "name": "durazno", "alts": ["melocotón"] },
-  { "language": "es", "name": "orco", "alts": ["orca", "ballena asesina"] },
+  { "language": "es", "name": "orca", "alts": ["ballena asesina"] },
   { "language": "es", "name": "palta", "alts": ["aguacate", "palto"] },
+  { "language": "es", "name": "maní", "alts": ["cacahuete"] },
+  {
+    "language": "es",
+    "name": "mirística",
+    "alts": ["árbol de la nuez moscada"]
+  },
   { "language": "de", "name": "perlboot", "alts": ["nautilus"] },
   { "language": "en", "name": "hare", "alts": ["jackrabbit"] },
   { "language": "en", "name": "nematode", "alts": ["nematode worm"] }
