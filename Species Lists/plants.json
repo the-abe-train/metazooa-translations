@@ -984,7 +984,7 @@
     "name_pt": "tomateiro"
   },
   {
-    "nodeId": 223891,
+    "nodeId": 4111,
     "scientific_name": "Solanum melongena",
     "name": "eggplant",
     "parentId": 4107,
@@ -1704,8 +1704,8 @@
     "name_pt": "cevada"
   },
   {
-    "nodeId": 4026,
-    "scientific_name": "Acer pseudoplatanus",
+    "nodeId": 4403,
+    "scientific_name": "Platanus occidentalis",
     "name": "sycamore",
     "parentId": 4022,
     "name_es": "sicomoro",
@@ -2546,7 +2546,7 @@
   {
     "nodeId": 3311,
     "scientific_name": "Ginkgo biloba",
-    "name": "gingko",
+    "name": "ginkgo",
     "parentId": 3310,
     "name_es": "ginkgo",
     "name_fr": "ginkgo",

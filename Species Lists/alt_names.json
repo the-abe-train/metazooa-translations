@@ -31,6 +31,13 @@
   { "language": "en", "name": "bark scorpion", "alts": ["scorpion"] },
   { "language": "en", "name": "house centipede", "alts": ["centipede"] },
   { "language": "en", "name": "peacock", "alts": ["peafowl"] },
+  { "language": "en", "name": "ginkgo", "alts": ["gingko"] },
+  { "language": "en", "name": "lime", "alts": ["key lime"] },
+  {
+    "language": "en",
+    "name": "hercules beetle",
+    "alts": ["rhinoceros beetle"]
+  },
   {
     "language": "en",
     "name": "harvestman",
@@ -41,6 +48,11 @@
     "language": "en",
     "name": "pillbug",
     "alts": ["potato bug", "roly-poly", "woodlouse", "land isopod"]
+  },
+  {
+    "language": "es",
+    "name": "cochinilla",
+    "alts": ["bicho bola", "chanchito"]
   },
   { "language": "en", "name": "freshwater polyp", "alts": ["hydra"] },
   { "language": "en", "name": "puma", "alts": ["cougar", "mountain lion"] },
@@ -56,15 +68,26 @@
   { "language": "en", "name": "starfish", "alts": ["sea star"] },
   { "language": "en", "name": "wildebeest", "alts": ["gnu"] },
   { "language": "en", "name": "gum arabic tree", "alts": ["gum tree"] },
-  { "language": "en", "name": "tiger prawn", "alts": ["prawn", "shrimp"] },
+  {
+    "language": "en",
+    "name": "tiger prawn",
+    "alts": ["prawn", "tiger shrimp"]
+  },
   { "language": "en", "name": "elk", "alts": ["wapiti"] },
   { "language": "en", "name": "corn", "alts": ["maize"] },
+  { "language": "de", "name": "Löwenäffchen", "alts": ["Saguinus"] },
+  { "language": "de", "name": "Ratte", "alts": ["Wanderratte"] },
   {
     "language": "en",
     "name": "sweet pepper",
     "alts": ["bell pepper", "capsicum"]
   },
   { "language": "es", "name": "bogavante", "alts": ["langosta"] },
+  {
+    "language": "es",
+    "name": "tamarino león dorado",
+    "alts": ["tití león dorado"]
+  },
   {
     "language": "fr",
     "name": "ver à soie",
@@ -159,6 +182,11 @@
     "language": "fr",
     "name": "otarie",
     "alts": ["lion de mer"]
+  },
+  {
+    "language": "fr",
+    "name": "urubu noir",
+    "alts": ["vautour urubu", "vautour noir"]
   },
   {
     "language": "fr",
@@ -880,6 +908,7 @@
   { "language": "pt", "name": "amêndoeira", "alts": ["amêndoa"] },
   { "language": "es", "name": "acacia", "alts": ["goma arábiga"] },
   { "language": "es", "name": "repollo", "alts": ["col"] },
+  { "language": "es", "name": "gallo", "alts": ["pollo", "gallina"] },
   {
     "language": "es",
     "name": "pingüino macaroni",
