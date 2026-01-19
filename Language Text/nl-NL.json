@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "Mysterieus Dier",
+        "unique": "één Mysterieus Dier",
+        "indefinite": "een Mysterieus Dier",
+        "definite": "het Mysterieuze Dier",
+        "definiteCapitalised": "Het Mysterieuze Dier",
+        "demonstrative": "dit"
+      },
+      "answer": "mens",
+      "kingdom": {
+        "generic": "dieren",
+        "concord": "s",
+        "unique": "een",
+        "definite": "de"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "mysterieus", "plural": "mysterieuze" },
+      "menagerie": "dierentuin"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "Mysterieuze Plant",
+        "unique": "één Mysterieuze Plant",
+        "indefinite": "een Mysterieuze Plant",
+        "definite": "de Mysterieuze Plant",
+        "definiteCapitalised": "De Mysterieuze Plant",
+        "demonstrative": "deze"
+      },
+      "answer": "tomaat",
+      "kingdom": {
+        "generic": "planten",
+        "concord": "s",
+        "unique": "een",
+        "definite": "de"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "mysterieuze", "plural": "mysterieuze" },
+      "menagerie": "tuin"
+    },
+    "keywords": {
+      "remaining": "remaining",
+      "Click": "Click",
+      "Tap": "Tap"
+    },
+    "home": {
+      "0": {
+        "0": "Het dierenrijk (<i>Metazoa</i>, in het Grieks) puilt uit van onze verre verwanten... sommige verder dan andere! Metazooa is een spel dat test hoe goed je onze stamboom kent.",
+        "1": "Het plantenrijk (wetenschappers noemen het <i>Viridiplantae</i>) is reusachtig en prachtig... maar ook complex! Metaflora een spel dat jouw groene duim test, door te kijken hoe goed je je weg vindt langs de bladerrijke takken van de stamboom."
+      },
+      "1": "Je doel is om de <b>{{species.generic}}</b> van de dag te identificeren in zo weinig mogelijk stappen. Verkeerde gokken leveren meer informatie op over het taxonomisch niveau (koninkrijk, phylum, klasse, orde, etc.) Hoe meer jouw gok met het antwoord overeenkomt, hoe meer je te weten komt over de {{species.generic}}.",
+      "2": "Als het antwoord bijvoorbeeld {{answer}} is, zou je door te raden de volgende boom kunnen krijgen:",
+      "3": "Er is maar {{species.unique}} per dag, maar je krijgt {{MAX_GUESSES}} pogingen om te raden! Over <b>{{nextGame}}</b> begint er een nieuw spel.",
+      "4": "{{species.definiteCapitalised}} van de dag al gevonden?",
+      "5": "Play"
+    },
+    "game": {
+      "0": "Toon tabel",
+      "1": "Het antwoord en {{guess}} hebben dit gemeen.",
+      "2": "{{click}} om meer te weten te komen",
+      "3": "Vind {{species.demonstrative}} {{species.generic}}!",
+      "4": "Je wint! Het antwoord is <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Je wint!",
+        "1": "Geen pogingen meer."
+      },
+      "2": "Deel je score of speel een oefenpotje!",
+      "3": "Speel een ander spel van"
+    },
+    "share": {
+      "0": "Delen",
+      "1": "Gedeeld!",
+      "2": "Gekopiëerd!",
+      "3": "Het is niet gelukt je score te delen."
+    },
+    "table": {
+      "0": "Rang",
+      "1": "Naam",
+      "2": "Pogingen",
+      "3": "Hints",
+      "4": "Terug naar de boom"
+    },
+    "errors": {
+      "0": "Geen foutmelding",
+      "1": "\"{{guess}}\" niet gevonden in de database",
+      "2": "Je hebt \"{{guess}}\" al geraden",
+      "3": "Het antwoord is \"{{guess}}\"",
+      "4": "Bedoel je \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Ga de {{menagerie}} in!"
+    },
+    "footer": {
+      "0": "door Trainwreck Labs",
+      "1": "Sluit je aan bij onze Discordserver!",
+      "2": "Heb je een vraag?",
+      "3": "Bekijk de veelgestelde vragen"
+    },
+    "hint": {
+      "0": "Een hint nodig? Ruil 3 pogingen in om een rang te onthullen!",
+      "1": "Hint"
+    },
+    "wikipedia": {
+      "0": "Van Wikipedia",
+      "1": {
+        "Show": "Toon afbeelding",
+        "Hide": "Verberg afbeelding"
+      }
+    },
+    "guesser": {
+      "0": "Raad een soort om te beginnen!",
+      "1": "Voer je volgende poging in.",
+      "2": "Raad"
+    },
+    "statistics": {
+      "0": "Statistieken",
+      "1": "Potjes",
+      "2": "Streak",
+      "3": "Gespeeld",
+      "4": "Gewonnen",
+      "5": "Huidig",
+      "6": "Record",
+      "7": "Aantal pogingen voor elk gewonnen potje. De kleur van de balk staat voor de gemiddelde afstand tussen de pogingen en het antwoord."
+    },
+    "settings": {
+      "0": "Instellingen",
+      "1": "Raad met wetenschappelijke namen",
+      "2": "Taal",
+      "3": "Nederlands",
+      "4": "Donkere modus"
+    },
+    "practice": {
+      "0": "Oefenen",
+      "1": "Speel onbeperkt {{game}}!",
+      "2": "Nieuw oefenpotje",
+      "3": "Door met oefenen"
+    },
+    "links": {
+      "0": "Links",
+      "1": "Veelgestelde vragen",
+      "2": "Privacybeleid"
+    },
+    "twl": {
+      "0": "Account",
+      "1": "Verbind <b>{{game}}</b> met je TWL-account",
+      "2": "Inloggen met Google",
+      "3": "Inloggen met Discord",
+      "4": "Aanmelden voor de nieuwsbrief van Trainwreck Labs",
+      "5": "Advertenties verwijderen",
+      "6": "Verbinding verbreken",
+      "7": "Clublid"
+    },
+    "faq": {
+      "0": "Veelgestelde vragen",
+      "1": {
+        "q": "Hoe zijn de {{kingdom.generic}} in het spel gekozen?",
+        "a": "De {{kingdom.generic}} in {{game}} zijn gekozen aan de hand van hoe bekend ze bij mensen zijn, en om genoeg diversiteit aan soorten te krijgen om het spel interessant te maken."
+      },
+      "2": {
+        "q": "Het spel klopt niet! Wikipedia hanteert andere klassificaties voor één van de {{kingdom.generic}}.",
+        "a": "Dit is mogelijk. De classificaties in het spel zijn gebaseerd op de NCBI-taxonomie, de meest gebruikte taxonomie voor diersoorten. Het is echter niet de enige taxonomie. De taxonomie van Wikipedia wordt ook veel gebruikt, en het is mogelijk dat de twee taxonomieën het oneens zijn over een soort."
+      },
+      "3": {
+        "q": "Waarom is er geen klasse \"Reptiel\" of \"Reptilia\" in het spel?",
+        "a": "Hoewel sommige datasets, zoals Wikipedia, de klasse Reptilia gebruiken, doet de NCBI-taxonomie dat niet. In plaats daarvan gebruikt de NCBI-taxonomie de klasse Sauropsida, die alle reptielen en vogels bevat. Dit is omdat sommige dieren die algemeen bekend zijn als reptielen, meer met volgens gemeen hebben dan met andere reptielen. Krokodillen zijn bijvoorbeeld nauwer aan vogels verwant dan aan hagedissen."
+      },
+      "4": {
+        "q": "Waarom is \"gedomesticeerde kat\" een mogelijkheid maar \"gedomesticeerde hond\" niet?",
+        "a": "Dit is omdat gedomesticeerde katten hun eigen soort hebben (\"Felis catus\"), terwijl gedomesticeerde honden meestal worden geclassificeerd als ondersoort van de wolf (\"Canis lupus familiaris\")."
+      },
+      "5": {
+        "q": "Heeft {{game}} een privacybeleid?",
+        "a": "Klik op deze link om het <a href=\"/privacy-policy\" class=\"underline\">privacybeleid</a> van {{game}} te zien."
+      }
+    }
+  }
+}
