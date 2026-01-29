@@ -1530,7 +1530,8 @@
     "name_de": "Kürbis",
     "name_tr": "sakız kabağı",
     "name_cs": "tykev obecná",
-    "name_pt": "гарбуз"
+    "name_pt": "abóbora",
+    "name_uk": "гарбуз"
   },
   {
     "nodeId": 3662,
@@ -1542,7 +1543,8 @@
     "name_de": "Butternusskürbis",
     "name_tr": "bal kabağı",
     "name_cs": "tykev pižmová - máslová dýně",
-    "name_pt": "гарбуз мускатний"
+    "name_pt": "abobrinha",
+    "name_uk": "гарбуз мускатний"
   },
   {
     "nodeId": 13306,
