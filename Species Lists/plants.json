@@ -464,7 +464,8 @@
     "name_de": "Litschi",
     "name_tr": "liçi",
     "name_cs": "liči čínské",
-    "name_pt": "líchia"
+    "name_pt": "líchia",
+    "name_uk": "лічі"
   },
   {
     "nodeId": 60698,
@@ -671,8 +672,7 @@
     "name_de": "Pistazie",
     "name_tr": "antep fıstığı",
     "name_cs": "řečík pistáciový",
-    "name_pt": "pistáchio",
-    "name_uk": "грястиця",
+    "name_pt": "pistáchio"
     "name_uk": "фісташка"
   },
   {
