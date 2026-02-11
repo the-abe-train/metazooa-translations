@@ -318,7 +318,7 @@
     "name_ca": "gripau",
     "name_ko": "두꺼비",
     "name_de": "Kröte",
-    "name_uk": "жаба",
+    "name_uk": "ропуха",
     "name_tr": "siğilli kurbağa",
     "name_nl": "pad"
   },
@@ -1550,7 +1550,7 @@
     "nodeId": 29159,
     "scientific_name": "Magallana gigas",
     "name": "oyster",
-    "parentId": 6564,
+    "parentId": 2171616,
     "name_es": "ostra",
     "name_fr": "huître",
     "name_hu": "osztriga",
@@ -1689,7 +1689,7 @@
     "parentId": 1527437,
     "name_es": "salamandra",
     "name_fr": "salamandre",
-    "name_hu": "szalamander",
+    "name_hu": "szalamandra",
     "name_it": "salamandra",
     "name_pt": "salamandra",
     "name_ca": "salamandra",
@@ -1763,7 +1763,7 @@
     "name_ca": "pit-roig",
     "name_ko": "미국 지빠귀",
     "name_de": "Rotkehlchen",
-    "name_uk": "малиновка",
+    "name_uk": "вільшанка",
     "name_tr": "kızılgerdan",
     "name_nl": "roodborst"
   },
@@ -1789,7 +1789,7 @@
     "scientific_name": "Phascolarctos cinereus",
     "name": "koala",
     "parentId": 38625,
-    "name_es": "coala",
+    "name_es": "koala",
     "name_fr": "koala",
     "name_hu": "koala",
     "name_it": "koala",
@@ -1916,7 +1916,7 @@
     "name_ca": "granota arlequí",
     "name_ko": "독화살개구리",
     "name_de": "Pfeilgiftfrosch",
-    "name_uk": "отруйна жаба",
+    "name_uk": "дереволаз",
     "name_tr": "zehirli ok kurbağası",
     "name_nl": "pijlgifkikker"
   },
@@ -1967,7 +1967,7 @@
     "name_ca": "òliba",
     "name_ko": "올빼미",
     "name_de": "Schleiereule",
-    "name_uk": "сова",
+    "name_uk": "сипуха",
     "name_tr": "peçeli baykuş",
     "name_nl": "kerkuil"
   },
@@ -2375,7 +2375,7 @@
     "name_ca": "pinsà borroner",
     "name_ko": "핀치새",
     "name_de": "Gimpel",
-    "name_uk": "зяблик",
+    "name_uk": "снігур",
     "name_tr": "ispinoz",
     "name_nl": "goudvink"
   },
@@ -2477,7 +2477,7 @@
     "name_ca": "rossinyol",
     "name_ko": "밤꾀꼬리",
     "name_de": "Nachtigall",
-    "name_uk": "соловей",
+    "name_uk": "соловейко",
     "name_tr": "bülbül",
     "name_nl": "nachtegaal"
   },
@@ -2885,7 +2885,7 @@
     "name_ca": "gavià argentat",
     "name_ko": "갈매기",
     "name_de": "Silbermöwe",
-    "name_uk": "чайка",
+    "name_uk": "мартин",
     "name_tr": "martı",
     "name_nl": "zilvermeeuw"
   },
@@ -3531,7 +3531,7 @@
     "name_ca": "porquet de sant antoni",
     "name_ko": "공벌레",
     "name_de": "Kellerassel",
-    "name_uk": "клоп",
+    "name_uk": "мокриця-броненосець",
     "name_tr": "tespih böceği",
     "name_nl": "pissebed"
   },
@@ -3548,7 +3548,7 @@
     "name_ca": "percebe",
     "name_ko": "따개비",
     "name_de": "Seepocke",
-    "name_uk": "барнакл",
+    "name_uk": "морський жолудь",
     "name_tr": "kaya midyesi",
     "name_nl": "zeepok"
   },
@@ -4815,7 +4815,7 @@
     "scientific_name": "Civettictis civetta",
     "name": "civet",
     "parentId": 94185,
-    "name_es": "algalia",
+    "name_es": "civeta",
     "name_fr": "civette",
     "name_hu": "cibet",
     "name_it": "zibetto",
@@ -4942,7 +4942,7 @@
     "name_ca": "wren",
     "name_ko": "렌",
     "name_de": "Zaunkönig",
-    "name_uk": "крапивник",
+    "name_uk": "волове очко",
     "name_tr": "çit kuşu",
     "name_nl": "winterkoning"
   },
@@ -4959,7 +4959,7 @@
     "name_ca": "falciot",
     "name_ko": "칼새",
     "name_de": "Segler",
-    "name_uk": "стриж",
+    "name_uk": "серпокрилець",
     "name_tr": "ebabil kuşu",
     "name_nl": "gierzwaluw"
   },
@@ -5214,7 +5214,7 @@
     "name_ca": "cranc de ferradura",
     "name_ko": "투구게",
     "name_de": "Hufeisenkrebse",
-    "name_uk": "підковоподібний краб",
+    "name_uk": "мечохвіст",
     "name_tr": "at nalı yengeci",
     "name_nl": "degenkrab"
   },
