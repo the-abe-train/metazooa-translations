@@ -760,5 +760,10 @@
   { "language": "uk", "name": "азиміна", "alts": ["папая"] },
   { "language": "uk", "name": "ройбос", "alts": ["ройбуш"] },
   { "language": "uk", "name": "локва", "alts": ["японська мушмула"] },
-  { "language": "uk", "name": "ґінко", "alts": ["ґінкго, гінкго"] }
+  { "language": "uk", "name": "ґінко", "alts": ["ґінкго, гінкго"] },
+  { "language": "en", "name": "betta", "alts": ["fighting fish"] },
+  { "language": "uk", "name": "гнойовий жук", "alts": ["скарабей"] },
+  { "language": "uk", "name": "волове очко", "alts": ["кропивник"] },
+  { "language": "uk", "name": "серпокрилець", "alts": ["стриж"] },
+  { "language": "de", "name": "Amerikanische Platane", "alts": ["Bergahorn"] }
 ]
