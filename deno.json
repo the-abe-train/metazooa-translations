@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts",
+    "reorder-animals": "deno run --allow-read --allow-write scripts/reorder_animals.ts",
+    "add-animals": "deno run --allow-read --allow-write scripts/add_animals.ts",
+    "deduplicate-alt-names": "deno run --allow-read --allow-write scripts/deduplicate_alt_names.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}

@@ -88,101 +88,33 @@
     "name": "tamarino león dorado",
     "alts": ["tití león dorado"]
   },
-  {
-    "language": "fr",
-    "name": "ver à soie",
-    "alts": ["bombyx du mûrier"]
-  },
-  {
-    "language": "fr",
-    "name": "drosophile",
-    "alts": ["mouche du vinaigre"]
-  },
-  {
-    "language": "fr",
-    "name": "abeille",
-    "alts": ["mouche à miel", "avette"]
-  },
-  {
-    "language": "fr",
-    "name": "poisson rouge",
-    "alts": ["carassin doré"]
-  },
-  {
-    "language": "fr",
-    "name": "carpe",
-    "alts": ["koï"]
-  },
-  {
-    "language": "fr",
-    "name": "poisson-chat",
-    "alts": ["barbue de rivière"]
-  },
-  {
-    "language": "fr",
-    "name": "morue",
-    "alts": ["cabillaud", "skrei"]
-  },
-  {
-    "language": "fr",
-    "name": "grenouille-taureau",
-    "alts": ["ouaouaron"]
-  },
-  {
-    "language": "fr",
-    "name": "serpent marin",
-    "alts": ["pélamide"]
-  },
-  {
-    "language": "fr",
-    "name": "oie",
-    "alts": ["bernache"]
-  },
+  { "language": "fr", "name": "ver à soie", "alts": ["bombyx du mûrier"] },
+  { "language": "fr", "name": "drosophile", "alts": ["mouche du vinaigre"] },
+  { "language": "fr", "name": "abeille", "alts": ["mouche à miel", "avette"] },
+  { "language": "fr", "name": "poisson rouge", "alts": ["carassin doré"] },
+  { "language": "fr", "name": "carpe", "alts": ["koï"] },
+  { "language": "fr", "name": "poisson-chat", "alts": ["barbue de rivière"] },
+  { "language": "fr", "name": "morue", "alts": ["cabillaud", "skrei"] },
+  { "language": "fr", "name": "grenouille-taureau", "alts": ["ouaouaron"] },
+  { "language": "fr", "name": "serpent marin", "alts": ["pélamide"] },
+  { "language": "fr", "name": "oie", "alts": ["bernache"] },
   {
     "language": "fr",
     "name": "coq doré",
     "alts": ["coq sauvage", "poule", "poulet"]
   },
-  {
-    "language": "fr",
-    "name": "vampire",
-    "alts": ["chauve-souris vampire"]
-  },
-  {
-    "language": "fr",
-    "name": "crotale",
-    "alts": ["serpent à sonnette"]
-  },
+  { "language": "fr", "name": "vampire", "alts": ["chauve-souris vampire"] },
+  { "language": "fr", "name": "crotale", "alts": ["serpent à sonnette"] },
   {
     "language": "fr",
     "name": "renard roux",
     "alts": ["goupil", "renard commun"]
   },
-  {
-    "language": "fr",
-    "name": "ours noir",
-    "alts": ["baribal"]
-  },
-  {
-    "language": "fr",
-    "name": "ours brun",
-    "alts": ["grizzli", "ours kodiak"]
-  },
-  {
-    "language": "fr",
-    "name": "panda roux",
-    "alts": ["petit panda"]
-  },
-  {
-    "language": "fr",
-    "name": "léopard",
-    "alts": ["panthère"]
-  },
-  {
-    "language": "fr",
-    "name": "otarie",
-    "alts": ["lion de mer"]
-  },
+  { "language": "fr", "name": "ours noir", "alts": ["baribal"] },
+  { "language": "fr", "name": "ours brun", "alts": ["grizzli", "ours kodiak"] },
+  { "language": "fr", "name": "panda roux", "alts": ["petit panda"] },
+  { "language": "fr", "name": "léopard", "alts": ["panthère"] },
+  { "language": "fr", "name": "otarie", "alts": ["lion de mer"] },
   {
     "language": "fr",
     "name": "urubu noir",
@@ -198,26 +130,10 @@
     "name": "baleine à bosse",
     "alts": ["rorqual à bosse", "mégaptère"]
   },
-  {
-    "language": "fr",
-    "name": "cheval",
-    "alts": ["poney"]
-  },
-  {
-    "language": "fr",
-    "name": "oryctérope",
-    "alts": ["cochon de terre"]
-  },
-  {
-    "language": "fr",
-    "name": "vache",
-    "alts": ["taureau", "aurochs", "bœuf"]
-  },
-  {
-    "language": "fr",
-    "name": "mouton",
-    "alts": ["brebis", "bélier"]
-  },
+  { "language": "fr", "name": "cheval", "alts": ["poney"] },
+  { "language": "fr", "name": "oryctérope", "alts": ["cochon de terre"] },
+  { "language": "fr", "name": "vache", "alts": ["taureau", "aurochs", "bœuf"] },
+  { "language": "fr", "name": "mouton", "alts": ["brebis", "bélier"] },
   {
     "language": "fr",
     "name": "monarque",
@@ -238,61 +154,21 @@
     "name": "paresseux à deux doigts",
     "alts": ["unau", "parsou mouton"]
   },
-  {
-    "language": "fr",
-    "name": "tortue luth",
-    "alts": ["tortue marine"]
-  },
-  {
-    "language": "fr",
-    "name": "ours blanc",
-    "alts": ["ours polaire"]
-  },
-  {
-    "language": "fr",
-    "name": "alpaga",
-    "alts": ["alpaca"]
-  },
-  {
-    "language": "en",
-    "name": "meerkat",
-    "alts": ["suricate"]
-  },
-  {
-    "language": "fr",
-    "name": "hippotrague",
-    "alts": ["antilope noire"]
-  },
-  {
-    "language": "fr",
-    "name": "capucin",
-    "alts": ["sapajou", "sajou"]
-  },
-  {
-    "language": "fr",
-    "name": "rouge-gorge",
-    "alts": ["rougegorge"]
-  },
-  {
-    "language": "fr",
-    "name": "perruche",
-    "alts": ["conure"]
-  },
+  { "language": "fr", "name": "tortue luth", "alts": ["tortue marine"] },
+  { "language": "fr", "name": "ours blanc", "alts": ["ours polaire"] },
+  { "language": "fr", "name": "alpaga", "alts": ["alpaca"] },
+  { "language": "en", "name": "meerkat", "alts": ["suricate"] },
+  { "language": "fr", "name": "hippotrague", "alts": ["antilope noire"] },
+  { "language": "fr", "name": "capucin", "alts": ["sapajou", "sajou"] },
+  { "language": "fr", "name": "rouge-gorge", "alts": ["rougegorge"] },
+  { "language": "fr", "name": "perruche", "alts": ["conure"] },
   {
     "language": "fr",
     "name": "chouette effraie",
     "alts": ["effraie des clochers"]
   },
-  {
-    "language": "fr",
-    "name": "gris du gabon",
-    "alts": ["perroquet jaco"]
-  },
-  {
-    "language": "fr",
-    "name": "lynx roux",
-    "alts": ["bobcat"]
-  },
+  { "language": "fr", "name": "gris du gabon", "alts": ["perroquet jaco"] },
+  { "language": "fr", "name": "lynx roux", "alts": ["bobcat"] },
   {
     "language": "fr",
     "name": "gorfou sauteur",
@@ -303,21 +179,13 @@
     "name": "myrmidon",
     "alts": ["fourmilier nain", "lèche-main"]
   },
-  {
-    "language": "fr",
-    "name": "poisson-clown",
-    "alts": ["poisson clown"]
-  },
+  { "language": "fr", "name": "poisson-clown", "alts": ["poisson clown"] },
   {
     "language": "fr",
     "name": "python birman",
     "alts": ["python molure birman"]
   },
-  {
-    "language": "fr",
-    "name": "pigeon",
-    "alts": ["carpophage", "kereru"]
-  },
+  { "language": "fr", "name": "pigeon", "alts": ["carpophage", "kereru"] },
   {
     "language": "fr",
     "name": "harfang des neiges",
@@ -328,21 +196,13 @@
     "name": "renard polaire",
     "alts": ["renard arctique", "renard isatis", "renard bleu"]
   },
-  {
-    "language": "fr",
-    "name": "roussette",
-    "alts": ["renard volant"]
-  },
+  { "language": "fr", "name": "roussette", "alts": ["renard volant"] },
   {
     "language": "fr",
     "name": "poulpe à anneaux bleus",
     "alts": ["pieuvre à anneaux bleus"]
   },
-  {
-    "language": "fr",
-    "name": "veuve noire",
-    "alts": ["malmignatte"]
-  },
+  { "language": "fr", "name": "veuve noire", "alts": ["malmignatte"] },
   {
     "language": "fr",
     "name": "palourde",
@@ -353,11 +213,7 @@
     "name": "escargot",
     "alts": ["escargot de Bourgogne", "gros blanc"]
   },
-  {
-    "language": "fr",
-    "name": "limace-banane",
-    "alts": ["limace banane"]
-  },
+  { "language": "fr", "name": "limace-banane", "alts": ["limace banane"] },
   {
     "language": "fr",
     "name": "corail-cerveau",
@@ -368,36 +224,16 @@
     "name": "physalie",
     "alts": ["galère portugaise", "vessie de mer", "galiote portugaise"]
   },
-  {
-    "language": "fr",
-    "name": "dragon de komodo",
-    "alts": ["varan de komodo"]
-  },
-  {
-    "language": "fr",
-    "name": "lémur",
-    "alts": ["maki"]
-  },
-  {
-    "language": "fr",
-    "name": "criquet pèlerin",
-    "alts": ["locuste"]
-  },
-  {
-    "language": "fr",
-    "name": "renne",
-    "alts": ["caribou"]
-  },
+  { "language": "fr", "name": "dragon de komodo", "alts": ["varan de komodo"] },
+  { "language": "fr", "name": "lémur", "alts": ["maki"] },
+  { "language": "fr", "name": "criquet pèlerin", "alts": ["locuste"] },
+  { "language": "fr", "name": "renne", "alts": ["caribou"] },
   {
     "language": "fr",
     "name": "atlas",
     "alts": ["papillon de nuit", "papillon cobra"]
   },
-  {
-    "language": "fr",
-    "name": "blatte",
-    "alts": ["cafard", "cancrelat"]
-  },
+  { "language": "fr", "name": "blatte", "alts": ["cafard", "cancrelat"] },
   {
     "language": "fr",
     "name": "perce-oreille",
@@ -408,21 +244,9 @@
     "name": "capybara",
     "alts": ["cabiai", "capibara", "cabiaï"]
   },
-  {
-    "language": "fr",
-    "name": "libellule",
-    "alts": ["aeschne"]
-  },
-  {
-    "language": "fr",
-    "name": "raie manta",
-    "alts": ["diable de mer"]
-  },
-  {
-    "language": "fr",
-    "name": "raie pastenague",
-    "alts": ["pastenague"]
-  },
+  { "language": "fr", "name": "libellule", "alts": ["aeschne"] },
+  { "language": "fr", "name": "raie manta", "alts": ["diable de mer"] },
+  { "language": "fr", "name": "raie pastenague", "alts": ["pastenague"] },
   {
     "language": "fr",
     "name": "bernard-l'hermite",
@@ -438,22 +262,10 @@
     "name": "concombre de mer",
     "alts": ["bêche de mer", "holothurie"]
   },
-  {
-    "language": "fr",
-    "name": "élan",
-    "alts": ["orignal"]
-  },
+  { "language": "fr", "name": "élan", "alts": ["orignal"] },
   { "language": "fr", "name": "balane", "alts": ["bernache", "bernacle"] },
-  {
-    "language": "fr",
-    "name": "yack",
-    "alts": ["yak"]
-  },
-  {
-    "language": "fr",
-    "name": "cochon d'inde",
-    "alts": ["cobaye"]
-  },
+  { "language": "fr", "name": "yack", "alts": ["yak"] },
+  { "language": "fr", "name": "cochon d'inde", "alts": ["cobaye"] },
   {
     "language": "fr",
     "name": "tortue géante des galápagos",
@@ -464,96 +276,32 @@
     "name": "opossum",
     "alts": ["pian", "manicou", "sarigue"]
   },
-  {
-    "language": "fr",
-    "name": "scarabée rhinocéros",
-    "alts": ["dynaste"]
-  },
-  {
-    "language": "fr",
-    "name": "baudroie",
-    "alts": ["lotte"]
-  },
-  {
-    "language": "fr",
-    "name": "ver de terre",
-    "alts": ["lombric"]
-  },
-  {
-    "language": "fr",
-    "name": "crevette-mante",
-    "alts": ["squille"]
-  },
-  {
-    "language": "fr",
-    "name": "guppy",
-    "alts": ["guppie"]
-  },
-  {
-    "language": "fr",
-    "name": "phalanger",
-    "alts": ["possum"]
-  },
+  { "language": "fr", "name": "scarabée rhinocéros", "alts": ["dynaste"] },
+  { "language": "fr", "name": "baudroie", "alts": ["lotte"] },
+  { "language": "fr", "name": "ver de terre", "alts": ["lombric"] },
+  { "language": "fr", "name": "crevette-mante", "alts": ["squille"] },
+  { "language": "fr", "name": "guppy", "alts": ["guppie"] },
+  { "language": "fr", "name": "phalanger", "alts": ["possum"] },
   {
     "language": "fr",
     "name": "tamia",
     "alts": ["écureuil de Corée", "suisse", "chipmunk"]
   },
-  {
-    "language": "fr",
-    "name": "colibri",
-    "alts": ["oiseau-mouche"]
-  },
-  {
-    "language": "fr",
-    "name": "urubu à tête rouge",
-    "alts": ["vautour aura"]
-  },
-  {
-    "language": "fr",
-    "name": "poisson combattant",
-    "alts": ["betta"]
-  },
+  { "language": "fr", "name": "colibri", "alts": ["oiseau-mouche"] },
+  { "language": "fr", "name": "urubu à tête rouge", "alts": ["vautour aura"] },
+  { "language": "fr", "name": "poisson combattant", "alts": ["betta"] },
   {
     "language": "fr",
     "name": "python vert",
     "alts": ["python arboricole vert", "serpent émeraude"]
   },
-  {
-    "language": "fr",
-    "name": "loup",
-    "alts": ["chien"]
-  },
-  {
-    "language": "fr",
-    "name": "orque",
-    "alts": ["épaulard"]
-  },
-  {
-    "language": "fr",
-    "name": "cochon",
-    "alts": ["porc", "sanglier"]
-  },
-  {
-    "language": "fr",
-    "name": "chèvre",
-    "alts": ["bouc"]
-  },
-  {
-    "language": "fr",
-    "name": "perche noire",
-    "alts": ["achigan"]
-  },
-  {
-    "language": "fr",
-    "name": "glouton",
-    "alts": ["carcajou"]
-  },
-  {
-    "language": "fr",
-    "name": "dindon",
-    "alts": ["dinde"]
-  },
+  { "language": "fr", "name": "loup", "alts": ["chien"] },
+  { "language": "fr", "name": "orque", "alts": ["épaulard"] },
+  { "language": "fr", "name": "cochon", "alts": ["porc", "sanglier"] },
+  { "language": "fr", "name": "chèvre", "alts": ["bouc"] },
+  { "language": "fr", "name": "perche noire", "alts": ["achigan"] },
+  { "language": "fr", "name": "glouton", "alts": ["carcajou"] },
+  { "language": "fr", "name": "dindon", "alts": ["dinde"] },
   { "language": "fr", "name": "humain", "alts": ["homme"] },
   { "language": "fr", "name": "cerf de virginie", "alts": ["chevreuil"] },
   {
@@ -561,11 +309,7 @@
     "name": "puma",
     "alts": ["couguar", "cougar", "lion de montagne"]
   },
-  {
-    "language": "fr",
-    "name": "poisson volant",
-    "alts": ["exocet"]
-  },
+  { "language": "fr", "name": "poisson volant", "alts": ["exocet"] },
   { "language": "it", "name": "anemone", "alts": ["anemone di mare"] },
   {
     "language": "it",
@@ -837,11 +581,7 @@
     "alts": ["Fangschreckenkrebse"]
   },
   { "language": "hu", "name": "pincebogár", "alts": ["ászka"] },
-  {
-    "language": "tr",
-    "name": "su semenderi",
-    "alts": ["axolotl"]
-  },
+  { "language": "tr", "name": "su semenderi", "alts": ["axolotl"] },
   {
     "language": "tr",
     "name": "kısa burunlu dikenli karıncayiyen",
@@ -852,21 +592,13 @@
     "name": "gila canavarı",
     "alts": ["boncuklu kertenkele"]
   },
-  {
-    "language": "tr",
-    "name": "katil balina",
-    "alts": ["orka"]
-  },
+  { "language": "tr", "name": "katil balina", "alts": ["orka"] },
   {
     "language": "tr",
     "name": "Afrika antilobu",
     "alts": ["gnu", "öküz başlı antilop"]
   },
-  {
-    "language": "tr",
-    "name": "frambuaz",
-    "alts": ["ahududu"]
-  },
+  { "language": "tr", "name": "frambuaz", "alts": ["ahududu"] },
   {
     "language": "es",
     "name": "nabo",
@@ -914,11 +646,7 @@
     "name": "pingüino macaroni",
     "alts": ["pingüino de penacho anaranjado"]
   },
-  {
-    "language": "es",
-    "name": "frijol común",
-    "alts": ["alubia", "judía"]
-  },
+  { "language": "es", "name": "frijol común", "alts": ["alubia", "judía"] },
   { "language": "es", "name": "caucho", "alts": ["gomero"] },
   {
     "language": "es",
@@ -979,7 +707,7 @@
   { "language": "de", "name": "perlboot", "alts": ["nautilus"] },
   { "language": "en", "name": "hare", "alts": ["jackrabbit"] },
   { "language": "en", "name": "nematode", "alts": ["nematode worm"] },
-  { "language": "nl", "name": "brulkikker", "alts":  ["stierkikker"]},
+{ "language": "nl", "name": "brulkikker", "alts":  ["stierkikker"]},
   { "language": "nl", "name": "Canadese gans", "alts":  ["gans"]},
   { "language": "nl", "name": "knobbelzwaan", "alts":  ["zwaan"]},
   { "language": "nl", "name": "luipaard", "alts":  ["panter"]},
@@ -997,5 +725,64 @@
   { "language": "nl", "name": "ooievaarsbek", "alts":  ["geranium"]},
   { "language": "nl", "name": "mangistan", "alts":  ["mangosteen", "mangostan", "mangoestan", "manggis", "manggistan", "mangestang"]},
   { "language": "nl", "name": "absintalsem", "alts":  ["absinth", "alsem"]},
-  { "language": "nl", "name": "schoonmoedersstoel", "alts":  ["bolcactus"]}
+  { "language": "nl", "name": "schoonmoedersstoel", "alts":  ["bolcactus"]},
+  { "language": "uk", "name": "маніок їстівний", "alts": ["касава"] },
+  { "language": "uk", "name": "цикорій", "alts": ["петрові пироги"] },
+  { "language": "uk", "name": "грястиця", "alts": ["житниця"] },
+  {
+    "language": "uk",
+    "name": "човноборідник",
+    "alts": ["лимонна трава", "лемонграс"]
+  },
+  {
+    "language": "uk",
+    "name": "бамія",
+    "alts": ["гібіск", "окра", "ґомбо", "баня"]
+  },
+  {
+    "language": "uk",
+    "name": "оливкове дерево",
+    "alts": ["маслина європейська"]
+  },
+  { "language": "uk", "name": "батат", "alts": ["солодка картопля"] },
+  { "language": "uk", "name": "редька посівна", "alts": ["редиска"] },
+  { "language": "uk", "name": "вітелларія", "alts": ["дерево ши", "карите"] },
+  {
+    "language": "uk",
+    "name": "стручковий перець",
+    "alts": ["солодкий перець", "паприка", "болгарський перець"]
+  },
+  { "language": "uk", "name": "секвоядендрон", "alts": ["мамонтове дерево"] },
+  {
+    "language": "uk",
+    "name": "псевдотсуга мензіса",
+    "alts": ["псевдотсуга тисолиста", "дуґласія"]
+  },
+  { "language": "uk", "name": "томат", "alts": ["помідор"] },
+  {
+    "language": "uk",
+    "name": "вігна",
+    "alts": ["коров'ячий горох", "довгі боби"]
+  },
+  {
+    "language": "uk",
+    "name": "ріжкове дерево",
+    "alts": ["цареградський стручок", "солодкий ріжок"]
+  },
+  { "language": "uk", "name": "тамаринд", "alts": ["індійський фінік"] },
+  { "language": "uk", "name": "чина запашна", "alts": ["горошок пахучий"] },
+  { "language": "uk", "name": "ріпа", "alts": ["бок-чой"] },
+  { "language": "uk", "name": "артишок", "alts": ["кардон"] },
+  { "language": "uk", "name": "ревінь", "alts": ["румбарбар"] },
+  { "language": "uk", "name": "інжир", "alts": ["фіга"] },
+  { "language": "uk", "name": "пітахая", "alts": ["пітая"] },
+  { "language": "uk", "name": "азиміна", "alts": ["папая"] },
+  { "language": "uk", "name": "ройбос", "alts": ["ройбуш"] },
+  { "language": "uk", "name": "локва", "alts": ["японська мушмула"] },
+  { "language": "uk", "name": "ґінко", "alts": ["ґінкго, гінкго"] },
+  { "language": "en", "name": "betta", "alts": ["fighting fish"] },
+  { "language": "uk", "name": "гнойовий жук", "alts": ["скарабей"] },
+  { "language": "uk", "name": "волове очко", "alts": ["кропивник"] },
+  { "language": "uk", "name": "серпокрилець", "alts": ["стриж"] },
+  { "language": "de", "name": "Amerikanische Platane", "alts": ["Bergahorn"] }
 ]
