@@ -3,15 +3,15 @@ interface Species {
   [key: string]: unknown;
 }
 
-const newLang = "pt";
-const kingdom = "plants";
+const newLang = "cs";
+const kingdom = "animals";
 
 const newSpecies: Species[] = JSON.parse(
-  await Deno.readTextFile(`data/${kingdom}_${newLang}.json`)
+  await Deno.readTextFile(`data/${kingdom}_${newLang}.json`),
 );
 
 const oldSpecies: Species[] = JSON.parse(
-  await Deno.readTextFile(`Species Lists/${kingdom}.json`)
+  await Deno.readTextFile(`Species Lists/${kingdom}.json`),
 );
 
 const nodes = oldSpecies.map((species) => species.nodeId);
@@ -36,7 +36,7 @@ for (const species of oldSpecies) {
       const field = `name_${newLang}`;
       const newName = newAnimal[field];
       species[field] = newName;
-    } catch (error) {
+    } catch (_error) {
       console.log(`Field name_${newLang} not found in new species`);
       console.log(newAnimal);
     }
@@ -48,7 +48,7 @@ for (const species of oldSpecies) {
 
 await Deno.writeTextFile(
   `data/${kingdom}_added.json`,
-  JSON.stringify(output, null, 4)
+  JSON.stringify(output, null, 4),
 );
 
 console.log("Done");
