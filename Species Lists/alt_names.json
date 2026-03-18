@@ -4,6 +4,7 @@
   { "language": "en", "name": "sea turtle", "alts": ["leatherback"] },
   { "language": "en", "name": "bok choy", "alts": ["turnip"] },
   { "language": "en", "name": "brown bear", "alts": ["grizzly bear"] },
+  { "language": "en", "name": "brown recluse", "alts": ["recluse spider"] },
   { "language": "en", "name": "burmese python", "alts": ["python"] },
   {
     "language": "en",
@@ -14,6 +15,11 @@
   { "language": "en", "name": "carp", "alts": ["koi"] },
   { "language": "en", "name": "cat", "alts": ["domestic cat"] },
   { "language": "en", "name": "caiman", "alts": ["cayman"] },
+  {
+    "language": "en",
+    "name": "man o war",
+    "alts": ["portuguese man o war", "blue bottle"]
+  },
   { "language": "en", "name": "coriander", "alts": ["cilantro"] },
   { "language": "en", "name": "dragon fruit", "alts": ["pitaya"] },
   { "language": "en", "name": "dung beetle", "alts": ["scarab"] },
@@ -67,13 +73,18 @@
   { "language": "en", "name": "wasp", "alts": ["yellowjacket"] },
   { "language": "en", "name": "starfish", "alts": ["sea star"] },
   { "language": "en", "name": "wildebeest", "alts": ["gnu"] },
-  { "language": "en", "name": "gum arabic tree", "alts": ["gum tree"] },
+  {
+    "language": "en",
+    "name": "gum arabic tree",
+    "alts": ["gum tree", "acacia", "thorn mimosa"]
+  },
   {
     "language": "en",
     "name": "tiger prawn",
     "alts": ["prawn", "tiger shrimp"]
   },
   { "language": "en", "name": "elk", "alts": ["wapiti"] },
+  { "language": "en", "name": "moose", "alts": ["eurasian elk"] },
   { "language": "en", "name": "corn", "alts": ["maize"] },
   { "language": "de", "name": "Löwenäffchen", "alts": ["Saguinus"] },
   { "language": "de", "name": "Ratte", "alts": ["Wanderratte"] },
@@ -87,6 +98,11 @@
     "language": "es",
     "name": "tamarino león dorado",
     "alts": ["tití león dorado"]
+  },
+  {
+    "language": "fr",
+    "name": "Oponce à grosses racines",
+    "alts": ["figue de barbarie"]
   },
   { "language": "fr", "name": "ver à soie", "alts": ["bombyx du mûrier"] },
   { "language": "fr", "name": "drosophile", "alts": ["mouche du vinaigre"] },
@@ -212,6 +228,11 @@
     "language": "fr",
     "name": "escargot",
     "alts": ["escargot de Bourgogne", "gros blanc"]
+  },
+  {
+    "language": "pt",
+    "name": "escargot",
+    "alts": ["caracol", "caramujo"]
   },
   { "language": "fr", "name": "limace-banane", "alts": ["limace banane"] },
   {
@@ -620,6 +641,7 @@
   { "language": "es", "name": "beluga", "alts": ["ballena beluga"] },
   { "language": "es", "name": "abejorro", "alts": ["moscardón"] },
   { "language": "es", "name": "vaca", "alts": ["toro", "ganado"] },
+  { "language": "es", "name": "facóquero", "alts": ["jabalí verrugoso"] },
   { "language": "pt", "name": "cervo", "alts": ["veado", "gamo"] },
   { "language": "pt", "name": "maracujá", "alts": ["passiflora"] },
   {
@@ -800,7 +822,8 @@
   { "language": "uk", "name": "волове очко", "alts": ["кропивник"] },
   { "language": "uk", "name": "серпокрилець", "alts": ["стриж"] },
   { "language": "de", "name": "Amerikanische Platane", "alts": ["Bergahorn"] },
-
+  { "language": "en", "name": "lychee", "alts": ["litchi"] },
+  { "language": "cs", "name": "bez černý", "alts": ["srstka angrešt"] },
   { "language": "cs", "name": "mořský had", "alts": ["Vodnář"] },
   { "language": "cs", "name": "black vulture", "alts": ["Kondor havranovitý"] },
   { "language": "cs", "name": "kos", "alts": ["Kos černý"] },
@@ -898,6 +921,39 @@
   { "language": "cs", "name": "kokosový krab", "alts": ["Krab palmový"] },
   { "language": "cs", "name": "létající ryba", "alts": ["letoun"] },
   { "language": "cs", "name": "Tilápie", "alts": ["tlamoun"] },
+
+  { "language": "en", "name": "porcupine", "alts": ["cape porcupine"] },
+  { "language": "pt", "name": "sepia", "alts": ["choco"] },
+  {
+    "language": "it",
+    "name": "pesce persico",
+    "alts": ["persico trota", "boccalone"]
+  },
+  {
+    "language": "pt",
+    "name": "perca",
+    "alts": ["perca amarela"]
+  },
+  {
+    "language": "pt",
+    "name": "esperança",
+    "alts": ["gafanhoto-do-deserto"]
+  },
+  {
+    "language": "de",
+    "name": "persimone",
+    "alts": ["kaki"]
+  },
+  {
+    "language": "de",
+    "name": "Kanadische Mosaikjungfer",
+    "alts": ["Libelle"]
+  },
+  {
+    "language": "es",
+    "name": "alouatta",
+    "alts": ["saraguato, mono aullador"]
+  },
   { "language": "ru", "name": "анемона", "alts": ["актиния"] },
   { "language": "ru", "name": "светляк", "alts": ["светлячок"] },
   { "language": "ru", "name": "плодовая мушка", "alts": ["дрозофила"] },
