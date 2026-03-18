@@ -897,13 +897,17 @@
   { "language": "cs", "name": "ohnivý úhoř", "alts": ["Hrotočelec ohnivý"] },
   { "language": "cs", "name": "kokosový krab", "alts": ["Krab palmový"] },
   { "language": "cs", "name": "létající ryba", "alts": ["letoun"] },
-  { "language": "cs", "name": "Tilápie", "alts": ["tlamoun"] }
+  { "language": "cs", "name": "Tilápie", "alts": ["tlamoun"] },
   { "language": "ru", "name": "анемона", "alts": ["актиния"] },
   { "language": "ru", "name": "светляк", "alts": ["светлячок"] },
   { "language": "ru", "name": "плодовая мушка", "alts": ["дрозофила"] },
   { "language": "ru", "name": "рыба-меч", "alts": ["меченос"] },
   { "language": "ru", "name": "курица", "alts": ["петух"] },
-  { "language": "ru", "name": "летучая мышь", "alts": ["вампир", "нетопырь", "кожан"] },
+  {
+    "language": "ru",
+    "name": "летучая мышь",
+    "alts": ["вампир", "нетопырь", "кожан"]
+  },
   { "language": "ru", "name": "орангутанг", "alts": ["орангутан"] },
   { "language": "ru", "name": "чёрный медведь", "alts": ["барибал"] },
   { "language": "ru", "name": "горбатый кит", "alts": ["горбач"] },
@@ -912,44 +916,56 @@
   { "language": "ru", "name": "овца", "alts": ["баран"] },
   { "language": "ru", "name": "белый медведь", "alts": ["полярный медведь"] },
   { "language": "ru", "name": "зарянка", "alts": ["малиновка"] },
-  { "language": "ru", "name": "бобёр", "alts": ["бобр"] }
-  { "language": "ru", "name": "жако", "alts": ["серый попугай"] }
-  { "language": "ru", "name": "павиан", "alts": ["бабуин"] }
-  { "language": "ru", "name": "лобстер", "alts": ["омар"] }
-  { "language": "ru", "name": "португальский кораблик", "alts": ["физалия"] }
-  { "language": "ru", "name": "бегемот", "alts": ["гиппопотам"] }
-  { "language": "ru", "name": "северный олень", "alts": ["карибу"] }
-  { "language": "ru", "name": "ядозуб", "alts": ["жилатье"] }
-  { "language": "ru", "name": "морской огурец", "alts": ["голотурия"] }
-  { "language": "ru", "name": "паук-сенокосец", "alts": ["косиножка", "сенокосец"] }
-  { "language": "ru", "name": "сельдь", "alts": ["селёдка"] }
-  { "language": "ru", "name": "рыба-ремень", "alts": ["сельдяной король", "ремнетел"] }
-  { "language": "ru", "name": "креветка-пистолет", "alts": ["рак-щелкун"] }
-  { "language": "ru", "name": "бычий цепень", "alts": ["солитёр"] }
-  { "language": "ru", "name": "альпийский козёл", "alts": ["козерог", "ибекс", "горный козёл"] }
-  { "language": "ru", "name": "собака", "alts": ["пёс"] }
-  { "language": "ru", "name": "цивета", "alts": ["виверра"] }
-  { "language": "ru", "name": "хорёк", "alts": ["хорь"] }
-  { "language": "ru", "name": "коза", "alts": ["козёл"] }
-  { "language": "ru", "name": "кошка", "alts": ["кот"] }
-  { "language": "ru", "name": "кряква", "alts": ["утка"] }
-  { "language": "ru", "name": "манящий краб", "alts": ["краб-скрипач"] }
-  { "language": "ru", "name": "бойцовская рыбка", "alts": ["петушок"] }
-  { "language": "ru", "name": "акула-гоблин", "alts": ["акула-домовой"] }
-  { "language": "ru", "name": "подёнка", "alts": ["однодневка"] }
-  { "language": "ru", "name": "ройбуш", "alts": ["ройбос"] }
-  { "language": "ru", "name": "падуб", "alts": ["остролист"] }
-  { "language": "ru", "name": "анис", "alts": ["бадьян"] }
-  { "language": "ru", "name": "кориандр", "alts": ["кинза"] }
-  { "language": "ru", "name": "сандал", "alts": ["сантал"] }
-  { "language": "ru", "name": "чабрец", "alts": ["тимьян"] }
-  { "language": "ru", "name": "мимоза стыдливая", "alts": ["недотрога"] }
-  { "language": "ru", "name": "вигна", "alts": ["черноглазый горох"] }
-  { "language": "ru", "name": "помидор", "alts": ["томат"] }
-  { "language": "ru", "name": "ива", "alts": ["верба"] }
-  { "language": "ru", "name": "болгарский перец", "alts": ["паприка"] }
-  { "language": "ru", "name": "дерево ши", "alts": ["дерево карите"] }
-  { "language": "ru", "name": "олива", "alts": ["оливковое дерево"] }
-  { "language": "ru", "name": "абельмош", "alts": ["окра"] }
+  { "language": "ru", "name": "бобёр", "alts": ["бобр"] },
+  { "language": "ru", "name": "жако", "alts": ["серый попугай"] },
+  { "language": "ru", "name": "павиан", "alts": ["бабуин"] },
+  { "language": "ru", "name": "лобстер", "alts": ["омар"] },
+  { "language": "ru", "name": "португальский кораблик", "alts": ["физалия"] },
+  { "language": "ru", "name": "бегемот", "alts": ["гиппопотам"] },
+  { "language": "ru", "name": "северный олень", "alts": ["карибу"] },
+  { "language": "ru", "name": "ядозуб", "alts": ["жилатье"] },
+  { "language": "ru", "name": "морской огурец", "alts": ["голотурия"] },
+  {
+    "language": "ru",
+    "name": "паук-сенокосец",
+    "alts": ["косиножка", "сенокосец"]
+  },
+  { "language": "ru", "name": "сельдь", "alts": ["селёдка"] },
+  {
+    "language": "ru",
+    "name": "рыба-ремень",
+    "alts": ["сельдяной король", "ремнетел"]
+  },
+  { "language": "ru", "name": "креветка-пистолет", "alts": ["рак-щелкун"] },
+  { "language": "ru", "name": "бычий цепень", "alts": ["солитёр"] },
+  {
+    "language": "ru",
+    "name": "альпийский козёл",
+    "alts": ["козерог", "ибекс", "горный козёл"]
+  },
+  { "language": "ru", "name": "собака", "alts": ["пёс"] },
+  { "language": "ru", "name": "цивета", "alts": ["виверра"] },
+  { "language": "ru", "name": "хорёк", "alts": ["хорь"] },
+  { "language": "ru", "name": "коза", "alts": ["козёл"] },
+  { "language": "ru", "name": "кошка", "alts": ["кот"] },
+  { "language": "ru", "name": "кряква", "alts": ["утка"] },
+  { "language": "ru", "name": "манящий краб", "alts": ["краб-скрипач"] },
+  { "language": "ru", "name": "бойцовская рыбка", "alts": ["петушок"] },
+  { "language": "ru", "name": "акула-гоблин", "alts": ["акула-домовой"] },
+  { "language": "ru", "name": "подёнка", "alts": ["однодневка"] },
+  { "language": "ru", "name": "ройбуш", "alts": ["ройбос"] },
+  { "language": "ru", "name": "падуб", "alts": ["остролист"] },
+  { "language": "ru", "name": "анис", "alts": ["бадьян"] },
+  { "language": "ru", "name": "кориандр", "alts": ["кинза"] },
+  { "language": "ru", "name": "сандал", "alts": ["сантал"] },
+  { "language": "ru", "name": "чабрец", "alts": ["тимьян"] },
+  { "language": "ru", "name": "мимоза стыдливая", "alts": ["недотрога"] },
+  { "language": "ru", "name": "вигна", "alts": ["черноглазый горох"] },
+  { "language": "ru", "name": "помидор", "alts": ["томат"] },
+  { "language": "ru", "name": "ива", "alts": ["верба"] },
+  { "language": "ru", "name": "болгарский перец", "alts": ["паприка"] },
+  { "language": "ru", "name": "дерево ши", "alts": ["дерево карите"] },
+  { "language": "ru", "name": "олива", "alts": ["оливковое дерево"] },
+  { "language": "ru", "name": "абельмош", "alts": ["окра"] },
   { "language": "ru", "name": "кукуруза", "alts": ["маис"] }
 ]
