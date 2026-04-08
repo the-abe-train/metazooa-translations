@@ -12,7 +12,8 @@
     "name_pt": "amêndoeira",
     "name_nl": "amandel",
     "name_uk": "мигдаль",
-    "name_ru": "миндаль"
+    "name_ru": "миндаль",
+    "name_it": "mandorla"
   },
   {
     "nodeId": 3752,
@@ -27,7 +28,8 @@
     "name_pt": "macieira",
     "name_nl": "appel",
     "name_uk": "яблуня",
-    "name_ru": "яблоко"
+    "name_ru": "яблоко",
+    "name_it": "melo"
   },
   {
     "nodeId": 36596,
@@ -42,7 +44,8 @@
     "name_pt": "damasco",
     "name_nl": "abrikoos",
     "name_uk": "абрикоса",
-    "name_ru": "абрикос"
+    "name_ru": "абрикос",
+    "name_it": "albicocco"
   },
   {
     "nodeId": 4686,
@@ -57,7 +60,8 @@
     "name_pt": "espargo",
     "name_nl": "asperge",
     "name_uk": "спаржа",
-    "name_ru": "спаржа"
+    "name_ru": "спаржа",
+    "name_it": "asparago"
   },
   {
     "nodeId": 3435,
@@ -72,7 +76,8 @@
     "name_pt": "abacateiro",
     "name_nl": "avocado",
     "name_uk": "авокадо",
-    "name_ru": "авокадо"
+    "name_ru": "авокадо",
+    " name_it": " avocado"
   },
   {
     "nodeId": 13216,
@@ -87,7 +92,8 @@
     "name_pt": "pimenta do reino",
     "name_nl": "zwarte peper",
     "name_uk": "перець чорний",
-    "name_ru": "чёрный перец"
+    "name_ru": "чёрный перец",
+    "name_it": "pepe nero"
   },
   {
     "nodeId": 3645,
@@ -102,7 +108,8 @@
     "name_pt": "castanha do Brasil",
     "name_nl": "paranoot",
     "name_uk": "горіх бразильський",
-    "name_ru": "бразильский орех"
+    "name_ru": "бразильский орех",
+    "name_it": "noce del Brasile"
   },
   {
     "nodeId": 194251,
@@ -117,7 +124,8 @@
     "name_pt": "árvore-do-pão",
     "name_nl": "broodboom",
     "name_uk": "хлібне дерево",
-    "name_ru": "хлебное дерево"
+    "name_ru": "хлебное дерево",
+    "name_it": "albero del pane"
   },
   {
     "nodeId": 3617,
@@ -132,7 +140,8 @@
     "name_pt": "trigo serraceno",
     "name_nl": "boekweit",
     "name_uk": "гречка",
-    "name_ru": "гречка"
+    "name_ru": "гречка",
+    "name_it": "grano saraceno"
   },
   {
     "nodeId": 3641,
@@ -147,7 +156,8 @@
     "name_pt": "cacao",
     "name_nl": "cacao",
     "name_uk": "какао",
-    "name_ru": "какао"
+    "name_ru": "какао",
+    "name_it": "cacao"
   },
   {
     "nodeId": 3656,
@@ -162,7 +172,8 @@
     "name_pt": "melão",
     "name_nl": "meloen",
     "name_uk": "диня",
-    "name_ru": "дыня"
+    "name_ru": "дыня",
+    "name_it": "melone"
   },
   {
     "nodeId": 105181,
@@ -177,7 +188,8 @@
     "name_pt": "cardamomo",
     "name_nl": "kardemom",
     "name_uk": "кардамон",
-    "name_ru": "кардамон"
+    "name_ru": "кардамон",
+    "name_it": "cardamomo"
   },
   {
     "nodeId": 171929,
@@ -192,7 +204,8 @@
     "name_pt": "caju",
     "name_nl": "cashewnoot",
     "name_uk": "кеш'ю",
-    "name_ru": "кешью"
+    "name_ru": "кешью",
+    "name_it": "anacardo"
   },
   {
     "nodeId": 3983,
@@ -207,7 +220,8 @@
     "name_pt": "mandioca",
     "name_nl": "cassave",
     "name_uk": "маніок їстівний",
-    "name_ru": "маниока"
+    "name_ru": "маниока",
+    "name_it": "manioca"
   },
   {
     "nodeId": 4045,
@@ -222,7 +236,8 @@
     "name_pt": "aipo",
     "name_nl": "selderij",
     "name_uk": "селера",
-    "name_ru": "сельдерей"
+    "name_ru": "сельдерей",
+    "name_it": "sedano"
   },
   {
     "nodeId": 21020,
@@ -237,7 +252,8 @@
     "name_pt": "castanha",
     "name_nl": "kastanje",
     "name_uk": "каштан",
-    "name_ru": "каштан"
+    "name_ru": "каштан",
+    "name_it": "castagno"
   },
   {
     "nodeId": 13427,
@@ -252,7 +268,8 @@
     "name_pt": "chicória",
     "name_nl": "cichorei",
     "name_uk": "цикорій",
-    "name_ru": "цикорий"
+    "name_ru": "цикорий",
+    "name_it": "cicoria"
   },
   {
     "nodeId": 128608,
@@ -267,7 +284,8 @@
     "name_pt": "canela",
     "name_nl": "kaneel",
     "name_uk": "кориця",
-    "name_ru": "корица"
+    "name_ru": "корица",
+    "name_it": " cannella"
   },
   {
     "nodeId": 13894,
@@ -282,7 +300,8 @@
     "name_pt": "côco",
     "name_nl": "kokosnoot",
     "name_uk": "кокос",
-    "name_ru": "кокос"
+    "name_ru": "кокос",
+    "name_it": "palma da cocco"
   },
   {
     "nodeId": 4577,
@@ -297,7 +316,8 @@
     "name_pt": "milho",
     "name_nl": "maïs",
     "name_uk": "кукурудза",
-    "name_ru": "кукуруза"
+    "name_ru": "кукуруза",
+    "name_it": "mais"
   },
   {
     "nodeId": 3659,
@@ -312,7 +332,8 @@
     "name_pt": "pepino",
     "name_nl": "komkommer",
     "name_uk": "огірок",
-    "name_ru": "огурец"
+    "name_ru": "огурец",
+    "name_it": "cetriolo"
   },
   {
     "nodeId": 42345,
@@ -327,7 +348,8 @@
     "name_pt": "tâmara",
     "name_nl": "dadel",
     "name_uk": "фінік",
-    "name_ru": "финик"
+    "name_ru": "финик",
+    "name_it": "dattero"
   },
   {
     "nodeId": 13451,
@@ -342,7 +364,8 @@
     "name_pt": "avelã",
     "name_nl": "hazelnoot",
     "name_uk": "ліщина",
-    "name_ru": "фундук"
+    "name_ru": "фундук",
+    "name_it": "nocciolo"
   },
   {
     "nodeId": 4006,
@@ -357,7 +380,8 @@
     "name_pt": "linho",
     "name_nl": "vlas",
     "name_uk": "льон",
-    "name_ru": "лён"
+    "name_ru": "лён",
+    "name_it": "lino"
   },
   {
     "nodeId": 4682,
@@ -372,7 +396,8 @@
     "name_pt": "alho",
     "name_nl": "knoflook",
     "name_uk": "часник",
-    "name_ru": "чеснок"
+    "name_ru": "чеснок",
+    "name_it": "aglio"
   },
   {
     "nodeId": 94328,
@@ -387,7 +412,8 @@
     "name_pt": "gengibre",
     "name_nl": "gember",
     "name_uk": "імбир",
-    "name_ru": "имбирь"
+    "name_ru": "имбирь",
+    "name_it": "zenzero"
   },
   {
     "nodeId": 29760,
@@ -402,7 +428,8 @@
     "name_pt": "uva",
     "name_nl": "druif",
     "name_uk": "виноград",
-    "name_ru": "виноград"
+    "name_ru": "виноград",
+    "name_it": "uva"
   },
   {
     "nodeId": 4509,
@@ -417,7 +444,8 @@
     "name_pt": "Dactylis glomerata",
     "name_nl": "kropaar",
     "name_uk": "грястиця",
-    "name_ru": "трава"
+    "name_ru": "трава",
+    "name_it": "dattile"
   },
   {
     "nodeId": 120290,
@@ -432,7 +460,8 @@
     "name_pt": "goiaba",
     "name_nl": "guave",
     "name_uk": "гуаява яблучна",
-    "name_ru": "гуава"
+    "name_ru": "гуава",
+    "name_it": "guava"
   },
   {
     "nodeId": 3483,
@@ -447,7 +476,8 @@
     "name_pt": "canabis",
     "name_nl": "hennep",
     "name_uk": "коноплі",
-    "name_ru": "конопля"
+    "name_ru": "конопля",
+    "name_it": "canapa"
   },
   {
     "nodeId": 141191,
@@ -462,7 +492,8 @@
     "name_pt": "hena",
     "name_nl": "henna",
     "name_uk": "лавсонія",
-    "name_ru": "хна"
+    "name_ru": "хна",
+    "name_it": "henné"
   },
   {
     "nodeId": 3486,
@@ -477,7 +508,8 @@
     "name_pt": "lúpulo",
     "name_nl": "hop",
     "name_uk": "хміль",
-    "name_ru": "хмель"
+    "name_ru": "хмель",
+    "name_it": "luppolo"
   },
   {
     "nodeId": 3704,
@@ -492,7 +524,8 @@
     "name_pt": "rábano picante",
     "name_nl": "mierikswortel",
     "name_uk": "хрін",
-    "name_ru": "хрен"
+    "name_ru": "хрен",
+    "name_it": "rafano"
   },
   {
     "nodeId": 66014,
@@ -507,7 +540,8 @@
     "name_pt": "erva príncipe",
     "name_nl": "citroengras",
     "name_uk": "човноборідник",
-    "name_ru": "лемонграсс"
+    "name_ru": "лемонграсс",
+    "name_it": "citronella"
   },
   {
     "nodeId": 4236,
@@ -522,7 +556,8 @@
     "name_pt": "alface",
     "name_nl": "sla",
     "name_uk": "салат",
-    "name_ru": "латук"
+    "name_ru": "латук",
+    "name_it": "lattuga"
   },
   {
     "nodeId": 151069,
@@ -537,7 +572,8 @@
     "name_pt": "líchia",
     "name_nl": "lychee",
     "name_uk": "лічі",
-    "name_ru": "личи"
+    "name_ru": "личи",
+    "name_it": "litchi"
   },
   {
     "nodeId": 60698,
@@ -552,7 +588,8 @@
     "name_pt": "noz de macadâmia",
     "name_nl": "macadamia",
     "name_uk": "горіх макадамія",
-    "name_ru": "орех макадамия"
+    "name_ru": "орех макадамия",
+    "name_it": "noce di macadamia"
   },
   {
     "nodeId": 51089,
@@ -567,7 +604,8 @@
     "name_pt": "noz-moscada",
     "name_nl": "nootmuskaat",
     "name_uk": "мускатний горіх",
-    "name_ru": "мускатный орех"
+    "name_ru": "мускатный орех",
+    "name_it": "noce moscata"
   },
   {
     "nodeId": 39510,
@@ -582,7 +620,8 @@
     "name_pt": "agave",
     "name_nl": "agave",
     "name_uk": "агава",
-    "name_ru": "агава"
+    "name_ru": "агава",
+    "name_it": "noce moscata"
   },
   {
     "nodeId": 85571,
@@ -597,7 +636,8 @@
     "name_pt": "mandarina",
     "name_nl": "mandarijn",
     "name_uk": "мандарин",
-    "name_ru": "мандарин"
+    "name_ru": "мандарин",
+    "name_it": "mandarino"
   },
   {
     "nodeId": 29780,
@@ -612,7 +652,8 @@
     "name_pt": "manga",
     "name_nl": "mango",
     "name_uk": "манго",
-    "name_ru": "манго"
+    "name_ru": "манго",
+    "name_it": "mango"
   },
   {
     "nodeId": 3498,
@@ -627,7 +668,8 @@
     "name_pt": "amora alba",
     "name_nl": "witte moerbei",
     "name_uk": "шовковиця",
-    "name_ru": "шелковица"
+    "name_ru": "шелковица",
+    "name_it": "gelso bianco"
   },
   {
     "nodeId": 3710,
@@ -642,7 +684,8 @@
     "name_pt": "mostarda negra",
     "name_nl": "zwarte mosterd",
     "name_uk": "гірчиця чорна",
-    "name_ru": "чёрная горчица"
+    "name_ru": "чёрная горчица",
+    "name_it": "senape nera"
   },
   {
     "nodeId": 51953,
@@ -657,7 +700,8 @@
     "name_pt": "palma de óleo",
     "name_nl": "oliepalm",
     "name_uk": "олійна пальма",
-    "name_ru": "масличная пальма"
+    "name_ru": "масличная пальма",
+    "name_it": "palma da olio"
   },
   {
     "nodeId": 455045,
@@ -672,7 +716,8 @@
     "name_pt": "quiabo",
     "name_nl": "okra",
     "name_uk": "бамія",
-    "name_ru": "абельмош"
+    "name_ru": "абельмош",
+    "name_it": "gombo"
   },
   {
     "nodeId": 4146,
@@ -687,7 +732,8 @@
     "name_pt": "oliveira",
     "name_nl": "olijf",
     "name_uk": "оливкове дерево",
-    "name_ru": "олива"
+    "name_ru": "олива",
+    "name_it": "ulivo"
   },
   {
     "nodeId": 3649,
@@ -702,7 +748,8 @@
     "name_pt": "papaia",
     "name_nl": "papaya",
     "name_uk": "папая",
-    "name_ru": "папайя"
+    "name_ru": "папайя",
+    "name_it": "papaya"
   },
   {
     "nodeId": 4041,
@@ -717,7 +764,8 @@
     "name_pt": "cherovia",
     "name_nl": "pastinaak",
     "name_uk": "пастернак",
-    "name_ru": "пастернак"
+    "name_ru": "пастернак",
+    "name_it": "pastinaca"
   },
   {
     "nodeId": 3760,
@@ -732,7 +780,8 @@
     "name_pt": "pêssego",
     "name_nl": "perzik",
     "name_uk": "персик",
-    "name_ru": "персик"
+    "name_ru": "персик",
+    "name_it": "pesco"
   },
   {
     "nodeId": 23211,
@@ -747,7 +796,8 @@
     "name_pt": "pereira",
     "name_nl": "peer",
     "name_uk": "груша",
-    "name_ru": "груша"
+    "name_ru": "груша",
+    "name_it": "pero"
   },
   {
     "nodeId": 13493,
@@ -762,7 +812,8 @@
     "name_pt": "diospiro",
     "name_nl": "kaki",
     "name_uk": "хурма",
-    "name_ru": "хурма"
+    "name_ru": "хурма",
+    "name_it": "cachi"
   },
   {
     "nodeId": 55513,
@@ -777,7 +828,8 @@
     "name_pt": "pistáchio",
     "name_nl": "pistache",
     "name_uk": "фісташка",
-    "name_ru": "фисташка"
+    "name_ru": "фисташка",
+    "name_it": "pistacchio"
   },
   {
     "nodeId": 3758,
@@ -792,7 +844,8 @@
     "name_pt": "ameixa",
     "name_nl": "pruim",
     "name_uk": "слива",
-    "name_ru": "слива"
+    "name_ru": "слива",
+    "name_it": "prugna"
   },
   {
     "nodeId": 22663,
@@ -807,7 +860,8 @@
     "name_pt": "romã",
     "name_nl": "granaatappel",
     "name_uk": "гранат",
-    "name_ru": "гранат"
+    "name_ru": "гранат",
+    "name_it": "melograno"
   },
   {
     "nodeId": 3469,
@@ -822,7 +876,8 @@
     "name_pt": "papoila",
     "name_nl": "papaver",
     "name_uk": "мак опійний",
-    "name_ru": "мак"
+    "name_ru": "мак",
+    "name_it": "papavero"
   },
   {
     "nodeId": 4120,
@@ -837,7 +892,8 @@
     "name_pt": "batata doce",
     "name_nl": "zoete aardappel",
     "name_uk": "батат",
-    "name_ru": "батат"
+    "name_ru": "батат",
+    "name_it": "patata dolce"
   },
   {
     "nodeId": 63459,
@@ -852,7 +908,8 @@
     "name_pt": "quinoa",
     "name_nl": "quinoa",
     "name_uk": "кіноа",
-    "name_ru": "киноа"
+    "name_ru": "киноа",
+    "name_it": "quinoa"
   },
   {
     "nodeId": 3726,
@@ -867,7 +924,8 @@
     "name_pt": "rábano",
     "name_nl": "radijs",
     "name_uk": "редька посівна",
-    "name_ru": "редис"
+    "name_ru": "редис",
+    "name_it": "ravanello"
   },
   {
     "nodeId": 4530,
@@ -882,7 +940,8 @@
     "name_pt": "arroz",
     "name_nl": "rijst",
     "name_uk": "рис",
-    "name_ru": "рис"
+    "name_ru": "рис",
+    "name_it": "riso"
   },
   {
     "nodeId": 3981,
@@ -897,7 +956,8 @@
     "name_pt": "borracha",
     "name_nl": "rubber",
     "name_uk": "гевея",
-    "name_ru": "гевея"
+    "name_ru": "гевея",
+    "name_it": "albero della gomma"
   },
   {
     "nodeId": 4550,
@@ -912,7 +972,8 @@
     "name_pt": "centeio",
     "name_nl": "rogge",
     "name_uk": "жито",
-    "name_ru": "рожь"
+    "name_ru": "рожь",
+    "name_it": "segale"
   },
   {
     "nodeId": 292385,
@@ -927,7 +988,8 @@
     "name_pt": "carité",
     "name_nl": "kariténoot",
     "name_uk": "вітелларія",
-    "name_ru": "дерево ши"
+    "name_ru": "дерево ши",
+    "name_it": "karité"
   },
   {
     "nodeId": 4182,
@@ -942,7 +1004,8 @@
     "name_pt": "sésamo",
     "name_nl": "sesam",
     "name_uk": "кунжут",
-    "name_ru": "кунжут"
+    "name_ru": "кунжут",
+    "name_it": "sesamo"
   },
   {
     "nodeId": 58933,
@@ -957,7 +1020,8 @@
     "name_pt": "espelta",
     "name_nl": "spelt",
     "name_uk": "спельта",
-    "name_ru": "спельта"
+    "name_ru": "спельта",
+    "name_it": "farro spelta"
   },
   {
     "nodeId": 3562,
@@ -972,7 +1036,8 @@
     "name_pt": "espinafre",
     "name_nl": "spinazie",
     "name_uk": "шпинат",
-    "name_ru": "шпинат"
+    "name_ru": "шпинат",
+    "name_it": "spinacio"
   },
   {
     "nodeId": 4232,
@@ -987,7 +1052,8 @@
     "name_pt": "girasol",
     "name_nl": "zonnebloem",
     "name_uk": "соняшник",
-    "name_ru": "подсолнух"
+    "name_ru": "подсолнух",
+    "name_it": "girasole"
   },
   {
     "nodeId": 4072,
@@ -1002,7 +1068,8 @@
     "name_pt": "pimento",
     "name_nl": "paprika",
     "name_uk": "стручковий перець",
-    "name_ru": "болгарский перец"
+    "name_ru": "болгарский перец",
+    "name_it": "peperone"
   },
   {
     "nodeId": 4460,
@@ -1017,7 +1084,8 @@
     "name_pt": "taro",
     "name_nl": "taro",
     "name_uk": "таро",
-    "name_ru": "таро"
+    "name_ru": "таро",
+    "name_it": "taro"
   },
   {
     "nodeId": 4442,
@@ -1032,7 +1100,8 @@
     "name_pt": "chá",
     "name_nl": "thee",
     "name_uk": "чай",
-    "name_ru": "чай"
+    "name_ru": "чай",
+    "name_it": "tè"
   },
   {
     "nodeId": 4097,
@@ -1047,7 +1116,8 @@
     "name_pt": "tabaco",
     "name_nl": "tabak",
     "name_uk": "тютюн",
-    "name_ru": "табак"
+    "name_ru": "табак",
+    "name_it": "tabacco"
   },
   {
     "nodeId": 51239,
@@ -1062,7 +1132,8 @@
     "name_pt": "baunilha",
     "name_nl": "vanille",
     "name_uk": "ваніль",
-    "name_ru": "ваниль"
+    "name_ru": "ваниль",
+    "name_it": "vaniglia"
   },
   {
     "nodeId": 3654,
@@ -1077,7 +1148,8 @@
     "name_pt": "melancia",
     "name_nl": "watermeloen",
     "name_uk": "кавун",
-    "name_ru": "арбуз"
+    "name_ru": "арбуз",
+    "name_it": "anguria"
   },
   {
     "nodeId": 4565,
@@ -1092,7 +1164,8 @@
     "name_pt": "trigo",
     "name_nl": "tarwe",
     "name_uk": "пшениця",
-    "name_ru": "пшеница"
+    "name_ru": "пшеница",
+    "name_it": "frumento"
   },
   {
     "nodeId": 69109,
@@ -1107,7 +1180,8 @@
     "name_pt": "baobá",
     "name_nl": "baobab",
     "name_uk": "баобаб",
-    "name_ru": "баобаб"
+    "name_ru": "баобаб",
+    "name_it": "baobab"
   },
   {
     "nodeId": 75706,
@@ -1122,7 +1196,8 @@
     "name_pt": "salgueiro chorão",
     "name_nl": "treurwilg",
     "name_uk": "верба",
-    "name_ru": "ива"
+    "name_ru": "ива",
+    "name_it": "salice piangente"
   },
   {
     "nodeId": 3505,
@@ -1137,7 +1212,8 @@
     "name_pt": "bétula branca",
     "name_nl": "zilverberk",
     "name_uk": "береза",
-    "name_ru": "берёза"
+    "name_ru": "берёза",
+    "name_it": "betulla bianca"
   },
   {
     "nodeId": 99814,
@@ -1152,7 +1228,8 @@
     "name_pt": "sequoia-gigante",
     "name_nl": "mammoetboom",
     "name_uk": "секвоядендрон",
-    "name_ru": "гигантская секвойя"
+    "name_ru": "гигантская секвойя",
+    "name_it": "sequoia gigante"
   },
   {
     "nodeId": 3357,
@@ -1167,7 +1244,8 @@
     "name_pt": "abeto de douglas",
     "name_nl": "douglasspar",
     "name_uk": "псевдотсуга мензіса",
-    "name_ru": "дугласова пихта"
+    "name_ru": "дугласова пихта",
+    "name_it": "abete di Douglas"
   },
   {
     "nodeId": 93692,
@@ -1182,7 +1260,8 @@
     "name_pt": "cedro do líbano",
     "name_nl": "libanonceder",
     "name_uk": "кедр ліванський",
-    "name_ru": "ливанский кедр"
+    "name_ru": "ливанский кедр",
+    "name_it": " cedro del Libano"
   },
   {
     "nodeId": 3349,
@@ -1197,7 +1276,8 @@
     "name_pt": "pinheiro báltico",
     "name_nl": "grove den",
     "name_uk": "сосна",
-    "name_ru": "сосна"
+    "name_ru": "сосна",
+    "name_it": "pino silvestre"
   },
   {
     "nodeId": 3329,
@@ -1212,7 +1292,8 @@
     "name_pt": "pícea",
     "name_nl": "fijnspar",
     "name_uk": "ялина європейська",
-    "name_ru": "ель"
+    "name_ru": "ель",
+    "name_it": "abete rosso"
   },
   {
     "nodeId": 4081,
@@ -1227,7 +1308,8 @@
     "name_pt": "tomateiro",
     "name_nl": "tomaat",
     "name_uk": "томат",
-    "name_ru": "помидор"
+    "name_ru": "помидор",
+    "name_it": "pomodoro"
   },
   {
     "nodeId": 4111,
@@ -1242,7 +1324,8 @@
     "name_pt": "beringela",
     "name_nl": "aubergine",
     "name_uk": "баклажан",
-    "name_ru": "баклажан"
+    "name_ru": "баклажан",
+    "name_it": "melanzana"
   },
   {
     "nodeId": 4113,
@@ -1257,7 +1340,8 @@
     "name_pt": "batata",
     "name_nl": "aardappel",
     "name_uk": "картопля",
-    "name_ru": "картофель"
+    "name_ru": "картофель",
+    "name_it": "patata"
   },
   {
     "nodeId": 4679,
@@ -1272,7 +1356,8 @@
     "name_pt": "cebola",
     "name_nl": "ui",
     "name_uk": "цибуля",
-    "name_ru": "лук"
+    "name_ru": "лук",
+    "name_it": "cipolla"
   },
   {
     "nodeId": 4615,
@@ -1287,7 +1372,8 @@
     "name_pt": "ananás",
     "name_nl": "ananas",
     "name_uk": "ананас",
-    "name_ru": "ананас"
+    "name_ru": "ананас",
+    "name_it": "ananas"
   },
   {
     "nodeId": 38942,
@@ -1302,7 +1388,8 @@
     "name_pt": "carvalho",
     "name_nl": "eik",
     "name_uk": "дуб",
-    "name_ru": "дуб"
+    "name_ru": "дуб",
+    "name_it": "quercia"
   },
   {
     "nodeId": 28930,
@@ -1317,7 +1404,8 @@
     "name_pt": "faia europeia",
     "name_nl": "beuk",
     "name_uk": "бук",
-    "name_ru": "бук"
+    "name_ru": "бук",
+    "name_it": "faggio"
   },
   {
     "nodeId": 3885,
@@ -1332,7 +1420,8 @@
     "name_pt": "feijão comum",
     "name_nl": "gewone boon",
     "name_uk": "квасоля",
-    "name_ru": "фасоль"
+    "name_ru": "фасоль",
+    "name_it": "fagiolo"
   },
   {
     "nodeId": 3906,
@@ -1347,7 +1436,8 @@
     "name_pt": "fava",
     "name_nl": "tuinboon",
     "name_uk": "біб кінський",
-    "name_ru": "боб садовый"
+    "name_ru": "боб садовый",
+    "name_it": "fava"
   },
   {
     "nodeId": 3847,
@@ -1362,7 +1452,8 @@
     "name_pt": "soja",
     "name_nl": "sojaboon",
     "name_uk": "соя",
-    "name_ru": "соя"
+    "name_ru": "соя",
+    "name_it": "soia"
   },
   {
     "nodeId": 3888,
@@ -1377,7 +1468,8 @@
     "name_pt": "ervilha de jardim",
     "name_nl": "tuinerwt",
     "name_uk": "горох",
-    "name_ru": "горох"
+    "name_ru": "горох",
+    "name_it": "pisello"
   },
   {
     "nodeId": 3917,
@@ -1392,7 +1484,8 @@
     "name_pt": "feijão frade",
     "name_nl": "ogenboon",
     "name_uk": "вігна",
-    "name_ru": "вигна"
+    "name_ru": "вигна",
+    "name_it": "fagiolo dall'occhio"
   },
   {
     "nodeId": 3827,
@@ -1407,7 +1500,8 @@
     "name_pt": "grão-de-bico",
     "name_nl": "kikkererwt",
     "name_uk": "нут",
-    "name_ru": "нут"
+    "name_ru": "нут",
+    "name_it": "cece"
   },
   {
     "nodeId": 3864,
@@ -1422,7 +1516,8 @@
     "name_pt": "lentilha",
     "name_nl": "linze",
     "name_uk": "сочевиця",
-    "name_ru": "чечевица"
+    "name_ru": "чечевица",
+    "name_it": "lenticchia"
   },
   {
     "nodeId": 3818,
@@ -1437,7 +1532,8 @@
     "name_pt": "amendoim",
     "name_nl": "pinda",
     "name_uk": "арахіс",
-    "name_ru": "арахис"
+    "name_ru": "арахис",
+    "name_it": "arachide"
   },
   {
     "nodeId": 20340,
@@ -1452,7 +1548,8 @@
     "name_pt": "alfarrobeira",
     "name_nl": "johannesbroodboom",
     "name_uk": "ріжкове дерево",
-    "name_ru": "рожковое дерево"
+    "name_ru": "рожковое дерево",
+    "name_it": "carrubo"
   },
   {
     "nodeId": 49827,
@@ -1467,7 +1564,8 @@
     "name_pt": "regaliz",
     "name_nl": "zoethout",
     "name_uk": "солодкий корінь",
-    "name_ru": "солодка"
+    "name_ru": "солодка",
+    "name_it": "liquirizia"
   },
   {
     "nodeId": 138033,
@@ -1482,7 +1580,8 @@
     "name_pt": "Acácia Egípcia",
     "name_nl": "Arabische gom",
     "name_uk": "акація нільська",
-    "name_ru": "акация"
+    "name_ru": "акация",
+    "name_it": "gomma arabica"
   },
   {
     "nodeId": 58860,
@@ -1497,7 +1596,8 @@
     "name_pt": "tamarindo",
     "name_nl": "tamarinde",
     "name_uk": "тамаринд",
-    "name_ru": "тамаринд"
+    "name_ru": "тамаринд",
+    "name_it": "tamarindo"
   },
   {
     "nodeId": 3879,
@@ -1512,7 +1612,8 @@
     "name_pt": "alfarfa",
     "name_nl": "alfalfa",
     "name_uk": "люцерна",
-    "name_ru": "люцерна"
+    "name_ru": "люцерна",
+    "name_it": "erba medica"
   },
   {
     "nodeId": 3859,
@@ -1527,7 +1628,8 @@
     "name_pt": "ervilha doce",
     "name_nl": "siererwt",
     "name_uk": "чина запашна",
-    "name_ru": "душистый горошек"
+    "name_ru": "душистый горошек",
+    "name_it": "pisello odoroso"
   },
   {
     "nodeId": 76306,
@@ -1542,7 +1644,8 @@
     "name_pt": "mimosa",
     "name_nl": "kruidje-roer-me-niet",
     "name_uk": "мімоза",
-    "name_ru": "мимоза стыдливая"
+    "name_ru": "мимоза стыдливая",
+    "name_it": "sensitiva"
   },
   {
     "nodeId": 72402,
@@ -1557,7 +1660,8 @@
     "name_pt": "senna",
     "name_nl": "Sennapeul",
     "name_uk": "сенна",
-    "name_ru": "сенна"
+    "name_ru": "сенна",
+    "name_it": "senna"
   },
   {
     "nodeId": 3902,
@@ -1572,7 +1676,8 @@
     "name_pt": "tojo",
     "name_nl": "gaspeldoorn",
     "name_uk": "улекс",
-    "name_ru": "дрок"
+    "name_ru": "дрок",
+    "name_it": "ginestrone"
   },
   {
     "nodeId": 171251,
@@ -1587,7 +1692,8 @@
     "name_pt": "cidra",
     "name_nl": "sukade",
     "name_uk": "цитрон",
-    "name_ru": "цитрон"
+    "name_ru": "цитрон",
+    "name_it": "cedro"
   },
   {
     "nodeId": 396733,
@@ -1602,7 +1708,8 @@
     "name_pt": "rosa",
     "name_nl": "roos",
     "name_uk": "троянда",
-    "name_ru": "роза"
+    "name_ru": "роза",
+    "name_it": "rosa"
   },
   {
     "nodeId": 159033,
@@ -1617,7 +1724,8 @@
     "name_pt": "lima",
     "name_nl": "limoen",
     "name_uk": "лайм",
-    "name_ru": "лайм"
+    "name_ru": "лайм",
+    "name_it": "lime"
   },
   {
     "nodeId": 2708,
@@ -1632,7 +1740,8 @@
     "name_pt": "limoeiro",
     "name_nl": "citroen",
     "name_uk": "лимон",
-    "name_ru": "лимон"
+    "name_ru": "лимон",
+    "name_it": "limone"
   },
   {
     "nodeId": 75806,
@@ -1647,7 +1756,8 @@
     "name_pt": "wasabi",
     "name_nl": "wasabi",
     "name_uk": "васабі",
-    "name_ru": "васаби"
+    "name_ru": "васаби",
+    "name_it": "wasabi"
   },
   {
     "nodeId": 78817,
@@ -1662,7 +1772,8 @@
     "name_pt": "orquídea",
     "name_nl": "orchidee",
     "name_uk": "орхідея",
-    "name_ru": "орхидея"
+    "name_ru": "орхидея",
+    "name_it": "orchidea"
   },
   {
     "nodeId": 4039,
@@ -1677,7 +1788,8 @@
     "name_pt": "cenoura",
     "name_nl": "wortel",
     "name_uk": "морква",
-    "name_ru": "морковь"
+    "name_ru": "морковь",
+    "name_it": "carota"
   },
   {
     "nodeId": 161934,
@@ -1692,7 +1804,8 @@
     "name_pt": "beterraba",
     "name_nl": "biet",
     "name_uk": "буряк",
-    "name_ru": "свёкла"
+    "name_ru": "свёкла",
+    "name_it": "barbabietola"
   },
   {
     "nodeId": 42229,
@@ -1707,7 +1820,8 @@
     "name_pt": "cereja",
     "name_nl": "zoete kers",
     "name_uk": "черешня",
-    "name_ru": "вишня"
+    "name_ru": "вишня",
+    "name_it": "ciliegio"
   },
   {
     "nodeId": 99038,
@@ -1722,7 +1836,8 @@
     "name_pt": "margarida",
     "name_nl": "ganzenbloem",
     "name_uk": "хризантема увінчана",
-    "name_ru": "маргаритка"
+    "name_ru": "маргаритка",
+    "name_it": "margerita"
   },
   {
     "nodeId": 94688,
@@ -1737,7 +1852,8 @@
     "name_pt": "musgo",
     "name_nl": "mos",
     "name_uk": "мох",
-    "name_ru": "мох"
+    "name_ru": "мох",
+    "name_it": "muschio"
   },
   {
     "nodeId": 4681,
@@ -1752,7 +1868,8 @@
     "name_pt": "alho francês",
     "name_nl": "prei",
     "name_uk": "цибуля-порей",
-    "name_ru": "лук-порей"
+    "name_ru": "лук-порей",
+    "name_it": "porro"
   },
   {
     "nodeId": 3663,
@@ -1767,7 +1884,8 @@
     "name_pt": "abóbora",
     "name_nl": "pompoen",
     "name_uk": "гарбуз",
-    "name_ru": "тыква"
+    "name_ru": "тыква",
+    "name_it": "zucca"
   },
   {
     "nodeId": 3662,
@@ -1782,7 +1900,8 @@
     "name_pt": "abobrinha",
     "name_nl": "flespompoen",
     "name_uk": "гарбуз мускатний",
-    "name_ru": "мускатная тыква"
+    "name_ru": "мускатная тыква",
+    "name_it": "zucca trombetta"
   },
   {
     "nodeId": 13306,
@@ -1797,7 +1916,8 @@
     "name_pt": "túlipa",
     "name_nl": "tulp",
     "name_uk": "тюльпан",
-    "name_ru": "тюльпан"
+    "name_ru": "тюльпан",
+    "name_it": "tulipano"
   },
   {
     "nodeId": 4024,
@@ -1812,7 +1932,8 @@
     "name_pt": "carvalho canadense",
     "name_nl": "suikeresdoorn",
     "name_uk": "клен цукровий",
-    "name_ru": "сахарный клён"
+    "name_ru": "сахарный клён",
+    "name_it": "acero"
   },
   {
     "nodeId": 190548,
@@ -1827,7 +1948,8 @@
     "name_pt": "mirtilo",
     "name_nl": "blauwe bes",
     "name_uk": "лохина",
-    "name_ru": "черника"
+    "name_ru": "черника",
+    "name_it": "mirtillo"
   },
   {
     "nodeId": 3747,
@@ -1842,7 +1964,8 @@
     "name_pt": "morango",
     "name_nl": "aardbei",
     "name_uk": "полуниця",
-    "name_ru": "клубника"
+    "name_ru": "клубника",
+    "name_it": "fragola"
   },
   {
     "nodeId": 75062,
@@ -1857,7 +1980,8 @@
     "name_pt": "amora",
     "name_nl": "braam",
     "name_uk": "ожина",
-    "name_ru": "ежевика"
+    "name_ru": "ежевика",
+    "name_it": "mora"
   },
   {
     "nodeId": 32247,
@@ -1872,7 +1996,8 @@
     "name_pt": "frambuesa",
     "name_nl": "framboos",
     "name_uk": "малина",
-    "name_ru": "малина"
+    "name_ru": "малина",
+    "name_it": "lampone"
   },
   {
     "nodeId": 13750,
@@ -1887,7 +2012,8 @@
     "name_pt": "airela",
     "name_nl": "cranberry",
     "name_uk": "журавлина",
-    "name_ru": "клюква"
+    "name_ru": "клюква",
+    "name_it": "ossiccocco americano"
   },
   {
     "nodeId": 3712,
@@ -1902,7 +2028,8 @@
     "name_pt": "couve",
     "name_nl": "kool",
     "name_uk": "капуста",
-    "name_ru": "капуста"
+    "name_ru": "капуста",
+    "name_it": "cavolo"
   },
   {
     "nodeId": 3711,
@@ -1917,7 +2044,8 @@
     "name_pt": "nabo",
     "name_nl": "paksoi",
     "name_uk": "ріпа",
-    "name_ru": "бок-чой"
+    "name_ru": "бок-чой",
+    "name_it": "cavolo cinese"
   },
   {
     "nodeId": 50225,
@@ -1932,7 +2060,8 @@
     "name_pt": "dente de leão",
     "name_nl": "paardenbloem",
     "name_uk": "кульбаба",
-    "name_ru": "одуванчик"
+    "name_ru": "одуванчик",
+    "name_it": "tarassaco"
   },
   {
     "nodeId": 29719,
@@ -1947,7 +2076,8 @@
     "name_pt": "menta",
     "name_nl": "groene munt",
     "name_uk": "м'ята",
-    "name_ru": "мята"
+    "name_ru": "мята",
+    "name_it": "menta"
   },
   {
     "nodeId": 39350,
@@ -1962,7 +2092,8 @@
     "name_pt": "manjericão",
     "name_nl": "basilicum",
     "name_uk": "базилік",
-    "name_ru": "базилик"
+    "name_ru": "базилик",
+    "name_it": "basilico"
   },
   {
     "nodeId": 13443,
@@ -1977,7 +2108,8 @@
     "name_pt": "café",
     "name_nl": "koffie",
     "name_uk": "кава",
-    "name_ru": "кофе"
+    "name_ru": "кофе",
+    "name_it": "caffè"
   },
   {
     "nodeId": 39329,
@@ -1992,7 +2124,8 @@
     "name_pt": "lavanda",
     "name_nl": "lavendel",
     "name_uk": "лаванда",
-    "name_ru": "лаванда"
+    "name_ru": "лаванда",
+    "name_it": "lavanda"
   },
   {
     "nodeId": 4043,
@@ -2007,7 +2140,8 @@
     "name_pt": "salsa",
     "name_nl": "peterselie",
     "name_uk": "петрушка",
-    "name_ru": "петрушка"
+    "name_ru": "петрушка",
+    "name_it": "prezzemolo"
   },
   {
     "nodeId": 49992,
@@ -2022,7 +2156,8 @@
     "name_pt": "tomilho",
     "name_nl": "tijm",
     "name_uk": "чебрець",
-    "name_ru": "чабрец"
+    "name_ru": "чабрец",
+    "name_it": "timo"
   },
   {
     "nodeId": 2711,
@@ -2037,7 +2172,8 @@
     "name_pt": "laranjeira",
     "name_nl": "sinaasappel",
     "name_uk": "апельсин",
-    "name_ru": "апельсин"
+    "name_ru": "апельсин",
+    "name_it": "arancia"
   },
   {
     "nodeId": 37656,
@@ -2052,7 +2188,8 @@
     "name_pt": "pomelo",
     "name_nl": "grapefruit",
     "name_uk": "грейпфрут",
-    "name_ru": "грейпфрут"
+    "name_ru": "грейпфрут",
+    "name_it": "pompelmo"
   },
   {
     "nodeId": 130122,
@@ -2067,7 +2204,8 @@
     "name_pt": "cato",
     "name_nl": "cactus",
     "name_uk": "кактус",
-    "name_ru": "кактус"
+    "name_ru": "кактус",
+    "name_it": "cactus"
   },
   {
     "nodeId": 355937,
@@ -2082,7 +2220,8 @@
     "name_pt": "salsola",
     "name_nl": "loogkruid",
     "name_uk": "курай чіплянковий",
-    "name_ru": "перекати-поле"
+    "name_ru": "перекати-поле",
+    "name_it": "salsola caprina"
   },
   {
     "nodeId": 43853,
@@ -2097,7 +2236,8 @@
     "name_pt": "era venenosa",
     "name_nl": "gifsumak",
     "name_uk": "отруйний плющ",
-    "name_ru": "ядовитый плющ"
+    "name_ru": "ядовитый плющ",
+    "name_it": "edera velenosa"
   },
   {
     "nodeId": 4498,
@@ -2112,7 +2252,8 @@
     "name_pt": "aveia",
     "name_nl": "haver",
     "name_uk": "овес",
-    "name_ru": "овёс"
+    "name_ru": "овёс",
+    "name_it": "avena"
   },
   {
     "nodeId": 4513,
@@ -2127,7 +2268,8 @@
     "name_pt": "cevada",
     "name_nl": "gerst",
     "name_uk": "ячмінь",
-    "name_ru": "ячмень"
+    "name_ru": "ячмень",
+    "name_it": "orzo"
   },
   {
     "nodeId": 4403,
@@ -2142,7 +2284,8 @@
     "name_pt": "bordo",
     "name_nl": "plataan",
     "name_uk": "платан",
-    "name_ru": "платан"
+    "name_ru": "платан",
+    "name_it": "platano"
   },
   {
     "nodeId": 79002,
@@ -2157,7 +2300,8 @@
     "name_pt": "lírio tigre",
     "name_nl": "tijgerlelie",
     "name_uk": "лілія",
-    "name_ru": "тигровая лилия"
+    "name_ru": "тигровая лилия",
+    "name_it": "giglio tigrato della cina"
   },
   {
     "nodeId": 3635,
@@ -2172,7 +2316,8 @@
     "name_pt": "algodão",
     "name_nl": "katoen",
     "name_uk": "бавовник",
-    "name_ru": "хлопок"
+    "name_ru": "хлопок",
+    "name_it": "cotone"
   },
   {
     "nodeId": 3627,
@@ -2187,7 +2332,8 @@
     "name_pt": "kiwi",
     "name_nl": "kiwi",
     "name_uk": "ківі",
-    "name_ru": "киви"
+    "name_ru": "киви",
+    "name_it": "kiwi"
   },
   {
     "nodeId": 76314,
@@ -2202,7 +2348,8 @@
     "name_pt": "alga marinha",
     "name_nl": "zeewier",
     "name_uk": "морські водорості",
-    "name_ru": "морская водоросль"
+    "name_ru": "морская водоросль",
+    "name_it": "alga"
   },
   {
     "nodeId": 318051,
@@ -2217,7 +2364,8 @@
     "name_pt": "bambu",
     "name_nl": "bamboe",
     "name_uk": "бамбук",
-    "name_ru": "бамбук"
+    "name_ru": "бамбук",
+    "name_it": "bamboo"
   },
   {
     "nodeId": 4265,
@@ -2232,7 +2380,8 @@
     "name_pt": "alcachofra",
     "name_nl": "artisjok",
     "name_uk": "артишок",
-    "name_ru": "артишок"
+    "name_ru": "артишок",
+    "name_it": "carciofo"
   },
   {
     "nodeId": 32201,
@@ -2247,7 +2396,8 @@
     "name_pt": "nogueira-pecã",
     "name_nl": "pecannoot",
     "name_uk": "пекан",
-    "name_ru": "пекан"
+    "name_ru": "пекан",
+    "name_it": "pecan"
   },
   {
     "nodeId": 4547,
@@ -2262,7 +2412,8 @@
     "name_pt": "cana-de-açúcar",
     "name_nl": "suikerriet",
     "name_uk": "цукрова тростина",
-    "name_ru": "сахарный тростник"
+    "name_ru": "сахарный тростник",
+    "name_it": "canna da zucchero"
   },
   {
     "nodeId": 29710,
@@ -2277,7 +2428,8 @@
     "name_pt": "inhame",
     "name_nl": "yam",
     "name_uk": "ямс",
-    "name_ru": "ямс"
+    "name_ru": "ямс",
+    "name_it": "igname"
   },
   {
     "nodeId": 3621,
@@ -2292,7 +2444,8 @@
     "name_pt": "ruibarbo",
     "name_nl": "rabarber",
     "name_uk": "ревінь",
-    "name_ru": "ревень"
+    "name_ru": "ревень",
+    "name_it": "rabarbaro"
   },
   {
     "nodeId": 146995,
@@ -2307,7 +2460,8 @@
     "name_pt": "crisântemo",
     "name_nl": "chrysant",
     "name_uk": "хризантема індійська",
-    "name_ru": "хризантема"
+    "name_ru": "хризантема",
+    "name_it": "crisantemo"
   },
   {
     "nodeId": 361556,
@@ -2322,7 +2476,8 @@
     "name_pt": "feto",
     "name_nl": "varen",
     "name_uk": "ожина",
-    "name_ru": "папоротник"
+    "name_ru": "папоротник",
+    "name_it": "felce"
   },
   {
     "nodeId": 126433,
@@ -2337,7 +2492,8 @@
     "name_pt": "jasmim",
     "name_nl": "jasmijn",
     "name_uk": "жасмин",
-    "name_ru": "жасмин"
+    "name_ru": "жасмин",
+    "name_it": "gelsomino"
   },
   {
     "nodeId": 34301,
@@ -2352,7 +2508,8 @@
     "name_pt": "nenúfar",
     "name_nl": "waterlelie",
     "name_uk": "латаття біле",
-    "name_ru": "кувшинка"
+    "name_ru": "кувшинка",
+    "name_it": "ninfea"
   },
   {
     "nodeId": 4432,
@@ -2367,7 +2524,8 @@
     "name_pt": "flor de lotus",
     "name_nl": "lotus",
     "name_uk": "лотос",
-    "name_ru": "лотос"
+    "name_ru": "лотос",
+    "name_it": "loto"
   },
   {
     "nodeId": 106335,
@@ -2382,7 +2540,8 @@
     "name_pt": "hibisco",
     "name_nl": "hibiscus",
     "name_uk": "гібіск",
-    "name_ru": "гибискус"
+    "name_ru": "гибискус",
+    "name_it": "ibisco"
   },
   {
     "nodeId": 85868,
@@ -2397,7 +2556,8 @@
     "name_pt": "magnólia",
     "name_nl": "magnolia",
     "name_uk": "магнолія",
-    "name_ru": "магнолия"
+    "name_ru": "магнолия",
+    "name_it": "magnolia"
   },
   {
     "nodeId": 69717,
@@ -2412,7 +2572,8 @@
     "name_pt": "peónia",
     "name_nl": "pioen",
     "name_uk": "півонія",
-    "name_ru": "пион"
+    "name_ru": "пион",
+    "name_it": "peonia"
   },
   {
     "nodeId": 98504,
@@ -2427,7 +2588,8 @@
     "name_pt": "camomila",
     "name_nl": "kamille",
     "name_uk": "ромашка лікарська",
-    "name_ru": "ромашка"
+    "name_ru": "ромашка",
+    "name_it": "camomilla"
   },
   {
     "nodeId": 54855,
@@ -2442,7 +2604,8 @@
     "name_pt": "narciso",
     "name_nl": "narcis",
     "name_uk": "нарцис",
-    "name_ru": "нарцисс"
+    "name_ru": "нарцисс",
+    "name_it": "narciso"
   },
   {
     "nodeId": 97021,
@@ -2457,7 +2620,8 @@
     "name_pt": "trevo",
     "name_nl": "klaver",
     "name_uk": "конюшина",
-    "name_ru": "клевер"
+    "name_ru": "клевер",
+    "name_it": "trifoglio"
   },
   {
     "nodeId": 97424,
@@ -2472,7 +2636,8 @@
     "name_pt": "violetas",
     "name_nl": "viooltje",
     "name_uk": "фіалка",
-    "name_ru": "фиалка"
+    "name_ru": "фиалка",
+    "name_it": "violetta"
   },
   {
     "nodeId": 101596,
@@ -2487,7 +2652,8 @@
     "name_pt": "dália",
     "name_nl": "dahlia",
     "name_uk": "жоржина",
-    "name_ru": "георгина"
+    "name_ru": "георгина",
+    "name_it": "dahlia"
   },
   {
     "nodeId": 16719,
@@ -2502,7 +2668,8 @@
     "name_pt": "nogueira",
     "name_nl": "walnoot",
     "name_uk": "горіх чорний",
-    "name_ru": "грецкий орех"
+    "name_ru": "грецкий орех",
+    "name_it": "noce"
   },
   {
     "nodeId": 3494,
@@ -2517,7 +2684,8 @@
     "name_pt": "figo",
     "name_nl": "vijg",
     "name_uk": "інжир",
-    "name_ru": "инжир"
+    "name_ru": "инжир",
+    "name_it": "fico"
   },
   {
     "nodeId": 3570,
@@ -2532,7 +2700,8 @@
     "name_pt": "cravo",
     "name_nl": "anjer",
     "name_uk": "гвоздика",
-    "name_ru": "гвоздика"
+    "name_ru": "гвоздика",
+    "name_it": "garofano"
   },
   {
     "nodeId": 4362,
@@ -2547,7 +2716,8 @@
     "name_pt": "dioneia",
     "name_nl": "venusvliegenvanger",
     "name_uk": "венерина мухоловка",
-    "name_ru": "венерина мухоловка"
+    "name_ru": "венерина мухоловка",
+    "name_it": "venere acchiappamosche"
   },
   {
     "nodeId": 89151,
@@ -2562,7 +2732,8 @@
     "name_pt": "banana",
     "name_nl": "banaan",
     "name_uk": "банан",
-    "name_ru": "банан"
+    "name_ru": "банан",
+    "name_it": "banana"
   },
   {
     "nodeId": 1125938,
@@ -2577,7 +2748,8 @@
     "name_pt": "pitaia",
     "name_nl": "pitaja",
     "name_uk": "пітахая",
-    "name_ru": "питахайя"
+    "name_ru": "питахайя",
+    "name_it": "frutto del drago"
   },
   {
     "nodeId": 2849586,
@@ -2592,7 +2764,8 @@
     "name_pt": "funcho",
     "name_nl": "venkel",
     "name_uk": "фенхель",
-    "name_ru": "фенхель"
+    "name_ru": "фенхель",
+    "name_it": "finocchio"
   },
   {
     "nodeId": 40922,
@@ -2607,7 +2780,8 @@
     "name_pt": "endro",
     "name_nl": "dille",
     "name_uk": "кріп",
-    "name_ru": "укроп"
+    "name_ru": "укроп",
+    "name_it": "aneto"
   },
   {
     "nodeId": 36592,
@@ -2622,7 +2796,8 @@
     "name_pt": "árvore de eucalipto",
     "name_nl": "eucalyptus",
     "name_uk": "евкаліпт",
-    "name_ru": "эвкалипт"
+    "name_ru": "эвкалипт",
+    "name_it": "eucalipto"
   },
   {
     "nodeId": 65948,
@@ -2637,7 +2812,8 @@
     "name_pt": "agrião",
     "name_nl": "waterkers",
     "name_uk": "настурція",
-    "name_ru": "жеруха"
+    "name_ru": "жеруха",
+    "name_it": "crescione"
   },
   {
     "nodeId": 82025,
@@ -2652,7 +2828,8 @@
     "name_pt": "jacinto",
     "name_nl": "hyacint",
     "name_uk": "гіацинт",
-    "name_ru": "гиацинт"
+    "name_ru": "гиацинт",
+    "name_it": "giacinto"
   },
   {
     "nodeId": 3922,
@@ -2667,7 +2844,8 @@
     "name_pt": "glicínia",
     "name_nl": "wisteria",
     "name_uk": "гліцинія",
-    "name_ru": "глициния"
+    "name_ru": "глициния",
+    "name_it": "glicine"
   },
   {
     "nodeId": 35974,
@@ -2682,7 +2860,8 @@
     "name_pt": "sândalo",
     "name_nl": "sandelhout",
     "name_uk": "сантал",
-    "name_ru": "сандал"
+    "name_ru": "сандал",
+    "name_it": "sandalo"
   },
   {
     "nodeId": 12953,
@@ -2697,7 +2876,8 @@
     "name_pt": "banana da pradaria",
     "name_nl": "pawpaw",
     "name_uk": "азиміна",
-    "name_ru": "азимина"
+    "name_ru": "азимина",
+    "name_it": "asiminia"
   },
   {
     "nodeId": 4047,
@@ -2712,7 +2892,8 @@
     "name_pt": "coentro",
     "name_nl": "koriander",
     "name_uk": "корінадр",
-    "name_ru": "кориандр"
+    "name_ru": "кориандр",
+    "name_it": "coriandolo"
   },
   {
     "nodeId": 4054,
@@ -2727,7 +2908,8 @@
     "name_pt": "ginséng",
     "name_nl": "ginseng",
     "name_uk": "женьшень",
-    "name_ru": "женьшень"
+    "name_ru": "женьшень",
+    "name_it": "ginseng"
   },
   {
     "nodeId": 271192,
@@ -2742,7 +2924,8 @@
     "name_pt": "flor de anis",
     "name_nl": "anijs",
     "name_uk": "аніс",
-    "name_ru": "анис"
+    "name_ru": "анис",
+    "name_it": "anice"
   },
   {
     "nodeId": 4298,
@@ -2757,7 +2940,8 @@
     "name_pt": "azevinho",
     "name_nl": "hulst",
     "name_uk": "падуб",
-    "name_ru": "падуб"
+    "name_ru": "падуб",
+    "name_it": "agrifoglio"
   },
   {
     "nodeId": 155124,
@@ -2772,7 +2956,8 @@
     "name_pt": "rooibos",
     "name_nl": "rooibos",
     "name_uk": "ройбос",
-    "name_ru": "ройбуш"
+    "name_ru": "ройбуш",
+    "name_it": "roiboos"
   },
   {
     "nodeId": 4103,
@@ -2787,7 +2972,8 @@
     "name_pt": "petúnia",
     "name_nl": "petunia",
     "name_uk": "петунія",
-    "name_ru": "петуния"
+    "name_ru": "петуния",
+    "name_it": "petunia"
   },
   {
     "nodeId": 3972,
@@ -2802,7 +2988,8 @@
     "name_pt": "visco",
     "name_nl": "maretak",
     "name_uk": "омела",
-    "name_ru": "омела"
+    "name_ru": "омела",
+    "name_it": "vischio"
   },
   {
     "nodeId": 289672,
@@ -2817,7 +3004,8 @@
     "name_pt": "coca",
     "name_nl": "coca",
     "name_uk": "кока",
-    "name_ru": "кока"
+    "name_ru": "кока",
+    "name_it": "coca"
   },
   {
     "nodeId": 3988,
@@ -2832,7 +3020,8 @@
     "name_pt": "mamona",
     "name_nl": "wonderboon",
     "name_uk": "рицина",
-    "name_ru": "клещевина"
+    "name_ru": "клещевина",
+    "name_it": "ricino"
   },
   {
     "nodeId": 379952,
@@ -2847,7 +3036,8 @@
     "name_pt": "gerânio",
     "name_nl": "ooievaarsbek",
     "name_uk": "герань",
-    "name_ru": "герань"
+    "name_ru": "герань",
+    "name_it": "geranio"
   },
   {
     "nodeId": 3489,
@@ -2862,7 +3052,8 @@
     "name_pt": "jaca",
     "name_nl": "jackfruit",
     "name_uk": "джекфрут",
-    "name_ru": "джекфрут"
+    "name_ru": "джекфрут",
+    "name_it": "giaco"
   },
   {
     "nodeId": 3501,
@@ -2877,7 +3068,8 @@
     "name_pt": "urtiga",
     "name_nl": "brandnetel",
     "name_uk": "кропива",
-    "name_ru": "крапива"
+    "name_ru": "крапива",
+    "name_it": " ortica"
   },
   {
     "nodeId": 38868,
@@ -2892,7 +3084,8 @@
     "name_pt": "sálvia",
     "name_nl": "salie",
     "name_uk": "шавлія",
-    "name_ru": "шалфей"
+    "name_ru": "шалфей",
+    "name_it": "salvia"
   },
   {
     "nodeId": 39367,
@@ -2907,7 +3100,8 @@
     "name_pt": "alecrim",
     "name_nl": "rozemarijn",
     "name_uk": "розмарин",
-    "name_ru": "розмарин"
+    "name_ru": "розмарин",
+    "name_it": "rosmarino"
   },
   {
     "nodeId": 4052,
@@ -2922,7 +3116,8 @@
     "name_pt": "era comum",
     "name_nl": "klimop",
     "name_uk": "плющ",
-    "name_ru": "плющ"
+    "name_ru": "плющ",
+    "name_it": "edera"
   },
   {
     "nodeId": 78168,
@@ -2937,7 +3132,8 @@
     "name_pt": "maracujá",
     "name_nl": "passievrucht",
     "name_uk": "маракуя",
-    "name_ru": "маракуйя"
+    "name_ru": "маракуйя",
+    "name_it": "passiflora"
   },
   {
     "nodeId": 58228,
@@ -2952,7 +3148,8 @@
     "name_pt": "mangostim",
     "name_nl": "mangistan",
     "name_uk": "мангостан",
-    "name_ru": "мангостан"
+    "name_ru": "мангостан",
+    "name_it": "mangostano"
   },
   {
     "nodeId": 40031,
@@ -2967,7 +3164,8 @@
     "name_pt": "mangue-vermelho",
     "name_nl": "mangrove",
     "name_uk": "мангр червоний",
-    "name_ru": "мангра"
+    "name_ru": "мангра",
+    "name_it": "mangrovia rossa"
   },
   {
     "nodeId": 4543,
@@ -2982,7 +3180,8 @@
     "name_pt": "milheto-pérola",
     "name_nl": "parelgierst",
     "name_uk": "просо",
-    "name_ru": "просо"
+    "name_ru": "просо",
+    "name_it": "miglio perlato"
   },
   {
     "nodeId": 519065,
@@ -2997,7 +3196,8 @@
     "name_pt": "não-me-esqueças",
     "name_nl": "vergeet-mij-nietje",
     "name_uk": "незабудка",
-    "name_ru": "незабудка"
+    "name_ru": "незабудка",
+    "name_it": "non ti scordar di me"
   },
   {
     "nodeId": 72332,
@@ -3012,7 +3212,8 @@
     "name_pt": "absinto",
     "name_nl": "absintalsem",
     "name_uk": "полин",
-    "name_ru": "полынь"
+    "name_ru": "полынь",
+    "name_it": "assenzio"
   },
   {
     "nodeId": 4202,
@@ -3027,7 +3228,8 @@
     "name_pt": "sabugueiro",
     "name_nl": "vlierbes",
     "name_uk": "бузина",
-    "name_ru": "бузина"
+    "name_ru": "бузина",
+    "name_it": "sambuco"
   },
   {
     "nodeId": 135518,
@@ -3042,7 +3244,8 @@
     "name_pt": "groselha",
     "name_nl": "kruisbes",
     "name_uk": "аґрус",
-    "name_ru": "крыжовник"
+    "name_ru": "крыжовник",
+    "name_it": "ribes"
   },
   {
     "nodeId": 32224,
@@ -3057,7 +3260,8 @@
     "name_pt": "nespereira",
     "name_nl": "loquat",
     "name_uk": "локва",
-    "name_ru": "мушмула"
+    "name_ru": "мушмула",
+    "name_it": "nespolo del Giappone"
   },
   {
     "nodeId": 1041245,
@@ -3072,7 +3276,8 @@
     "name_pt": "opúncia",
     "name_nl": "cactusvijg",
     "name_uk": "опунція",
-    "name_ru": "опунция"
+    "name_ru": "опунция",
+    "name_it": "fico d'india"
   },
   {
     "nodeId": 130111,
@@ -3087,7 +3292,8 @@
     "name_pt": "cacto barril",
     "name_nl": "schoonmoedersstoel",
     "name_uk": "ехінокактус грузона",
-    "name_ru": "эхинокактус"
+    "name_ru": "эхинокактус",
+    "name_it": "cuscino della suocera"
   },
   {
     "nodeId": 3331,
@@ -3102,7 +3308,8 @@
     "name_pt": "píscea-azul",
     "name_nl": "blauwe spar",
     "name_uk": "ялина колюча",
-    "name_ru": "голубая ель"
+    "name_ru": "голубая ель",
+    "name_it": "abete del colorado"
   },
   {
     "nodeId": 105884,
@@ -3117,7 +3324,8 @@
     "name_pt": "madressilva",
     "name_nl": "kamperfoelie",
     "name_uk": "жимолость",
-    "name_ru": "жимолость"
+    "name_ru": "жимолость",
+    "name_it": "caprifoglio"
   },
   {
     "nodeId": 65558,
@@ -3132,7 +3340,8 @@
     "name_pt": "alcaparra",
     "name_nl": "kappertje",
     "name_uk": "каперці",
-    "name_ru": "каперс"
+    "name_ru": "каперс",
+    "name_it": "cappero"
   },
   {
     "nodeId": 2675020,
@@ -3147,7 +3356,8 @@
     "name_pt": "planta jarro",
     "name_nl": "bekerplant",
     "name_uk": "непетнес аттенборо",
-    "name_ru": "непентес"
+    "name_ru": "непентес",
+    "name_it": "nepente"
   },
   {
     "nodeId": 66656,
@@ -3162,7 +3372,8 @@
     "name_pt": "dorião",
     "name_nl": "doerian",
     "name_uk": "дуріан",
-    "name_ru": "дуриан"
+    "name_ru": "дуриан",
+    "name_it": "durian"
   },
   {
     "nodeId": 136217,
@@ -3177,7 +3388,8 @@
     "name_pt": "açafrão",
     "name_nl": "kurkuma",
     "name_uk": "куркума",
-    "name_ru": "куркума"
+    "name_ru": "куркума",
+    "name_it": "curcuma"
   },
   {
     "nodeId": 3311,
@@ -3192,7 +3404,8 @@
     "name_pt": "ginkgo",
     "name_nl": "ginkgo",
     "name_uk": "ґінко",
-    "name_ru": "гинкго"
+    "name_ru": "гинкго",
+    "name_it": "ginkgo"
   },
   {
     "nodeId": 34199,
@@ -3207,7 +3420,8 @@
     "name_pt": "aloe vera",
     "name_nl": "aloe vera",
     "name_uk": "алое вера",
-    "name_ru": "алоэ вера"
+    "name_ru": "алоэ вера",
+    "name_it": "aloe"
   },
   {
     "nodeId": 119949,
@@ -3222,6 +3436,7 @@
     "name_pt": "murta",
     "name_nl": "mirte",
     "name_uk": "мирт",
-    "name_ru": "мирт"
+    "name_ru": "мирт",
+    "name_it": "mirto"
   }
 ]
