@@ -14,7 +14,7 @@
     "name_uk": "мигдаль",
     "name_ru": "миндаль",
     "name_it": "mandorla",
-    "name_hu": "mandula"	
+    "name_hu": "mandula"
   },
   {
     "nodeId": 3752,
@@ -31,7 +31,7 @@
     "name_uk": "яблуня",
     "name_ru": "яблоко",
     "name_it": "melo",
-    "name_hu": "alma"	
+    "name_hu": "alma"
   },
   {
     "nodeId": 36596,
@@ -48,7 +48,7 @@
     "name_uk": "абрикоса",
     "name_ru": "абрикос",
     "name_it": "albicocco",
-    "name_hu": "sárgabarack"	
+    "name_hu": "sárgabarack"
   },
   {
     "nodeId": 4686,
@@ -65,7 +65,7 @@
     "name_uk": "спаржа",
     "name_ru": "спаржа",
     "name_it": "asparago",
-    "name_hu": "spárga"	
+    "name_hu": "spárga"
   },
   {
     "nodeId": 3435,
@@ -219,7 +219,6 @@
     "name_ru": "кешью",
     "name_it": "anacardo",
     "name_hu": "kesudió"
-
   },
   {
     "nodeId": 3983,
@@ -237,7 +236,6 @@
     "name_ru": "маниока",
     "name_it": "manioca",
     "name_hu": "manióka"
-
   },
   {
     "nodeId": 4045,
@@ -2193,7 +2191,7 @@
     "name_ru": "одуванчик",
     "name_it": "tarassaco",
     "name_hu": "pitypang"
-  },me
+  },
   {
     "nodeId": 29719,
     "scientific_name": "Mentha spicata",
@@ -2770,7 +2768,7 @@
     "name_uk": "нарцис",
     "name_ru": "нарцисс",
     "name_it": "narciso",
-    "name_hu": "nárcisz
+    "name_hu": "nárcisz"
   },
   {
     "nodeId": 97021,
