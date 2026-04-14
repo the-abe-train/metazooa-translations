@@ -601,7 +601,7 @@
     "name": "Bunter Fangschreckenkrebs",
     "alts": ["Fangschreckenkrebse"]
   },
-  { "language": "hu", "name": "pincebogár", "alts": ["ászka"] },
+  { "language": "hu", "name": "gömbászka", "alts": ["pincebogár"] },
   { "language": "tr", "name": "su semenderi", "alts": ["axolotl"] },
   {
     "language": "tr",
@@ -1023,5 +1023,105 @@
   { "language": "ru", "name": "дерево ши", "alts": ["дерево карите"] },
   { "language": "ru", "name": "олива", "alts": ["оливковое дерево"] },
   { "language": "ru", "name": "абельмош", "alts": ["окра"] },
-  { "language": "ru", "name": "кукуруза", "alts": ["маис"] }
-]
+  { "language": "ru", "name": "кукуруза", "alts": ["маис"] },
+
+  { "language": "hu", "name": "selyemhernyó", "alts": ["selyemlepke"] }
+  { "language": "hu", "name": "muslica", "alts": ["muslinca", "ecetmuslica"] }
+  { "language": "hu", "name": "légy", "alts": ["házilégy"] }
+  { "language": "hu", "name": "háziméh", "alts": ["mézelő méh"] }
+  { "language": "hu", "name": "harcsa", "alts": ["törpeharcsa"] }
+  { "language": "hu", "name": "tengerikígyó", "alts": ["tengeri kígyó"] }
+  { "language": "hu", "name": "sólyom", "alts": ["vándorsólyom"] }
+  { "language": "hu", "name": "házi tyúk", "alts": ["tyúk", "csirke", "kakas", "csibe"] }
+  { "language": "hu", "name": "sün", "alts": ["sündisznó"] }
+  { "language": "hu", "name": "denevér", "alts": ["vámpírdenevér"] }
+  { "language": "hu", "name": "fekete medve", "alts": ["feketemedve"] }
+  { "language": "hu", "name": "barna medve", "alts": ["barnamedve", "grizzly"] }
+  { "language": "hu", "name": "vörös macskamedve", "alts": ["vörös panda", "kis panda"] }
+  { "language": "hu", "name": "teve", "alts": ["egypúpú teve", "dromedár"] }
+  { "language": "hu", "name": "szarvasmarha", "alts": ["tehén", "bika", "ökör"] }
+  { "language": "hu", "name": "juh", "alts": ["birka"] }
+  { "language": "hu", "name": "csikóhal", "alts": ["tengeri csikó"] }
+  { "language": "hu", "name": "pinty", "alts": ["süvöltő"] }
+  { "language": "hu", "name": "fülemüle", "alts": ["csalogány"] }
+  { "language": "hu", "name": "ganajtúró bogár", "alts": ["galacsinhajtó bogár", "szkarabeusz"] }
+  { "language": "hu", "name": "komodói varánusz", "alts": ["komodói sárkány"] }
+  { "language": "hu", "name": "erszényes ördög", "alts": ["tasmán ördög"] }
+  { "language": "hu", "name": "lemúr", "alts": ["gyűrűsfarkú maki"] }
+  { "language": "hu", "name": "sáska", "alts": ["szöcske"] }
+  { "language": "hu", "name": "katica", "alts": ["katicabogár"] }
+  { "language": "hu", "name": "atlaszlepke", "alts": ["molylepke"] }
+  { "language": "hu", "name": "vízidisznó", "alts": ["kapibara"] }
+  { "language": "hu", "name": "kobra", "alts": ["királykobra"] }
+  { "language": "hu", "name": "csigáspolip", "alts": ["nautilusz"] }
+  { "language": "hu", "name": "harkály", "alts": ["fakopáncs"] }
+  { "language": "hu", "name": "sertés", "alts": ["disznó", "malac"] }
+  { "language": "hu", "name": "farkas", "alts": ["kutya"] }
+  { "language": "hu", "name": "erszényesmókus", "alts": ["törpe erszényesmókus", "cukormókus"] }
+  { "language": "hu", "name": "csupasz turkáló", "alts": ["csupasz vakondpatkány", "meztelen vakondpatkány"] }
+  { "language": "hu", "name": "mezei nyúl", "alts": ["szamárnyúl"] }
+  { "language": "hu", "name": "hidra", "alts": ["édesvízi polip", "édesvízi hidra"] }
+  { "language": "hu", "name": "pisztolyrák", "alts": ["pisztoly garnélarák"] }
+  { "language": "hu", "name": "muréna", "alts": ["muréna angolna"] }
+  { "language": "hu", "name": "laposhal", "alts": ["lepényhal"] }
+  { "language": "hu", "name": "álkaszáspók", "alts": ["pincepók"] }
+  { "language": "hu", "name": "sárgabarack", "alts": ["kajszibarack"] }
+  { "language": "hu", "name": "hajdina", "alts": ["pohánka", "tatárbúza"] }
+  { "language": "hu", "name": "manióka", "alts": ["tápióka", "kasszáva"] }
+  { "language": "hu", "name": "katáng", "alts": ["katángkóró", "cikória"] }
+  { "language": "hu", "name": "fahéj", "alts": ["fahéjfa", "cimetfa"] }
+  { "language": "hu", "name": "kukorica", "alts": ["tengeri", "törökbúza"] }
+  { "language": "hu", "name": "csomós ebír", "alts": ["fű"] }
+  { "language": "hu", "name": "citronella", "alts": ["indiai citromfű"] }
+  { "language": "hu", "name": "szerecsendió", "alts": ["muskátdió", máciszdió] }
+  { "language": "hu", "name": "okra", "alts": ["bámia"] }
+  { "language": "hu", "name": "olajfa", "alts": ["olíva"] }
+  { "language": "hu", "name": "pasztinák", "alts": ["paszternák", "fehérrépa"] }
+  { "language": "hu", "name": "datolyaszilva", "alts": ["kakiszilva"] }
+  { "language": "hu", "name": "szilva", "alts": ["ringló"] }
+  { "language": "hu", "name": "édesburgonya", "alts": ["batáta"] }
+  { "language": "hu", "name": "kinoa", "alts": ["rizsparéj"] }
+  { "language": "hu", "name": "kaucsukfa", "alts": ["gumifa"] }
+  { "language": "hu", "name": "sheafa", "alts": ["karité"] }
+  { "language": "hu", "name": "spenót", "alts": ["paraj"] }
+  { "language": "hu", "name": "majomkenyérfa", "alts": ["baobabfa"] }
+  { "language": "hu", "name": "fűz", "alts": ["szomorúfűz"] }
+  { "language": "hu", "name": "padlizsán", "alts": ["tojásgyümölcs"] }
+  { "language": "hu", "name": "burgonya", "alts": ["krumpli", "pityóka", "kolompér"] }
+  { "language": "hu", "name": "veteménybab", "alts": ["paszuly"] }
+  { "language": "hu", "name": "homoki bab", "alts": ["tehénborsó"] }
+  { "language": "hu", "name": "sünzanót", "alts": ["rekettye"] }
+  { "language": "hu", "name": "keserű citrom", "alts": ["cédrátcitrom", "ujjas citrom"] }
+  { "language": "hu", "name": "lime", "alts": ["zöldcitrom"] }
+  { "language": "hu", "name": "vaszabi", "alts": ["japán vízitorma", "wasabi"] }
+  { "language": "hu", "name": "méhbangó", "alts": ["kosbor", "orchidea"] }
+  { "language": "hu", "name": "répa", "alts": ["sárgarépa", "vadmurok"] }
+  { "language": "hu", "name": "tök", "alts": ["főzőtök", "nyári tök", "úritök", "cukkini", "csillagtök", "patisszon", "dísztök"] }
+  { "language": "hu", "name": "szamóca", "alts": ["eper", "földieper"] }
+  { "language": "hu", "name": "káposzta", "alts": ["kelkáposzta", "karfiol", "brokkoli", "karalábé", "kelbimbó"] }
+  { "language": "hu", "name": "bordáskel", "alts": ["bok choy"] }
+  { "language": "hu", "name": "pitypang", "alts": ["pongyola pitypang", "gyermeklánfű"] }
+  { "language": "hu", "name": "petrezselyem", "alts": ["fehérrépa"] }
+  { "language": "hu", "name": "grépfrút", "alts": ["grapefruit", "citrancs"] }
+  { "language": "hu", "name": "ördögszekér", "alts": ["ballagófű", "törökbogáncs"] }
+  { "language": "hu", "name": "moszat", "alts": ["alga", "zöldmoszat", "tengeri moszat"] }
+  { "language": "hu", "name": "tündérrózsa", "alts": ["tavirózsa"] }
+  { "language": "hu", "name": "hibiszkusz", "alts": ["mályvacserje", "mályvarózsa", "törökrózsa"] }
+  { "language": "hu", "name": "magnólia", "alts": ["liliomfa"] }
+  { "language": "hu", "name": "bazsarózsa", "alts": ["pünkösdirózsa"] }
+  { "language": "hu", "name": "kamilla", "alts": ["orvosi székfű"] }
+  { "language": "hu", "name": "lóhere", "alts": ["apró here"] }
+  { "language": "hu", "name": "ibolya", "alts": ["árvácska"] }
+  { "language": "hu", "name": "füge", "alts": ["fikusz"] }
+  { "language": "hu", "name": "szegfű", "alts": ["szekfű"] }
+  { "language": "hu", "name": "édeskömény", "alts": ["gumós kömény"] }
+  { "language": "hu", "name": "lilaakác", "alts": ["kúszóakác", "kínai akác", "visztéria"] }
+  { "language": "hu", "name": "pawpaw", "alts": ["indiánbanán", "annónacserje", "papau"] }
+  { "language": "hu", "name": "rooibos", "alts": ["vörös fokföldirekettye"] }
+  { "language": "hu", "name": "maracuja", "alts": ["passiógyümölcs"] }
+  { "language": "hu", "name": "mangosztán", "alts": ["királygyümölcs"] }
+  { "language": "hu", "name": "egres", "alts": ["piszke", "pöszméte", "köszméte"] }
+  { "language": "hu", "name": "ezüstfenyő", "alts": ["szúrós luc"] }
+  { "language": "hu", "name": "kancsóka", "alts": ["kancsóvirág"] }
+  { "language": "hu", "name": "páfrányfenyő", "alts": ["gingko", "ginkó"] }
+  { "language": "hu", "name": "aloe vera", "alts": ["aloé"] }]
