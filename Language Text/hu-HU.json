@@ -13,30 +13,30 @@
         "generic": "állatok",
         "concord": "k",
         "unique": "egy",
-        "definite": "a"
+        "definite": "a(z)"
       },
       "game": "Metazooa",
-      "mystery": { "singular": "mystery", "plural": "mystery" },
+      "mystery": { "singular": "titkos", "plural": "titkos" },
       "menagerie": "állatkert"
     },
     "Metaflora": {
       "species": {
-        "generic": "Mystery Plant",
-        "unique": "one Mystery Plant",
-        "indefinite": "a Mystery Plant",
-        "definite": "the Mystery Plant",
-        "demonstrative": "this"
+        "generic": "Titkos Növény",
+        "unique": "egy Titkos Növény",
+        "indefinite": "egy Titkos Növény",
+        "definite": "a Titkos Növény",
+        "demonstrative": "ez"
       },
-      "answer": "tomato",
+      "answer": "paradicsom",
       "kingdom": {
-        "generic": "plants",
-        "concord": "s",
-        "unique": "a",
-        "definite": "the"
+        "generic": "növények",
+        "concord": "k",
+        "unique": "egy",
+        "definite": "a(z)"
       },
       "game": "Metaflora",
-      "mystery": { "singular": "mystery", "plural": "mystery" },
-      "menagerie": "garden"
+      "mystery": { "singular": "titkos", "plural": "titkos" },
+      "menagerie": "kert"
     },
     "keywords": {
       "remaining": "maradt",
@@ -45,20 +45,20 @@
     },
     "home": {
       "0": {
-        "0": "Az állatok országa (görögül <i>Metazoa</i>) tele van távoli rokonainkkal... néhányan sokkal távolibbak mint mások! Metazooa egy játék ami próbára teszi hogy mennyire ismered a kiterjesztett családfánkat.",
-        "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
+        "0": "Az állatok országa (görögül <i>Metazoa</i>) tele van távoli rokonainkkal... néhányan sokkal távolibbak, mint mások! A Metazooa egy játék, amellyel próbára teheted, mennyire ismered kiterjesztett családfánkat.",
+        "1": "A növények országának (tudományosan <i>Viridiplantae</i>) családfája hatalmas és gyönyörű... egyszersmint összetett! A Metaflora egy játék, amellyel próbára teheted, milyen könnyedén navigálsz a családfa lombos ágain."
       },
-      "1": "A célod hogy kitaláld a mai <b>{{species.generic}}</b>ot a lehető legkevesebb próbálkozásból. A rossz válaszok leszűkítik a végső megoldás rendszertani kategóriáját (ország, törzs , osztály, rend, stb). Minél közelebb jutsz a megoldáshoz, annál többet tudsz meg a {{species.generic}}ról.",
-      "2": "Például, ha a megoldás “{{answer}}”, a tippeid egy olyan fát hozhatnak létre, mint az alábbi:",
-      "3": "Minden nap pontosan {{species.unique}} van, de kapsz {{MAX_GUESSES}} tippet hogy kitalálhasd! Új játékhoz hátrelévő idő: <b>{{nextGame}}</b>.",
-      "4": "Már kitaláltad a mai {{species.generic}}ot?",
+      "1": "A célod, hogy kitaláld a mai <b>{{species.generic}}</b>(o)t a lehető legkevesebb próbálkozásból. A rossz válaszok leszűkítik a végső megoldás rendszertani kategóriáját (ország, törzs, osztály, rend, stb). Minél közelebb jutsz a megoldáshoz, annál többet tudsz meg a {{species.generic}}ról/ről.",
+      "2": "Például, ha a megoldás “{{answer}}”, a tippeid egy, az alábbihoz hasonló fát hozhatnak létre:",
+      "3": "Minden nap pontosan {{species.unique}} van, de kapsz {{MAX_GUESSES}} tippet, hogy kitalálhasd! Új játékhoz hátrelévő idő: <b>{{nextGame}}</b>.",
+      "4": "Már kitaláltad a mai {{species.generic}}(o)t?",
       "5": "Próbáld ki másik játékunkat:"
     },
     "game": {
       "0": "Mutasd a táblázatot",
       "1": "Ez a közös a {{guess}} és a megoldás között",
       "2": "{{click}} további információért",
-      "3": "Találd meg ezt a {{species.generic}}ot!",
+      "3": "Találd ki ezt a {{species.generic}}(o)t!",
       "4": "Nyertél! A megoldás <b>{{answer}}</b>."
     },
     "modal": {
@@ -66,8 +66,8 @@
         "0": "Nyertél!",
         "1": "Elfogytak a tippjeid."
       },
-      "2": "Oszd meg az eredményed másokkal vagy játsz egy gyakorló játékot!",
-      "3": "Játsz egy másik játékot"
+      "2": "Oszd meg az eredményedet másokkal, vagy játssz egy gyakorló játékot!",
+      "3": "Játssz egy másik játékot!"
     },
     "share": {
       "0": "Megosztás",
@@ -76,7 +76,7 @@
       "3": "Sikertelen megosztás."
     },
     "table": {
-      "0": "Rendszertani Kategória",
+      "0": "Rendszertani kategória",
       "1": "Név",
       "2": "Tippek",
       "3": "Segítségek",
@@ -84,7 +84,7 @@
     },
     "errors": {
       "0": "Nincs hiba",
-      "1": "\"{{guess}}\" nincs az adatbázisban",
+      "1": "\"{{guess}}\" nincs benne az adatbázisban",
       "2": "Már tippelted a  \"{{guess}}t\"",
       "3": "A megoldás \"{{guess}}\"",
       "4": "Erre gondoltál? \"{{guess}}\""
@@ -99,18 +99,18 @@
       "3": "Kattints ide a GYIKhez"
     },
     "hint": {
-      "0": "Segítség kell? Áldozz fel 3 tippet hogy egy kategóriával közelebb kerülj a megoldáshoz!",
+      "0": "Segítségre van szükséged? Áldozz fel 3 tippet, hogy egy kategóriával közelebb kerülj a megoldáshoz!",
       "1": "Segítség"
     },
     "wikipedia": {
-      "0": "A Wikipediáról",
+      "0": "A Wikipédiáról",
       "1": {
         "Show": "Mutasd a képet",
         "Hide": "Kép elrejtése"
       }
     },
     "guesser": {
-      "0": "Tippelj bármilyen állatfajra hogy elkezd a játékot!",
+      "0": "Tippelj bármilyen fajra, hogy elkezdd a játékot!",
       "1": "Írd be a következő tipped",
       "2": "Tipp"
     },
@@ -122,7 +122,7 @@
       "4": "Nyert játékok",
       "5": "Mostani",
       "6": "Leghosszabb",
-      "7": "Felhasznált kérdések per játék. A szín azt mutatja hogy mennyire voltál közel az átlaghoz."
+      "7": "Felhasznált kérdések per játék. A szín azt mutatja, hogy mennyire voltál közel az átlaghoz."
     },
     "settings": {
       "0": "Beállítások",
@@ -133,45 +133,45 @@
     },
     "practice": {
       "0": "Gyakorlás",
-      "1": "Játsz végtelen környi {{game}}t!",
+      "1": "Játssz végtelen környi {{game}}t!",
       "2": "Új gyakorló játék",
-      "3": "Gyakorlás foltatása"
+      "3": "Gyakorlás folytatása"
     },
     "links": {
       "0": "Linkek",
-      "1": "Gyakran Ismételt kérdések",
+      "1": "Gyakran Ismételt Kérdések",
       "2": "Adatkezelési tájékoztató"
     },
     "twl": {
       "0": "Bejelentkezés",
       "1": "Csatlakoztasd a <b>{{game}}</b>t a TWL felhasználódhoz",
-      "2": "Bejelentkezés Google hasznalatával",
-      "3": "Bejelentkezés Discord hasznalatával",
-      "4": "Iratkozz fel a Trainwreck Labs hírlevelre",
+      "2": "Bejelentkezés Google használatával",
+      "3": "Bejelentkezés Discord használatával",
+      "4": "Iratkozz fel a Trainwreck Labs hírlevélre",
       "5": "Reklámok eltávolítása",
       "6": "Kijelentkezés",
-      "7": "Klub tagság"
+      "7": "Klubtagság"
     },
     "faq": {
       "0": "GYIK",
       "1": {
         "q": "Mi alapján lettek a játékban szereplő {{kingdom.generic}} kiválasztva?",
-        "a": "Az {{kingdom.generic}} a {{game}}ban az alapján lettek kiválasztva, hogy mennyire ismertek az átlegemberek számára és hogy a széles választékuk érdekessé tegye a játékot."
+        "a": "A {{game}}ban szereplő {{kingdom.generic}} kiválasztása során olyan fajokat kerestünk, amelyek várhatóan ismertek az átlegember számára, és elég változatosak, hogy érdekessé tegyék a játékot."
       },
       "2": {
-        "q": "Hibás a játék! A Wikipedián másmilyen besorolása van az {{kingdom.generic}}nak.",
-        "a": "Elképzelhető. A besorolások a játékban az NCBI osztályozásán alapulnak, ami a legszéleskörűbben használt osztályozástan az állatokhoz, viszont nem az egyetlen. A Wikipedia osztályozását is sokan hasznalják, és teljesen elképzelhető, hogy a két rendszer nem egyezik meg egyes fajok besorolásában."
+        "q": "Hibás a játék! A Wikipédián a {{kingdom.generic}} rendszertani besorolása nem az, mint amit itt láttam.",
+        "a": "Elképzelhető. A besorolások a játékban az NCBI osztályozásán alapulnak, amely a legszéleskörűbben használt rendszertan, viszont nem az egyetlen. A Wikipédia osztályozását is sokan használják, és teljesen elképzelhető, hogy a két rendszer nem egyezik meg egyes fajok besorolásában."
       },
       "3": {
         "q": "Miért nincsen \"Hüllő\" vagy \"Reptilia\" kategória a játékban?",
-        "a": "Míg néhány adatbázis, például a Wikipedia, használja a Hüllők osztályát, az NCBI osztályozása nem. Ehelyett az NCBI a Hüllőszerűek osztályát használja, amibe beletartozik az összes hüllő és madár. Ennek az az oka, hogy néhány állat ami a köznyelvben hüllőként ismert, sokkal közelebb áll a madarakhoz, mint a többi hüllőhöz. Például a krokodilok közelebbi rokonságban állnak a moadarakkal, mint a gyíkokkal."
+        "a": "Néhány adatbázis, például a Wikipédia, használja a Hüllők osztályát, az NCBI osztályozása azonban nem. Ehelyett a Hüllőszerűek osztálya szerepel benne, amelybe beletartozik az összes hüllő és madár. Ennek az az oka, hogy néhány állat, amely a köznyelvben hüllőként ismert, sokkal közelebb áll a madarakhoz, mint a többi hüllőhöz. Például a krokodilok közelebbi rokonságban állnak a madarakkal, mint a gyíkokkal."
       },
       "4": {
         "q": "A \"házimacska\" miért egy elfogadott tipp, miközben a \"házi kutya\" nem?",
         "a": "Ez azért van, mert a házimacska egy külön állatfaj (\"Felis catus\"), míg a házi kutyákat általában a farkasok alfajának tekintik (\"Canis lupus familiaris\")."
       },
       "5": {
-        "q": "Van a {{game}}nak Adatkezelési tájékoztatója ?",
+        "q": "Van a {{game}}nak Adatkezelési tájékoztatója?",
         "a": "Kattints erra a linkre hogy megtaláld a {{game}} <a href=\"/privacy-policy\" class=\"underline\">Adatkezelési tájékoztatóját</a>."
       }
     }
