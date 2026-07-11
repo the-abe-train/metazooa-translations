@@ -13,7 +13,8 @@
     "name_uk": "мигдаль",
     "name_ru": "миндаль",
     "name_it": "mandorla",
-    "name_hu": "mandula"
+    "name_hu": "mandula",
+    "name_te": "బాదం"
   },
   {
     "nodeId": 3752,
@@ -29,7 +30,8 @@
     "name_uk": "яблуня",
     "name_ru": "яблоко",
     "name_it": "melo",
-    "name_hu": "alma"
+    "name_hu": "alma",
+    "name_te": "సీమరేగిపండు"
   },
   {
     "nodeId": 36596,
@@ -45,7 +47,8 @@
     "name_uk": "абрикоса",
     "name_ru": "абрикос",
     "name_it": "albicocco",
-    "name_hu": "sárgabarack"
+    "name_hu": "sárgabarack",
+    "name_te": "అప్రికోట్"
   },
   {
     "nodeId": 4686,
@@ -61,7 +64,8 @@
     "name_uk": "спаржа",
     "name_ru": "спаржа",
     "name_it": "asparago",
-    "name_hu": "spárga"
+    "name_hu": "spárga",
+    "name_te": "తోటతేగ"
   },
   {
     "nodeId": 3435,
@@ -76,8 +80,9 @@
     "name_nl": "avocado",
     "name_uk": "авокадо",
     "name_ru": "авокадо",
-    "name_it": " avocado",
-    "name_hu": "avokádó"
+    "name_it": "avocado",
+    "name_hu": "avokádó",
+    "name_te": "వెన్నపండు"
   },
   {
     "nodeId": 13216,
@@ -93,7 +98,8 @@
     "name_uk": "перець чорний",
     "name_ru": "чёрный перец",
     "name_it": "pepe nero",
-    "name_hu": "fekete bors"
+    "name_hu": "fekete bors",
+    "name_te": "మిరియాలు"
   },
   {
     "nodeId": 3645,
@@ -109,7 +115,8 @@
     "name_uk": "горіх бразильський",
     "name_ru": "бразильский орех",
     "name_it": "noce del Brasile",
-    "name_hu": "paradió"
+    "name_hu": "paradió",
+    "name_te": "బ్రెజిల్ నట్"
   },
   {
     "nodeId": 194251,
@@ -125,7 +132,8 @@
     "name_uk": "хлібне дерево",
     "name_ru": "хлебное дерево",
     "name_it": "albero del pane",
-    "name_hu": "kenyérgyümölcs"
+    "name_hu": "kenyérgyümölcs",
+    "name_te": "కూర పనస"
   },
   {
     "nodeId": 3617,
@@ -141,7 +149,8 @@
     "name_uk": "гречка",
     "name_ru": "гречка",
     "name_it": "grano saraceno",
-    "name_hu": "hajdina"
+    "name_hu": "hajdina",
+    "name_te": "బక్వీట్"
   },
   {
     "nodeId": 3641,
@@ -157,7 +166,8 @@
     "name_uk": "какао",
     "name_ru": "какао",
     "name_it": "cacao",
-    "name_hu": "kakaó"
+    "name_hu": "kakaó",
+    "name_te": "కోకో"
   },
   {
     "nodeId": 3656,
@@ -173,7 +183,8 @@
     "name_uk": "диня",
     "name_ru": "дыня",
     "name_it": "melone",
-    "name_hu": "sárgadinnye"
+    "name_hu": "sárgadinnye",
+    "name_te": "కర్బూజం"
   },
   {
     "nodeId": 105181,
@@ -189,7 +200,8 @@
     "name_uk": "кардамон",
     "name_ru": "кардамон",
     "name_it": "cardamomo",
-    "name_hu": "kardamom"
+    "name_hu": "kardamom",
+    "name_te": "యాలకులు"
   },
   {
     "nodeId": 171929,
@@ -205,7 +217,8 @@
     "name_uk": "кеш'ю",
     "name_ru": "кешью",
     "name_it": "anacardo",
-    "name_hu": "kesudió"
+    "name_hu": "kesudió",
+    "name_te": "కాజు"
   },
   {
     "nodeId": 3983,
@@ -221,7 +234,8 @@
     "name_uk": "маніок їстівний",
     "name_ru": "маниока",
     "name_it": "manioca",
-    "name_hu": "manióka"
+    "name_hu": "manióka",
+    "name_te": "కర్ర పెండలం"
   },
   {
     "nodeId": 4045,
@@ -237,7 +251,8 @@
     "name_uk": "селера",
     "name_ru": "сельдерей",
     "name_it": "sedano",
-    "name_hu": "zeller"
+    "name_hu": "zeller",
+    "name_te": "కేలెరి"
   },
   {
     "nodeId": 21020,
@@ -253,7 +268,8 @@
     "name_uk": "каштан",
     "name_ru": "каштан",
     "name_it": "castagno",
-    "name_hu": "szelídgesztenye"
+    "name_hu": "szelídgesztenye",
+    "name_te": "చెస్ట్నట్"
   },
   {
     "nodeId": 13427,
@@ -269,7 +285,8 @@
     "name_uk": "цикорій",
     "name_ru": "цикорий",
     "name_it": "cicoria",
-    "name_hu": "katáng"
+    "name_hu": "katáng",
+    "name_te": "చికరి"
   },
   {
     "nodeId": 128608,
@@ -285,7 +302,8 @@
     "name_uk": "кориця",
     "name_ru": "корица",
     "name_it": "cannella",
-    "name_hu": "fahéj"
+    "name_hu": "fahéj",
+    "name_te": "దాల్చిన చెక్క"
   },
   {
     "nodeId": 13894,
@@ -301,7 +319,8 @@
     "name_uk": "кокос",
     "name_ru": "кокос",
     "name_it": "palma da cocco",
-    "name_hu": "kókuszpálma"
+    "name_hu": "kókuszpálma",
+    "name_te": "కొబ్బరి"
   },
   {
     "nodeId": 4577,
@@ -317,7 +336,8 @@
     "name_uk": "кукурудза",
     "name_ru": "кукуруза",
     "name_it": "mais",
-    "name_hu": "kukorica"
+    "name_hu": "kukorica",
+    "name_te": "మొక్కజొన్న"
   },
   {
     "nodeId": 3659,
@@ -333,7 +353,8 @@
     "name_uk": "огірок",
     "name_ru": "огурец",
     "name_it": "cetriolo",
-    "name_hu": "uborka"
+    "name_hu": "uborka",
+    "name_te": "కీర దోసకాయ"
   },
   {
     "nodeId": 42345,
@@ -349,7 +370,8 @@
     "name_uk": "фінік",
     "name_ru": "финик",
     "name_it": "dattero",
-    "name_hu": "datolyapálma"
+    "name_hu": "datolyapálma",
+    "name_te": "ఖర్జూరం"
   },
   {
     "nodeId": 13451,
@@ -365,7 +387,8 @@
     "name_uk": "ліщина",
     "name_ru": "фундук",
     "name_it": "nocciolo",
-    "name_hu": "mogyoró"
+    "name_hu": "mogyoró",
+    "name_te": "హాజెల్ నట్"
   },
   {
     "nodeId": 4006,
@@ -381,7 +404,8 @@
     "name_uk": "льон",
     "name_ru": "лён",
     "name_it": "lino",
-    "name_hu": "len"
+    "name_hu": "len",
+    "name_te": "ఆవిసె"
   },
   {
     "nodeId": 4682,
@@ -397,7 +421,8 @@
     "name_uk": "часник",
     "name_ru": "чеснок",
     "name_it": "aglio",
-    "name_hu": "fokhagyma"
+    "name_hu": "fokhagyma",
+    "name_te": "వెల్లుల్లి"
   },
   {
     "nodeId": 94328,
@@ -413,7 +438,8 @@
     "name_uk": "імбир",
     "name_ru": "имбирь",
     "name_it": "zenzero",
-    "name_hu": "gyömbér"
+    "name_hu": "gyömbér",
+    "name_te": "అల్లం"
   },
   {
     "nodeId": 29760,
@@ -429,7 +455,8 @@
     "name_uk": "виноград",
     "name_ru": "виноград",
     "name_it": "uva",
-    "name_hu": "szőlő"
+    "name_hu": "szőlő",
+    "name_te": "ద్రాక్ష"
   },
   {
     "nodeId": 4509,
@@ -445,7 +472,8 @@
     "name_uk": "грястиця",
     "name_ru": "трава",
     "name_it": "dattile",
-    "name_hu": "csomós ebír"
+    "name_hu": "csomós ebír",
+    "name_te": "ఆర్చర్డ్ గడ్డి"
   },
   {
     "nodeId": 120290,
@@ -461,7 +489,8 @@
     "name_uk": "гуаява яблучна",
     "name_ru": "гуава",
     "name_it": "guava",
-    "name_hu": "guáva"
+    "name_hu": "guáva",
+    "name_te": "జామకాయ"
   },
   {
     "nodeId": 3483,
@@ -477,7 +506,8 @@
     "name_uk": "коноплі",
     "name_ru": "конопля",
     "name_it": "canapa",
-    "name_hu": "kender"
+    "name_hu": "kender",
+    "name_te": "జనపనార"
   },
   {
     "nodeId": 141191,
@@ -493,7 +523,8 @@
     "name_uk": "лавсонія",
     "name_ru": "хна",
     "name_it": "henné",
-    "name_hu": "henna"
+    "name_hu": "henna",
+    "name_te": "గోరింటాకు"
   },
   {
     "nodeId": 3486,
@@ -509,7 +540,8 @@
     "name_uk": "хміль",
     "name_ru": "хмель",
     "name_it": "luppolo",
-    "name_hu": "komló"
+    "name_hu": "komló",
+    "name_te": "హాప్స్"
   },
   {
     "nodeId": 3704,
@@ -525,7 +557,8 @@
     "name_uk": "хрін",
     "name_ru": "хрен",
     "name_it": "rafano",
-    "name_hu": "torma"
+    "name_hu": "torma",
+    "name_te": "హార్స్‌రాడిష్"
   },
   {
     "nodeId": 66014,
@@ -541,7 +574,8 @@
     "name_uk": "човноборідник",
     "name_ru": "лемонграсс",
     "name_it": "citronella",
-    "name_hu": "citronella"
+    "name_hu": "citronella",
+    "name_te": "నిమ్మగడ్డి"
   },
   {
     "nodeId": 4236,
@@ -557,7 +591,8 @@
     "name_uk": "салат",
     "name_ru": "латук",
     "name_it": "lattuga",
-    "name_hu": "saláta"
+    "name_hu": "saláta",
+    "name_te": "లెట్యూస్"
   },
   {
     "nodeId": 151069,
@@ -573,7 +608,8 @@
     "name_uk": "лічі",
     "name_ru": "личи",
     "name_it": "litchi",
-    "name_hu": "licsi"
+    "name_hu": "licsi",
+    "name_te": "లిచీ"
   },
   {
     "nodeId": 60698,
@@ -589,7 +625,8 @@
     "name_uk": "горіх макадамія",
     "name_ru": "орех макадамия",
     "name_it": "noce di macadamia",
-    "name_hu": "makadámdió"
+    "name_hu": "makadámdió",
+    "name_te": "మకడామియా"
   },
   {
     "nodeId": 51089,
@@ -605,7 +642,8 @@
     "name_uk": "мускатний горіх",
     "name_ru": "мускатный орех",
     "name_it": "noce moscata",
-    "name_hu": "szerecsendió"
+    "name_hu": "szerecsendió",
+    "name_te": "జాపత్రి"
   },
   {
     "nodeId": 39510,
@@ -621,7 +659,8 @@
     "name_uk": "агава",
     "name_ru": "агава",
     "name_it": "noce moscata",
-    "name_hu": "agávé"
+    "name_hu": "agávé",
+    "name_te": "అమెరికా కలబంద"
   },
   {
     "nodeId": 85571,
@@ -637,7 +676,8 @@
     "name_uk": "мандарин",
     "name_ru": "мандарин",
     "name_it": "mandarino",
-    "name_hu": "mandarin"
+    "name_hu": "mandarin",
+    "name_te": "కమలాపండు"
   },
   {
     "nodeId": 29780,
@@ -653,7 +693,8 @@
     "name_uk": "манго",
     "name_ru": "манго",
     "name_it": "mango",
-    "name_hu": "mangó"
+    "name_hu": "mangó",
+    "name_te": "మామిడి"
   },
   {
     "nodeId": 3498,
@@ -669,7 +710,8 @@
     "name_uk": "шовковиця",
     "name_ru": "шелковица",
     "name_it": "gelso bianco",
-    "name_hu": "eperfa"
+    "name_hu": "eperfa",
+    "name_te": "తెల్ల మల్బరీ"
   },
   {
     "nodeId": 3710,
@@ -685,7 +727,8 @@
     "name_uk": "гірчиця чорна",
     "name_ru": "чёрная горчица",
     "name_it": "senape nera",
-    "name_hu": "mustár"
+    "name_hu": "mustár",
+    "name_te": "నల్ల ఆవాలు"
   },
   {
     "nodeId": 51953,
@@ -701,7 +744,8 @@
     "name_uk": "олійна пальма",
     "name_ru": "масличная пальма",
     "name_it": "palma da olio",
-    "name_hu": "olajpálma"
+    "name_hu": "olajpálma",
+    "name_te": "ఆయిల్ పామ్"
   },
   {
     "nodeId": 455045,
@@ -717,7 +761,8 @@
     "name_uk": "бамія",
     "name_ru": "абельмош",
     "name_it": "gombo",
-    "name_hu": "okra"
+    "name_hu": "okra",
+    "name_te": "బెండకాయ"
   },
   {
     "nodeId": 4146,
@@ -733,7 +778,8 @@
     "name_uk": "оливкове дерево",
     "name_ru": "олива",
     "name_it": "ulivo",
-    "name_hu": "olajfa"
+    "name_hu": "olajfa",
+    "name_te": "ఆలివ్"
   },
   {
     "nodeId": 3649,
@@ -749,7 +795,8 @@
     "name_uk": "папая",
     "name_ru": "папайя",
     "name_it": "papaya",
-    "name_hu": "papaja"
+    "name_hu": "papaja",
+    "name_te": "బొప్పాయి"
   },
   {
     "nodeId": 4041,
@@ -765,7 +812,8 @@
     "name_uk": "пастернак",
     "name_ru": "пастернак",
     "name_it": "pastinaca",
-    "name_hu": "pasztinák"
+    "name_hu": "pasztinák",
+    "name_te": "పార్స్నిప్"
   },
   {
     "nodeId": 3760,
@@ -781,7 +829,8 @@
     "name_uk": "персик",
     "name_ru": "персик",
     "name_it": "pesco",
-    "name_hu": "őszibarack"
+    "name_hu": "őszibarack",
+    "name_te": "పీచ్"
   },
   {
     "nodeId": 23211,
@@ -797,7 +846,8 @@
     "name_uk": "груша",
     "name_ru": "груша",
     "name_it": "pero",
-    "name_hu": "körte"
+    "name_hu": "körte",
+    "name_te": "ప ేయర్"
   },
   {
     "nodeId": 13493,
@@ -813,7 +863,8 @@
     "name_uk": "хурма",
     "name_ru": "хурма",
     "name_it": "cachi",
-    "name_hu": "datolyaszilva"
+    "name_hu": "datolyaszilva",
+    "name_te": "పెర్సీమాన్"
   },
   {
     "nodeId": 55513,
@@ -829,7 +880,8 @@
     "name_uk": "фісташка",
     "name_ru": "фисташка",
     "name_it": "pistacchio",
-    "name_hu": "pisztácia"
+    "name_hu": "pisztácia",
+    "name_te": "పిస్తా"
   },
   {
     "nodeId": 3758,
@@ -845,7 +897,8 @@
     "name_uk": "слива",
     "name_ru": "слива",
     "name_it": "prugna",
-    "name_hu": "szilva"
+    "name_hu": "szilva",
+    "name_te": "ప్లమ్"
   },
   {
     "nodeId": 22663,
@@ -861,7 +914,8 @@
     "name_uk": "гранат",
     "name_ru": "гранат",
     "name_it": "melograno",
-    "name_hu": "gránátalma"
+    "name_hu": "gránátalma",
+    "name_te": "దానిమ్మ"
   },
   {
     "nodeId": 3469,
@@ -877,7 +931,8 @@
     "name_uk": "мак опійний",
     "name_ru": "мак",
     "name_it": "papavero",
-    "name_hu": "mák"
+    "name_hu": "mák",
+    "name_te": "నల్లమందు"
   },
   {
     "nodeId": 4120,
@@ -893,7 +948,8 @@
     "name_uk": "батат",
     "name_ru": "батат",
     "name_it": "patata dolce",
-    "name_hu": "édesburgonya"
+    "name_hu": "édesburgonya",
+    "name_te": "చిలగడదుంప"
   },
   {
     "nodeId": 63459,
@@ -909,7 +965,8 @@
     "name_uk": "кіноа",
     "name_ru": "киноа",
     "name_it": "quinoa",
-    "name_hu": "kinoa"
+    "name_hu": "kinoa",
+    "name_te": "క్వినోవా"
   },
   {
     "nodeId": 3726,
@@ -925,7 +982,8 @@
     "name_uk": "редька посівна",
     "name_ru": "редис",
     "name_it": "ravanello",
-    "name_hu": "retek"
+    "name_hu": "retek",
+    "name_te": "ముల్లంగి"
   },
   {
     "nodeId": 4530,
@@ -941,7 +999,8 @@
     "name_uk": "рис",
     "name_ru": "рис",
     "name_it": "riso",
-    "name_hu": "rizs"
+    "name_hu": "rizs",
+    "name_te": "బియ్యం"
   },
   {
     "nodeId": 3981,
@@ -957,7 +1016,8 @@
     "name_uk": "гевея",
     "name_ru": "гевея",
     "name_it": "albero della gomma",
-    "name_hu": "kaucsukfa"
+    "name_hu": "kaucsukfa",
+    "name_te": "రబ్బర్"
   },
   {
     "nodeId": 4550,
@@ -973,7 +1033,8 @@
     "name_uk": "жито",
     "name_ru": "рожь",
     "name_it": "segale",
-    "name_hu": "rozs"
+    "name_hu": "rozs",
+    "name_te": "రై"
   },
   {
     "nodeId": 292385,
@@ -989,7 +1050,8 @@
     "name_uk": "вітелларія",
     "name_ru": "дерево ши",
     "name_it": "karité",
-    "name_hu": "sheafa"
+    "name_hu": "sheafa",
+    "name_te": "షేయా గింజ"
   },
   {
     "nodeId": 4182,
@@ -1005,7 +1067,8 @@
     "name_uk": "кунжут",
     "name_ru": "кунжут",
     "name_it": "sesamo",
-    "name_hu": "szezám"
+    "name_hu": "szezám",
+    "name_te": "నువ్వులు"
   },
   {
     "nodeId": 58933,
@@ -1021,7 +1084,8 @@
     "name_uk": "спельта",
     "name_ru": "спельта",
     "name_it": "farro spelta",
-    "name_hu": "tönkölybúza"
+    "name_hu": "tönkölybúza",
+    "name_te": "స్పెల్ట్"
   },
   {
     "nodeId": 3562,
@@ -1037,7 +1101,8 @@
     "name_uk": "шпинат",
     "name_ru": "шпинат",
     "name_it": "spinacio",
-    "name_hu": "spenót"
+    "name_hu": "spenót",
+    "name_te": "పాలకూర"
   },
   {
     "nodeId": 4232,
@@ -1053,7 +1118,8 @@
     "name_uk": "соняшник",
     "name_ru": "подсолнух",
     "name_it": "girasole",
-    "name_hu": "napraforgó"
+    "name_hu": "napraforgó",
+    "name_te": "సూర్యకాంతం పువ్వు"
   },
   {
     "nodeId": 4072,
@@ -1069,7 +1135,8 @@
     "name_uk": "стручковий перець",
     "name_ru": "болгарский перец",
     "name_it": "peperone",
-    "name_hu": "paprika"
+    "name_hu": "paprika",
+    "name_te": "కూరమిరప"
   },
   {
     "nodeId": 4460,
@@ -1085,7 +1152,8 @@
     "name_uk": "таро",
     "name_ru": "таро",
     "name_it": "taro",
-    "name_hu": "taró"
+    "name_hu": "taró",
+    "name_te": "టారో రూట్"
   },
   {
     "nodeId": 4442,
@@ -1101,7 +1169,8 @@
     "name_uk": "чай",
     "name_ru": "чай",
     "name_it": "tè",
-    "name_hu": "tea"
+    "name_hu": "tea",
+    "name_te": "టీ"
   },
   {
     "nodeId": 4097,
@@ -1117,7 +1186,8 @@
     "name_uk": "тютюн",
     "name_ru": "табак",
     "name_it": "tabacco",
-    "name_hu": "dohány"
+    "name_hu": "dohány",
+    "name_te": "పొగాకు"
   },
   {
     "nodeId": 51239,
@@ -1133,7 +1203,8 @@
     "name_uk": "ваніль",
     "name_ru": "ваниль",
     "name_it": "vaniglia",
-    "name_hu": "vanília"
+    "name_hu": "vanília",
+    "name_te": "వెనిల్లా"
   },
   {
     "nodeId": 3654,
@@ -1149,7 +1220,8 @@
     "name_uk": "кавун",
     "name_ru": "арбуз",
     "name_it": "anguria",
-    "name_hu": "görögdinnye"
+    "name_hu": "görögdinnye",
+    "name_te": "పుచ్చకాయ"
   },
   {
     "nodeId": 4565,
@@ -1165,7 +1237,8 @@
     "name_uk": "пшениця",
     "name_ru": "пшеница",
     "name_it": "frumento",
-    "name_hu": "búza"
+    "name_hu": "búza",
+    "name_te": "గోధుమలు"
   },
   {
     "nodeId": 69109,
@@ -1181,7 +1254,8 @@
     "name_uk": "баобаб",
     "name_ru": "баобаб",
     "name_it": "baobab",
-    "name_hu": "majomkenyérfa"
+    "name_hu": "majomkenyérfa",
+    "name_te": "బ్రహ్మ మల్లిక"
   },
   {
     "nodeId": 75706,
@@ -1197,7 +1271,8 @@
     "name_uk": "верба",
     "name_ru": "ива",
     "name_it": "salice piangente",
-    "name_hu": "fűz"
+    "name_hu": "fűz",
+    "name_te": "వీపింగ్ విల్లో"
   },
   {
     "nodeId": 3505,
@@ -1213,7 +1288,8 @@
     "name_uk": "береза",
     "name_ru": "берёза",
     "name_it": "betulla bianca",
-    "name_hu": "nyír"
+    "name_hu": "nyír",
+    "name_te": "వెండి బర్చ్"
   },
   {
     "nodeId": 99814,
@@ -1229,7 +1305,8 @@
     "name_uk": "секвоядендрон",
     "name_ru": "гигантская секвойя",
     "name_it": "sequoia gigante",
-    "name_hu": "mamutfenyő"
+    "name_hu": "mamutfenyő",
+    "name_te": "భారీ వృక్షం"
   },
   {
     "nodeId": 3357,
@@ -1245,7 +1322,8 @@
     "name_uk": "псевдотсуга мензіса",
     "name_ru": "дугласова пихта",
     "name_it": "abete di Douglas",
-    "name_hu": "duglászfenyő"
+    "name_hu": "duglászfenyő",
+    "name_te": "డొగ్లాస్ ఫిర్"
   },
   {
     "nodeId": 93692,
@@ -1261,7 +1339,8 @@
     "name_uk": "кедр ліванський",
     "name_ru": "ливанский кедр",
     "name_it": "cedro del Libano",
-    "name_hu": "libanoni cédrus"
+    "name_hu": "libanoni cédrus",
+    "name_te": "లెబనిసె దేవదారు చెట్టు"
   },
   {
     "nodeId": 3349,
@@ -1277,7 +1356,8 @@
     "name_uk": "сосна",
     "name_ru": "сосна",
     "name_it": "pino silvestre",
-    "name_hu": "erdeifenyő"
+    "name_hu": "erdeifenyő",
+    "name_te": "బాల్టిక్ పైన్ చెట్టు"
   },
   {
     "nodeId": 3329,
@@ -1293,7 +1373,8 @@
     "name_uk": "ялина європейська",
     "name_ru": "ель",
     "name_it": "abete rosso",
-    "name_hu": "lucfenyő"
+    "name_hu": "lucfenyő",
+    "name_te": "సరళ వృక్షం"
   },
   {
     "nodeId": 4081,
@@ -1309,7 +1390,8 @@
     "name_uk": "томат",
     "name_ru": "помидор",
     "name_it": "pomodoro",
-    "name_hu": "paradicsom"
+    "name_hu": "paradicsom",
+    "name_te": "టమాటా"
   },
   {
     "nodeId": 4111,
@@ -1325,7 +1407,8 @@
     "name_uk": "баклажан",
     "name_ru": "баклажан",
     "name_it": "melanzana",
-    "name_hu": "padlizsán"
+    "name_hu": "padlizsán",
+    "name_te": "వంకాయ"
   },
   {
     "nodeId": 4113,
@@ -1341,7 +1424,8 @@
     "name_uk": "картопля",
     "name_ru": "картофель",
     "name_it": "patata",
-    "name_hu": "burgonya"
+    "name_hu": "burgonya",
+    "name_te": "బంగాళాదుంప"
   },
   {
     "nodeId": 4679,
@@ -1357,7 +1441,8 @@
     "name_uk": "цибуля",
     "name_ru": "лук",
     "name_it": "cipolla",
-    "name_hu": "vöröshagyma"
+    "name_hu": "vöröshagyma",
+    "name_te": "ఉల్లిపాయ"
   },
   {
     "nodeId": 4615,
@@ -1373,7 +1458,8 @@
     "name_uk": "ананас",
     "name_ru": "ананас",
     "name_it": "ananas",
-    "name_hu": "ananász"
+    "name_hu": "ananász",
+    "name_te": "అనాసపండు"
   },
   {
     "nodeId": 38942,
@@ -1389,7 +1475,8 @@
     "name_uk": "дуб",
     "name_ru": "дуб",
     "name_it": "quercia",
-    "name_hu": "tölgy"
+    "name_hu": "tölgy",
+    "name_te": "ఓక్"
   },
   {
     "nodeId": 28930,
@@ -1405,7 +1492,8 @@
     "name_uk": "бук",
     "name_ru": "бук",
     "name_it": "faggio",
-    "name_hu": "bükk"
+    "name_hu": "bükk",
+    "name_te": "సాధారణ బీచ్ వృక్షం"
   },
   {
     "nodeId": 3885,
@@ -1421,7 +1509,8 @@
     "name_uk": "квасоля",
     "name_ru": "фасоль",
     "name_it": "fagiolo",
-    "name_hu": "veteménybab"
+    "name_hu": "veteménybab",
+    "name_te": "సాధారణ బీన్"
   },
   {
     "nodeId": 3906,
@@ -1437,7 +1526,8 @@
     "name_uk": "біб кінський",
     "name_ru": "боб садовый",
     "name_it": "fava",
-    "name_hu": "lóbab"
+    "name_hu": "lóbab",
+    "name_te": "ఫావా బీన్"
   },
   {
     "nodeId": 3847,
@@ -1453,7 +1543,8 @@
     "name_uk": "соя",
     "name_ru": "соя",
     "name_it": "soia",
-    "name_hu": "szójabab"
+    "name_hu": "szójabab",
+    "name_te": "సోయా బీన్"
   },
   {
     "nodeId": 3888,
@@ -1469,7 +1560,8 @@
     "name_uk": "горох",
     "name_ru": "горох",
     "name_it": "pisello",
-    "name_hu": "borsó"
+    "name_hu": "borsó",
+    "name_te": "బఠానీ"
   },
   {
     "nodeId": 3917,
@@ -1485,7 +1577,8 @@
     "name_uk": "вігна",
     "name_ru": "вигна",
     "name_it": "fagiolo dall'occhio",
-    "name_hu": "homoki bab"
+    "name_hu": "homoki bab",
+    "name_te": "అలసంద"
   },
   {
     "nodeId": 3827,
@@ -1501,7 +1594,8 @@
     "name_uk": "нут",
     "name_ru": "нут",
     "name_it": "cece",
-    "name_hu": "csicseriborsó"
+    "name_hu": "csicseriborsó",
+    "name_te": "శనగలు"
   },
   {
     "nodeId": 3864,
@@ -1517,7 +1611,8 @@
     "name_uk": "сочевиця",
     "name_ru": "чечевица",
     "name_it": "lenticchia",
-    "name_hu": "lencse"
+    "name_hu": "lencse",
+    "name_te": "సాధారణ ధాన్యాలు"
   },
   {
     "nodeId": 3818,
@@ -1533,7 +1628,8 @@
     "name_uk": "арахіс",
     "name_ru": "арахис",
     "name_it": "arachide",
-    "name_hu": "földimogyoró"
+    "name_hu": "földimogyoró",
+    "name_te": "వేరుశెనగ"
   },
   {
     "nodeId": 20340,
@@ -1549,7 +1645,8 @@
     "name_uk": "ріжкове дерево",
     "name_ru": "рожковое дерево",
     "name_it": "carrubo",
-    "name_hu": "szentjánoskenyérfa"
+    "name_hu": "szentjánoskenyérfa",
+    "name_te": "క్యారోబ్"
   },
   {
     "nodeId": 49827,
@@ -1565,7 +1662,8 @@
     "name_uk": "солодкий корінь",
     "name_ru": "солодка",
     "name_it": "liquirizia",
-    "name_hu": "édesgyökér"
+    "name_hu": "édesgyökér",
+    "name_te": "అతిమధురం"
   },
   {
     "nodeId": 138033,
@@ -1581,7 +1679,8 @@
     "name_uk": "акація нільська",
     "name_ru": "акация",
     "name_it": "gomma arabica",
-    "name_hu": "akácia"
+    "name_hu": "akácia",
+    "name_te": "నల్ల తుమ్మ"
   },
   {
     "nodeId": 58860,
@@ -1597,7 +1696,8 @@
     "name_uk": "тамаринд",
     "name_ru": "тамаринд",
     "name_it": "tamarindo",
-    "name_hu": "tamarindusz"
+    "name_hu": "tamarindusz",
+    "name_te": "చింత"
   },
   {
     "nodeId": 3879,
@@ -1613,7 +1713,8 @@
     "name_uk": "люцерна",
     "name_ru": "люцерна",
     "name_it": "erba medica",
-    "name_hu": "lucerna"
+    "name_hu": "lucerna",
+    "name_te": "అల్ఫాల్ఫా"
   },
   {
     "nodeId": 3859,
@@ -1629,7 +1730,8 @@
     "name_uk": "чина запашна",
     "name_ru": "душистый горошек",
     "name_it": "pisello odoroso",
-    "name_hu": "szagos bükköny"
+    "name_hu": "szagos bükköny",
+    "name_te": "తీపి బఠానీ"
   },
   {
     "nodeId": 76306,
@@ -1645,7 +1747,8 @@
     "name_uk": "мімоза",
     "name_ru": "мимоза стыдливая",
     "name_it": "sensitiva",
-    "name_hu": "mimóza"
+    "name_hu": "mimóza",
+    "name_te": "అత్తిపత్తి"
   },
   {
     "nodeId": 72402,
@@ -1661,7 +1764,8 @@
     "name_uk": "сенна",
     "name_ru": "сенна",
     "name_it": "senna",
-    "name_hu": "szenna"
+    "name_hu": "szenna",
+    "name_te": "సునాముఖి"
   },
   {
     "nodeId": 3902,
@@ -1677,7 +1781,8 @@
     "name_uk": "улекс",
     "name_ru": "дрок",
     "name_it": "ginestrone",
-    "name_hu": "sünzanót"
+    "name_hu": "sünzanót",
+    "name_te": "గోర్స్"
   },
   {
     "nodeId": 171251,
@@ -1693,7 +1798,8 @@
     "name_uk": "цитрон",
     "name_ru": "цитрон",
     "name_it": "cedro",
-    "name_hu": "keserű citrom"
+    "name_hu": "keserű citrom",
+    "name_te": "మాదీఫలం"
   },
   {
     "nodeId": 396733,
@@ -1709,7 +1815,8 @@
     "name_uk": "троянда",
     "name_ru": "роза",
     "name_it": "rosa",
-    "name_hu": "rózsa"
+    "name_hu": "rózsa",
+    "name_te": "గులాబీ"
   },
   {
     "nodeId": 159033,
@@ -1725,7 +1832,8 @@
     "name_uk": "лайм",
     "name_ru": "лайм",
     "name_it": "lime",
-    "name_hu": "lime"
+    "name_hu": "lime",
+    "name_te": "నిమ్మకాయ"
   },
   {
     "nodeId": 2708,
@@ -1741,7 +1849,8 @@
     "name_uk": "лимон",
     "name_ru": "лимон",
     "name_it": "limone",
-    "name_hu": "citrom"
+    "name_hu": "citrom",
+    "name_te": "నిమ్మపండు"
   },
   {
     "nodeId": 75806,
@@ -1757,7 +1866,8 @@
     "name_uk": "васабі",
     "name_ru": "васаби",
     "name_it": "wasabi",
-    "name_hu": "vaszabi"
+    "name_hu": "vaszabi",
+    "name_te": "వసాబి"
   },
   {
     "nodeId": 78817,
@@ -1773,7 +1883,8 @@
     "name_uk": "орхідея",
     "name_ru": "орхидея",
     "name_it": "orchidea",
-    "name_hu": "méhbangó"
+    "name_hu": "méhbangó",
+    "name_te": "ఆర్కిడ్"
   },
   {
     "nodeId": 4039,
@@ -1789,7 +1900,8 @@
     "name_uk": "морква",
     "name_ru": "морковь",
     "name_it": "carota",
-    "name_hu": "répa"
+    "name_hu": "répa",
+    "name_te": "క్యారెట్"
   },
   {
     "nodeId": 161934,
@@ -1805,7 +1917,8 @@
     "name_uk": "буряк",
     "name_ru": "свёкла",
     "name_it": "barbabietola",
-    "name_hu": "cékla"
+    "name_hu": "cékla",
+    "name_te": "బీట్రూట్"
   },
   {
     "nodeId": 42229,
@@ -1821,7 +1934,8 @@
     "name_uk": "черешня",
     "name_ru": "вишня",
     "name_it": "ciliegio",
-    "name_hu": "cseresznye"
+    "name_hu": "cseresznye",
+    "name_te": "చెర్రీ"
   },
   {
     "nodeId": 41492,
@@ -1837,7 +1951,8 @@
     "name_uk": "маргаритка",
     "name_ru": "маргаритка",
     "name_it": "margherita",
-    "name_hu": "margitvirág"
+    "name_hu": "margitvirág",
+    "name_te": "డైసి"
   },
   {
     "nodeId": 94688,
@@ -1853,7 +1968,8 @@
     "name_uk": "мох",
     "name_ru": "мох",
     "name_it": "muschio",
-    "name_hu": "moha"
+    "name_hu": "moha",
+    "name_te": "నాచు"
   },
   {
     "nodeId": 4681,
@@ -1869,7 +1985,8 @@
     "name_uk": "цибуля-порей",
     "name_ru": "лук-порей",
     "name_it": "porro",
-    "name_hu": "póréhagyma"
+    "name_hu": "póréhagyma",
+    "name_te": "లీక్"
   },
   {
     "nodeId": 3663,
@@ -1885,7 +2002,8 @@
     "name_uk": "гарбуз",
     "name_ru": "тыква",
     "name_it": "zucca",
-    "name_hu": "tök"
+    "name_hu": "tök",
+    "name_te": "గుమ్మడికాయ"
   },
   {
     "nodeId": 3662,
@@ -1901,7 +2019,8 @@
     "name_uk": "гарбуз мускатний",
     "name_ru": "мускатная тыква",
     "name_it": "zucca trombetta",
-    "name_hu": "pézsmatök"
+    "name_hu": "pézsmatök",
+    "name_te": "బటర్‌నట్ స్క్వాష్"
   },
   {
     "nodeId": 13306,
@@ -1917,7 +2036,8 @@
     "name_uk": "тюльпан",
     "name_ru": "тюльпан",
     "name_it": "tulipano",
-    "name_hu": "tulipán"
+    "name_hu": "tulipán",
+    "name_te": "తులిప్"
   },
   {
     "nodeId": 4024,
@@ -1933,7 +2053,8 @@
     "name_uk": "клен цукровий",
     "name_ru": "сахарный клён",
     "name_it": "acero",
-    "name_hu": "juhar"
+    "name_hu": "juhar",
+    "name_te": "పంచదార మేపుల్"
   },
   {
     "nodeId": 190548,
@@ -1949,7 +2070,8 @@
     "name_uk": "лохина",
     "name_ru": "черника",
     "name_it": "mirtillo",
-    "name_hu": "hamvas áfonya"
+    "name_hu": "hamvas áfonya",
+    "name_te": "బ్లూబెర్రీ"
   },
   {
     "nodeId": 3747,
@@ -1965,7 +2087,8 @@
     "name_uk": "полуниця",
     "name_ru": "клубника",
     "name_it": "fragola",
-    "name_hu": "szamóca"
+    "name_hu": "szamóca",
+    "name_te": "స్ట్రాబెర్రీ"
   },
   {
     "nodeId": 75062,
@@ -1981,7 +2104,8 @@
     "name_uk": "ожина",
     "name_ru": "ежевика",
     "name_it": "mora",
-    "name_hu": "szeder"
+    "name_hu": "szeder",
+    "name_te": "బ్లాక్‌బెర్రీ"
   },
   {
     "nodeId": 32247,
@@ -1997,7 +2121,8 @@
     "name_uk": "малина",
     "name_ru": "малина",
     "name_it": "lampone",
-    "name_hu": "málna"
+    "name_hu": "málna",
+    "name_te": "కోరిందపండు"
   },
   {
     "nodeId": 13750,
@@ -2013,7 +2138,8 @@
     "name_uk": "журавлина",
     "name_ru": "клюква",
     "name_it": "ossiccocco americano",
-    "name_hu": "tőzegáfonya"
+    "name_hu": "tőzegáfonya",
+    "name_te": "మేడిపండు"
   },
   {
     "nodeId": 3712,
@@ -2029,7 +2155,8 @@
     "name_uk": "капуста",
     "name_ru": "капуста",
     "name_it": "cavolo",
-    "name_hu": "káposzta"
+    "name_hu": "káposzta",
+    "name_te": "క్యాబేజీ"
   },
   {
     "nodeId": 3711,
@@ -2045,7 +2172,8 @@
     "name_uk": "ріпа",
     "name_ru": "бок-чой",
     "name_it": "cavolo cinese",
-    "name_hu": "bordáskel"
+    "name_hu": "bordáskel",
+    "name_te": "బాక్ చొయి"
   },
   {
     "nodeId": 50225,
@@ -2061,7 +2189,8 @@
     "name_uk": "кульбаба",
     "name_ru": "одуванчик",
     "name_it": "tarassaco",
-    "name_hu": "pitypang"
+    "name_hu": "pitypang",
+    "name_te": "డాండెలైన్"
   },
   {
     "nodeId": 29719,
@@ -2077,7 +2206,8 @@
     "name_uk": "м'ята",
     "name_ru": "мята",
     "name_it": "menta",
-    "name_hu": "fodormenta"
+    "name_hu": "fodormenta",
+    "name_te": "పుదీనా"
   },
   {
     "nodeId": 39350,
@@ -2093,7 +2223,8 @@
     "name_uk": "базилік",
     "name_ru": "базилик",
     "name_it": "basilico",
-    "name_hu": "bazsalikom"
+    "name_hu": "bazsalikom",
+    "name_te": "తులసి"
   },
   {
     "nodeId": 13443,
@@ -2109,7 +2240,8 @@
     "name_uk": "кава",
     "name_ru": "кофе",
     "name_it": "caffè",
-    "name_hu": "kávé"
+    "name_hu": "kávé",
+    "name_te": "కాఫీ"
   },
   {
     "nodeId": 39329,
@@ -2125,7 +2257,8 @@
     "name_uk": "лаванда",
     "name_ru": "лаванда",
     "name_it": "lavanda",
-    "name_hu": "levendula"
+    "name_hu": "levendula",
+    "name_te": "లావెండర్"
   },
   {
     "nodeId": 4043,
@@ -2141,7 +2274,8 @@
     "name_uk": "петрушка",
     "name_ru": "петрушка",
     "name_it": "prezzemolo",
-    "name_hu": "petrezselyem"
+    "name_hu": "petrezselyem",
+    "name_te": "పార్స్లీ"
   },
   {
     "nodeId": 49992,
@@ -2157,7 +2291,8 @@
     "name_uk": "чебрець",
     "name_ru": "чабрец",
     "name_it": "timo",
-    "name_hu": "kakukkfű"
+    "name_hu": "kakukkfű",
+    "name_te": "టైమ్"
   },
   {
     "nodeId": 2711,
@@ -2173,7 +2308,8 @@
     "name_uk": "апельсин",
     "name_ru": "апельсин",
     "name_it": "arancia",
-    "name_hu": "narancs"
+    "name_hu": "narancs",
+    "name_te": "నారింజ"
   },
   {
     "nodeId": 37656,
@@ -2189,7 +2325,8 @@
     "name_uk": "грейпфрут",
     "name_ru": "грейпфрут",
     "name_it": "pompelmo",
-    "name_hu": "grépfrút"
+    "name_hu": "grépfrút",
+    "name_te": "పంపరపనస"
   },
   {
     "nodeId": 130122,
@@ -2205,7 +2342,8 @@
     "name_uk": "кактус",
     "name_ru": "кактус",
     "name_it": "cactus",
-    "name_hu": "hordókaktusz"
+    "name_hu": "hordókaktusz",
+    "name_te": "కాక్టస్"
   },
   {
     "nodeId": 355937,
@@ -2221,7 +2359,8 @@
     "name_uk": "курай чіплянковий",
     "name_ru": "перекати-поле",
     "name_it": "salsola caprina",
-    "name_hu": "ördögszekér"
+    "name_hu": "ördögszekér",
+    "name_te": "రష్యన్ ముళ్ల మొక్క"
   },
   {
     "nodeId": 43853,
@@ -2237,7 +2376,8 @@
     "name_uk": "отруйний плющ",
     "name_ru": "ядовитый плющ",
     "name_it": "edera velenosa",
-    "name_hu": "mérges szömörce"
+    "name_hu": "mérges szömörce",
+    "name_te": "పాయిజన్ ఐవీ"
   },
   {
     "nodeId": 4498,
@@ -2253,7 +2393,8 @@
     "name_uk": "овес",
     "name_ru": "овёс",
     "name_it": "avena",
-    "name_hu": "zab"
+    "name_hu": "zab",
+    "name_te": "ఓట్"
   },
   {
     "nodeId": 4513,
@@ -2269,7 +2410,8 @@
     "name_uk": "ячмінь",
     "name_ru": "ячмень",
     "name_it": "orzo",
-    "name_hu": "árpa"
+    "name_hu": "árpa",
+    "name_te": "యవలు"
   },
   {
     "nodeId": 4403,
@@ -2285,7 +2427,8 @@
     "name_uk": "платан",
     "name_ru": "платан",
     "name_it": "platano",
-    "name_hu": "platán"
+    "name_hu": "platán",
+    "name_te": "సైకామోర్"
   },
   {
     "nodeId": 79002,
@@ -2301,7 +2444,8 @@
     "name_uk": "лілія",
     "name_ru": "тигровая лилия",
     "name_it": "giglio tigrato della cina",
-    "name_hu": "tigrisliliom"
+    "name_hu": "tigrisliliom",
+    "name_te": "టైగర్ లిల్లీ"
   },
   {
     "nodeId": 3635,
@@ -2317,7 +2461,8 @@
     "name_uk": "бавовник",
     "name_ru": "хлопок",
     "name_it": "cotone",
-    "name_hu": "gyapot"
+    "name_hu": "gyapot",
+    "name_te": "పత్తి"
   },
   {
     "nodeId": 3627,
@@ -2333,7 +2478,8 @@
     "name_uk": "ківі",
     "name_ru": "киви",
     "name_it": "kiwi",
-    "name_hu": "kivi"
+    "name_hu": "kivi",
+    "name_te": "కివీ"
   },
   {
     "nodeId": 76314,
@@ -2349,7 +2495,8 @@
     "name_uk": "морські водорості",
     "name_ru": "морская водоросль",
     "name_it": "alga",
-    "name_hu": "moszat"
+    "name_hu": "moszat",
+    "name_te": "సముద్రపు పాచి"
   },
   {
     "nodeId": 318051,
@@ -2365,7 +2512,8 @@
     "name_uk": "бамбук",
     "name_ru": "бамбук",
     "name_it": "bamboo",
-    "name_hu": "bambusz"
+    "name_hu": "bambusz",
+    "name_te": "బ్యాంబూ"
   },
   {
     "nodeId": 4265,
@@ -2381,7 +2529,8 @@
     "name_uk": "артишок",
     "name_ru": "артишок",
     "name_it": "carciofo",
-    "name_hu": "articsóka"
+    "name_hu": "articsóka",
+    "name_te": "ఆర్టిచోక్"
   },
   {
     "nodeId": 32201,
@@ -2397,7 +2546,8 @@
     "name_uk": "пекан",
     "name_ru": "пекан",
     "name_it": "pecan",
-    "name_hu": "pekándió"
+    "name_hu": "pekándió",
+    "name_te": "పికాన్"
   },
   {
     "nodeId": 4547,
@@ -2413,7 +2563,8 @@
     "name_uk": "цукрова тростина",
     "name_ru": "сахарный тростник",
     "name_it": "canna da zucchero",
-    "name_hu": "cukornád"
+    "name_hu": "cukornád",
+    "name_te": "చెరకు"
   },
   {
     "nodeId": 29710,
@@ -2429,7 +2580,8 @@
     "name_uk": "ямс",
     "name_ru": "ямс",
     "name_it": "igname",
-    "name_hu": "jamszgyökér"
+    "name_hu": "jamszgyökér",
+    "name_te": "కంద"
   },
   {
     "nodeId": 3621,
@@ -2445,7 +2597,8 @@
     "name_uk": "ревінь",
     "name_ru": "ревень",
     "name_it": "rabarbaro",
-    "name_hu": "rebarbara"
+    "name_hu": "rebarbara",
+    "name_te": "రుబార్బ్"
   },
   {
     "nodeId": 146995,
@@ -2461,7 +2614,8 @@
     "name_uk": "хризантема індійська",
     "name_ru": "хризантема",
     "name_it": "crisantemo",
-    "name_hu": "krizantém"
+    "name_hu": "krizantém",
+    "name_te": "చామంతి పువ్వు"
   },
   {
     "nodeId": 361556,
@@ -2477,7 +2631,8 @@
     "name_uk": "ожина",
     "name_ru": "папоротник",
     "name_it": "felce",
-    "name_hu": "páfrány"
+    "name_hu": "páfrány",
+    "name_te": "ఫెర్న్"
   },
   {
     "nodeId": 126433,
@@ -2493,7 +2648,8 @@
     "name_uk": "жасмин",
     "name_ru": "жасмин",
     "name_it": "gelsomino",
-    "name_hu": "jázmin"
+    "name_hu": "jázmin",
+    "name_te": "మల్లెపువ్వు"
   },
   {
     "nodeId": 34301,
@@ -2509,7 +2665,8 @@
     "name_uk": "латаття біле",
     "name_ru": "кувшинка",
     "name_it": "ninfea",
-    "name_hu": "tündérrózsa"
+    "name_hu": "tündérrózsa",
+    "name_te": "తెల్ల కలువ"
   },
   {
     "nodeId": 4432,
@@ -2525,7 +2682,8 @@
     "name_uk": "лотос",
     "name_ru": "лотос",
     "name_it": "loto",
-    "name_hu": "lótusz"
+    "name_hu": "lótusz",
+    "name_te": "తమరపువ్వు"
   },
   {
     "nodeId": 106335,
@@ -2541,7 +2699,8 @@
     "name_uk": "гібіск",
     "name_ru": "гибискус",
     "name_it": "ibisco",
-    "name_hu": "hibiszkusz"
+    "name_hu": "hibiszkusz",
+    "name_te": "మంధారం"
   },
   {
     "nodeId": 85868,
@@ -2557,7 +2716,8 @@
     "name_uk": "магнолія",
     "name_ru": "магнолия",
     "name_it": "magnolia",
-    "name_hu": "magnólia"
+    "name_hu": "magnólia",
+    "name_te": "మాగ్నోలియా"
   },
   {
     "nodeId": 69717,
@@ -2573,7 +2733,8 @@
     "name_uk": "півонія",
     "name_ru": "пион",
     "name_it": "peonia",
-    "name_hu": "bazsarózsa"
+    "name_hu": "bazsarózsa",
+    "name_te": "పియోనీ"
   },
   {
     "nodeId": 98504,
@@ -2589,7 +2750,8 @@
     "name_uk": "ромашка лікарська",
     "name_ru": "ромашка",
     "name_it": "camomilla",
-    "name_hu": "kamilla"
+    "name_hu": "kamilla",
+    "name_te": "చామంతి"
   },
   {
     "nodeId": 54855,
@@ -2605,7 +2767,8 @@
     "name_uk": "нарцис",
     "name_ru": "нарцисс",
     "name_it": "narciso",
-    "name_hu": "nárcisz"
+    "name_hu": "nárcisz",
+    "name_te": "డాఫడిల్"
   },
   {
     "nodeId": 97021,
@@ -2621,7 +2784,8 @@
     "name_uk": "конюшина",
     "name_ru": "клевер",
     "name_it": "trifoglio",
-    "name_hu": "lóhere"
+    "name_hu": "lóhere",
+    "name_te": "క్లోవర్"
   },
   {
     "nodeId": 97424,
@@ -2637,7 +2801,8 @@
     "name_uk": "фіалка",
     "name_ru": "фиалка",
     "name_it": "violetta",
-    "name_hu": "ibolya"
+    "name_hu": "ibolya",
+    "name_te": "వైయోలెట్ట్ పువ్వు"
   },
   {
     "nodeId": 101596,
@@ -2653,7 +2818,8 @@
     "name_uk": "жоржина",
     "name_ru": "георгина",
     "name_it": "dahlia",
-    "name_hu": "dália"
+    "name_hu": "dália",
+    "name_te": "దాలియా పువ్వు"
   },
   {
     "nodeId": 16719,
@@ -2669,7 +2835,8 @@
     "name_uk": "горіх чорний",
     "name_ru": "грецкий орех",
     "name_it": "noce",
-    "name_hu": "dió"
+    "name_hu": "dió",
+    "name_te": "అక్రోటుకాయ"
   },
   {
     "nodeId": 3494,
@@ -2685,7 +2852,8 @@
     "name_uk": "інжир",
     "name_ru": "инжир",
     "name_it": "fico",
-    "name_hu": "füge"
+    "name_hu": "füge",
+    "name_te": "అంజూరం"
   },
   {
     "nodeId": 3570,
@@ -2701,7 +2869,8 @@
     "name_uk": "гвоздика",
     "name_ru": "гвоздика",
     "name_it": "garofano",
-    "name_hu": "szegfű"
+    "name_hu": "szegfű",
+    "name_te": "కార్నేషన్"
   },
   {
     "nodeId": 4362,
@@ -2717,7 +2886,8 @@
     "name_uk": "венерина мухоловка",
     "name_ru": "венерина мухоловка",
     "name_it": "venere acchiappamosche",
-    "name_hu": "Vénusz légycsapója"
+    "name_hu": "Vénusz légycsapója",
+    "name_te": "డయోనియా"
   },
   {
     "nodeId": 89151,
@@ -2733,7 +2903,8 @@
     "name_uk": "банан",
     "name_ru": "банан",
     "name_it": "banana",
-    "name_hu": "banán"
+    "name_hu": "banán",
+    "name_te": "అరటి"
   },
   {
     "nodeId": 1125938,
@@ -2749,7 +2920,8 @@
     "name_uk": "пітахая",
     "name_ru": "питахайя",
     "name_it": "frutto del drago",
-    "name_hu": "sárkánygyümölcs"
+    "name_hu": "sárkánygyümölcs",
+    "name_te": "డ్రాగన్ ఫ్రూట్"
   },
   {
     "nodeId": 2849586,
@@ -2765,7 +2937,8 @@
     "name_uk": "фенхель",
     "name_ru": "фенхель",
     "name_it": "finocchio",
-    "name_hu": "édeskömény"
+    "name_hu": "édeskömény",
+    "name_te": "సోంపు"
   },
   {
     "nodeId": 40922,
@@ -2781,7 +2954,8 @@
     "name_uk": "кріп",
     "name_ru": "укроп",
     "name_it": "aneto",
-    "name_hu": "kapor"
+    "name_hu": "kapor",
+    "name_te": "దిల్ల్"
   },
   {
     "nodeId": 36592,
@@ -2797,7 +2971,8 @@
     "name_uk": "евкаліпт",
     "name_ru": "эвкалипт",
     "name_it": "eucalipto",
-    "name_hu": "eukaliptusz"
+    "name_hu": "eukaliptusz",
+    "name_te": "జామ వృక్షం"
   },
   {
     "nodeId": 65948,
@@ -2813,7 +2988,8 @@
     "name_uk": "настурція",
     "name_ru": "жеруха",
     "name_it": "crescione",
-    "name_hu": "vízitorma"
+    "name_hu": "vízitorma",
+    "name_te": "వాటర్‌క్రెస్"
   },
   {
     "nodeId": 82025,
@@ -2829,7 +3005,8 @@
     "name_uk": "гіацинт",
     "name_ru": "гиацинт",
     "name_it": "giacinto",
-    "name_hu": "jácint"
+    "name_hu": "jácint",
+    "name_te": "హయాసింత్"
   },
   {
     "nodeId": 3922,
@@ -2845,7 +3022,8 @@
     "name_uk": "гліцинія",
     "name_ru": "глициния",
     "name_it": "glicine",
-    "name_hu": "lilaakác"
+    "name_hu": "lilaakác",
+    "name_te": "విస్టీరియా"
   },
   {
     "nodeId": 35974,
@@ -2861,7 +3039,8 @@
     "name_uk": "сантал",
     "name_ru": "сандал",
     "name_it": "sandalo",
-    "name_hu": "szantálfa"
+    "name_hu": "szantálfa",
+    "name_te": "చందనం"
   },
   {
     "nodeId": 12953,
@@ -2877,7 +3056,8 @@
     "name_uk": "азиміна",
     "name_ru": "азимина",
     "name_it": "asiminia",
-    "name_hu": "pawpaw"
+    "name_hu": "pawpaw",
+    "name_te": "పౌపౌ"
   },
   {
     "nodeId": 4047,
@@ -2893,7 +3073,8 @@
     "name_uk": "корінадр",
     "name_ru": "кориандр",
     "name_it": "coriandolo",
-    "name_hu": "koriander"
+    "name_hu": "koriander",
+    "name_te": "ధనియాలు"
   },
   {
     "nodeId": 4054,
@@ -2909,7 +3090,8 @@
     "name_uk": "женьшень",
     "name_ru": "женьшень",
     "name_it": "ginseng",
-    "name_hu": "ginzeng"
+    "name_hu": "ginzeng",
+    "name_te": "జిన్సెంగ్"
   },
   {
     "nodeId": 271192,
@@ -2925,7 +3107,8 @@
     "name_uk": "аніс",
     "name_ru": "анис",
     "name_it": "anice",
-    "name_hu": "ánizs"
+    "name_hu": "ánizs",
+    "name_te": "అనాసపువ్వు"
   },
   {
     "nodeId": 4298,
@@ -2941,7 +3124,8 @@
     "name_uk": "падуб",
     "name_ru": "падуб",
     "name_it": "agrifoglio",
-    "name_hu": "magyal"
+    "name_hu": "magyal",
+    "name_te": "హాలీ"
   },
   {
     "nodeId": 155124,
@@ -2957,7 +3141,8 @@
     "name_uk": "ройбос",
     "name_ru": "ройбуш",
     "name_it": "roiboos",
-    "name_hu": "rooibos"
+    "name_hu": "rooibos",
+    "name_te": "రూయిబోస్"
   },
   {
     "nodeId": 4103,
@@ -2973,7 +3158,8 @@
     "name_uk": "петунія",
     "name_ru": "петуния",
     "name_it": "petunia",
-    "name_hu": "petúnia"
+    "name_hu": "petúnia",
+    "name_te": "పెటూనియా"
   },
   {
     "nodeId": 3972,
@@ -2989,7 +3175,8 @@
     "name_uk": "омела",
     "name_ru": "омела",
     "name_it": "vischio",
-    "name_hu": "fagyöngy"
+    "name_hu": "fagyöngy",
+    "name_te": "మిస్టిల్టో"
   },
   {
     "nodeId": 289672,
@@ -3005,7 +3192,8 @@
     "name_uk": "кока",
     "name_ru": "кока",
     "name_it": "coca",
-    "name_hu": "kokacserje"
+    "name_hu": "kokacserje",
+    "name_te": "కొక"
   },
   {
     "nodeId": 3988,
@@ -3021,7 +3209,8 @@
     "name_uk": "рицина",
     "name_ru": "клещевина",
     "name_it": "ricino",
-    "name_hu": "ricinus"
+    "name_hu": "ricinus",
+    "name_te": "ఆముదం చెట్టు"
   },
   {
     "nodeId": 379952,
@@ -3037,7 +3226,8 @@
     "name_uk": "герань",
     "name_ru": "герань",
     "name_it": "geranio",
-    "name_hu": "gólyaorr"
+    "name_hu": "gólyaorr",
+    "name_te": "జెరేనియం"
   },
   {
     "nodeId": 3489,
@@ -3053,7 +3243,8 @@
     "name_uk": "джекфрут",
     "name_ru": "джекфрут",
     "name_it": "giaco",
-    "name_hu": "jákafa"
+    "name_hu": "jákafa",
+    "name_te": "పనసపండు"
   },
   {
     "nodeId": 3501,
@@ -3069,7 +3260,8 @@
     "name_uk": "кропива",
     "name_ru": "крапива",
     "name_it": "ortica",
-    "name_hu": "csalán"
+    "name_hu": "csalán",
+    "name_te": "కండాలి"
   },
   {
     "nodeId": 38868,
@@ -3085,7 +3277,8 @@
     "name_uk": "шавлія",
     "name_ru": "шалфей",
     "name_it": "salvia",
-    "name_hu": "zsálya"
+    "name_hu": "zsálya",
+    "name_te": "సేజ్"
   },
   {
     "nodeId": 39367,
@@ -3101,7 +3294,8 @@
     "name_uk": "розмарин",
     "name_ru": "розмарин",
     "name_it": "rosmarino",
-    "name_hu": "rozmaring"
+    "name_hu": "rozmaring",
+    "name_te": "రోజ్మేరీ"
   },
   {
     "nodeId": 4052,
@@ -3117,7 +3311,8 @@
     "name_uk": "плющ",
     "name_ru": "плющ",
     "name_it": "edera",
-    "name_hu": "borostyán"
+    "name_hu": "borostyán",
+    "name_te": "ఐవీ"
   },
   {
     "nodeId": 78168,
@@ -3133,7 +3328,8 @@
     "name_uk": "маракуя",
     "name_ru": "маракуйя",
     "name_it": "passiflora",
-    "name_hu": "maracuja"
+    "name_hu": "maracuja",
+    "name_te": "కృష్ణ ఫలం"
   },
   {
     "nodeId": 58228,
@@ -3149,7 +3345,8 @@
     "name_uk": "мангостан",
     "name_ru": "мангостан",
     "name_it": "mangostano",
-    "name_hu": "mangosztán"
+    "name_hu": "mangosztán",
+    "name_te": "వంగ మామిడి"
   },
   {
     "nodeId": 40031,
@@ -3165,7 +3362,8 @@
     "name_uk": "мангр червоний",
     "name_ru": "мангра",
     "name_it": "mangrovia rossa",
-    "name_hu": "mangrove"
+    "name_hu": "mangrove",
+    "name_te": "ఎర్ర మడచెట్టు"
   },
   {
     "nodeId": 4543,
@@ -3181,7 +3379,8 @@
     "name_uk": "просо",
     "name_ru": "просо",
     "name_it": "miglio perlato",
-    "name_hu": "indiai köles"
+    "name_hu": "indiai köles",
+    "name_te": "సజ్జలు"
   },
   {
     "nodeId": 519065,
@@ -3197,7 +3396,8 @@
     "name_uk": "незабудка",
     "name_ru": "незабудка",
     "name_it": "non ti scordar di me",
-    "name_hu": "nefelejcs"
+    "name_hu": "nefelejcs",
+    "name_te": "ఫోర్గెట్-మి-నాట్"
   },
   {
     "nodeId": 72332,
@@ -3213,7 +3413,8 @@
     "name_uk": "полин",
     "name_ru": "полынь",
     "name_it": "assenzio",
-    "name_hu": "üröm"
+    "name_hu": "üröm",
+    "name_te": "మాచిపత్రి"
   },
   {
     "nodeId": 4202,
@@ -3229,7 +3430,8 @@
     "name_uk": "бузина",
     "name_ru": "бузина",
     "name_it": "sambuco",
-    "name_hu": "bodza"
+    "name_hu": "bodza",
+    "name_te": "నల్ల ఎల్డర్‌బెర్రీ"
   },
   {
     "nodeId": 135518,
@@ -3245,7 +3447,8 @@
     "name_uk": "аґрус",
     "name_ru": "крыжовник",
     "name_it": "ribes",
-    "name_hu": "egres"
+    "name_hu": "egres",
+    "name_te": "ఉసిరికాయ"
   },
   {
     "nodeId": 32224,
@@ -3261,7 +3464,8 @@
     "name_uk": "локва",
     "name_ru": "мушмула",
     "name_it": "nespolo del Giappone",
-    "name_hu": "japánnaspolya"
+    "name_hu": "japánnaspolya",
+    "name_te": "లోక్వాట్"
   },
   {
     "nodeId": 1041245,
@@ -3277,7 +3481,8 @@
     "name_uk": "опунція",
     "name_ru": "опунция",
     "name_it": "fico d'india",
-    "name_hu": "fügekaktusz"
+    "name_hu": "fügekaktusz",
+    "name_te": "నోపలేస్"
   },
   {
     "nodeId": 130111,
@@ -3293,7 +3498,8 @@
     "name_uk": "ехінокактус грузона",
     "name_ru": "эхинокактус",
     "name_it": "cuscino della suocera",
-    "name_hu": "sünkaktusz"
+    "name_hu": "sünkaktusz",
+    "name_te": "బారెల్ క్యాక్టస్"
   },
   {
     "nodeId": 3331,
@@ -3309,7 +3515,8 @@
     "name_uk": "ялина колюча",
     "name_ru": "голубая ель",
     "name_it": "abete del colorado",
-    "name_hu": "ezüstfenyő"
+    "name_hu": "ezüstfenyő",
+    "name_te": "నీల సరళ వృక్షం"
   },
   {
     "nodeId": 105884,
@@ -3325,7 +3532,8 @@
     "name_uk": "жимолость",
     "name_ru": "жимолость",
     "name_it": "caprifoglio",
-    "name_hu": "lonc"
+    "name_hu": "lonc",
+    "name_te": "జపనీస్ హనీసకిల్"
   },
   {
     "nodeId": 65558,
@@ -3341,7 +3549,8 @@
     "name_uk": "каперці",
     "name_ru": "каперс",
     "name_it": "cappero",
-    "name_hu": "kapri"
+    "name_hu": "kapri",
+    "name_te": "కెపర్"
   },
   {
     "nodeId": 2675020,
@@ -3357,7 +3566,8 @@
     "name_uk": "непетнес аттенборо",
     "name_ru": "непентес",
     "name_it": "nepente",
-    "name_hu": "kancsóka"
+    "name_hu": "kancsóka",
+    "name_te": "కుండ మొక్క"
   },
   {
     "nodeId": 66656,
@@ -3373,7 +3583,8 @@
     "name_uk": "дуріан",
     "name_ru": "дуриан",
     "name_it": "durian",
-    "name_hu": "durián"
+    "name_hu": "durián",
+    "name_te": "దూరియన్"
   },
   {
     "nodeId": 136217,
@@ -3389,7 +3600,8 @@
     "name_uk": "куркума",
     "name_ru": "куркума",
     "name_it": "curcuma",
-    "name_hu": "kurkuma"
+    "name_hu": "kurkuma",
+    "name_te": "పసుపు"
   },
   {
     "nodeId": 3311,
@@ -3405,7 +3617,8 @@
     "name_uk": "ґінко",
     "name_ru": "гинкго",
     "name_it": "ginkgo",
-    "name_hu": "páfrányfenyő"
+    "name_hu": "páfrányfenyő",
+    "name_te": "గిన్‌కోగో"
   },
   {
     "nodeId": 34199,
@@ -3421,7 +3634,8 @@
     "name_uk": "алое вера",
     "name_ru": "алоэ вера",
     "name_it": "aloe",
-    "name_hu": "aloe vera"
+    "name_hu": "aloe vera",
+    "name_te": "కలబంద"
   },
   {
     "nodeId": 119949,
@@ -3437,6 +3651,7 @@
     "name_uk": "мирт",
     "name_ru": "мирт",
     "name_it": "mirto",
-    "name_hu": "mirtusz"
+    "name_hu": "mirtusz",
+    "name_te": "మిర్టల్"
   }
 ]
