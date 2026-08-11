@@ -1,5 +1,10 @@
 [
   { "language": "en", "name": "alfalfa", "alts": ["afalfa"] },
+  {
+    "language": "en",
+    "name": "touch-me-not",
+    "alts": ["sensitive plant", "humble plant"]
+  },
   { "language": "en", "name": "ricin", "alts": ["castor bean"] },
   { "language": "en", "name": "sycamore", "alts": ["plane"] },
   { "language": "en", "name": "anemone", "alts": ["sea anemone"] },
@@ -826,106 +831,6 @@
   { "language": "uk", "name": "серпокрилець", "alts": ["стриж"] },
   { "language": "de", "name": "Amerikanische Platane", "alts": ["Bergahorn"] },
   { "language": "en", "name": "lychee", "alts": ["litchi"] },
-  { "language": "cs", "name": "bez černý", "alts": ["srstka angrešt"] },
-  { "language": "cs", "name": "mořský had", "alts": ["Vodnář"] },
-  { "language": "cs", "name": "black vulture", "alts": ["Kondor havranovitý"] },
-  { "language": "cs", "name": "kos", "alts": ["Kos černý"] },
-  { "language": "cs", "name": "upíří netopýr", "alts": ["upír"] },
-  { "language": "cs", "name": "bonobo", "alts": ["Šimpanz bonobo"] },
-  { "language": "cs", "name": "červená liška", "alts": ["liška červená"] },
-  { "language": "cs", "name": "černý medvěd", "alts": ["medvěd černý"] },
-  { "language": "cs", "name": "velká panda", "alts": ["panda velká"] },
-  { "language": "cs", "name": "velryba beluga", "alts": ["Běluha severní"] },
-  { "language": "cs", "name": "Aardvark", "alts": ["Hrabáč kapský"] },
-  { "language": "cs", "name": "pangolin", "alts": ["Luskouni"] },
-  { "language": "cs", "name": "šnek", "alts": ["hlemýžď zahradní"] },
-  { "language": "cs", "name": "hovnivál", "alts": ["vruboun"] },
-  {
-    "language": "cs",
-    "name": "motýl monarcha",
-    "alts": ["Monarcha stěhovavý"]
-  },
-  { "language": "cs", "name": "velký bílý žralok", "alts": ["Žralok bílý"] },
-  { "language": "cs", "name": "blue jay", "alts": ["Sojka chocholatá"] },
-  { "language": "cs", "name": "alpaka", "alts": ["lama alpaka"] },
-  { "language": "cs", "name": "mořská vydra", "alts": ["vydra mořská"] },
-  { "language": "cs", "name": "kapucín", "alts": ["Malpy"] },
-  {
-    "language": "cs",
-    "name": "jedovatá žába",
-    "alts": ["Pralesničkovití", "Pralesnička"]
-  },
-  { "language": "cs", "name": "šedý papoušek", "alts": ["papoušek šedý"] },
-  { "language": "cs", "name": "bobcat", "alts": ["rys červený"] },
-  { "language": "cs", "name": "vodní buvol", "alts": ["Buvol domácí"] },
-  { "language": "cs", "name": "poletucha", "alts": [""] },
-  {
-    "language": "cs",
-    "name": "tesař mravenec",
-    "alts": ["mravenec dřevokaz", "mravenec tesařík", "tesařík"]
-  },
-  {
-    "language": "cs",
-    "name": "krabicová želva",
-    "alts": ["želva karolínská", "želva terrapene"]
-  },
-  { "language": "cs", "name": "gekončík", "alts": ["Gekon"] },
-  { "language": "cs", "name": "polární liška", "alts": ["liška polární"] },
-  { "language": "cs", "name": "banánový slimák", "alts": ["Ariolimax"] },
-  { "language": "cs", "name": "tasmánský ďábel", "alts": ["tasmánský čert"] },
-  { "language": "cs", "name": "karibu", "alts": ["Sob polární"] },
-  { "language": "cs", "name": "barakuda", "alts": ["Soltýn"] },
-  { "language": "cs", "name": "slunéčko sedmitečné", "alts": ["beruška"] },
-  { "language": "cs", "name": "škvor", "alts": ["uchošťour"] },
-  { "language": "cs", "name": "pufferfish", "alts": ["čtverzubec"] },
-  { "language": "cs", "name": "chňapající želva", "alts": ["Kajmanka dravá"] },
-  {
-    "language": "cs",
-    "name": "pískový dolar",
-    "alts": ["ježovka", "pokladnička"]
-  },
-  { "language": "cs", "name": "mušle", "alts": ["Slávka"] },
-  {
-    "language": "cs",
-    "name": "krevety kudlanky",
-    "alts": ["Strašek kudlankový", "kudlanka nálevní"]
-  },
-  { "language": "cs", "name": "vačice", "alts": ["possum vlnitý"] },
-  {
-    "language": "cs",
-    "name": "Čipmank",
-    "alts": ["Čipmánek", "veverka pruhovaná"]
-  },
-  {
-    "language": "cs",
-    "name": "goblin žralok",
-    "alts": ["Žralok šotek", "Žralok skřítek"]
-  },
-  {
-    "language": "cs",
-    "name": "chobotnice velkoploutvá",
-    "alts": ["Magnapinna"]
-  },
-  { "language": "cs", "name": "nautilus", "alts": ["Loděnka"] },
-  { "language": "cs", "name": "Luňák", "alts": ["plachetník"] },
-  { "language": "cs", "name": "skink", "alts": ["scink", "tilikva"] },
-  { "language": "cs", "name": "vodní štěnice", "alts": ["vodonožka"] },
-  { "language": "cs", "name": "krab bojovný", "alts": ["Houslista"] },
-  { "language": "cs", "name": "mořská houba", "alts": ["houbovci"] },
-  { "language": "cs", "name": "Kynkažu", "alts": ["medvídek medový"] },
-  { "language": "cs", "name": "Rypoš lysý", "alts": ["bezsrstá krysa"] },
-  { "language": "cs", "name": "prérijní pes", "alts": ["Psoun"] },
-  { "language": "cs", "name": "sametový červ", "alts": ["Drápkovec"] },
-  {
-    "language": "cs",
-    "name": "srdeční červ",
-    "alts": ["Vlasovec psí", "Dirofilarie"]
-  },
-  { "language": "cs", "name": "háďátko", "alts": ["Hlístice"] },
-  { "language": "cs", "name": "ohnivý úhoř", "alts": ["Hrotočelec ohnivý"] },
-  { "language": "cs", "name": "kokosový krab", "alts": ["Krab palmový"] },
-  { "language": "cs", "name": "létající ryba", "alts": ["letoun"] },
-  { "language": "cs", "name": "Tilápie", "alts": ["tlamoun"] },
 
   { "language": "en", "name": "porcupine", "alts": ["cape porcupine"] },
   { "language": "pt", "name": "sepia", "alts": ["choco"] },
@@ -1398,5 +1303,146 @@
     "language": "de",
     "name": "Baobab",
     "alts": ["Afrikanischer Affenbrotbaum"]
-  }
+  },
+  { "language": "cs", "name": "pakobylka", "alts": ["strašilka"] },
+  { "language": "cs", "name": "karas zlatý", "alts": ["zlatá rybka"] },
+  { "language": "cs", "name": "vodnář dvoubarevný", "alts": ["mořský had"] },
+  { "language": "cs", "name": "kur domácí", "alts": ["kuře", "slepice"] },
+  { "language": "cs", "name": "upír", "alts": ["netopýr"] },
+  { "language": "cs", "name": "bonobo", "alts": ["šimpanz bonobo"] },
+  {
+    "language": "cs",
+    "name": "medvěd černý",
+    "alts": ["černý medvěd", "baribal"]
+  },
+  { "language": "cs", "name": "tur domácí", "alts": ["kráva"] },
+  {
+    "language": "cs",
+    "name": "žralok bílý",
+    "alts": ["velký bílý žralok", "žralok lidožravý"]
+  },
+  { "language": "cs", "name": "ohnivý mravenec", "alts": ["Solenopsis"] },
+  { "language": "cs", "name": "kožatka velká", "alts": ["mořská želva"] },
+  {
+    "language": "cs",
+    "name": "medvěd lední",
+    "alts": ["medvěd polární", "lední medvěd"]
+  },
+  { "language": "cs", "name": "lama alpaka", "alts": ["lama pako"] },
+  { "language": "cs", "name": "vydra mořská", "alts": ["mořská vydra"] },
+  { "language": "cs", "name": "malpa", "alts": ["kapucín"] },
+  { "language": "cs", "name": "pralesnička", "alts": ["šípová žába"] },
+  { "language": "cs", "name": "lasice", "alts": ["lasička"] },
+  { "language": "cs", "name": "papoušek šedý", "alts": ["žako"] },
+  {
+    "language": "cs",
+    "name": "tučňák žlutorohý",
+    "alts": ["tučňák macaroni", "tučňák makarony"]
+  },
+  {
+    "language": "cs",
+    "name": "buvol domácí",
+    "alts": ["vodní buvol", "kerbau"]
+  },
+  { "language": "cs", "name": "mravenec dřevokaz", "alts": ["mravenec tesař"] },
+  { "language": "cs", "name": "koníček", "alts": ["mořský koník"] },
+  { "language": "cs", "name": "želva karolínská", "alts": ["želva terrapene"] },
+  { "language": "cs", "name": "štír", "alts": ["kůrový štír", "Centruroides"] },
+  { "language": "cs", "name": "hýl obecný", "alts": ["pěnkava"] },
+  { "language": "cs", "name": "gekon", "alts": ["gekončík"] },
+  { "language": "cs", "name": "sovice sněžní", "alts": ["sovice sněžná"] },
+  {
+    "language": "cs",
+    "name": "liška polární",
+    "alts": ["polární liška", "liška lední", "lis horní", "pesec"]
+  },
+  {
+    "language": "cs",
+    "name": "chobotnice kroužkovaná",
+    "alts": ["chobotnice modrokroužkovaná"]
+  },
+  { "language": "cs", "name": "sklípkan největší", "alts": ["tarantule"] },
+  { "language": "cs", "name": "snovačka jedovatá", "alts": ["černá vdova"] },
+  { "language": "cs", "name": "hlemýžď zahradní", "alts": ["šnek"] },
+  { "language": "cs", "name": "banánový slimák", "alts": ["Ariolimax"] },
+  { "language": "cs", "name": "ježovka", "alts": ["mořský ježek"] },
+  { "language": "cs", "name": "útesovník mozkový", "alts": ["mozkový korál"] },
+  { "language": "cs", "name": "kladivoun", "alts": ["žralok kladivoun"] },
+  {
+    "language": "cs",
+    "name": "vruboun posvátný",
+    "alts": ["skarab", "skarabeus", "chrobák", "hovnivál"]
+  },
+  {
+    "language": "cs",
+    "name": "paúhoř elektrický",
+    "alts": ["elektrický úhoř"]
+  },
+  { "language": "cs", "name": "mamba černá", "alts": ["černá mamba"] },
+  { "language": "cs", "name": "ďábel medvědovitý", "alts": ["tasmánský čert"] },
+  { "language": "cs", "name": "sob polární", "alts": ["karibu"] },
+  { "language": "cs", "name": "slunéčko sedmitečné", "alts": ["beruška"] },
+  { "language": "cs", "name": "vážka", "alts": ["šídlo"] },
+  { "language": "cs", "name": "manta obrovská", "alts": ["rejnok manta"] },
+  { "language": "cs", "name": "trnucha", "alts": ["rejnok"] },
+  { "language": "cs", "name": "rak poustevníček", "alts": ["krab poustevník"] },
+  { "language": "cs", "name": "sumýš", "alts": ["mořská okurka"] },
+  { "language": "cs", "name": "pijavka lékařská", "alts": ["pijavice"] },
+  {
+    "language": "cs",
+    "name": "žížala obecná",
+    "alts": ["dešťovka", "rousnice"]
+  },
+  { "language": "cs", "name": "placouš", "alts": ["ježovka"] },
+  {
+    "language": "cs",
+    "name": "živorodka duhová",
+    "alts": ["paví očko", "gupka"]
+  },
+  { "language": "cs", "name": "strašník dalmatský", "alts": ["stonožka"] },
+  { "language": "cs", "name": "čipmank", "alts": ["veverka pruhovaná"] },
+  {
+    "language": "cs",
+    "name": "žralok tygří",
+    "alts": ["tygří žralok", "žralok tygrovaný"]
+  },
+  { "language": "cs", "name": "žralok šotek", "alts": ["žralok diblík"] },
+  { "language": "cs", "name": "loděnka", "alts": ["Nautilus"] },
+  { "language": "cs", "name": "scink", "alts": ["tilikva"] },
+  { "language": "cs", "name": "mohutnatka", "alts": ["vodní ploštice"] },
+  { "language": "cs", "name": "mořská houba", "alts": ["houbovec"] },
+  { "language": "cs", "name": "kachna divoká", "alts": ["březňačka"] },
+  { "language": "cs", "name": "krocan", "alts": ["krůta"] },
+  {
+    "language": "cs",
+    "name": "prase divoké",
+    "alts": ["divočák", "kanec", "kňour", "bachyně", "vepř"]
+  },
+  { "language": "cs", "name": "ara hyacintový", "alts": ["papoušek ara"] },
+  { "language": "cs", "name": "plejtvák obrovský", "alts": ["modrá velryba"] },
+  { "language": "cs", "name": "lvíček zlatý", "alts": ["tamarín"] },
+  {
+    "language": "cs",
+    "name": "kynkažu",
+    "alts": ["medvídek kynkažu", "medvídek potos", "ohonovin"]
+  },
+  { "language": "cs", "name": "rypoš lysý", "alts": ["bezsrstá krysa"] },
+  { "language": "cs", "name": "fretka", "alts": ["tchoř"] },
+  { "language": "cs", "name": "činčila", "alts": ["žlabok"] },
+  {
+    "language": "cs",
+    "name": "vlasovec psí",
+    "alts": ["srdeční červ", "Dirofilaria"]
+  },
+  { "language": "cs", "name": "háďátko", "alts": ["hlístice"] },
+  { "language": "cs", "name": "talířovka obrovská", "alts": ["medúza žahavá"] },
+  {
+    "language": "cs",
+    "name": "žralok obrovský",
+    "alts": ["velrybí žralok", "žralok velrybí", "nosozubec obrovský"]
+  },
+  { "language": "cs", "name": "platýs", "alts": ["halibut"] },
+  { "language": "cs", "name": "letoun černoocasý", "alts": ["létající ryba"] },
+  { "language": "cs", "name": "škeble", "alts": ["perlorodkovitá škeble"] },
+  { "language": "cs", "name": "lupenitka", "alts": ["strašilka"] }
 ]
