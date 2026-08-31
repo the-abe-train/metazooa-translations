@@ -146,7 +146,7 @@
     "name_de": "Hornisse",
     "name_uk": "шершень",
     "name_tr": "eşek arısı",
-    "name_nl": "hornaar",
+    "name_nl": "hoornaar",
     "name_cs": "sršeň",
     "name_ru": "шершень",
     "name_pl": "szerszeń"
@@ -1881,8 +1881,8 @@
     "name_pl": "wydra morska"
   },
   {
-    "nodeId": 36312,
-    "scientific_name": "Hynobius retardatus",
+    "nodeId": 57571,
+    "scientific_name": "Salamandra salamandra",
     "name": "salamander",
     "name_es": "salamandra",
     "name_fr": "salamandre",
@@ -3338,7 +3338,7 @@
     "name_de": "Rotes Riesenkänguru",
     "name_uk": "кенгуру",
     "name_tr": "kanguru",
-    "name_nl": "kangaroe",
+    "name_nl": "kangoeroe",
     "name_cs": "klokan",
     "name_ru": "кенгуру",
     "name_pl": "kangur"
@@ -3449,7 +3449,7 @@
     "name_pt": "enguia elétrica",
     "name_ca": "anguila elèctrica",
     "name_ko": "전기뱀장어",
-    "name_de": "Elektrischer Aal",
+    "name_de": "Zitteraal",
     "name_uk": "електричний вугор",
     "name_tr": "elektrikli yılan balığı",
     "name_nl": "sidderaal",
@@ -5076,7 +5076,7 @@
     "nodeId": 10116,
     "scientific_name": "Rattus norvegicus",
     "name": "rat",
-    "name_es": "rato",
+    "name_es": "rata",
     "name_fr": "rat",
     "name_hu": "patkány",
     "name_it": "ratto",
@@ -5219,7 +5219,7 @@
     "name_ko": "킨카주",
     "name_uk": "кінкажу",
     "name_tr": "kinkaju",
-    "name_nl": "kinkajoe",
+    "name_nl": "rolstaartbeer",
     "name_cs": "kynkažu",
     "name_ru": "кинкажу",
     "name_pl": "kinkażu"
@@ -5235,7 +5235,7 @@
     "name_pt": "tanuki",
     "name_ca": "tanuki",
     "name_ko": "일본너구리",
-    "name_de": "Tanuki",
+    "name_de": "Japanischer Marderhund",
     "name_uk": "танукі",
     "name_tr": "rakun köpeği",
     "name_nl": "wasbeerhond",
@@ -5447,7 +5447,7 @@
     "name_de": "Warzenschwein",
     "name_uk": "бородавочник",
     "name_tr": "düğmeli domuz",
-    "name_nl": "wrattenzwijn",
+    "name_nl": "knobbelzwijn",
     "name_cs": "prase savanové",
     "name_ru": "бородавочник",
     "name_pl": "guziec"

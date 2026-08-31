@@ -1444,5 +1444,83 @@
   { "language": "cs", "name": "platýs", "alts": ["halibut"] },
   { "language": "cs", "name": "letoun černoocasý", "alts": ["létající ryba"] },
   { "language": "cs", "name": "škeble", "alts": ["perlorodkovitá škeble"] },
-  { "language": "cs", "name": "lupenitka", "alts": ["strašilka"] }
+  { "language": "cs", "name": "lupenitka", "alts": ["strašilka"] },
+  { "language": "de", "name": "Zitteraal", "alts": ["Elektrischer Aal"] },
+  {
+    "language": "de",
+    "name": "Japanischer Marderhund",
+    "alts": ["Marderhund", "Tanuki"]
+  },
+  {
+    "language": "de",
+    "name": "Zitronatzitrone",
+    "alts": ["Cedrat", "Zedrat", "Zedrate", "Zedrat-Zitrone"]
+  },
+  {
+    "language": "cs",
+    "name": "borůvka",
+    "alts": ["brusnice chocholičnatá", "kanadská borůvka"]
+  },
+  {
+    "language": "de",
+    "name": "Heidelbeere",
+    "alts": ["Amerikanische Heidelbeere"]
+  },
+  {
+    "language": "en",
+    "name": "blueberry",
+    "alts": [
+      "American blueberry",
+      "highbush blueberry",
+      "northern highbush blueberry"
+    ]
+  },
+  { "language": "en", "name": "salamander", "alts": ["fire salamander"] },
+  {
+    "language": "es",
+    "name": "arándano azul",
+    "alts": ["arándano americano"]
+  },
+  { "language": "es", "name": "zorrillo", "alts": ["mofeta"] },
+  { "language": "es", "name": "rata", "alts": ["rato"] },
+  {
+    "language": "fr",
+    "name": "myrtille",
+    "alts": ["airelle en corymbe", "myrtille américaine"]
+  },
+  {
+    "language": "hu",
+    "name": "áfonya",
+    "alts": ["magasbokrú áfonya"]
+  },
+  {
+    "language": "it",
+    "name": "mirtillo",
+    "alts": ["mirtillo gigante americano"]
+  },
+  { "language": "nl", "name": "hoornaar", "alts": ["hornaar"] },
+  { "language": "nl", "name": "kangoeroe", "alts": ["kangaroe"] },
+  {
+    "language": "nl",
+    "name": "knobbelzwijn",
+    "alts": ["wrattenzwijn"]
+  },
+  { "language": "nl", "name": "rolstaartbeer", "alts": ["kinkajoe"] },
+  { "language": "nl", "name": "grote veenbes", "alts": ["cranberry"] },
+  { "language": "nl", "name": "blauwe bes", "alts": ["trosbosbes"] },
+  {
+    "language": "ru",
+    "name": "голубика",
+    "alts": ["голубика высокорослая"]
+  },
+  {
+    "language": "tr",
+    "name": "yaban mersini",
+    "alts": ["yüksek boylu yaban mersini"]
+  },
+  {
+    "language": "uk",
+    "name": "лохина",
+    "alts": ["лохина високоросла", "лохина щиткова"]
+  }
 ]
