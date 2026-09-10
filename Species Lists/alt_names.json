@@ -1,5 +1,10 @@
 [
   { "language": "en", "name": "alfalfa", "alts": ["afalfa"] },
+  {
+    "language": "en",
+    "name": "touch-me-not",
+    "alts": ["sensitive plant", "humble plant"]
+  },
   { "language": "en", "name": "ricin", "alts": ["castor bean"] },
   { "language": "en", "name": "sycamore", "alts": ["plane"] },
   { "language": "en", "name": "anemone", "alts": ["sea anemone"] },
@@ -450,6 +455,7 @@
   { "language": "cs", "name": "kokosový krab", "alts": ["Krab palmový"] },
   { "language": "cs", "name": "létající ryba", "alts": ["letoun"] },
   { "language": "cs", "name": "Tilápie", "alts": ["tlamoun"] },
+
   { "language": "en", "name": "porcupine", "alts": ["cape porcupine"] },
   { "language": "pt", "name": "sepia", "alts": ["choco"] },
   { "language": "it", "name": "pesce persico", "alts": ["persico trota", "boccalone"] },
