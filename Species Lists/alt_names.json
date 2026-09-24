@@ -220,7 +220,7 @@
     "name": "renard polaire",
     "alts": ["renard arctique", "renard isatis", "renard bleu"]
   },
-  { "language": "fr", "name": "roussette", "alts": ["renard volant"] },
+  { "language": "fr", "name": "chauve-souris frugivore", "alts": ["roussette", "renard volant", "roussette à couronne dorée"] },
   {
     "language": "fr",
     "name": "poulpe à anneaux bleus",
