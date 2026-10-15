@@ -124,7 +124,9 @@
       "4": "Wygrane",
       "5": "Obecna",
       "6": "Maks.",
-      "7": "Liczba prób użytych przy każdej wygranej. Kolor słupka oznacza, jak blisko średni typ był odpowiedzi."
+      "7": "Liczba prób użytych przy każdej wygranej. Kolor słupka oznacza, jak blisko średni typ był odpowiedzi.",
+      "dashboardPrompt": "Porównaj swoje wyniki z wynikami innych graczy na {{dashboard}}.",
+      "dashboardLink": "panelu Trainwreck Labs"
     },
     "settings": {
       "0": "Ustawienia",

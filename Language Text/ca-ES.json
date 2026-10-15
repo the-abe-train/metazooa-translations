@@ -124,7 +124,9 @@
       "4": "Victòries",
       "5": "Actual",
       "6": "Màxim",
-      "7": "Preguntes utilitzades per cada victòria. El color de la barra indica la proximitat a la repuesta."
+      "7": "Preguntes utilitzades per cada victòria. El color de la barra indica la proximitat a la repuesta.",
+      "dashboardPrompt": "Compara els teus resultats amb els d’altres jugadors al {{dashboard}}.",
+      "dashboardLink": "tauler de Trainwreck Labs"
     },
     "settings": {
       "0": "Configuració",

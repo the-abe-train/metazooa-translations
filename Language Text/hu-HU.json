@@ -124,7 +124,9 @@
       "4": "Nyert játékok",
       "5": "Mostani",
       "6": "Leghosszabb",
-      "7": "Felhasznált kérdések per játék. A szín azt mutatja, hogy mennyire voltál közel az átlaghoz."
+      "7": "Felhasznált kérdések per játék. A szín azt mutatja, hogy mennyire voltál közel az átlaghoz.",
+      "dashboardPrompt": "Hasonlítsd össze az eredményeidet más játékosokéival a {{dashboard}}.",
+      "dashboardLink": "Trainwreck Labs irányítópultján"
     },
     "settings": {
       "0": "Beállítások",

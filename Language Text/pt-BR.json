@@ -124,7 +124,9 @@
       "4": "Vitórias",
       "5": "Atual",
       "6": "Max",
-      "7": "Perguntas usadas para cada vitória. A cor da barra indica a proximidade do palpite médio à resposta."
+      "7": "Perguntas usadas para cada vitória. A cor da barra indica a proximidade do palpite médio à resposta.",
+      "dashboardPrompt": "Compare seus resultados com os de outros jogadores no {{dashboard}}.",
+      "dashboardLink": "painel do Trainwreck Labs"
     },
     "settings": {
       "0": "Configurações",

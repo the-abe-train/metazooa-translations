@@ -124,7 +124,9 @@
       "4": "Gewonnen",
       "5": "Huidig",
       "6": "Record",
-      "7": "Aantal pogingen voor elk gewonnen potje. De kleur van de balk staat voor de gemiddelde afstand tussen de pogingen en het antwoord."
+      "7": "Aantal pogingen voor elk gewonnen potje. De kleur van de balk staat voor de gemiddelde afstand tussen de pogingen en het antwoord.",
+      "dashboardPrompt": "Vergelijk je resultaten met die van andere spelers op {{dashboard}}.",
+      "dashboardLink": "het Trainwreck Labs-dashboard"
     },
     "settings": {
       "0": "Instellingen",
