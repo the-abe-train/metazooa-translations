@@ -114,7 +114,9 @@
       "4": "Gewonnen",
       "5": "Momentan",
       "6": "Maximum",
-      "7": "Wie viele Versuche du pro Gewinn brauchtest. Die Farbe des Balkens zeigt, wie nah du der korrekten Antwort warst."
+      "7": "Wie viele Versuche du pro Gewinn brauchtest. Die Farbe des Balkens zeigt, wie nah du der korrekten Antwort warst.",
+      "dashboardPrompt": "Vergleiche deine Ergebnisse mit denen anderer Spieler auf {{dashboard}}.",
+      "dashboardLink": "dem Dashboard von Trainwreck Labs"
     },
     "settings": {
       "0": "Einstellungen",

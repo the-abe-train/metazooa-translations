@@ -124,7 +124,9 @@
       "4": "Wins",
       "5": "Current",
       "6": "Max",
-      "7": "Questions used for each win. Bar colour denotes proximity of average guess to the answer."
+      "7": "Questions used for each win. Bar colour denotes proximity of average guess to the answer.",
+      "dashboardPrompt": "Compare with other players on the {{dashboard}}.",
+      "dashboardLink": "Trainwreck Labs dashboard"
     },
     "settings": {
       "0": "Settings",

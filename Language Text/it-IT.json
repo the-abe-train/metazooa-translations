@@ -127,7 +127,9 @@
       "4": "Vittorie",
       "5": "Odierno",
       "6": "Massimo",
-      "7": "Domande usate per ogni vittoria. Il colore della barra descrive la media della vicinanza della risposta alla soluzione."
+      "7": "Domande usate per ogni vittoria. Il colore della barra descrive la media della vicinanza della risposta alla soluzione.",
+      "dashboardPrompt": "Confronta i tuoi risultati con quelli degli altri giocatori nella {{dashboard}}.",
+      "dashboardLink": "dashboard di Trainwreck Labs"
     },
     "settings": {
       "0": "Impostazioni",

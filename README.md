@@ -71,6 +71,11 @@ your contribution covers.
 4. Preserve HTML tags, link destinations, and valid JSON escaping. Only translate
    visible text inside links and tags. The current template includes `share.4`
    (sharing in progress), `share.5` (retry), and `settings.4` (dark mode).
+   The profile dashboard sentence uses `statistics.dashboardPrompt` with exactly
+   one `{{dashboard}}` token for the link, and `statistics.dashboardLink` for its
+   visible text. Move the token to suit your language's word order, and keep
+   punctuation in the sentence. Both games share these messages. All 16 current
+   locale files include these translations; pending snapshots remain historical.
 5. Use the game website to check context. The key names indicate where text is
    used. If your language needs additional grammatical forms or placeholders,
    describe them in the pull request so the game integration can support them.

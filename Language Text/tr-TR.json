@@ -128,7 +128,9 @@
       "4": "Kazanılan",
       "5": "Mevcut",
       "6": "Max",
-      "7": "Kazanılan her oyun için kullanılan tahmin sayısı. Bar rengi tahminin cevaba ortalama yakınlığını belirtir."
+      "7": "Kazanılan her oyun için kullanılan tahmin sayısı. Bar rengi tahminin cevaba ortalama yakınlığını belirtir.",
+      "dashboardPrompt": "{{dashboard}} üzerinden sonuçlarınızı diğer oyuncularla karşılaştırın.",
+      "dashboardLink": "Trainwreck Labs panosu"
     },
     "settings": {
       "0": "Ayarlar",

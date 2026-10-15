@@ -112,7 +112,9 @@
       "4": "Výhry",
       "5": "Aktuálne",
       "6": "Max",
-      "7": "Pokusy použité na každú výhru. Farba stĺpca ukazuje, ako blízko bol priemerný pokus k odpovedi."
+      "7": "Pokusy použité na každú výhru. Farba stĺpca ukazuje, ako blízko bol priemerný pokus k odpovedi.",
+      "dashboardPrompt": "Porovnajte sa s ostatnými hráčmi v {{dashboard}}",
+      "dashboardLink": "tabuľke Trainwreck Labs"
     },
     "settings": {
       "0": "Nastavenia",

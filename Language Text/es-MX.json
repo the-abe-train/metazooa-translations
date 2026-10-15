@@ -124,7 +124,9 @@
       "4": "Victorias",
       "5": "Actual",
       "6": "Máximo",
-      "7": "Preguntas utilizadas para cada victoria. El color de la barra indica que cerca estas de la repuesta."
+      "7": "Preguntas utilizadas para cada victoria. El color de la barra indica que cerca estas de la repuesta.",
+      "dashboardPrompt": "Compara tus resultados con los de otros jugadores en {{dashboard}}.",
+      "dashboardLink": "el panel de Trainwreck Labs"
     },
     "settings": {
       "0": "Ajustes",

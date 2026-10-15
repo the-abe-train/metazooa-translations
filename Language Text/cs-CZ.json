@@ -124,7 +124,9 @@
       "4": "Výhry",
       "5": "Aktuální",
       "6": "Max",
-      "7": "Odhady použité pro každou výhru. Barva sloupce označuje, jak blízko byl průměrný odhad k odpovědi."
+      "7": "Odhady použité pro každou výhru. Barva sloupce označuje, jak blízko byl průměrný odhad k odpovědi.",
+      "dashboardPrompt": "Porovnejte své výsledky s ostatními hráči na {{dashboard}}.",
+      "dashboardLink": "nástěnce Trainwreck Labs"
     },
     "settings": {
       "0": "Nastavení",

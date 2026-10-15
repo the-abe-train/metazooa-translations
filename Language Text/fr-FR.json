@@ -127,7 +127,9 @@
       "4": "Gagnées",
       "5": "Actuelle",
       "6": "Max",
-      "7": "Nombre d'essais utilisés pour chaque partie gagnée. La couleur des traits indique la proximité de la moyenne des essais avec la réponse."
+      "7": "Nombre d'essais utilisés pour chaque partie gagnée. La couleur des traits indique la proximité de la moyenne des essais avec la réponse.",
+      "dashboardPrompt": "Comparez vos résultats à ceux des autres joueurs sur {{dashboard}}.",
+      "dashboardLink": "le tableau de bord Trainwreck Labs"
     },
     "settings": {
       "0": "Paramètres",
