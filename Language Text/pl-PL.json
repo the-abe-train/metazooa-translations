@@ -73,7 +73,9 @@
       "0": "Udostępnij",
       "1": "Udostępniono!",
       "2": "Skopiowano!",
-      "3": "Nie udało się udostępnić wyniku."
+      "3": "Nie udało się udostępnić wyniku.",
+      "4": "Udostępnianie…",
+      "5": "Spróbuj ponownie"
     },
     "table": {
       "0": "Ranga",

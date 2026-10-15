@@ -48,7 +48,7 @@
         "0": "O Reino Animal (<i>Metazoa</i>, em Grego) está cheio dos nossos parentes distantes... alguns mais distantes do que outros! Metazooa é um jogo que testa o quanto conheces da nossa árvore genealógica estendida",
         "1": "A árvore genealógica do reino das plantas (que os cientistas chamam de <i>Viridiplantae</i>) é vasta e bela... mas também complexa! Metaflora é um jogo que testa a tua habilidade com plantas, vendo o quão bem consegues navegar pelos seus ramos folhosos."
       },
-      "1": "O teu objetivo é descobrir o <b>{{species.generic}}</b> de hoje com o menor número de palpites possíveis. Os palpites incorretos irão reduzir a resposta por categoria taxonômica (reino, filo, classe, ordem, etc.). Quanto mais o teu palpite tiver em comum com a resposta, mais aprenderás sobre o {{species.generic}}.",
+      "1": "O teu objetivo é descobrir <b>{{species.definite}}</b> de hoje com o menor número de palpites possíveis. Os palpites incorretos irão reduzir a resposta por categoria taxonômica (reino, filo, classe, ordem, etc.). Quanto mais o teu palpite tiver em comum com a resposta, mais aprenderás sobre o {{species.generic}}.",
       "2": "Por exemplo, se a resposta for “{{answer}}”, o teus palpites podem criar uma árvore que se parece com o seguinte:",
       "3": "Há apenas {{species.unique}} por dia, mas tens {{MAX_GUESSES}} palpites para descobrir! Um novo jogo começará em <b>{{nextGame}}</b>",
       "4": "Já encontraste {{species.definite}} de hoje?",
@@ -73,7 +73,9 @@
       "0": "Compartilhe",
       "1": "Compartilhado!",
       "2": "Copiado!",
-      "3": "Falha ao compartilhar sua pontuação."
+      "3": "Falha ao compartilhar sua pontuação.",
+      "4": "Compartilhando…",
+      "5": "Tentar novamente"
     },
     "table": {
       "0": "Rank",

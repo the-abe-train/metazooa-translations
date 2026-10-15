@@ -3,42 +3,43 @@
     "Metazooa": {
       "species": {
         "generic": "Animale Misterioso",
-        "unique": "un Animale Misterioso",
+        "unique": "Un Animale Misterioso",
         "indefinite": "un Animale Misterioso",
-        "definite": "l'Animale Misterioso",
-        "demonstrative": "questo Animale Misterioso",
-        "topic": "sull'Animale Misterioso"
+        "definite": "L'Animale Misterioso",
+        "demonstrative": "questo"
       },
       "answer": "umano",
       "kingdom": {
         "generic": "animali",
-        "unique": "un animale",
-        "definite": "gli animali"
+        "concord": "s",
+        "unique": "un",
+        "definite": "il"
       },
       "game": "Metazooa",
       "mystery": { "singular": "mistero", "plural": "misteri" },
-      "menagerie": "zoo",
-      "in_menagerie": "nello zoo"
+      "menagerie": "zoo"
     },
     "Metaflora": {
       "species": {
-        "generic": "Pianta Misteriosa",
-        "unique": "una Pianta Misteriosa",
-        "indefinite": "una Pianta Misteriosa",
-        "definite": "la Pianta Misteriosa",
-        "demonstrative": "questa Pianta Misteriosa",
-        "topic": "sulla Pianta Misteriosa"
+        "generic": "Mystery Plant",
+        "unique": "one Mystery Plant",
+        "indefinite": "a Mystery Plant",
+        "definite": "the Mystery Plant",
+        "demonstrative": "this"
       },
-      "answer": "pomodoro",
+      "answer": "tomato",
       "kingdom": {
-        "generic": "piante",
-        "unique": "una pianta",
-        "definite": "le piante"
+        "generic": "plants",
+        "concord": "s",
+        "unique": "a",
+        "definite": "the"
       },
       "game": "Metaflora",
-      "mystery": { "singular": "mistero", "plural": "misteri" },
-      "menagerie": "giardino",
-      "in_menagerie": "nel giardino"
+      "mystery": {
+        "singular": "mystery",
+        "plural": "mystery"
+      },
+      "menagerie": "garden"
     },
     "keywords": {
       "remaining": "restanti",
@@ -48,19 +49,19 @@
     "home": {
       "0": {
         "0": "Il regno animale (<i>Metazoa</i>, in greco) è pieno di nostri prenti alla lontana... Alcuni più alla lontana di altri! Metazooa è un gioco che mette alla prova quanto conosci bene il nostro albero genealogico.",
-        "1": "L'albero genealogico del regno delle piante (che gli scienziati chiamano <i>Viridiplantae</i>) è enorme e meraviglioso... ma anche complesso! Metaflora è un gioco che mette alla prova il tuo pollice verde facendoti esplorare le sue floride ramificazioni."
+        "1": "L'albero genealogico del regno delle piante (che gli scienziato chiamano <i>Viridiplantae</i>) è vasto e bellissimo...ma anche complesso! Metaflora è un gioco che mette alla prova il tuo pollice verde vedendo se sei capace di navigare i suoi rami fogliosi."
       },
-      "1": "Il tuo obiettivo è scoprire <b>{{species.definite}}</b> di oggi nel minor numero di tentativi possibili. Le risposte sbagliate restringeranno il campo di un rango tassonomico (regno, phylum, classe, ordine, etc.). Più la tua risposta sarà vicina alla soluzione, più imparerai {{species.topic}}.",
+      "1": "Il tuo obiettivo è scoprire la <b>{{species.generic}}</b> di oggi nel minor numero di tentativi possibili. Le risposte sbagliate restringeranno il campo di un rango tassonomico (regno, phylum, classe, ordine, etc.). Più la tua risposta sarà vicina alla soluzione, più imparerai sull'{{species.generic}}.",
       "2": "Per esempio, se la risposta è “{{answer}}”, le tue risposte potrebbrero creare un albero come qui sotto:",
-      "3": "C'è solo {{species.unique}} al giorno, ma avrai {{MAX_GUESSES}} tentativi per indovinare! Il prossimo round inizierà tra <b>{{nextGame}}</b>.",
-      "4": "Hai già trovato {{species.definite}}?",
+      "3": "C'è un solo {{species.unique}} al giorno, ma avrai {{MAX_GUESSES}} tentativi per indovinare! Il prossimo round inizierà tra <b>{{nextGame}}</b>.",
+      "4": "Hai già trovato la {{species.generic}}?",
       "5": "Gioca"
     },
     "game": {
       "0": "Mostra tabella",
       "1": "La soluzione e {{guess}} hanno questo in comune.",
       "2": "{{click}} per scoprire di più",
-      "3": "Trova {{species.demonstrative}}!",
+      "3": "Trova questa {{species.generic}}!",
       "4": "Hai vinto! La risposta è <b>{{answer}}</b>."
     },
     "modal": {
@@ -75,7 +76,9 @@
       "0": "Condividi",
       "1": "Condiviso!",
       "2": "Copiato!",
-      "3": "Non siamo riusciti a condividere il tuo punteggio."
+      "3": "Non siamo riusciti a condividere il tuo punteggio.",
+      "4": "Condivisione…",
+      "5": "Riprova"
     },
     "table": {
       "0": "Rango",
@@ -88,11 +91,11 @@
       "0": "Nessun errore",
       "1": "\"{{guess}}\" non trovato nel database",
       "2": "Hai già provato \"{{guess}}\"",
-      "3": "La risposta è \"{{guess}}\"",
+      "3": "La risposta è {{guess}}.",
       "4": "Intendevi \"{{guess}}\"?"
     },
     "button": {
-      "0": "Entra {{in_menagerie}}!"
+      "0": "Entra nel {{menagerie}}!"
     },
     "footer": {
       "0": "da Trainwreck Labs",
@@ -157,12 +160,12 @@
     "faq": {
       "0": "FAQ",
       "1": {
-        "q": "Come è stato deciso che {{kingdom.generic}} includere nel gioco?",
-        "a": "In {{game}}, è stato scelto che {{kingdom.generic}} includere in base a quanto sono familiari alle persone, e tarando il numero di specie per rendere il gioco più interessante."
+        "q": "Come sono stati scelti i {{kingdom.generic}} nel gioco?",
+        "a": "I {{kingdom.generic}} in {{game}} sono stati scelti in base al quanto sono familiari alle persone, e per il numero di specie che renderebbero il gioco più interessante."
       },
       "2": {
-        "q": "Il gioco si sbaglia! Wikipedia segna una classificazione diversa per {{kingdom.indefinite}}.",
-        "a": "È possibile. Le classificazioni del gioco sono basate sulla tassonomia NCBI, che è la tassonomia più utilizzata per gli esseri viventi. Tuttavia, non è l'unica. La tassonomia di Wikipedia è anche ampiamente usata, ed è possibile che le due tassonomie non siano uguali per la stessa specie."
+        "q": "Il gioco si sbaglia! Wikipedia segna una classificazione diversa per uno dei {{kingdom.generic}}.",
+        "a": "È possibile. Le classificazioni del gioco sono basate sulla tassonomia NCBI, che è la tassonomia più utilizzata per gli animali. Tuttavia, non è l'unica. La tassonomia di Wikipedia è anche ampiamente usata, ed è possibile che le due tassonomie non siano uguali per la stessa specie."
       },
       "3": {
         "q": "Perchè non c'è la classificazione \"Rettile\" o \"Reptilia\" in questo gioco?",
@@ -174,7 +177,7 @@
       },
       "5": {
         "q": "{{game}} ha una informativa sulla privacy?",
-        "a": "Clicca questo link per vedere l'informativa sulla privacy di {{game}}: <a href=\"/privacy-policy\" class=\"underline\">informativa sulla privacy</a>."
+        "a": "Clicca questo link per vedere l'informativa sulla privacy di {{game}}'s <a href=\"/privacy-policy\" class=\"underline\">informativa sulla privacy</a>."
       }
     }
   }

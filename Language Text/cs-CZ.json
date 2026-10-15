@@ -73,7 +73,9 @@
       "0": "Sdílet",
       "1": "Sdíleno!",
       "2": "Zkopírováno!",
-      "3": "Nepodařilo se sdílet váš výsledek."
+      "3": "Nepodařilo se sdílet váš výsledek.",
+      "4": "Sdílení…",
+      "5": "Zkusit znovu"
     },
     "table": {
       "0": "Úroveň",
@@ -128,7 +130,7 @@
       "0": "Nastavení",
       "1": "Odhadovat vědeckými názvy",
       "2": "Jazyk",
-      "3": "Angličtina",
+      "3": "Čeština",
       "4": "Tmavý režim"
     },
     "practice": {

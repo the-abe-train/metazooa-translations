@@ -66,7 +66,9 @@
       "0": "Teilen",
       "1": "Geteilt!",
       "2": "Kopiert!",
-      "3": "Fehler; Wir konnten deine Punktzahl nicht teilen!"
+      "3": "Fehler; Wir konnten deine Punktzahl nicht teilen!",
+      "4": "Wird geteilt…",
+      "5": "Erneut versuchen"
     },
     "table": {
       "0": "Rangstufe",
@@ -82,7 +84,9 @@
       "3": "Die Antwort ist \"{{guess}}\"",
       "4": "Meintest du \"{{guess}}\"?"
     },
-    "button": { "0": "Auf in den {{menagerie}}!" },
+    "button": {
+      "0": "Auf in den {{menagerie}}!"
+    },
     "footer": {
       "0": "by Trainwreck Labs",
       "1": "Komm auf unseren Discord-Server!",

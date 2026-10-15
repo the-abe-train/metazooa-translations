@@ -2,7 +2,7 @@
   "translation": {
     "Metazooa": {
       "species": {
-        "generic": "Mystery Animal",
+        "generic": "Animal",
         "unique": "one Mystery Animal",
         "indefinite": "a Mystery Animal",
         "definite": "the Mystery Animal",
@@ -73,7 +73,9 @@
       "0": "Share",
       "1": "Shared!",
       "2": "Copied!",
-      "3": "Failed to share your score."
+      "3": "Failed to share your score.",
+      "4": "Sharing…",
+      "5": "Retry"
     },
     "table": {
       "0": "Rank",
@@ -86,7 +88,7 @@
       "0": "No error",
       "1": "\"{{guess}}\" not found in database",
       "2": "Already guessed \"{{guess}}\"",
-      "3": "The answer is \"{{guess}}\"",
+      "3": "The answer is <b>{{guess}}</b>.",
       "4": "Did you mean \"{{guess}}\"?"
     },
     "button": {
@@ -144,7 +146,7 @@
     },
     "twl": {
       "0": "Account",
-      "1": "Connect <b>{{game}}</b> to your TWL account",
+      "1": "Connect <b>{{game}}</b> to your TWL Account",
       "2": "Sign in with Google",
       "3": "Sign in with Discord",
       "4": "Subscribe to the Trainwreck Labs newsletter",

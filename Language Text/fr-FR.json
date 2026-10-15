@@ -76,7 +76,9 @@
       "0": "Partager",
       "1": "Partagé !",
       "2": "Copié !",
-      "3": "Echec du partage du score."
+      "3": "Echec du partage du score.",
+      "4": "Partage…",
+      "5": "Réessayer"
     },
     "table": {
       "0": "Rang",

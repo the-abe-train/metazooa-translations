@@ -56,7 +56,7 @@
       "2": "Örneğin, farz edelim ki cevap “{{answer}}”, tahminlerin aşağıdaki gibi görünen bir ağaç ortaya çıkarabilir:",
       "3": "Her gün yalnızca {{species.unique}} var, ama bulmak için {{MAX_GUESSES}} tahmin hakkın var! Yeni oyun <b>{{nextGame}}</b> içinde başlayacak.",
       "4": "Bugünkü {{species.ekligeneric}} çoktan buldun mu?",
-      "5": "Oyna"
+      "5": "oyna"
     },
     "game": {
       "0": "Tabloyu göster",
@@ -77,7 +77,9 @@
       "0": "Paylaş",
       "1": "Paylaşıldı!",
       "2": "Kopyalandı!",
-      "3": "Skorunu paylaşmakta bir hata yaşandı."
+      "3": "Skorunu paylaşmakta bir hata yaşandı.",
+      "4": "Paylaşılıyor…",
+      "5": "Tekrar dene"
     },
     "table": {
       "0": "Sıra",

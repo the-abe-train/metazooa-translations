@@ -73,7 +73,9 @@
       "0": "Megosztás",
       "1": "Megosztva!",
       "2": "Vágólapra másolva!",
-      "3": "Sikertelen megosztás."
+      "3": "Sikertelen megosztás.",
+      "4": "Megosztás…",
+      "5": "Újrapróbálás"
     },
     "table": {
       "0": "Rendszertani kategória",
