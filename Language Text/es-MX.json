@@ -73,7 +73,9 @@
       "0": "Compartir",
       "1": "Compartido!",
       "2": "Copiado!",
-      "3": "No se pudo compartir tu puntaje."
+      "3": "No se pudo compartir tu puntaje.",
+      "4": "Compartiendo…",
+      "5": "Reintentar"
     },
     "table": {
       "0": "Rango",
@@ -86,7 +88,7 @@
       "0": "Sin errores",
       "1": "\"{{guess}}\" no encontrado en la base de datos",
       "2": "Ya adiviné \"{{guess}}\"",
-      "3": "La respuesta es \"{{guess}}\"",
+      "3": "La respuesta es \"{{guess}}\".",
       "4": "¿Quiso decir \"{{guess}}\"?"
     },
     "button": {
@@ -95,7 +97,7 @@
     "footer": {
       "0": "Creado por Trainwreck Labs",
       "1": "¡Únete a nuestro servidor de Discord!",
-      "2": "¿Tengo una pregunta?",
+      "2": "¿Tienes una pregunta?",
       "3": "Consulte las preguntas frecuentes"
     },
     "guesser": {

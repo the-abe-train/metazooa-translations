@@ -6,7 +6,6 @@
         "unique": "één Mysterieus Dier",
         "indefinite": "een Mysterieus Dier",
         "definite": "het Mysterieuze Dier",
-        "definiteCapitalised": "Het Mysterieuze Dier",
         "demonstrative": "dit"
       },
       "answer": "mens",
@@ -26,7 +25,6 @@
         "unique": "één Mysterieuze Plant",
         "indefinite": "een Mysterieuze Plant",
         "definite": "de Mysterieuze Plant",
-        "definiteCapitalised": "De Mysterieuze Plant",
         "demonstrative": "deze"
       },
       "answer": "tomaat",
@@ -75,7 +73,9 @@
       "0": "Delen",
       "1": "Gedeeld!",
       "2": "Gekopiëerd!",
-      "3": "Het is niet gelukt je score te delen."
+      "3": "Het is niet gelukt je score te delen.",
+      "4": "Delen…",
+      "5": "Opnieuw proberen"
     },
     "table": {
       "0": "Rang",

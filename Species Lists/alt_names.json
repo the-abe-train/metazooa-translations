@@ -1,4 +1,13 @@
 [
+  { "language": "en", "name": "camel", "alts": ["dromedary"] },
+  { "language": "de", "name": "Dromedar", "alts": ["Kamel"] },
+  { "language": "nl", "name": "wonderboom", "alts": ["wonderboon"] },
+  { "language": "de", "name": "Kokosnussräuber", "alts": ["Palmendieb"] },
+  { "language": "de", "name": "Perlboot", "alts": ["Nautilus"] },
+  { "language": "en", "name": "betta fish", "alts": ["fighting fish"] },
+  { "language": "pt", "name": "sépia", "alts": ["choco", "choco-comum"] },
+  { "language": "de", "name": "Zikade", "alts": ["Singzikade"] },
+  { "language": "es", "name": "datilera", "alts": ["datilero"] },
   { "language": "en", "name": "alfalfa", "alts": ["afalfa"] },
   {
     "language": "en",
@@ -11,7 +20,11 @@
   { "language": "en", "name": "sea turtle", "alts": ["leatherback"] },
   { "language": "en", "name": "bok choy", "alts": ["turnip"] },
   { "language": "en", "name": "brown bear", "alts": ["grizzly bear"] },
-  { "language": "en", "name": "brown recluse", "alts": ["recluse spider"] },
+  {
+    "language": "en",
+    "name": "brown recluse",
+    "alts": ["recluse spider", "brown recluse spider"]
+  },
   { "language": "en", "name": "burmese python", "alts": ["python"] },
   {
     "language": "en",
@@ -25,7 +38,13 @@
   {
     "language": "en",
     "name": "man o war",
-    "alts": ["portuguese man o war", "blue bottle"]
+    "alts": [
+      "portuguese man o war",
+      "blue bottle",
+      "bluebottle",
+      "man-of-war",
+      "Portuguese man o' war"
+    ]
   },
   { "language": "en", "name": "coriander", "alts": ["cilantro"] },
   { "language": "en", "name": "dragon fruit", "alts": ["pitaya"] },
@@ -220,7 +239,11 @@
     "name": "renard polaire",
     "alts": ["renard arctique", "renard isatis", "renard bleu"]
   },
-  { "language": "fr", "name": "chauve-souris frugivore", "alts": ["roussette", "renard volant", "roussette à couronne dorée"] },
+  {
+    "language": "fr",
+    "name": "chauve-souris frugivore",
+    "alts": ["roussette", "renard volant", "roussette à couronne dorée"]
+  },
   {
     "language": "fr",
     "name": "poulpe à anneaux bleus",
@@ -650,6 +673,7 @@
   { "language": "es", "name": "abejorro", "alts": ["moscardón"] },
   { "language": "es", "name": "vaca", "alts": ["toro", "ganado"] },
   { "language": "es", "name": "facóquero", "alts": ["jabalí verrugoso"] },
+  { "language": "es", "name": "gato montés", "alts": ["bobcat"] },
   { "language": "pt", "name": "cervo", "alts": ["veado", "gamo"] },
   { "language": "pt", "name": "maracujá", "alts": ["passiflora"] },
   {
@@ -829,7 +853,11 @@
   { "language": "uk", "name": "гнойовий жук", "alts": ["скарабей"] },
   { "language": "uk", "name": "волове очко", "alts": ["кропивник"] },
   { "language": "uk", "name": "серпокрилець", "alts": ["стриж"] },
-  { "language": "de", "name": "Amerikanische Platane", "alts": ["Bergahorn"] },
+  {
+    "language": "de",
+    "name": "Amerikanische Platane",
+    "alts": ["Bergahorn", "Nordamerikanische Platane"]
+  },
   { "language": "en", "name": "lychee", "alts": ["litchi"] },
 
   { "language": "en", "name": "porcupine", "alts": ["cape porcupine"] },
@@ -1522,5 +1550,106 @@
     "language": "uk",
     "name": "лохина",
     "alts": ["лохина високоросла", "лохина щиткова"]
-  }
+  },
+  { "language": "sk", "name": "drozofila", "alts": ["ovocná muška"] },
+  {
+    "language": "sk",
+    "name": "tučniak obrovský",
+    "alts": ["tučniak cisársky"]
+  },
+  { "language": "sk", "name": "kapuciarka modrá", "alts": ["sojka modrá"] },
+  { "language": "sk", "name": "hrabáč takaru", "alts": ["takar"] },
+  { "language": "sk", "name": "mníšik bielobradý", "alts": ["papuchalk"] },
+  {
+    "language": "sk",
+    "name": "bizón americký",
+    "alts": ["zubor americký", "zubor severoamerický"]
+  },
+  { "language": "sk", "name": "orliak bielohlavý", "alts": ["orol belohlavý"] },
+  { "language": "sk", "name": "šimpanz bonobo", "alts": ["bonobo"] },
+  { "language": "sk", "name": "medveď baribal", "alts": ["medveď čierny"] },
+  { "language": "sk", "name": "bieluha žltobiela", "alts": ["beluha"] },
+  { "language": "sk", "name": "vráskavec dlhoplutvý", "alts": ["keporkak"] },
+  { "language": "sk", "name": "ťava jednohrbá", "alts": ["dromedár"] },
+  { "language": "sk", "name": "papagáj sivý", "alts": ["žako"] },
+  { "language": "sk", "name": "medveď biely", "alts": ["medveď ľadový"] },
+  { "language": "sk", "name": "žralok modrý", "alts": ["žralok belasý"] },
+  { "language": "sk", "name": "medveď baribal", "alts": ["medveď čierny"] },
+  {
+    "language": "sk",
+    "name": "vydra severoamerická",
+    "alts": ["vydra kanadská"]
+  },
+  { "language": "sk", "name": "zebra stepná", "alts": ["zebra kvaga"] },
+  { "language": "sk", "name": "poletuška", "alts": ["lietajúca veverica"] },
+  {
+    "language": "sk",
+    "name": "mravec tesársky",
+    "alts": ["mravec floridský", "mravec floridský tesársky"]
+  },
+  { "language": "sk", "name": "plodožer maorský", "alts": ["holub maorský"] },
+  {
+    "language": "sk",
+    "name": "belaňa tundrová",
+    "alts": ["sova snežná", "sova biela"]
+  },
+  { "language": "sk", "name": "potos", "alts": ["kinkażu"] },
+  { "language": "sk", "name": "čmeľovec kubánsky", "alts": ["kolibrík"] },
+  { "language": "sk", "name": "vtáčkar obrovský", "alts": ["tarantula"] },
+  { "language": "sk", "name": "snovačka americká", "alts": ["čierna vdova"] },
+  { "language": "sk", "name": "tanierovka ušatá", "alts": ["medúza ušatá"] },
+  { "language": "sk", "name": "spisula príbojová", "alts": ["morská mušľa"] },
+  {
+    "language": "sk",
+    "name": "mechúrnik pelagický",
+    "alts": ["mechúrovka portugalská"]
+  },
+  {
+    "language": "sk",
+    "name": "kreveta čierna obrovská",
+    "alts": ["tigria kreveta"]
+  },
+  { "language": "sk", "name": "saranča všežravá", "alts": ["koník kŕdľový"] },
+  { "language": "sk", "name": "holotúria", "alts": ["morská uhorka"] },
+  {
+    "language": "sk",
+    "name": "pieskový dolár",
+    "alts": ["mellita quinquiesperforata"]
+  },
+  {
+    "language": "sk",
+    "name": "osmonoh gigantický",
+    "alts": ["chobotnica veľká", "chobotnica obrovská"]
+  },
+  { "language": "sk", "name": "psík medvedíkovitý", "alts": ["tanuki"] },
+  { "language": "sk", "name": "volavka biela", "alts": ["beluša veľká"] },
+  {
+    "language": "sk",
+    "name": "húsenica totoro",
+    "alts": ["eoperipatus totoro", "dážďovka totoro"]
+  },
+  { "language": "sk", "name": "vlasovec psí", "alts": ["srdcový červ"] },
+  {
+    "language": "sk",
+    "name": "ohavec maličký",
+    "alts": ["vampíria chobotnica"]
+  },
+  {
+    "language": "sk",
+    "name": "lietajúca ryba",
+    "alts": ["cheilopogon melanurus"]
+  },
+  {
+    "language": "sk",
+    "name": "štípavica veľká",
+    "alts": ["scolopendra cataracta"]
+  },
+  { "language": "sk", "name": "zlatý tkáč", "alts": ["nephila pilipes"] },
+  { "language": "sk", "name": "škorpión obrovský", "alts": ["šťúr kráľovský"] },
+  { "language": "sk", "name": "rebrovka", "alts": ["beroe abyssicola"] },
+  { "language": "sk", "name": "lastúra", "alts": ["cumberlandia monodonta"] },
+  { "language": "sk", "name": "pavúk páví", "alts": ["maratus volans"] },
+  { "language": "sk", "name": "sardinela", "alts": ["sardinka"] },
+  { "language": "sk", "name": "líška hrdzavá", "alts": ["líška obyčajná"] },
+  { "language": "sk", "name": "bernikla veľká", "alts": ["hus"] }
 ]

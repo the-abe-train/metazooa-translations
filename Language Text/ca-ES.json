@@ -73,7 +73,9 @@
       "0": "Compartir",
       "1": "Compartit!",
       "2": "Copiat!",
-      "3": "No s'ha pogut compartir la puntuació."
+      "3": "No s'ha pogut compartir la puntuació.",
+      "4": "Compartint…",
+      "5": "Torna-ho a provar"
     },
     "table": {
       "0": "Rang",
@@ -128,7 +130,8 @@
       "0": "Configuració",
       "1": "Endevina amb noms científics",
       "2": "Idioma",
-      "3": "Català"
+      "3": "Català",
+      "4": "Mode fosc"
     },
     "practice": {
       "0": "Practicar",
