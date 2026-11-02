@@ -3,6 +3,7 @@
     "Metazooa": {
       "species": {
         "generic": "tajomné zviera",
+        "about": "tajomnom zvierati",
         "unique": "jedno tajomné zviera",
         "indefinite": "nejaké tajomné zviera",
         "definite": "to tajomné zviera",
@@ -44,7 +45,7 @@
         "0": "Živočíšna ríša (po grécky <i>Metazoa</i>) je plná našich vzdialených príbuzných... niektorí sú vzdialenejší než iní! Metazooa je hra, ktorá testuje, ako dobre poznáte náš rozšírený rodokmeň.",
         "1": "The family tree of the plant kingdom (which scientists call <i>Viridiplantae</i>) is broad and beautiful... but also complex! Metaflora is a game that tests your green thumb by seeing how well you can navigate its leafy branches."
       },
-      "1": "Vaším cieľom je uhádnuť dnešné <b>{{species.generic}}</b> na čo najmenší počet pokusov. Nesprávne pokusy zúžia odpoveď podľa taxonomickej úrovne (ríša, kmeň, trieda, rad atd.). Čím viac má váš pokus spoločného s odpoveďou, tým viac sa dozviete o {{species.generic}}.",
+      "1": "Vaším cieľom je uhádnuť dnešné <b>{{species.generic}}</b> na čo najmenší počet pokusov. Nesprávne pokusy zúžia odpoveď podľa taxonomickej úrovne (ríša, kmeň, trieda, rad atd.). Čím viac má váš pokus spoločného s odpoveďou, tým viac sa dozviete o {{species.about}}.",
       "2": "Napríklad, ak je odpoveď „{{answer}}“, vaše pokusy môžu vytvoriť strom, ktorý vyzerá nasledovne:",
       "3": "Je len {{species.unique}} denne, ale máte {{MAX_GUESSES}} pokusov na jeho uhádnutie! Nová hra začne za <b>{{nextGame}}</b>.",
       "4": "Už ste našli dnešné {{species.generic}}?",
