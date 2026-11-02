@@ -22,25 +22,25 @@ by [Trainwreck Labs](https://trainwrecklabs.com).
 
 ## Current game reference
 
-The `Language Text` and `Species Lists` files were compared with the TWL monorepo
-on October 15, 2026, at commit
-[`49263bb1`](https://github.com/the-abe-train/twl-monorepo/commit/49263bb19943bd42f8166900155c12d1f1bd0352).
-The base resources matched the corresponding committed game resources as parsed
-data. The Slovak contribution described below is added on top of that baseline:
+The local synchronization prepared on November 2, 2026 matches the TWL
+monorepo resources at commit `fa2ae4c8`, plus the separately staged
+`codex/metazooa-beaded-lizard` search-alias change:
 
-- `Language Text/*.json`: the original 15 locale files in
-  `apps/metazooa/src/lib/data/translations/*.ts`.
-- `Species Lists/animals.json`: `scripts/meta-data-prep/curated/animals.ts`
-  (343 animals).
-- `Species Lists/plants.json`: `scripts/meta-data-prep/curated/plants.ts`
-  (215 plants).
-- `Species Lists/alt_names.json`:
-  `apps/metazooa/src/lib/data/alt_names.json` (745 baseline records, plus 49 Slovak records).
+- `Language Text/*.json`: all 16 locale files match
+  `apps/metazooa/src/lib/data/translations/*.ts` as parsed data.
+- `Species Lists/animals.json`: all 343 records match
+  `scripts/meta-data-prep/curated/animals.ts`, including Spanish “lubina negra”.
+- `Species Lists/plants.json`: all 215 records match
+  `scripts/meta-data-prep/curated/plants.ts`.
+- `Species Lists/alt_names.json`: all 797 records match the separately prepared
+  app alias file, including record order. This includes “Bärtierchen”,
+  “perca americana” and “beaded lizard”.
 
-This is a reference to committed game source. Pending local changes and open
-translation pull requests are not included. Existing wording, including any
-English text in another locale, reflects that source; suggested improvements
-can still be contributed separately.
+The November 2 NCBI refresh preserves the curated answer IDs and scientific
+names. Its ancestry changes are stored in generated SQLite releases, not in
+this translations repository. These local translation changes and the taxonomy
+refresh have not been published. Coordinate the Gila monster alias with its
+separate application change when releasing the synchronized files.
 
 The integrated Metazooa language list includes `en`, `es`, `de`, `fr`, `it`, `pt`, `ca`, `ko`, `hu`,
 `uk`, `cs`, `tr`, `nl`, `ru`, `pl`, and `sk`. Metaflora enables `en`, `es`, `de`, `fr`,
@@ -79,6 +79,9 @@ your contribution covers.
 5. Use the game website to check context. The key names indicate where text is
    used. If your language needs additional grammatical forms or placeholders,
    describe them in the pull request so the game integration can support them.
+   The optional `species.about` form supports phrases such as Slovak
+   `o {{species.about}}` (“o tajomnom zvierati”); `species.generic` remains
+   “tajomné zviera” elsewhere. This mirrors the current game source.
 
 ### Species lists
 
