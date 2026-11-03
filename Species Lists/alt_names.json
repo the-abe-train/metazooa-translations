@@ -1,4 +1,5 @@
 [
+  { "language": "pt", "name": "lebiste", "alts": ["barrigudinho", "guppy"] },
   { "language": "es", "name": "lubina negra", "alts": ["perca americana"] },
   { "language": "en", "name": "camel", "alts": ["dromedary"] },
   { "language": "de", "name": "Dromedar", "alts": ["Kamel"] },
