@@ -742,7 +742,7 @@
     "name": "tamarin",
     "alts": ["lion tamarin", "tamarin monkey", "marmoset"]
   },
-  { "language": "en", "name": "bigfin squid", "alts": ["reef squid"] },
+  { "language": "en", "name": "bigfin reef squid", "alts": ["reef squid", "bigfin squid"] },
   { "language": "en", "name": "atlas moth", "alts": ["caterpillar"] },
   { "language": "en", "name": "pangolin", "alts": ["scaly anteater"] },
   { "language": "en", "name": "echidna", "alts": ["spiny anteater"] },
